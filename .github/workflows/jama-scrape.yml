@@ -19,9 +19,11 @@ jobs:
       - run: npm i node-fetch@3 cheerio@1
       - run: node scripts/fetch-jama-urls.js
       - run: node scripts/scrape-jama.js
+      - run: node scripts/pubmed-research.js
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add public/jama-article-types.json
-          git commit -m "Update JAMA article types [skip ci]" || echo "No changes"
+          git add public/jama-article-types.json public/jama-article-types-with-pubmed.json public/jama-research-only.json
+          git commit -m "Update JAMA article types (with PubMed) [skip ci]" || echo "No changes"
           git push
+          
