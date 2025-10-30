@@ -13,12 +13,23 @@ const ESUMMARY = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi";
 // ※「Review」「Meta-Analysis」「Editorial」「Comment」「Letter」は除外します。
 // （必要なら基準をあとで調整可能）
 function isResearchPubType(types = []) {
-  const tset = new Set(types.map(t => t.toLowerCase()));
+  // すべて小文字化
+  const T = types.map(t => t.toLowerCase());
 
-  // 主要: 臨床試験 / 観察研究 / 比較・評価・検証・多施設 / 一般的研究記事
-  const allowAny = [
+  // 1) まず除外（ここに1つでもあれば研究扱いしない）
+  const deny = [
+    "review", "systematic review", "meta-analysis",
+    "editorial", "comment", "letter", "news",
+    "biography", "practice guideline", "guideline",
+    "retracted publication", "expression of concern",
+    "case reports" // ←入れたくない場合は維持。含めたいならこれを消す
+  ];
+  if (T.some(t => deny.includes(t))) return false;
+
+  // 2) 許可：研究タイプのみ（明示的なものだけ）
+  //    ※ “journal article” は入れていません（←ここがポイント）
+  const allowExact = new Set([
     "clinical trial",
-    "clinical trial, randomized",
     "randomized controlled trial",
     "controlled clinical trial",
     "pragmatic clinical trial",
@@ -28,43 +39,33 @@ function isResearchPubType(types = []) {
     "evaluation study",
     "validation study",
     "clinical study",
-    "research article",          // 一部ジャーナルで使われる
-    "journal article",           // PubMed上では研究記事に相当することが多い（ただし後で除外型で弾く）
-    // 観察研究の下位概念
     "cohort studies",
     "case-control studies",
     "cross-sectional studies",
     "prospective studies",
-    "retrospective studies",
-  ].map(s => s.toLowerCase());
+    "retrospective studies"
+  ]);
 
-  const denyAny = [
-    "review",
-    "systematic review",
-    "meta-analysis",
-    "editorial",
-    "comment",
-    "letter",
-    "news",
-    "biography",
-    "case reports", // 研究として含めたくない場合はここで除外（必要なら外してOK）
-    "practice guideline",
-    "guideline",
-    "retracted publication",
-    "expression of concern"
-  ].map(s => s.toLowerCase());
+  if (T.some(t => allowExact.has(t))) return true;
 
-  // まず除外ワードが一つでもあれば研究扱いしない
-  for (const d of denyAny) if (tset.has(d)) return false;
+  // 3) さらに PubMed の細かい表記ゆれを拾う（フェーズ付きなど）
+  const allowRegex = [
+    /clinical trial/i,                  // "Clinical Trial, Phase III" 等を拾う
+    /randomized controlled trial/i,
+    /observational study/i,
+    /(cohort|case-control|cross-sectional|prospective|retrospective) studies?/i,
+    /comparative study/i,
+    /evaluation study/i,
+    /validation study/i,
+    /multicenter study/i,
+    /clinical study/i
+  ];
+  if (T.some(t => allowRegex.some(rx => rx.test(t)))) return true;
 
-  // 許可ワードがあれば研究扱い
-  for (const a of allowAny) if (tset.has(a)) return true;
-
-  // 許可も除外も一致しない場合:
-  // PubMedでは多くが "Journal Article" を含むため、ここだけだと混入する恐れあり。
-  // そこで最低限 "journal article" 単独は不可とし、subject的に研究らしさが無い限り false。
+  // 4) 上記に当たらなければ研究とはみなさない（"journal article" 単独は false）
   return false;
 }
+
 
 // DOI -> PMID を取得
 async function doiToPMID(doi) {
