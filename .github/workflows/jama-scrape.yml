@@ -1,0 +1,27 @@
+name: Scrape JAMA article types
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 21 * * *"  # JST朝6時に毎日実行
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm i node-fetch@3 cheerio@1
+      - run: node scripts/fetch-jama-urls.js
+      - run: node scripts/scrape-jama.js
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add public/jama-article-types.json
+          git commit -m "Update JAMA article types [skip ci]" || echo "No changes"
+          git push
