@@ -23,7 +23,6 @@ jobs:
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add public/jama-article-types.json public/jama-article-types-with-pubmed.json public/jama-research-only.json
-          git commit -m "Update JAMA article types (with PubMed) [skip ci]" || echo "No changes"
+          git add public/jama-article-types.json public/jama-article-types-with-pubmed.json public/jama-research-only.json public/jama-research.csv
+          git commit -m "Update JAMA article types (with PubMed + CSV) [skip ci]" || echo "No changes"
           git push
-          
