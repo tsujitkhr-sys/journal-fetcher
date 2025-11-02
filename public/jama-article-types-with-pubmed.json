@@ -291,9 +291,8 @@
     {
       "doi": "10.1001/jama.2025.16479",
       "url": "https://doi.org/10.1001/jama.2025.16479",
-      "final_url": "",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839362",
       "article_type": "",
-      "error": "FetchError: request to https://jamanetwork.com/journals/jama/fullarticle/2839362 failed, reason: ",
       "pubmed_pmid": "41037278",
       "title": "Singing the Songs of Raffi and Barney.",
       "journal": "JAMA",
@@ -640,6 +639,70 @@
       "abstract_md": "This Viewpoint discusses a framework termed temporal medicine that complements rather than replaces spatial reasoning in medicine by shifting the axis of inquiry."
     },
     {
+      "doi": "10.1001/jama.2025.14052",
+      "url": "https://doi.org/10.1001/jama.2025.14052",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
+      "article_type": "",
+      "pubmed_pmid": "40920367",
+      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1139-1140",
+      "authors": [
+        "Kodan A Author",
+        "Kannarkat JT Author",
+        "Alexander GC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
+    },
+    {
+      "doi": "10.1001/jama.2024.18948",
+      "url": "https://doi.org/10.1001/jama.2024.18948",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
+      "article_type": "",
+      "pubmed_pmid": "41055659",
+      "title": "Audio Highlights: September 12, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "e2418948",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.11294",
+      "url": "https://doi.org/10.1001/jama.2025.11294",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
+      "article_type": "",
+      "pubmed_pmid": "40864435",
+      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1201",
+      "authors": [
+        "Philippe J Author",
+        "Powers AC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.13722",
       "url": "https://doi.org/10.1001/jama.2025.13722",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838799",
@@ -712,70 +775,6 @@
       "abstract_md": "Multiparametric magnetic resonance imaging (MRI), with or without prostate biopsy, has become the standard of care for diagnosing clinically significant prostate cancer. Resource capacity limits widespread adoption. Biparametric MRI, which omits the gadolinium contrast sequence, is a shorter and cheaper alternative offering time-saving capacity gains for health systems globally. To assess whether biparametric MRI is noninferior to multiparametric MRI for diagnosis of clinically significant prostate cancer. A prospective, multicenter, within-patient, noninferiority trial of biopsy-naive men from 22 centers (12 countries) with clinical suspicion of prostate cancer (elevated prostate-specific antigen [PSA] level and/or abnormal digital rectal examination findings) from April 2022 to September 2023, with the last follow-up conducted on December 3, 2024. Participants underwent multiparametric MRI, comprising T2-weighted, diffusion-weighted, and dynamic contrast-enhanced (DCE) sequences. Radiologists reported abbreviated biparametric MRI first (T2-weighted and diffusion-weighted), blinded to the DCE sequence. After unblinding, radiologists reported the full multiparametric MRI. Patients underwent a targeted biopsy with or without systematic biopsy if either biparametric MRI or multiparametric MRI was suggestive of clinically significant prostate cancer. The primary outcome was the proportion of men with clinically significant prostate cancer. Secondary outcomes included the proportion of men with clinically insignificant cancer. The noninferiority margin was 5%. Of 555 men recruited, 490 were included for primary outcome analysis. Median age was 65 (IQR, 59-70) years and median PSA level was 5.6 (IQR, 4.4-8.0) ng/mL. The proportion of patients with abnormal digital rectal examination findings was 12.7%. Biparametric MRI was noninferior to multiparametric MRI, detecting clinically significant prostate cancer in 143 of 490 men (29.2%), compared with 145 of 490 men (29.6%) (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points; P&#x2009;=&#x2009;.50). Biparametric MRI detected clinically insignificant cancer in 45 of 490 men (9.2%), compared with 47 of 490 men (9.6%) with the use of multiparametric MRI (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points). Central quality control demonstrated that 99% of scans were of adequate diagnostic quality. In men with suspected prostate cancer, provided image quality is adequate, an abbreviated biparametric MRI scan, with or without targeted biopsy, could become the new standard of care for prostate cancer diagnosis. With approximately 4 million prostate MRIs performed globally annually, adopting biparametric MRI could substantially increase scanner throughput and reduce costs worldwide. ClinicalTrials.gov Identifier: NCT04571840."
     },
     {
-      "doi": "10.1001/jama.2025.14052",
-      "url": "https://doi.org/10.1001/jama.2025.14052",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
-      "article_type": "",
-      "pubmed_pmid": "40920367",
-      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1139-1140",
-      "authors": [
-        "Kodan A Author",
-        "Kannarkat JT Author",
-        "Alexander GC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
-    },
-    {
-      "doi": "10.1001/jama.2024.18948",
-      "url": "https://doi.org/10.1001/jama.2024.18948",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
-      "article_type": "",
-      "pubmed_pmid": "41055659",
-      "title": "Audio Highlights: September 12, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "e2418948",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.11294",
-      "url": "https://doi.org/10.1001/jama.2025.11294",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
-      "article_type": "",
-      "pubmed_pmid": "40864435",
-      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1201",
-      "authors": [
-        "Philippe J Author",
-        "Powers AC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.10025",
       "url": "https://doi.org/10.1001/jama.2025.10025",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838502",
@@ -789,6 +788,27 @@
       "pages": "1205",
       "authors": [
         "Campo R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.11292",
+      "url": "https://doi.org/10.1001/jama.2025.11292",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838088",
+      "article_type": "",
+      "pubmed_pmid": "40864438",
+      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1200-1201",
+      "authors": [
+        "Mojsov S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -818,27 +838,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses medical consequences of and treatment options for methamphetamine use disorder, including harm reduction, behavioral treatment, and pharmacologic treatment."
-    },
-    {
-      "doi": "10.1001/jama.2025.11292",
-      "url": "https://doi.org/10.1001/jama.2025.11292",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838088",
-      "article_type": "",
-      "pubmed_pmid": "40864438",
-      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1200-1201",
-      "authors": [
-        "Mojsov S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13362",
@@ -1063,6 +1062,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14049",
+      "url": "https://doi.org/10.1001/jama.2025.14049",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
+      "article_type": "",
+      "pubmed_pmid": "40906488",
+      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1137-1138",
+      "authors": [
+        "Shachar C Author",
+        "Lynch J Author",
+        "Costello K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
+    },
+    {
       "doi": "10.1001/jama.2025.10022",
       "url": "https://doi.org/10.1001/jama.2025.10022",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838503",
@@ -1126,29 +1148,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14049",
-      "url": "https://doi.org/10.1001/jama.2025.14049",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
-      "article_type": "",
-      "pubmed_pmid": "40906488",
-      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1137-1138",
-      "authors": [
-        "Shachar C Author",
-        "Lynch J Author",
-        "Costello K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
     },
     {
       "doi": "10.1001/jama.2025.13358",
@@ -1395,6 +1394,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14207",
+      "url": "https://doi.org/10.1001/jama.2025.14207",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838184",
+      "article_type": "",
+      "pubmed_pmid": "40875215",
+      "title": "The Stories We Share.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1145-1146",
+      "authors": [
+        "Ramsdale E Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, an oncologist&#x2019;s 2 stories of what propelled her to pursue a medical career merge as 2 sources of rage that now help her hear patients&#x2019; stories."
+    },
+    {
       "doi": "10.1001/jama.2025.11214",
       "url": "https://doi.org/10.1001/jama.2025.11214",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
@@ -1415,27 +1435,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14207",
-      "url": "https://doi.org/10.1001/jama.2025.14207",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838184",
-      "article_type": "",
-      "pubmed_pmid": "40875215",
-      "title": "The Stories We Share.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1145-1146",
-      "authors": [
-        "Ramsdale E Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, an oncologist&#x2019;s 2 stories of what propelled her to pursue a medical career merge as 2 sources of rage that now help her hear patients&#x2019; stories."
     },
     {
       "doi": "10.1001/jama.2025.11485",
@@ -2485,29 +2484,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14389",
-      "url": "https://doi.org/10.1001/jama.2025.14389",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
-      "article_type": "",
-      "pubmed_pmid": "40952725",
-      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1240-1242",
-      "authors": [
-        "Metcalf RA Author",
-        "Dhiman P Author",
-        "Stanworth SJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12946",
       "url": "https://doi.org/10.1001/jama.2025.12946",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838191",
@@ -2542,6 +2518,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14389",
+      "url": "https://doi.org/10.1001/jama.2025.14389",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
+      "article_type": "",
+      "pubmed_pmid": "40952725",
+      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1240-1242",
+      "authors": [
+        "Metcalf RA Author",
+        "Dhiman P Author",
+        "Stanworth SJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2886,21 +2885,28 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2024.18954",
-      "url": "https://doi.org/10.1001/jama.2024.18954",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839946",
+      "doi": "10.1001/jama.2025.14150",
+      "url": "https://doi.org/10.1001/jama.2025.14150",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "40928804",
+      "title": "Leveraging Novel Alternative Payment Models to Promote Evidence-Based Behavioral Health Care.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1229-1230",
+      "authors": [
+        "Huang JJ Author",
+        "McNutt C Author",
+        "Carlo AD Author",
+        "Busch AB Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
     },
     {
       "doi": "10.1001/jama.2025.14852",
@@ -2924,28 +2930,21 @@
       "abstract_md": "In this narrative medicine essay, a pediatric hospitalist who had to navigate alone her grief after her mom died during medical school offers some suggestions about the process to a friend as he navigates the loss of his mother."
     },
     {
-      "doi": "10.1001/jama.2025.14150",
-      "url": "https://doi.org/10.1001/jama.2025.14150",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
+      "doi": "10.1001/jama.2024.18954",
+      "url": "https://doi.org/10.1001/jama.2024.18954",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839946",
       "article_type": "",
-      "pubmed_pmid": "40928804",
-      "title": "Leveraging Novel Alternative Payment Models to Promote Evidence-Based Behavioral Health Care.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1229-1230",
-      "authors": [
-        "Huang JJ Author",
-        "McNutt C Author",
-        "Carlo AD Author",
-        "Busch AB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.12222",
@@ -2992,27 +2991,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.13871",
-      "url": "https://doi.org/10.1001/jama.2025.13871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839054",
-      "article_type": "",
-      "pubmed_pmid": "40938593",
-      "title": "Survey: Many US Adults Unaware of HPV, Its Link to Cancer.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1223",
-      "authors": [
-        "Schneider L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14392",
       "url": "https://doi.org/10.1001/jama.2025.14392",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838996",
@@ -3035,43 +3013,20 @@
       "abstract_md": "This Perspective explores recent progress and future directions in glucagon-like peptide-1 medicines."
     },
     {
-      "doi": "10.1001/jama.2025.12818",
-      "url": "https://doi.org/10.1001/jama.2025.12818",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
+      "doi": "10.1001/jama.2025.13871",
+      "url": "https://doi.org/10.1001/jama.2025.13871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839054",
       "article_type": "",
-      "pubmed_pmid": "40810946",
-      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
+      "pubmed_pmid": "40938593",
+      "title": "Survey: Many US Adults Unaware of HPV, Its Link to Cancer.",
       "journal": "JAMA",
       "pubdate": "2025 Oct 14",
       "volume": "334",
       "issue": "14",
-      "pages": "1294-1295",
+      "pages": "1223",
       "authors": [
-        "Hailat R Author",
-        "Ridha M Author",
-        "Lin CC Author",
-        "Kerber K Author",
-        "Burke JF Author"
+        "Schneider L Author"
       ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
-    },
-    {
-      "doi": "10.1001/jama.2024.18955",
-      "url": "https://doi.org/10.1001/jama.2024.18955",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
-      "article_type": "",
-      "pubmed_pmid": "41085578",
-      "title": "Audio Highlights: September 19, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "e2418955",
-      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -3119,6 +3074,50 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2024.18955",
+      "url": "https://doi.org/10.1001/jama.2024.18955",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
+      "article_type": "",
+      "pubmed_pmid": "41085578",
+      "title": "Audio Highlights: September 19, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "e2418955",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.12818",
+      "url": "https://doi.org/10.1001/jama.2025.12818",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
+      "article_type": "",
+      "pubmed_pmid": "40810946",
+      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1294-1295",
+      "authors": [
+        "Hailat R Author",
+        "Ridha M Author",
+        "Lin CC Author",
+        "Kerber K Author",
+        "Burke JF Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
     },
     {
       "doi": "10.1001/jama.2025.12094",
@@ -4268,27 +4267,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14860",
-      "url": "https://doi.org/10.1001/jama.2025.14860",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
-      "article_type": "",
-      "pubmed_pmid": "40965898",
-      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1338",
-      "authors": [
-        "Perlis R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14912",
       "url": "https://doi.org/10.1001/jama.2025.14912",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838663",
@@ -4324,6 +4302,27 @@
       "authors": [
         "Roberts K Author",
         "Campo R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14860",
+      "url": "https://doi.org/10.1001/jama.2025.14860",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
+      "article_type": "",
+      "pubmed_pmid": "40965898",
+      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1338",
+      "authors": [
+        "Perlis R Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -4816,6 +4815,25 @@
       "abstract_md": "In this Viewpoint, 2025 Albert Lasker Basic Medical Research Award winner Dirk G&#xf6;rlich describes discoveries that exposed the structures and functions of protein sequences of low complexity, revealing new principles of intracellular transport, pathogenesis, and cellular organization."
     },
     {
+      "doi": "10.1001/jama.2024.18963",
+      "url": "https://doi.org/10.1001/jama.2024.18963",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
+      "article_type": "",
+      "pubmed_pmid": "40996758",
+      "title": "Sleep.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1400",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14913",
       "url": "https://doi.org/10.1001/jama.2025.14913",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838662",
@@ -4835,25 +4853,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this Viewpoint, 2025 Lasker-DeBakey Clinical Medical Research Award winner Michael J. Welsh describes his contributions to cystic fibrosis (CF) disease identification, understanding the cellular and molecular basis of CF, and development of a highly effective triple-drug treatment."
-    },
-    {
-      "doi": "10.1001/jama.2024.18963",
-      "url": "https://doi.org/10.1001/jama.2024.18963",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
-      "article_type": "",
-      "pubmed_pmid": "40996758",
-      "title": "Sleep.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1400",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15440",
@@ -5895,28 +5894,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16705",
-      "url": "https://doi.org/10.1001/jama.2025.16705",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838492",
-      "article_type": "",
-      "pubmed_pmid": "40884494",
-      "title": "Shot Through the Heart-Can RSV Vaccination Reduce Risk of Cardiovascular Outcomes?",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1426-1427",
-      "authors": [
-        "Chu HY Author",
-        "Murray AF Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12790",
       "url": "https://doi.org/10.1001/jama.2025.12790",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839082",
@@ -5931,6 +5908,28 @@
       "authors": [
         "Zhu J Author",
         "Zhang W Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.16705",
+      "url": "https://doi.org/10.1001/jama.2025.16705",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838492",
+      "article_type": "",
+      "pubmed_pmid": "40884494",
+      "title": "Shot Through the Heart-Can RSV Vaccination Reduce Risk of Cardiovascular Outcomes?",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1426-1427",
+      "authors": [
+        "Chu HY Author",
+        "Murray AF Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -6301,27 +6300,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.13887",
-      "url": "https://doi.org/10.1001/jama.2025.13887",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
-      "article_type": "",
-      "pubmed_pmid": "41004139",
-      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1416",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12305",
       "url": "https://doi.org/10.1001/jama.2025.12305",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839297",
@@ -6336,6 +6314,27 @@
       "authors": [
         "Roberts K Author",
         "Campo R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13887",
+      "url": "https://doi.org/10.1001/jama.2025.13887",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
+      "article_type": "",
+      "pubmed_pmid": "41004139",
+      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1416",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -6367,29 +6366,6 @@
       "abstract_md": "This Viewpoint explores how training in both the medical and health humanities complements biomedical research, expanding clinician-scholars&#x2019; understanding of human health."
     },
     {
-      "doi": "10.1001/jama.2025.12793",
-      "url": "https://doi.org/10.1001/jama.2025.12793",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
-      "article_type": "",
-      "pubmed_pmid": "40960820",
-      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1484-1485",
-      "authors": [
-        "Feng S Author",
-        "Li H Author",
-        "Sun R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14067",
       "url": "https://doi.org/10.1001/jama.2025.14067",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839085",
@@ -6417,6 +6393,29 @@
       "abstract_md": "This study uses US national data to examine Epstein-Barr virus&#x2013;seronegative donor kidney use among Epstein-Barr virus&#x2013;seronegative children."
     },
     {
+      "doi": "10.1001/jama.2025.12793",
+      "url": "https://doi.org/10.1001/jama.2025.12793",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
+      "article_type": "",
+      "pubmed_pmid": "40960820",
+      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1484-1485",
+      "authors": [
+        "Feng S Author",
+        "Li H Author",
+        "Sun R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.13888",
       "url": "https://doi.org/10.1001/jama.2025.13888",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839501",
@@ -6436,27 +6435,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15402",
-      "url": "https://doi.org/10.1001/jama.2025.15402",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839102",
-      "article_type": "",
-      "pubmed_pmid": "40965874",
-      "title": "Unseen Scars.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1425",
-      "authors": [
-        "Weiner AB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a urologist&#x2019;s commitment to balance his family and career is affirmed after a patient asked about the health of his father, who had a stroke."
     },
     {
       "doi": "10.1001/jama.2025.15405",
@@ -6515,6 +6493,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Respiratory syncytial virus (RSV) infection is linked to elevated cardiovascular risk, particularly in individuals with preexisting cardiovascular disease (CVD). A bivalent RSV prefusion F protein (RSVpreF) vaccine was recently approved for preventing RSV-related lower respiratory tract illness, but its effectiveness against cardiovascular outcomes has not been evaluated in a randomized trial. To investigate the vaccine effectiveness of RSVpreF compared with no vaccine against cardiovascular outcomes among adults aged 60 years or older. Prespecified secondary analysis of the DAN-RSV trial, a pragmatic, open-label, individually randomized clinical trial conducted in Denmark during the 2024-2025 winter season. The first participant was enrolled on November 18, 2024. Adults aged 60 years or older were eligible for inclusion regardless of comorbidity status. Participants were randomized 1:1 to receive RSVpreF (n&#x2009;=&#x2009;65&#x202f;642) or no vaccine (n&#x2009;=&#x2009;65&#x202f;634). Hospitalization for any cardiorespiratory disease was a prespecified secondary outcome, and hospitalizations for any CVD, heart failure, myocardial infarction, stroke, and atrial fibrillation were prespecified exploratory outcomes. Outcomes were assessed from 14 days after booked study visit through May 31, 2025. Vaccine effectiveness was calculated as 1 - incidence rate ratio, expressed as a percentage. Of 131&#x202f;276 participants included (mean age, 69.4 [SD, 6.5] years; 50.3% male), 28&#x202f;662 (21.8%) had preexisting CVD. All-cause cardiorespiratory hospitalization incidence was lower in the RSVpreF group compared with the control group (26.3 vs 29.2 events per 1000 participant-years [PY]; absolute rate reduction, 2.90 [95% CI, 0.10-5.71] per 1000 PY; vaccine effectiveness, 9.9% [95% CI, 0.3%-18.7%]; P&#x2009;=&#x2009;.04). There was no significant interaction by baseline CVD status (CVD at baseline: vaccine effectiveness, 5.0% [95% CI, -11.2% to 16.7%]; no CVD at baseline: vaccine effectiveness, 15.2% [95% CI, 2.2%-27.1%]; P&#x2009;=&#x2009;.27 for interaction). For the RSVpreF group vs control group, respectively, incidence rates of all-cause cardiovascular hospitalization were 16.4 vs 17.7 events per 1000 PY (vaccine effectiveness, 7.4% [95% CI, -5.5% to 18.8%]; P&#x2009;=&#x2009;.24), and incidence rates of stroke were 3.0 vs 3.8 events per 1000 PY (vaccine effectiveness, 19.4% [95% CI, -8.6% to 40.4%]; P&#x2009;=&#x2009;.14). There were also no statistically significant between-group differences for myocardial infarction, heart failure hospitalization, and atrial fibrillation. In adults aged 60 years or older, all-cause cardiorespiratory hospitalization was significantly lower with RSVpreF than with no vaccine. The findings suggest potential downstream cardiorespiratory benefits of RSV immunization, although the effect on all-cause cardiovascular hospitalization was not statistically significant. ClinicalTrials.gov Identifier: NCT06684743."
+    },
+    {
+      "doi": "10.1001/jama.2025.15402",
+      "url": "https://doi.org/10.1001/jama.2025.15402",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839102",
+      "article_type": "",
+      "pubmed_pmid": "40965874",
+      "title": "Unseen Scars.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1425",
+      "authors": [
+        "Weiner AB Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a urologist&#x2019;s commitment to balance his family and career is affirmed after a patient asked about the health of his father, who had a stroke."
     },
     {
       "doi": "10.1001/jama.2025.13655",
@@ -6604,6 +6603,28 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.13179",
+      "url": "https://doi.org/10.1001/jama.2025.13179",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839107",
+      "article_type": "",
+      "pubmed_pmid": "40965902",
+      "title": "Midurethral Sling vs OnabotulinumtoxinA for Urinary Incontinence.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1487-1488",
+      "authors": [
+        "Klarskov N Author",
+        "Husby KR Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.13080",
       "url": "https://doi.org/10.1001/jama.2025.13080",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838187",
@@ -6625,28 +6646,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes the venomous snakes found in the US as well as snakebite symptoms, treatment, and prevention."
-    },
-    {
-      "doi": "10.1001/jama.2025.13179",
-      "url": "https://doi.org/10.1001/jama.2025.13179",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839107",
-      "article_type": "",
-      "pubmed_pmid": "40965902",
-      "title": "Midurethral Sling vs OnabotulinumtoxinA for Urinary Incontinence.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1487-1488",
-      "authors": [
-        "Klarskov N Author",
-        "Husby KR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15022",
