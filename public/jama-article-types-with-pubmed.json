@@ -181,27 +181,6 @@
       "abstract_md": "This Viewpoint proposes the development and adoption of a service index (s-index), a standardized, quantitative measure of service contribution in academic medicine."
     },
     {
-      "doi": "10.1001/jama.2025.13012",
-      "url": "https://doi.org/10.1001/jama.2025.13012",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839632",
-      "article_type": "",
-      "pubmed_pmid": "41032306",
-      "title": "Beyond Empathy: When Poetry Hits You in the Head Hard.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19138",
       "url": "https://doi.org/10.1001/jama.2025.19138",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839629",
@@ -221,27 +200,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses vaccination levels and the resurgence of measles in the US."
-    },
-    {
-      "doi": "10.1001/jama.2025.13009",
-      "url": "https://doi.org/10.1001/jama.2025.13009",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839633",
-      "article_type": "",
-      "pubmed_pmid": "41032314",
-      "title": "post-concussion syndrome.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Klein J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13905",
@@ -281,197 +239,6 @@
       "authors": [
         "Liu G Author",
         "Zhou J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.16479",
-      "url": "https://doi.org/10.1001/jama.2025.16479",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839362",
-      "article_type": "",
-      "pubmed_pmid": "41037278",
-      "title": "Singing the Songs of Raffi and Barney.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Shah H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a pulmonary and critical care physician credits the songs of Raffi and Barney for bringing peace and continuity to his daughter who experienced intractable seizures and progressive functional decline."
-    },
-    {
-      "doi": "10.1001/jama.2025.18196",
-      "url": "https://doi.org/10.1001/jama.2025.18196",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
-      "article_type": "",
-      "pubmed_pmid": "41042533",
-      "title": "Seven Takeaways From the MAHA Children's Health Strategy.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
-    },
-    {
-      "doi": "10.1001/jama.2025.17487",
-      "url": "https://doi.org/10.1001/jama.2025.17487",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839721",
-      "article_type": "",
-      "pubmed_pmid": "41042530",
-      "title": "Acupuncture Provides Lasting Relief for Older Adults With Low Back Pain.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17485",
-      "url": "https://doi.org/10.1001/jama.2025.17485",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839723",
-      "article_type": "",
-      "pubmed_pmid": "41042518",
-      "title": "Nicotinamide Linked to Lower Skin Cancer Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17486",
-      "url": "https://doi.org/10.1001/jama.2025.17486",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839722",
-      "article_type": "",
-      "pubmed_pmid": "41042505",
-      "title": "Frailty Symptoms Associated With Increased Dementia Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17479",
-      "url": "https://doi.org/10.1001/jama.2025.17479",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839719",
-      "article_type": "",
-      "pubmed_pmid": "41042535",
-      "title": "Remembering Atul Butte, a Big Data Visionary With a Big Heart.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Abbasi J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article is in remembrance of Atul Butte, MD, PhD, a pioneer in using data science to improve health."
-    },
-    {
-      "doi": "10.1001/jama.2025.17483",
-      "url": "https://doi.org/10.1001/jama.2025.17483",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839725",
-      "article_type": "",
-      "pubmed_pmid": "41042537",
-      "title": "Bariatric Surgery May Cut Costs and Weight More Than GLP-1 Drugs.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17484",
-      "url": "https://doi.org/10.1001/jama.2025.17484",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839724",
-      "article_type": "",
-      "pubmed_pmid": "41042521",
-      "title": "2024-2025 Flu Season Marked Highest Hospitalization Rate in Nearly 15 Years.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17488",
-      "url": "https://doi.org/10.1001/jama.2025.17488",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839720",
-      "article_type": "",
-      "pubmed_pmid": "41042520",
-      "title": "CDC Issues Health Advisory After Ebola Outbreak in the DRC.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -1394,27 +1161,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14207",
-      "url": "https://doi.org/10.1001/jama.2025.14207",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838184",
-      "article_type": "",
-      "pubmed_pmid": "40875215",
-      "title": "The Stories We Share.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1145-1146",
-      "authors": [
-        "Ramsdale E Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, an oncologist&#x2019;s 2 stories of what propelled her to pursue a medical career merge as 2 sources of rage that now help her hear patients&#x2019; stories."
-    },
-    {
       "doi": "10.1001/jama.2025.11214",
       "url": "https://doi.org/10.1001/jama.2025.11214",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
@@ -1435,6 +1181,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14207",
+      "url": "https://doi.org/10.1001/jama.2025.14207",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838184",
+      "article_type": "",
+      "pubmed_pmid": "40875215",
+      "title": "The Stories We Share.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1145-1146",
+      "authors": [
+        "Ramsdale E Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, an oncologist&#x2019;s 2 stories of what propelled her to pursue a medical career merge as 2 sources of rage that now help her hear patients&#x2019; stories."
     },
     {
       "doi": "10.1001/jama.2025.11485",
@@ -1769,25 +1536,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2024.18977",
-      "url": "https://doi.org/10.1001/jama.2024.18977",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839716",
-      "article_type": "",
-      "pubmed_pmid": "41066090",
-      "title": "Minor Comments.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18709",
       "url": "https://doi.org/10.1001/jama.2025.18709",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839711",
@@ -1969,23 +1717,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2024.18976",
-      "url": "https://doi.org/10.1001/jama.2024.18976",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840204",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2484,29 +2215,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14389",
-      "url": "https://doi.org/10.1001/jama.2025.14389",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
-      "article_type": "",
-      "pubmed_pmid": "40952725",
-      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1240-1242",
-      "authors": [
-        "Metcalf RA Author",
-        "Dhiman P Author",
-        "Stanworth SJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12946",
       "url": "https://doi.org/10.1001/jama.2025.12946",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838191",
@@ -2541,6 +2249,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14389",
+      "url": "https://doi.org/10.1001/jama.2025.14389",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
+      "article_type": "",
+      "pubmed_pmid": "40952725",
+      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1240-1242",
+      "authors": [
+        "Metcalf RA Author",
+        "Dhiman P Author",
+        "Stanworth SJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2991,27 +2722,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.13871",
-      "url": "https://doi.org/10.1001/jama.2025.13871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839054",
-      "article_type": "",
-      "pubmed_pmid": "40938593",
-      "title": "Survey: Many US Adults Unaware of HPV, Its Link to Cancer.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1223",
-      "authors": [
-        "Schneider L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14392",
       "url": "https://doi.org/10.1001/jama.2025.14392",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838996",
@@ -3032,6 +2742,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Perspective explores recent progress and future directions in glucagon-like peptide-1 medicines."
+    },
+    {
+      "doi": "10.1001/jama.2025.13871",
+      "url": "https://doi.org/10.1001/jama.2025.13871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839054",
+      "article_type": "",
+      "pubmed_pmid": "40938593",
+      "title": "Survey: Many US Adults Unaware of HPV, Its Link to Cancer.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1223",
+      "authors": [
+        "Schneider L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.12818",
@@ -3429,6 +3160,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14721",
+      "url": "https://doi.org/10.1001/jama.2025.14721",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
+      "article_type": "",
+      "pubmed_pmid": "41091498",
+      "title": "What We Couldn't Name.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 15",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Singh P Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14718",
       "url": "https://doi.org/10.1001/jama.2025.14718",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839990",
@@ -3450,27 +3202,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses rising detection of microplastics in human tissue and the importance of international cooperation to limit plastic pollution."
-    },
-    {
-      "doi": "10.1001/jama.2025.14721",
-      "url": "https://doi.org/10.1001/jama.2025.14721",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
-      "article_type": "",
-      "pubmed_pmid": "41091498",
-      "title": "What We Couldn't Name.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Singh P Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.14437",
@@ -3881,27 +3612,6 @@
       "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
     },
     {
-      "doi": "10.1001/jama.2025.17513",
-      "url": "https://doi.org/10.1001/jama.2025.17513",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840454",
-      "article_type": "",
-      "pubmed_pmid": "41105402",
-      "title": "CDC Releases 2024-2025 Flu Report, With Suggestions for Upcoming Season.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17517",
       "url": "https://doi.org/10.1001/jama.2025.17517",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840450",
@@ -3915,6 +3625,27 @@
       "pages": "",
       "authors": [
         "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17513",
+      "url": "https://doi.org/10.1001/jama.2025.17513",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840454",
+      "article_type": "",
+      "pubmed_pmid": "41105402",
+      "title": "CDC Releases 2024-2025 Flu Report, With Suggestions for Upcoming Season.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 17",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -4422,27 +4153,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14914",
-      "url": "https://doi.org/10.1001/jama.2025.14914",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
-      "article_type": "",
-      "pubmed_pmid": "40932705",
-      "title": "When Biology Breaks the Rules.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1331-1332",
-      "authors": [
-        "Triana AJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
-    },
-    {
       "doi": "10.1001/jama.2025.13481",
       "url": "https://doi.org/10.1001/jama.2025.13481",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838505",
@@ -4476,6 +4186,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Effective and well-tolerated pharmacotherapies for generalized anxiety disorder (GAD), which is one of the most common psychiatric disorders, are needed. To determine the dose-response relationship of MM120 (lysergide D-tartrate) in adults with moderate to severe GAD. This phase 2b, multicenter, randomized, double-blind, placebo-controlled study enrolled 198 adults aged 18 to 74 years with a primary GAD diagnosis who presented with moderate to severe symptoms (defined by a Hamilton Anxiety Rating Scale [HAM-A] score &#x2265;20) and was conducted at 22 outpatient psychiatric research sites in the US from August 2022 to August 2023. The anxiety and depression end point assessments were conducted by independent central raters who were blinded to the trial protocol, treatment allocation, and study visit date. The last date of follow-up was November 27, 2023. Participants were randomized to receive a single (freebase equivalent) treatment dose with 25 &#xb5;g (n&#x2009;=&#x2009;39), 50 &#xb5;g (n&#x2009;=&#x2009;40), 100 &#xb5;g (n&#x2009;=&#x2009;40), or 200 &#xb5;g (n&#x2009;=&#x2009;40) of MM120 or placebo (n&#x2009;=&#x2009;39). The primary outcome was a dose-response relationship assessed using the multiple comparison procedure modeling (MCP-Mod) method for change in HAM-A score at 4 weeks (score range, 0-56; higher scores indicate greater severity; &#x2264;7 indicates no or minimal anxiety; 8-14, mild; 15-23, moderate; and &#x2265;24, severe). The minimal clinically important difference was 2.5 points. Of the 198 participants randomized, 194 were included in the full analysis set (mean age, 41.3 [SD, 13.6] years; 56.7% were female; and 3.6% were Asian, 7.7% were Black or African American, and 83.0% were White). The dose-response relationship assessed using the MCP-Mod method for change in HAM-A score at week 4 was statistically significant for the 100-&#xb5;g and the 200-&#xb5;g dose groups vs placebo (least-squares mean difference, -5.0 points [95% CI, -9.6 to -0.4 points] with 100 &#xb5;g of MM120 and -6.0 points [95% CI, -9.8 to -2.0 points] with 200 &#xb5;g of MM120) but the 25-&#xb5;g and 50-&#xb5;g dose groups did not reach significance vs placebo (least-squares mean difference, -1.2 points [95% CI, -6.0 to 3.5 points] with 25 &#xb5;g of MM120 and -1.8 points [95% CI, -7.6 to 4.0 points] with 50 &#xb5;g of MM120). The adverse events were consistent with the expected effects of MM120. The most common adverse events were visual perceptual changes (illusion, pseudo-hallucination, and visual hallucination), which occurred in 46.2% of participants who received 25 &#xb5;g of MM120, in 75.0% who received 50 &#xb5;g, in 92.5% who received 100 &#xb5;g, in 100% who received 200 &#xb5;g, and in 10.3% who received placebo; nausea occurred in 7.7%, 27.5%, 40.0%, 60.0%, and 7.7%, respectively; and headache occurred in 12.8%, 22.5%, 35.0%, 27.5%, and 23.1%. In participants with moderate to severe GAD, a single dose of MM120 produced a dose-dependent reduction in anxiety. These results support the dose-dependent efficacy of MM120 and inform the dose selection for phase 3 pivotal trials. ClinicalTrials.gov Identifier: NCT05407064."
+    },
+    {
+      "doi": "10.1001/jama.2025.14914",
+      "url": "https://doi.org/10.1001/jama.2025.14914",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
+      "article_type": "",
+      "pubmed_pmid": "40932705",
+      "title": "When Biology Breaks the Rules.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1331-1332",
+      "authors": [
+        "Triana AJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
     },
     {
       "doi": "10.1001/jama.2025.12650",
@@ -6300,27 +6031,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.13887",
-      "url": "https://doi.org/10.1001/jama.2025.13887",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
-      "article_type": "",
-      "pubmed_pmid": "41004139",
-      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1416",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12305",
       "url": "https://doi.org/10.1001/jama.2025.12305",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839297",
@@ -6335,6 +6045,27 @@
       "authors": [
         "Roberts K Author",
         "Campo R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13887",
+      "url": "https://doi.org/10.1001/jama.2025.13887",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
+      "article_type": "",
+      "pubmed_pmid": "41004139",
+      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1416",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -6676,29 +6407,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16326",
-      "url": "https://doi.org/10.1001/jama.2025.16326",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838452",
-      "article_type": "",
-      "pubmed_pmid": "40875572",
-      "title": "Expanding Prior Authorization in Traditional Medicare-The WISeR Model.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1423-1424",
-      "authors": [
-        "Rathi VK Author",
-        "Dhruva SS Author",
-        "Ross JS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the Wasteful and Inappropriate Service Reduction (WISeR) model, a new payment model announced by the Centers for Medicare &amp; Medicaid Services Innovation Center to broaden prior authorization in traditional Medicare."
-    },
-    {
       "doi": "10.1001/jama.2025.15896",
       "url": "https://doi.org/10.1001/jama.2025.15896",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838490",
@@ -6767,6 +6475,29 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Respiratory syncytial virus (RSV) vaccines for adults aged 60 years or older became available in 2023. One dose is recommended for all adults aged 75 years or older and those aged 60 to 74 years at increased risk of severe RSV; however, duration of protection is unknown. To evaluate RSV vaccine effectiveness against RSV-associated hospitalization among adults aged 60 years or older during 2 RSV seasons. A total of 6958 adults aged 60 years or older were included in this test-negative, case-control study if they were hospitalized with acute respiratory illness at any of 26 hospitals in 20 US states during the October 1, 2023, to March 31, 2024, or October 1, 2024, to April 30, 2025, RSV seasons and had respiratory virus testing within 10 days of illness onset. Case patients tested positive for RSV only; control patients tested negative for RSV, SARS-CoV-2, and influenza. Demographic and clinical data were obtained through patient interview and electronic health records. Receipt of 1 RSV vaccine dose at least 14 days before illness onset. Multivariable logistic regression was used to compare the odds of RSV vaccination among hospitalized cases and controls. Models were adjusted for age, sex, race and ethnicity, geographic region, and calendar month and year. Vaccine effectiveness was estimated as (1&#x2009;-&#x2009;adjusted odds ratio)&#x2009;&#xd7;&#x2009;100%. Analyses were stratified by timing of RSV vaccine receipt (same vs prior season) relative to illness onset. Of 6958 adults aged 60 years or older, 821 (11.8%) were RSV cases and 6137 (88.2%) were controls. A total of 1438 patients were Black (20.1%) and 4314 were White (62.0%); 3534 were female (50.8%). Median age was 72 years (IQR, 66-80 years) and 1829 adults (26.3%) were immunocompromised. A total of 63 cases (7.7%) and 966 controls (15.7%) were vaccinated. Estimated vaccine effectiveness against RSV-associated hospitalization was 58% (95% CI, 45%-68%) during 2 seasons and 69% (95% CI, 52%-81%) for same-season vaccination vs 48% (95% CI, 27%-63%; P&#x2009;=&#x2009;.06) for prior-season vaccination. Estimated vaccine effectiveness during 2 seasons was significantly lower among immunocompromised adults (30%; 95% CI, -9% to 55%) than immunocompetent adults (67%; 95% CI, 53%-77%; P&#x2009;=&#x2009;.02) and among those with cardiovascular disease (56%; 95% CI, 32%-72%) vs without (80%; 95% CI, 62%-90%; P&#x2009;=&#x2009;.03). Respiratory syncytial virus vaccines prevented RSV-associated hospitalization during 2 seasons, although effectiveness was lower in patients with immunocompromise and cardiovascular disease than in those without these conditions. Ongoing monitoring is needed to determine the optimal RSV revaccination interval."
+    },
+    {
+      "doi": "10.1001/jama.2025.16326",
+      "url": "https://doi.org/10.1001/jama.2025.16326",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838452",
+      "article_type": "",
+      "pubmed_pmid": "40875572",
+      "title": "Expanding Prior Authorization in Traditional Medicare-The WISeR Model.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1423-1424",
+      "authors": [
+        "Rathi VK Author",
+        "Dhruva SS Author",
+        "Ross JS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the Wasteful and Inappropriate Service Reduction (WISeR) model, a new payment model announced by the Centers for Medicare &amp; Medicaid Services Innovation Center to broaden prior authorization in traditional Medicare."
     },
     {
       "doi": "10.1001/jama.2025.12784",
@@ -7078,21 +6809,15 @@
       "url": "https://doi.org/10.1001/jama.2025.16625",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840718",
       "article_type": "",
-      "pubmed_pmid": "41160021",
-      "title": "AI-Enabled Echocardiography Interpretation With Multitask Deep Learning.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 29",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Wu PH Author",
-        "Ho YY Author",
-        "Chang CM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
