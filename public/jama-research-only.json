@@ -3,31 +3,6 @@
   "to": "2025-10-31",
   "items": [
     {
-      "doi": "10.1001/jama.2025.16524",
-      "url": "https://doi.org/10.1001/jama.2025.16524",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839471",
-      "article_type": "",
-      "pubmed_pmid": "41051742",
-      "title": "Inhaler-Related Greenhouse Gas Emissions in the US: A Serial Cross-Sectional Analysis.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Feldman WB Author",
-        "Han J Author",
-        "Raymakers AJN Author",
-        "Furie GL Author",
-        "Chesebro BB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Inhalers are the primary treatment modality for asthma and chronic obstructive pulmonary disease (COPD). Metered-dose inhalers contain hydrofluoroalkane propellants that contribute to substantial greenhouse gas emissions. The US federal government is facilitating a phasedown of hydrofluorocarbons over the next decade under international treaty obligations, yet current understanding of the scope and trajectory of inhaler-related emissions in the US remains incomplete. To quantify the magnitude, sources, and social costs of inhaler-related emissions in the US from 2014 to 2024. This serial cross-sectional analysis estimated emissions from all inhalers approved for asthma or COPD using aggregated dispensing data across the US outpatient pharmaceutical market linked to estimated greenhouse gas emissions by inhaler. All products were characterized based on their active pharmaceutical ingredients, device type, propellant type, therapeutic class, branded status, manufacturer, payer, and pharmacy benefit manager. Key end points included product utilization, greenhouse gas emissions (measured in carbon dioxide equivalents [CO2e] based on previously validated studies), and the social costs of emissions, which account for the net harms to society from greenhouse gases. A total of 1.6 billion inhalers were dispensed in the US from 2014 to 2024, generating an estimated 24.9 million metric tons of CO2e (mtCO2e). Annual emissions increased by 24% from 1.9 million mtCO2e in 2014 to 2.3 million mtCO2e in 2024. Metered-dose inhalers were responsible for 98% of all emissions during the study period, and emissions were heavily concentrated among short-acting &#x3b2;-agonist, inhaled corticosteroid-long-acting &#x3b2;-agonist, and inhaled corticosteroid classes. Albuterol, budesonide-formoterol, and fluticasone propionate inhalers accounted for 87% of total emissions. The estimated social costs of emissions were $5.7 billion (lower bound, $3.5 billion; upper bound, $10.0 billion). Inhaler-related emissions in the US have increased over the past decade. Policymakers and regulators seeking to reduce emissions should identify targeted solutions aimed at shifting utilization to currently marketed dry powder and soft mist inhalers while facilitating the entry of newer, affordable metered-dose products containing propellants with low global warming potential."
-    },
-    {
       "doi": "10.1001/jama.2025.12779",
       "url": "https://doi.org/10.1001/jama.2025.12779",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837137",
