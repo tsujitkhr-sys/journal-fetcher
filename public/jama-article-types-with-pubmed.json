@@ -355,27 +355,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.11292",
-      "url": "https://doi.org/10.1001/jama.2025.11292",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838088",
-      "article_type": "",
-      "pubmed_pmid": "40864438",
-      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1200-1201",
-      "authors": [
-        "Mojsov S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12007",
       "url": "https://doi.org/10.1001/jama.2025.12007",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838464",
@@ -399,6 +378,27 @@
       "abstract_md": "This JAMA Insights discusses medical consequences of and treatment options for methamphetamine use disorder, including harm reduction, behavioral treatment, and pharmacologic treatment."
     },
     {
+      "doi": "10.1001/jama.2025.11292",
+      "url": "https://doi.org/10.1001/jama.2025.11292",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838088",
+      "article_type": "",
+      "pubmed_pmid": "40864438",
+      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1200-1201",
+      "authors": [
+        "Mojsov S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.13362",
       "url": "https://doi.org/10.1001/jama.2025.13362",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838690",
@@ -412,6 +412,29 @@
       "pages": "1135-1136",
       "authors": [
         "Schneider L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.11217",
+      "url": "https://doi.org/10.1001/jama.2025.11217",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838004",
+      "article_type": "",
+      "pubmed_pmid": "40853651",
+      "title": "Ensuring Inclusive Governance for a Trustworthy and Responsible AI Network-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1199-1200",
+      "authors": [
+        "Embí PJ Author",
+        "Rhew DC Author",
+        "Peterson ED Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -452,29 +475,6 @@
       "pages": "1204",
       "authors": [
         "Gopinathan JC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.11217",
-      "url": "https://doi.org/10.1001/jama.2025.11217",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838004",
-      "article_type": "",
-      "pubmed_pmid": "40853651",
-      "title": "Ensuring Inclusive Governance for a Trustworthy and Responsible AI Network-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1199-1200",
-      "authors": [
-        "Embí PJ Author",
-        "Rhew DC Author",
-        "Peterson ED Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -621,29 +621,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14049",
-      "url": "https://doi.org/10.1001/jama.2025.14049",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
-      "article_type": "",
-      "pubmed_pmid": "40906488",
-      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1137-1138",
-      "authors": [
-        "Shachar C Author",
-        "Lynch J Author",
-        "Costello K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
-    },
-    {
       "doi": "10.1001/jama.2025.10022",
       "url": "https://doi.org/10.1001/jama.2025.10022",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838503",
@@ -707,6 +684,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14049",
+      "url": "https://doi.org/10.1001/jama.2025.14049",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
+      "article_type": "",
+      "pubmed_pmid": "40906488",
+      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1137-1138",
+      "authors": [
+        "Shachar C Author",
+        "Lynch J Author",
+        "Costello K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
     },
     {
       "doi": "10.1001/jama.2025.13358",
@@ -953,27 +953,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14207",
-      "url": "https://doi.org/10.1001/jama.2025.14207",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838184",
-      "article_type": "",
-      "pubmed_pmid": "40875215",
-      "title": "The Stories We Share.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1145-1146",
-      "authors": [
-        "Ramsdale E Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, an oncologist&#x2019;s 2 stories of what propelled her to pursue a medical career merge as 2 sources of rage that now help her hear patients&#x2019; stories."
-    },
-    {
       "doi": "10.1001/jama.2025.11214",
       "url": "https://doi.org/10.1001/jama.2025.11214",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
@@ -994,6 +973,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14207",
+      "url": "https://doi.org/10.1001/jama.2025.14207",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838184",
+      "article_type": "",
+      "pubmed_pmid": "40875215",
+      "title": "The Stories We Share.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1145-1146",
+      "authors": [
+        "Ramsdale E Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, an oncologist&#x2019;s 2 stories of what propelled her to pursue a medical career merge as 2 sources of rage that now help her hear patients&#x2019; stories."
     },
     {
       "doi": "10.1001/jama.2025.11485",
@@ -1633,29 +1633,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14389",
-      "url": "https://doi.org/10.1001/jama.2025.14389",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
-      "article_type": "",
-      "pubmed_pmid": "40952725",
-      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1240-1242",
-      "authors": [
-        "Metcalf RA Author",
-        "Dhiman P Author",
-        "Stanworth SJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12946",
       "url": "https://doi.org/10.1001/jama.2025.12946",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838191",
@@ -1690,6 +1667,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14389",
+      "url": "https://doi.org/10.1001/jama.2025.14389",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
+      "article_type": "",
+      "pubmed_pmid": "40952725",
+      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1240-1242",
+      "authors": [
+        "Metcalf RA Author",
+        "Dhiman P Author",
+        "Stanworth SJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2034,28 +2034,21 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14150",
-      "url": "https://doi.org/10.1001/jama.2025.14150",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
+      "doi": "10.1001/jama.2024.18954",
+      "url": "https://doi.org/10.1001/jama.2024.18954",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839946",
       "article_type": "",
-      "pubmed_pmid": "40928804",
-      "title": "Leveraging Novel Alternative Payment Models to Promote Evidence-Based Behavioral Health Care.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1229-1230",
-      "authors": [
-        "Huang JJ Author",
-        "McNutt C Author",
-        "Carlo AD Author",
-        "Busch AB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.14852",
@@ -2079,21 +2072,28 @@
       "abstract_md": "In this narrative medicine essay, a pediatric hospitalist who had to navigate alone her grief after her mom died during medical school offers some suggestions about the process to a friend as he navigates the loss of his mother."
     },
     {
-      "doi": "10.1001/jama.2024.18954",
-      "url": "https://doi.org/10.1001/jama.2024.18954",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839946",
+      "doi": "10.1001/jama.2025.14150",
+      "url": "https://doi.org/10.1001/jama.2025.14150",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "40928804",
+      "title": "Leveraging Novel Alternative Payment Models to Promote Evidence-Based Behavioral Health Care.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1229-1230",
+      "authors": [
+        "Huang JJ Author",
+        "McNutt C Author",
+        "Carlo AD Author",
+        "Busch AB Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
     },
     {
       "doi": "10.1001/jama.2025.12222",
@@ -2344,28 +2344,6 @@
       "abstract_md": "Heart failure with preserved ejection fraction (HFpEF) is a major cause of hospitalization, often occurring in patients with cardiometabolic comorbidities such as obesity and type 2 diabetes. Although early trials of semaglutide and tirzepatide have shown promising results in improving symptoms, those findings were based on few clinical events, leaving treatment recommendations uncertain. To evaluate the effectiveness and safety of semaglutide and tirzepatide in patients with cardiometabolic HFpEF in clinical practice. Five cohort studies using national US health care claims data from 2018 to 2024. Two cohort studies emulated the STEP-HFpEF DM (semaglutide) and SUMMIT (tirzepatide) trials to benchmark results. Eligibility criteria were then expanded to evaluate treatment effects in patients typically treated in clinical practice. Finally, a head-to-head comparison of tirzepatide and semaglutide was implemented. Follow-up was up to 52 weeks. New use of semaglutide, tirzepatide, or sitagliptin as a placebo proxy. The primary end point was a composite of hospitalization for heart failure or all-cause mortality. Negative control outcomes, secondary end points, subgroups, and sensitivity analyses were prespecified. Hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated by fitting proportional hazards models with propensity score weighting to adjust for a comprehensive set of pretreatment patient characteristics. Benchmarking of the 2 trial emulations demonstrated high agreement on all prespecified metrics. In analyses using expanded eligibility criteria, 58&#x202f;333 patients were included in the semaglutide vs sitagliptin cohort, 11&#x202f;257 for tirzepatide vs sitagliptin, and 28&#x202f;100 for tirzepatide vs semaglutide. Initiators of semaglutide (HR, 0.58 [95% CI, 0.51-0.65]) and tirzepatide (HR, 0.42 [95% CI, 0.31-0.57]) had substantially lower risk of the primary end point compared with sitagliptin. Tirzepatide had no meaningfully lowered risk compared with semaglutide (HR, 0.86 [95% CI, 0.70-1.06]). Negative controls, secondary end points, subgroups, and sensitivity analyses showed consistent results. No substantially increased risk was observed for select safety end points. In patients with cardiometabolic HFpEF, semaglutide and tirzepatide showed more than 40% risk reduction for the composite of hospitalization for heart failure or all-cause mortality compared with a placebo proxy. Tirzepatide showed no meaningful benefit over semaglutide. ClinicalTrials.gov Identifiers: NCT06914102, NCT06914154, NCT06914141."
     },
     {
-      "doi": "10.1001/jama.2025.14446",
-      "url": "https://doi.org/10.1001/jama.2025.14446",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839076",
-      "article_type": "",
-      "pubmed_pmid": "40960851",
-      "title": "To Improve Health in the United States, Focus on Women.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1225-1226",
-      "authors": [
-        "Temkin SM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the dearth of women&#x2019;s health research at the National Institutes of Health and proposes investment in a national chronic disease research agenda that promotes the science of gynecology."
-    },
-    {
       "doi": "10.1001/jama.2025.14194",
       "url": "https://doi.org/10.1001/jama.2025.14194",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838997",
@@ -2406,6 +2384,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Preterm infants with severe thrombocytopenia (platelet count &lt;50&#x2009;&#xd7;&#x2009;109/L) frequently receive platelet transfusions. However, it is unclear in what cases prophylactic transfusion truly reduces bleeding risk or whether it does more harm than good. To develop and validate a dynamic prediction model for major bleeding or mortality if prophylactic platelet transfusion were or were not to be given to infants with severe thrombocytopenia. The dynamic prediction model was developed in an international multicenter cohort (2017-2021) comprising 14 neonatal intensive care units in the Netherlands, Sweden, and Germany. Model evaluation was performed in a national multicenter cohort (2010-2014) including 7 Dutch neonatal intensive care units. The study population consisted of infants with severe thrombocytopenia less than 34 weeks' gestation. Two transfusion strategies were contrasted at each prediction point: receiving a platelet transfusion within 6 hours (prophylaxis) vs no platelet transfusion for 3 days (no prophylaxis). The primary outcome was the 3-day risk of major bleeding or mortality, reestimated every 2 hours during the first week after severe thrombocytopenia onset. Predictors included gestational and postnatal age, small-for-gestational-age infant, necrotizing enterocolitis, sepsis, mechanical ventilation, vasoactive agents, platelet count, and prior platelet transfusion(s). Landmarking combined with the clone-censor-weight approach enabled dynamic prediction under the 2 transfusion strategies, accounting for time-varying confounding. Model performance was evaluated in the external validation cohort. In both the development (n&#x2009;=&#x2009;1042) and validation (n&#x2009;=&#x2009;637) cohorts, the median gestational age was 28 weeks and median birth weight was 900 g; there were 613 (59%) and 370 (58%) males, respectively. Major bleeding or death occurred in 235 infants (23%) in the development cohort and 135 (21%) in the validation cohort. In the validation cohort, the time-dependent area under the receiver operating characteristic curve was 0.69 (95% CI, 0.60-0.76) for the prophylaxis strategy and 0.85 (95% CI, 0.76-0.92) for the no prophylaxis strategy, with calibration plots showing good calibration. Estimated risks under both strategies varied considerably depending on the infant's clinical condition at the time of prediction. Among preterm infants with severe thrombocytopenia, this modeling study found substantial variation among individuals in predicted benefits and harms of prophylactic platelet transfusion based on their current clinical characteristics. The dynamic prediction model performed well in a validation cohort, and its value to support individualized decisions warrants evaluation in future studies."
+    },
+    {
+      "doi": "10.1001/jama.2025.14446",
+      "url": "https://doi.org/10.1001/jama.2025.14446",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839076",
+      "article_type": "",
+      "pubmed_pmid": "40960851",
+      "title": "To Improve Health in the United States, Focus on Women.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1225-1226",
+      "authors": [
+        "Temkin SM Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the dearth of women&#x2019;s health research at the National Institutes of Health and proposes investment in a national chronic disease research agenda that promotes the science of gynecology."
     },
     {
       "doi": "10.1001/jama.2025.11869",
@@ -2974,27 +2974,6 @@
       "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
     },
     {
-      "doi": "10.1001/jama.2025.17513",
-      "url": "https://doi.org/10.1001/jama.2025.17513",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840454",
-      "article_type": "",
-      "pubmed_pmid": "41105402",
-      "title": "CDC Releases 2024-2025 Flu Report, With Suggestions for Upcoming Season.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17517",
       "url": "https://doi.org/10.1001/jama.2025.17517",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840450",
@@ -3008,6 +2987,27 @@
       "pages": "",
       "authors": [
         "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17513",
+      "url": "https://doi.org/10.1001/jama.2025.17513",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840454",
+      "article_type": "",
+      "pubmed_pmid": "41105402",
+      "title": "CDC Releases 2024-2025 Flu Report, With Suggestions for Upcoming Season.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 17",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3636,6 +3636,46 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.12231",
+      "url": "https://doi.org/10.1001/jama.2025.12231",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838800",
+      "article_type": "",
+      "pubmed_pmid": "40928795",
+      "title": "Hypertension Medications and Health-Related Quality of Life-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1393-1394",
+      "authors": [
+        "Lee CJ Author",
+        "Kim DH Author",
+        "Park S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.12103",
+      "url": "https://doi.org/10.1001/jama.2025.12103",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839103",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.12647",
       "url": "https://doi.org/10.1001/jama.2025.12647",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838872",
@@ -3674,46 +3714,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.12231",
-      "url": "https://doi.org/10.1001/jama.2025.12231",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838800",
-      "article_type": "",
-      "pubmed_pmid": "40928795",
-      "title": "Hypertension Medications and Health-Related Quality of Life-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1393-1394",
-      "authors": [
-        "Lee CJ Author",
-        "Kim DH Author",
-        "Park S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.12103",
-      "url": "https://doi.org/10.1001/jama.2025.12103",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839103",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5393,6 +5393,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.13887",
+      "url": "https://doi.org/10.1001/jama.2025.13887",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
+      "article_type": "",
+      "pubmed_pmid": "41004139",
+      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1416",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.12305",
       "url": "https://doi.org/10.1001/jama.2025.12305",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839297",
@@ -5407,27 +5428,6 @@
       "authors": [
         "Roberts K Author",
         "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.13887",
-      "url": "https://doi.org/10.1001/jama.2025.13887",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
-      "article_type": "",
-      "pubmed_pmid": "41004139",
-      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1416",
-      "authors": [
-        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5459,6 +5459,29 @@
       "abstract_md": "This Viewpoint explores how training in both the medical and health humanities complements biomedical research, expanding clinician-scholars&#x2019; understanding of human health."
     },
     {
+      "doi": "10.1001/jama.2025.12793",
+      "url": "https://doi.org/10.1001/jama.2025.12793",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
+      "article_type": "",
+      "pubmed_pmid": "40960820",
+      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1484-1485",
+      "authors": [
+        "Feng S Author",
+        "Li H Author",
+        "Sun R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14067",
       "url": "https://doi.org/10.1001/jama.2025.14067",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839085",
@@ -5486,27 +5509,46 @@
       "abstract_md": "This study uses US national data to examine Epstein-Barr virus&#x2013;seronegative donor kidney use among Epstein-Barr virus&#x2013;seronegative children."
     },
     {
-      "doi": "10.1001/jama.2025.12793",
-      "url": "https://doi.org/10.1001/jama.2025.12793",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
+      "doi": "10.1001/jama.2025.13888",
+      "url": "https://doi.org/10.1001/jama.2025.13888",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839501",
       "article_type": "",
-      "pubmed_pmid": "40960820",
-      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "pubmed_pmid": "41004141",
+      "title": "Anal Cancer Risk Rises With Age and Time Among Cervical Cancer Survivors.",
       "journal": "JAMA",
       "pubdate": "2025 Oct 28",
       "volume": "334",
       "issue": "16",
-      "pages": "1484-1485",
+      "pages": "1416",
       "authors": [
-        "Feng S Author",
-        "Li H Author",
-        "Sun R Author"
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15402",
+      "url": "https://doi.org/10.1001/jama.2025.15402",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839102",
+      "article_type": "",
+      "pubmed_pmid": "40965874",
+      "title": "Unseen Scars.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1425",
+      "authors": [
+        "Weiner AB Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a urologist&#x2019;s commitment to balance his family and career is affirmed after a patient asked about the health of his father, who had a stroke."
     },
     {
       "doi": "10.1001/jama.2025.15405",
@@ -5565,48 +5607,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Respiratory syncytial virus (RSV) infection is linked to elevated cardiovascular risk, particularly in individuals with preexisting cardiovascular disease (CVD). A bivalent RSV prefusion F protein (RSVpreF) vaccine was recently approved for preventing RSV-related lower respiratory tract illness, but its effectiveness against cardiovascular outcomes has not been evaluated in a randomized trial. To investigate the vaccine effectiveness of RSVpreF compared with no vaccine against cardiovascular outcomes among adults aged 60 years or older. Prespecified secondary analysis of the DAN-RSV trial, a pragmatic, open-label, individually randomized clinical trial conducted in Denmark during the 2024-2025 winter season. The first participant was enrolled on November 18, 2024. Adults aged 60 years or older were eligible for inclusion regardless of comorbidity status. Participants were randomized 1:1 to receive RSVpreF (n&#x2009;=&#x2009;65&#x202f;642) or no vaccine (n&#x2009;=&#x2009;65&#x202f;634). Hospitalization for any cardiorespiratory disease was a prespecified secondary outcome, and hospitalizations for any CVD, heart failure, myocardial infarction, stroke, and atrial fibrillation were prespecified exploratory outcomes. Outcomes were assessed from 14 days after booked study visit through May 31, 2025. Vaccine effectiveness was calculated as 1 - incidence rate ratio, expressed as a percentage. Of 131&#x202f;276 participants included (mean age, 69.4 [SD, 6.5] years; 50.3% male), 28&#x202f;662 (21.8%) had preexisting CVD. All-cause cardiorespiratory hospitalization incidence was lower in the RSVpreF group compared with the control group (26.3 vs 29.2 events per 1000 participant-years [PY]; absolute rate reduction, 2.90 [95% CI, 0.10-5.71] per 1000 PY; vaccine effectiveness, 9.9% [95% CI, 0.3%-18.7%]; P&#x2009;=&#x2009;.04). There was no significant interaction by baseline CVD status (CVD at baseline: vaccine effectiveness, 5.0% [95% CI, -11.2% to 16.7%]; no CVD at baseline: vaccine effectiveness, 15.2% [95% CI, 2.2%-27.1%]; P&#x2009;=&#x2009;.27 for interaction). For the RSVpreF group vs control group, respectively, incidence rates of all-cause cardiovascular hospitalization were 16.4 vs 17.7 events per 1000 PY (vaccine effectiveness, 7.4% [95% CI, -5.5% to 18.8%]; P&#x2009;=&#x2009;.24), and incidence rates of stroke were 3.0 vs 3.8 events per 1000 PY (vaccine effectiveness, 19.4% [95% CI, -8.6% to 40.4%]; P&#x2009;=&#x2009;.14). There were also no statistically significant between-group differences for myocardial infarction, heart failure hospitalization, and atrial fibrillation. In adults aged 60 years or older, all-cause cardiorespiratory hospitalization was significantly lower with RSVpreF than with no vaccine. The findings suggest potential downstream cardiorespiratory benefits of RSV immunization, although the effect on all-cause cardiovascular hospitalization was not statistically significant. ClinicalTrials.gov Identifier: NCT06684743."
-    },
-    {
-      "doi": "10.1001/jama.2025.13888",
-      "url": "https://doi.org/10.1001/jama.2025.13888",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839501",
-      "article_type": "",
-      "pubmed_pmid": "41004141",
-      "title": "Anal Cancer Risk Rises With Age and Time Among Cervical Cancer Survivors.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1416",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15402",
-      "url": "https://doi.org/10.1001/jama.2025.15402",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839102",
-      "article_type": "",
-      "pubmed_pmid": "40965874",
-      "title": "Unseen Scars.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1425",
-      "authors": [
-        "Weiner AB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a urologist&#x2019;s commitment to balance his family and career is affirmed after a patient asked about the health of his father, who had a stroke."
     },
     {
       "doi": "10.1001/jama.2025.13655",
@@ -5769,29 +5769,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16326",
-      "url": "https://doi.org/10.1001/jama.2025.16326",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838452",
-      "article_type": "",
-      "pubmed_pmid": "40875572",
-      "title": "Expanding Prior Authorization in Traditional Medicare-The WISeR Model.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1423-1424",
-      "authors": [
-        "Rathi VK Author",
-        "Dhruva SS Author",
-        "Ross JS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the Wasteful and Inappropriate Service Reduction (WISeR) model, a new payment model announced by the Centers for Medicare &amp; Medicaid Services Innovation Center to broaden prior authorization in traditional Medicare."
-    },
-    {
       "doi": "10.1001/jama.2025.15896",
       "url": "https://doi.org/10.1001/jama.2025.15896",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838490",
@@ -5860,6 +5837,29 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Respiratory syncytial virus (RSV) vaccines for adults aged 60 years or older became available in 2023. One dose is recommended for all adults aged 75 years or older and those aged 60 to 74 years at increased risk of severe RSV; however, duration of protection is unknown. To evaluate RSV vaccine effectiveness against RSV-associated hospitalization among adults aged 60 years or older during 2 RSV seasons. A total of 6958 adults aged 60 years or older were included in this test-negative, case-control study if they were hospitalized with acute respiratory illness at any of 26 hospitals in 20 US states during the October 1, 2023, to March 31, 2024, or October 1, 2024, to April 30, 2025, RSV seasons and had respiratory virus testing within 10 days of illness onset. Case patients tested positive for RSV only; control patients tested negative for RSV, SARS-CoV-2, and influenza. Demographic and clinical data were obtained through patient interview and electronic health records. Receipt of 1 RSV vaccine dose at least 14 days before illness onset. Multivariable logistic regression was used to compare the odds of RSV vaccination among hospitalized cases and controls. Models were adjusted for age, sex, race and ethnicity, geographic region, and calendar month and year. Vaccine effectiveness was estimated as (1&#x2009;-&#x2009;adjusted odds ratio)&#x2009;&#xd7;&#x2009;100%. Analyses were stratified by timing of RSV vaccine receipt (same vs prior season) relative to illness onset. Of 6958 adults aged 60 years or older, 821 (11.8%) were RSV cases and 6137 (88.2%) were controls. A total of 1438 patients were Black (20.1%) and 4314 were White (62.0%); 3534 were female (50.8%). Median age was 72 years (IQR, 66-80 years) and 1829 adults (26.3%) were immunocompromised. A total of 63 cases (7.7%) and 966 controls (15.7%) were vaccinated. Estimated vaccine effectiveness against RSV-associated hospitalization was 58% (95% CI, 45%-68%) during 2 seasons and 69% (95% CI, 52%-81%) for same-season vaccination vs 48% (95% CI, 27%-63%; P&#x2009;=&#x2009;.06) for prior-season vaccination. Estimated vaccine effectiveness during 2 seasons was significantly lower among immunocompromised adults (30%; 95% CI, -9% to 55%) than immunocompetent adults (67%; 95% CI, 53%-77%; P&#x2009;=&#x2009;.02) and among those with cardiovascular disease (56%; 95% CI, 32%-72%) vs without (80%; 95% CI, 62%-90%; P&#x2009;=&#x2009;.03). Respiratory syncytial virus vaccines prevented RSV-associated hospitalization during 2 seasons, although effectiveness was lower in patients with immunocompromise and cardiovascular disease than in those without these conditions. Ongoing monitoring is needed to determine the optimal RSV revaccination interval."
+    },
+    {
+      "doi": "10.1001/jama.2025.16326",
+      "url": "https://doi.org/10.1001/jama.2025.16326",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838452",
+      "article_type": "",
+      "pubmed_pmid": "40875572",
+      "title": "Expanding Prior Authorization in Traditional Medicare-The WISeR Model.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1423-1424",
+      "authors": [
+        "Rathi VK Author",
+        "Dhruva SS Author",
+        "Ross JS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the Wasteful and Inappropriate Service Reduction (WISeR) model, a new payment model announced by the Centers for Medicare &amp; Medicaid Services Innovation Center to broaden prior authorization in traditional Medicare."
     },
     {
       "doi": "10.1001/jama.2025.12784",
