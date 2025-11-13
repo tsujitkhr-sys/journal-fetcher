@@ -2140,6 +2140,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.13871",
+      "url": "https://doi.org/10.1001/jama.2025.13871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839054",
+      "article_type": "",
+      "pubmed_pmid": "40938593",
+      "title": "Survey: Many US Adults Unaware of HPV, Its Link to Cancer.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1223",
+      "authors": [
+        "Schneider L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14392",
       "url": "https://doi.org/10.1001/jama.2025.14392",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838996",
@@ -2162,20 +2183,43 @@
       "abstract_md": "This Perspective explores recent progress and future directions in glucagon-like peptide-1 medicines."
     },
     {
-      "doi": "10.1001/jama.2025.13871",
-      "url": "https://doi.org/10.1001/jama.2025.13871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839054",
+      "doi": "10.1001/jama.2025.12818",
+      "url": "https://doi.org/10.1001/jama.2025.12818",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
       "article_type": "",
-      "pubmed_pmid": "40938593",
-      "title": "Survey: Many US Adults Unaware of HPV, Its Link to Cancer.",
+      "pubmed_pmid": "40810946",
+      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
       "journal": "JAMA",
       "pubdate": "2025 Oct 14",
       "volume": "334",
       "issue": "14",
-      "pages": "1223",
+      "pages": "1294-1295",
       "authors": [
-        "Schneider L Author"
+        "Hailat R Author",
+        "Ridha M Author",
+        "Lin CC Author",
+        "Kerber K Author",
+        "Burke JF Author"
       ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
+    },
+    {
+      "doi": "10.1001/jama.2024.18955",
+      "url": "https://doi.org/10.1001/jama.2024.18955",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
+      "article_type": "",
+      "pubmed_pmid": "41085578",
+      "title": "Audio Highlights: September 19, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "e2418955",
+      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -2223,50 +2267,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2024.18955",
-      "url": "https://doi.org/10.1001/jama.2024.18955",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
-      "article_type": "",
-      "pubmed_pmid": "41085578",
-      "title": "Audio Highlights: September 19, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "e2418955",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.12818",
-      "url": "https://doi.org/10.1001/jama.2025.12818",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
-      "article_type": "",
-      "pubmed_pmid": "40810946",
-      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1294-1295",
-      "authors": [
-        "Hailat R Author",
-        "Ridha M Author",
-        "Lin CC Author",
-        "Kerber K Author",
-        "Burke JF Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
     },
     {
       "doi": "10.1001/jama.2025.12094",
@@ -3360,6 +3360,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14860",
+      "url": "https://doi.org/10.1001/jama.2025.14860",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
+      "article_type": "",
+      "pubmed_pmid": "40965898",
+      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1338",
+      "authors": [
+        "Perlis R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14912",
       "url": "https://doi.org/10.1001/jama.2025.14912",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838663",
@@ -3395,27 +3416,6 @@
       "authors": [
         "Roberts K Author",
         "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14860",
-      "url": "https://doi.org/10.1001/jama.2025.14860",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
-      "article_type": "",
-      "pubmed_pmid": "40965898",
-      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1338",
-      "authors": [
-        "Perlis R Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3908,25 +3908,6 @@
       "abstract_md": "In this Viewpoint, 2025 Albert Lasker Basic Medical Research Award winner Dirk G&#xf6;rlich describes discoveries that exposed the structures and functions of protein sequences of low complexity, revealing new principles of intracellular transport, pathogenesis, and cellular organization."
     },
     {
-      "doi": "10.1001/jama.2024.18963",
-      "url": "https://doi.org/10.1001/jama.2024.18963",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
-      "article_type": "",
-      "pubmed_pmid": "40996758",
-      "title": "Sleep.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1400",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14913",
       "url": "https://doi.org/10.1001/jama.2025.14913",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838662",
@@ -3946,6 +3927,25 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this Viewpoint, 2025 Lasker-DeBakey Clinical Medical Research Award winner Michael J. Welsh describes his contributions to cystic fibrosis (CF) disease identification, understanding the cellular and molecular basis of CF, and development of a highly effective triple-drug treatment."
+    },
+    {
+      "doi": "10.1001/jama.2024.18963",
+      "url": "https://doi.org/10.1001/jama.2024.18963",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
+      "article_type": "",
+      "pubmed_pmid": "40996758",
+      "title": "Sleep.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1400",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.10218",
@@ -5459,29 +5459,6 @@
       "abstract_md": "This Viewpoint explores how training in both the medical and health humanities complements biomedical research, expanding clinician-scholars&#x2019; understanding of human health."
     },
     {
-      "doi": "10.1001/jama.2025.12793",
-      "url": "https://doi.org/10.1001/jama.2025.12793",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
-      "article_type": "",
-      "pubmed_pmid": "40960820",
-      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1484-1485",
-      "authors": [
-        "Feng S Author",
-        "Li H Author",
-        "Sun R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14067",
       "url": "https://doi.org/10.1001/jama.2025.14067",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839085",
@@ -5507,6 +5484,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study uses US national data to examine Epstein-Barr virus&#x2013;seronegative donor kidney use among Epstein-Barr virus&#x2013;seronegative children."
+    },
+    {
+      "doi": "10.1001/jama.2025.12793",
+      "url": "https://doi.org/10.1001/jama.2025.12793",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
+      "article_type": "",
+      "pubmed_pmid": "40960820",
+      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1484-1485",
+      "authors": [
+        "Feng S Author",
+        "Li H Author",
+        "Sun R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13888",
