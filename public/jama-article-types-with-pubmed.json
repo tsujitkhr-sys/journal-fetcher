@@ -198,6 +198,70 @@
       "abstract_md": "This Viewpoint discusses a framework termed temporal medicine that complements rather than replaces spatial reasoning in medicine by shifting the axis of inquiry."
     },
     {
+      "doi": "10.1001/jama.2025.14052",
+      "url": "https://doi.org/10.1001/jama.2025.14052",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
+      "article_type": "",
+      "pubmed_pmid": "40920367",
+      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1139-1140",
+      "authors": [
+        "Kodan A Author",
+        "Kannarkat JT Author",
+        "Alexander GC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
+    },
+    {
+      "doi": "10.1001/jama.2024.18948",
+      "url": "https://doi.org/10.1001/jama.2024.18948",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
+      "article_type": "",
+      "pubmed_pmid": "41055659",
+      "title": "Audio Highlights: September 12, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "e2418948",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.11294",
+      "url": "https://doi.org/10.1001/jama.2025.11294",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
+      "article_type": "",
+      "pubmed_pmid": "40864435",
+      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1201",
+      "authors": [
+        "Philippe J Author",
+        "Powers AC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.13722",
       "url": "https://doi.org/10.1001/jama.2025.13722",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838799",
@@ -268,70 +332,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Multiparametric magnetic resonance imaging (MRI), with or without prostate biopsy, has become the standard of care for diagnosing clinically significant prostate cancer. Resource capacity limits widespread adoption. Biparametric MRI, which omits the gadolinium contrast sequence, is a shorter and cheaper alternative offering time-saving capacity gains for health systems globally. To assess whether biparametric MRI is noninferior to multiparametric MRI for diagnosis of clinically significant prostate cancer. A prospective, multicenter, within-patient, noninferiority trial of biopsy-naive men from 22 centers (12 countries) with clinical suspicion of prostate cancer (elevated prostate-specific antigen [PSA] level and/or abnormal digital rectal examination findings) from April 2022 to September 2023, with the last follow-up conducted on December 3, 2024. Participants underwent multiparametric MRI, comprising T2-weighted, diffusion-weighted, and dynamic contrast-enhanced (DCE) sequences. Radiologists reported abbreviated biparametric MRI first (T2-weighted and diffusion-weighted), blinded to the DCE sequence. After unblinding, radiologists reported the full multiparametric MRI. Patients underwent a targeted biopsy with or without systematic biopsy if either biparametric MRI or multiparametric MRI was suggestive of clinically significant prostate cancer. The primary outcome was the proportion of men with clinically significant prostate cancer. Secondary outcomes included the proportion of men with clinically insignificant cancer. The noninferiority margin was 5%. Of 555 men recruited, 490 were included for primary outcome analysis. Median age was 65 (IQR, 59-70) years and median PSA level was 5.6 (IQR, 4.4-8.0) ng/mL. The proportion of patients with abnormal digital rectal examination findings was 12.7%. Biparametric MRI was noninferior to multiparametric MRI, detecting clinically significant prostate cancer in 143 of 490 men (29.2%), compared with 145 of 490 men (29.6%) (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points; P&#x2009;=&#x2009;.50). Biparametric MRI detected clinically insignificant cancer in 45 of 490 men (9.2%), compared with 47 of 490 men (9.6%) with the use of multiparametric MRI (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points). Central quality control demonstrated that 99% of scans were of adequate diagnostic quality. In men with suspected prostate cancer, provided image quality is adequate, an abbreviated biparametric MRI scan, with or without targeted biopsy, could become the new standard of care for prostate cancer diagnosis. With approximately 4 million prostate MRIs performed globally annually, adopting biparametric MRI could substantially increase scanner throughput and reduce costs worldwide. ClinicalTrials.gov Identifier: NCT04571840."
-    },
-    {
-      "doi": "10.1001/jama.2025.14052",
-      "url": "https://doi.org/10.1001/jama.2025.14052",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
-      "article_type": "",
-      "pubmed_pmid": "40920367",
-      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1139-1140",
-      "authors": [
-        "Kodan A Author",
-        "Kannarkat JT Author",
-        "Alexander GC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
-    },
-    {
-      "doi": "10.1001/jama.2024.18948",
-      "url": "https://doi.org/10.1001/jama.2024.18948",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
-      "article_type": "",
-      "pubmed_pmid": "41055659",
-      "title": "Audio Highlights: September 12, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "e2418948",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.11294",
-      "url": "https://doi.org/10.1001/jama.2025.11294",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
-      "article_type": "",
-      "pubmed_pmid": "40864435",
-      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1201",
-      "authors": [
-        "Philippe J Author",
-        "Powers AC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.10025",
@@ -621,6 +621,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14049",
+      "url": "https://doi.org/10.1001/jama.2025.14049",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
+      "article_type": "",
+      "pubmed_pmid": "40906488",
+      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1137-1138",
+      "authors": [
+        "Shachar C Author",
+        "Lynch J Author",
+        "Costello K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
+    },
+    {
       "doi": "10.1001/jama.2025.10022",
       "url": "https://doi.org/10.1001/jama.2025.10022",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838503",
@@ -684,29 +707,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14049",
-      "url": "https://doi.org/10.1001/jama.2025.14049",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
-      "article_type": "",
-      "pubmed_pmid": "40906488",
-      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1137-1138",
-      "authors": [
-        "Shachar C Author",
-        "Lynch J Author",
-        "Costello K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
     },
     {
       "doi": "10.1001/jama.2025.13358",
@@ -1633,6 +1633,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14389",
+      "url": "https://doi.org/10.1001/jama.2025.14389",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
+      "article_type": "",
+      "pubmed_pmid": "40952725",
+      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1240-1242",
+      "authors": [
+        "Metcalf RA Author",
+        "Dhiman P Author",
+        "Stanworth SJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.12946",
       "url": "https://doi.org/10.1001/jama.2025.12946",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838191",
@@ -1667,29 +1690,6 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14389",
-      "url": "https://doi.org/10.1001/jama.2025.14389",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
-      "article_type": "",
-      "pubmed_pmid": "40952725",
-      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1240-1242",
-      "authors": [
-        "Metcalf RA Author",
-        "Dhiman P Author",
-        "Stanworth SJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2033,28 +2033,21 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14150",
-      "url": "https://doi.org/10.1001/jama.2025.14150",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
+      "doi": "10.1001/jama.2024.18954",
+      "url": "https://doi.org/10.1001/jama.2024.18954",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839946",
       "article_type": "",
-      "pubmed_pmid": "40928804",
-      "title": "Leveraging Novel Alternative Payment Models to Promote Evidence-Based Behavioral Health Care.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1229-1230",
-      "authors": [
-        "Huang JJ Author",
-        "McNutt C Author",
-        "Carlo AD Author",
-        "Busch AB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.14852",
@@ -2078,21 +2071,28 @@
       "abstract_md": "In this narrative medicine essay, a pediatric hospitalist who had to navigate alone her grief after her mom died during medical school offers some suggestions about the process to a friend as he navigates the loss of his mother."
     },
     {
-      "doi": "10.1001/jama.2024.18954",
-      "url": "https://doi.org/10.1001/jama.2024.18954",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839946",
+      "doi": "10.1001/jama.2025.14150",
+      "url": "https://doi.org/10.1001/jama.2025.14150",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "40928804",
+      "title": "Leveraging Novel Alternative Payment Models to Promote Evidence-Based Behavioral Health Care.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1229-1230",
+      "authors": [
+        "Huang JJ Author",
+        "McNutt C Author",
+        "Carlo AD Author",
+        "Busch AB Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
     },
     {
       "doi": "10.1001/jama.2025.12222",
@@ -2291,30 +2291,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.9495",
-      "url": "https://doi.org/10.1001/jama.2025.9495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2836686",
-      "article_type": "",
-      "pubmed_pmid": "40690248",
-      "title": "Ovarian Cancer: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1278-1291",
-      "authors": [
-        "Caruso G Author",
-        "Weroha SJ Author",
-        "Cliby W Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324&#x202f;398 individuals, and 206&#x202f;839 died of ovarian cancer worldwide. In 2025, it is estimated that 20&#x202f;890 US women will be diagnosed with ovarian cancer and 12&#x202f;730 patients will die of ovarian cancer. Approximately 90% of ovarian cancers are epithelial malignancies, of which 70% to 80% are high-grade serous ovarian cancers. Less common epithelial subtypes include endometrioid, clear cell, low-grade serous, mucinous, and carcinosarcoma. The median age at diagnosis of ovarian cancer is 63 years. Risk factors include older age, family history of breast or ovarian cancer, endometriosis, and nulliparity. Hereditary factors are associated with 25% of cases, predominantly linked to BRCA1/2 gene variants. At diagnosis, approximately 95% of patients experience nonspecific symptoms, such as abdominal pain, bloating, and urinary urgency and frequency, and about 80% have advanced-stage disease (stage III-IV), including extrapelvic disease, ascites, and abdominal masses. Diagnostic and staging evaluation includes pelvic ultrasound; computed tomography of the chest, abdomen, and pelvis; and serum tumor markers such as carbohydrate antigen 125, carbohydrate antigen 19-9, and carcinoembryonic antigen. First-line treatment for early-stage ovarian cancer, defined as limited to the ovary or fallopian tube (stage I) or confined to the pelvis (stage II), is surgery (hysterectomy, bilateral salpingo-oophorectomy, omentectomy, and lymphadenectomy), followed by adjuvant chemotherapy (carboplatin and paclitaxel). With treatment, early-stage ovarian cancer has a 5-year overall survival of 70% to 95%. Advanced-stage ovarian cancer may be treated with primary cytoreductive surgery (removal of all visible cancer in the abdominal cavity) and adjuvant chemotherapy (carboplatin and paclitaxel) or with neoadjuvant chemotherapy followed by cytoreductive surgery and adjuvant chemotherapy. Most patients with advanced-stage ovarian cancer receive maintenance therapy with bevacizumab (a monoclonal antibody that blocks angiogenesis) and/or poly-adenosine diphosphate ribose polymerase (PARP) inhibitors. With treatment, the 5-year overall survival rate for advanced-stage ovarian cancer is 10% to 40%. However, individuals with BRCA-related gene variants have a 5-year overall survival rate of approximately 70% with PARP inhibitor treatment. Despite an initial remission rate of 80%, approximately 75% of patients with advanced-stage disease have ovarian cancer relapse within 2 years. Approximately 21&#x202f;000 women are diagnosed with ovarian cancer annually in the US, and approximately 80% have advanced-stage ovarian cancer at diagnosis. First-line treatment of early-stage ovarian cancer is surgery and adjuvant platinum-based chemotherapy. Treatment of advanced-stage ovarian cancer includes cytoreductive surgery, platinum-based chemotherapy, and targeted maintenance therapies such as bevacizumab and/or PARP inhibitors."
-    },
-    {
       "doi": "10.1001/jama.2025.14092",
       "url": "https://doi.org/10.1001/jama.2025.14092",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838293",
@@ -2341,6 +2317,30 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Heart failure with preserved ejection fraction (HFpEF) is a major cause of hospitalization, often occurring in patients with cardiometabolic comorbidities such as obesity and type 2 diabetes. Although early trials of semaglutide and tirzepatide have shown promising results in improving symptoms, those findings were based on few clinical events, leaving treatment recommendations uncertain. To evaluate the effectiveness and safety of semaglutide and tirzepatide in patients with cardiometabolic HFpEF in clinical practice. Five cohort studies using national US health care claims data from 2018 to 2024. Two cohort studies emulated the STEP-HFpEF DM (semaglutide) and SUMMIT (tirzepatide) trials to benchmark results. Eligibility criteria were then expanded to evaluate treatment effects in patients typically treated in clinical practice. Finally, a head-to-head comparison of tirzepatide and semaglutide was implemented. Follow-up was up to 52 weeks. New use of semaglutide, tirzepatide, or sitagliptin as a placebo proxy. The primary end point was a composite of hospitalization for heart failure or all-cause mortality. Negative control outcomes, secondary end points, subgroups, and sensitivity analyses were prespecified. Hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated by fitting proportional hazards models with propensity score weighting to adjust for a comprehensive set of pretreatment patient characteristics. Benchmarking of the 2 trial emulations demonstrated high agreement on all prespecified metrics. In analyses using expanded eligibility criteria, 58&#x202f;333 patients were included in the semaglutide vs sitagliptin cohort, 11&#x202f;257 for tirzepatide vs sitagliptin, and 28&#x202f;100 for tirzepatide vs semaglutide. Initiators of semaglutide (HR, 0.58 [95% CI, 0.51-0.65]) and tirzepatide (HR, 0.42 [95% CI, 0.31-0.57]) had substantially lower risk of the primary end point compared with sitagliptin. Tirzepatide had no meaningfully lowered risk compared with semaglutide (HR, 0.86 [95% CI, 0.70-1.06]). Negative controls, secondary end points, subgroups, and sensitivity analyses showed consistent results. No substantially increased risk was observed for select safety end points. In patients with cardiometabolic HFpEF, semaglutide and tirzepatide showed more than 40% risk reduction for the composite of hospitalization for heart failure or all-cause mortality compared with a placebo proxy. Tirzepatide showed no meaningful benefit over semaglutide. ClinicalTrials.gov Identifiers: NCT06914102, NCT06914154, NCT06914141."
+    },
+    {
+      "doi": "10.1001/jama.2025.9495",
+      "url": "https://doi.org/10.1001/jama.2025.9495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2836686",
+      "article_type": "",
+      "pubmed_pmid": "40690248",
+      "title": "Ovarian Cancer: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1278-1291",
+      "authors": [
+        "Caruso G Author",
+        "Weroha SJ Author",
+        "Cliby W Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324&#x202f;398 individuals, and 206&#x202f;839 died of ovarian cancer worldwide. In 2025, it is estimated that 20&#x202f;890 US women will be diagnosed with ovarian cancer and 12&#x202f;730 patients will die of ovarian cancer. Approximately 90% of ovarian cancers are epithelial malignancies, of which 70% to 80% are high-grade serous ovarian cancers. Less common epithelial subtypes include endometrioid, clear cell, low-grade serous, mucinous, and carcinosarcoma. The median age at diagnosis of ovarian cancer is 63 years. Risk factors include older age, family history of breast or ovarian cancer, endometriosis, and nulliparity. Hereditary factors are associated with 25% of cases, predominantly linked to BRCA1/2 gene variants. At diagnosis, approximately 95% of patients experience nonspecific symptoms, such as abdominal pain, bloating, and urinary urgency and frequency, and about 80% have advanced-stage disease (stage III-IV), including extrapelvic disease, ascites, and abdominal masses. Diagnostic and staging evaluation includes pelvic ultrasound; computed tomography of the chest, abdomen, and pelvis; and serum tumor markers such as carbohydrate antigen 125, carbohydrate antigen 19-9, and carcinoembryonic antigen. First-line treatment for early-stage ovarian cancer, defined as limited to the ovary or fallopian tube (stage I) or confined to the pelvis (stage II), is surgery (hysterectomy, bilateral salpingo-oophorectomy, omentectomy, and lymphadenectomy), followed by adjuvant chemotherapy (carboplatin and paclitaxel). With treatment, early-stage ovarian cancer has a 5-year overall survival of 70% to 95%. Advanced-stage ovarian cancer may be treated with primary cytoreductive surgery (removal of all visible cancer in the abdominal cavity) and adjuvant chemotherapy (carboplatin and paclitaxel) or with neoadjuvant chemotherapy followed by cytoreductive surgery and adjuvant chemotherapy. Most patients with advanced-stage ovarian cancer receive maintenance therapy with bevacizumab (a monoclonal antibody that blocks angiogenesis) and/or poly-adenosine diphosphate ribose polymerase (PARP) inhibitors. With treatment, the 5-year overall survival rate for advanced-stage ovarian cancer is 10% to 40%. However, individuals with BRCA-related gene variants have a 5-year overall survival rate of approximately 70% with PARP inhibitor treatment. Despite an initial remission rate of 80%, approximately 75% of patients with advanced-stage disease have ovarian cancer relapse within 2 years. Approximately 21&#x202f;000 women are diagnosed with ovarian cancer annually in the US, and approximately 80% have advanced-stage ovarian cancer at diagnosis. First-line treatment of early-stage ovarian cancer is surgery and adjuvant platinum-based chemotherapy. Treatment of advanced-stage ovarian cancer includes cytoreductive surgery, platinum-based chemotherapy, and targeted maintenance therapies such as bevacizumab and/or PARP inhibitors."
     },
     {
       "doi": "10.1001/jama.2025.14194",
@@ -2973,27 +2973,6 @@
       "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
     },
     {
-      "doi": "10.1001/jama.2025.17517",
-      "url": "https://doi.org/10.1001/jama.2025.17517",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840450",
-      "article_type": "",
-      "pubmed_pmid": "41105404",
-      "title": "School Cell Phone Bans Vary Across Grade Levels, Poverty Areas.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17513",
       "url": "https://doi.org/10.1001/jama.2025.17513",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840454",
@@ -3007,6 +2986,27 @@
       "pages": "",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17517",
+      "url": "https://doi.org/10.1001/jama.2025.17517",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840450",
+      "article_type": "",
+      "pubmed_pmid": "41105404",
+      "title": "School Cell Phone Bans Vary Across Grade Levels, Poverty Areas.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 17",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3359,6 +3359,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14860",
+      "url": "https://doi.org/10.1001/jama.2025.14860",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
+      "article_type": "",
+      "pubmed_pmid": "40965898",
+      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1338",
+      "authors": [
+        "Perlis R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14912",
       "url": "https://doi.org/10.1001/jama.2025.14912",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838663",
@@ -3394,27 +3415,6 @@
       "authors": [
         "Roberts K Author",
         "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14860",
-      "url": "https://doi.org/10.1001/jama.2025.14860",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
-      "article_type": "",
-      "pubmed_pmid": "40965898",
-      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1338",
-      "authors": [
-        "Perlis R Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3514,6 +3514,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14914",
+      "url": "https://doi.org/10.1001/jama.2025.14914",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
+      "article_type": "",
+      "pubmed_pmid": "40932705",
+      "title": "When Biology Breaks the Rules.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1331-1332",
+      "authors": [
+        "Triana AJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
+    },
+    {
       "doi": "10.1001/jama.2025.13481",
       "url": "https://doi.org/10.1001/jama.2025.13481",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838505",
@@ -3547,27 +3568,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Effective and well-tolerated pharmacotherapies for generalized anxiety disorder (GAD), which is one of the most common psychiatric disorders, are needed. To determine the dose-response relationship of MM120 (lysergide D-tartrate) in adults with moderate to severe GAD. This phase 2b, multicenter, randomized, double-blind, placebo-controlled study enrolled 198 adults aged 18 to 74 years with a primary GAD diagnosis who presented with moderate to severe symptoms (defined by a Hamilton Anxiety Rating Scale [HAM-A] score &#x2265;20) and was conducted at 22 outpatient psychiatric research sites in the US from August 2022 to August 2023. The anxiety and depression end point assessments were conducted by independent central raters who were blinded to the trial protocol, treatment allocation, and study visit date. The last date of follow-up was November 27, 2023. Participants were randomized to receive a single (freebase equivalent) treatment dose with 25 &#xb5;g (n&#x2009;=&#x2009;39), 50 &#xb5;g (n&#x2009;=&#x2009;40), 100 &#xb5;g (n&#x2009;=&#x2009;40), or 200 &#xb5;g (n&#x2009;=&#x2009;40) of MM120 or placebo (n&#x2009;=&#x2009;39). The primary outcome was a dose-response relationship assessed using the multiple comparison procedure modeling (MCP-Mod) method for change in HAM-A score at 4 weeks (score range, 0-56; higher scores indicate greater severity; &#x2264;7 indicates no or minimal anxiety; 8-14, mild; 15-23, moderate; and &#x2265;24, severe). The minimal clinically important difference was 2.5 points. Of the 198 participants randomized, 194 were included in the full analysis set (mean age, 41.3 [SD, 13.6] years; 56.7% were female; and 3.6% were Asian, 7.7% were Black or African American, and 83.0% were White). The dose-response relationship assessed using the MCP-Mod method for change in HAM-A score at week 4 was statistically significant for the 100-&#xb5;g and the 200-&#xb5;g dose groups vs placebo (least-squares mean difference, -5.0 points [95% CI, -9.6 to -0.4 points] with 100 &#xb5;g of MM120 and -6.0 points [95% CI, -9.8 to -2.0 points] with 200 &#xb5;g of MM120) but the 25-&#xb5;g and 50-&#xb5;g dose groups did not reach significance vs placebo (least-squares mean difference, -1.2 points [95% CI, -6.0 to 3.5 points] with 25 &#xb5;g of MM120 and -1.8 points [95% CI, -7.6 to 4.0 points] with 50 &#xb5;g of MM120). The adverse events were consistent with the expected effects of MM120. The most common adverse events were visual perceptual changes (illusion, pseudo-hallucination, and visual hallucination), which occurred in 46.2% of participants who received 25 &#xb5;g of MM120, in 75.0% who received 50 &#xb5;g, in 92.5% who received 100 &#xb5;g, in 100% who received 200 &#xb5;g, and in 10.3% who received placebo; nausea occurred in 7.7%, 27.5%, 40.0%, 60.0%, and 7.7%, respectively; and headache occurred in 12.8%, 22.5%, 35.0%, 27.5%, and 23.1%. In participants with moderate to severe GAD, a single dose of MM120 produced a dose-dependent reduction in anxiety. These results support the dose-dependent efficacy of MM120 and inform the dose selection for phase 3 pivotal trials. ClinicalTrials.gov Identifier: NCT05407064."
-    },
-    {
-      "doi": "10.1001/jama.2025.14914",
-      "url": "https://doi.org/10.1001/jama.2025.14914",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
-      "article_type": "",
-      "pubmed_pmid": "40932705",
-      "title": "When Biology Breaks the Rules.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1331-1332",
-      "authors": [
-        "Triana AJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
     },
     {
       "doi": "10.1001/jama.2025.12650",
@@ -4986,28 +4986,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.12790",
-      "url": "https://doi.org/10.1001/jama.2025.12790",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839082",
-      "article_type": "",
-      "pubmed_pmid": "40960850",
-      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1485",
-      "authors": [
-        "Zhu J Author",
-        "Zhang W Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.16705",
       "url": "https://doi.org/10.1001/jama.2025.16705",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838492",
@@ -5022,6 +5000,28 @@
       "authors": [
         "Chu HY Author",
         "Murray AF Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.12790",
+      "url": "https://doi.org/10.1001/jama.2025.12790",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839082",
+      "article_type": "",
+      "pubmed_pmid": "40960850",
+      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1485",
+      "authors": [
+        "Zhu J Author",
+        "Zhang W Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5392,6 +5392,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.13887",
+      "url": "https://doi.org/10.1001/jama.2025.13887",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
+      "article_type": "",
+      "pubmed_pmid": "41004139",
+      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1416",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.12305",
       "url": "https://doi.org/10.1001/jama.2025.12305",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839297",
@@ -5406,27 +5427,6 @@
       "authors": [
         "Roberts K Author",
         "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.13887",
-      "url": "https://doi.org/10.1001/jama.2025.13887",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
-      "article_type": "",
-      "pubmed_pmid": "41004139",
-      "title": "Updated COVID-19 Vaccine Generates Strong Immune Response.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1416",
-      "authors": [
-        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
