@@ -69,29 +69,6 @@
       "abstract_md": "This JAMA Patient Page describes early-onset gastrointestinal cancer and its risk factors, signs and symptoms, management, prognosis, and prevention measures."
     },
     {
-      "doi": "10.1001/jama.2025.14449",
-      "url": "https://doi.org/10.1001/jama.2025.14449",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839638",
-      "article_type": "",
-      "pubmed_pmid": "41032334",
-      "title": "Management of Severe Refractory Asthma.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Cardet JC Author",
-        "Chiarella SE Author",
-        "Hernandez ML Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Insights explores the management of severe refractory asthma, including medications, access to specialists, and managing environmental triggers."
-    },
-    {
       "doi": "10.1001/jama.2025.19510",
       "url": "https://doi.org/10.1001/jama.2025.19510",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839628",
@@ -111,28 +88,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the potential repercussions of eliminating mandatory vaccination in Florida, including surges in outbreaks, hospitalizations, and preventable deaths."
-    },
-    {
-      "doi": "10.1001/jama.2025.17221",
-      "url": "https://doi.org/10.1001/jama.2025.17221",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839631",
-      "article_type": "",
-      "pubmed_pmid": "41032289",
-      "title": "Elevating Service in Academic Medicine-The S-Index.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Mannix R Author",
-        "Bell MJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint proposes the development and adoption of a service index (s-index), a standardized, quantitative measure of service contribution in academic medicine."
     },
     {
       "doi": "10.1001/jama.2025.19138",
@@ -196,6 +151,70 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses a framework termed temporal medicine that complements rather than replaces spatial reasoning in medicine by shifting the axis of inquiry."
+    },
+    {
+      "doi": "10.1001/jama.2025.14052",
+      "url": "https://doi.org/10.1001/jama.2025.14052",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
+      "article_type": "",
+      "pubmed_pmid": "40920367",
+      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1139-1140",
+      "authors": [
+        "Kodan A Author",
+        "Kannarkat JT Author",
+        "Alexander GC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
+    },
+    {
+      "doi": "10.1001/jama.2024.18948",
+      "url": "https://doi.org/10.1001/jama.2024.18948",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
+      "article_type": "",
+      "pubmed_pmid": "41055659",
+      "title": "Audio Highlights: September 12, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "e2418948",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.11294",
+      "url": "https://doi.org/10.1001/jama.2025.11294",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
+      "article_type": "",
+      "pubmed_pmid": "40864435",
+      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1201",
+      "authors": [
+        "Philippe J Author",
+        "Powers AC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13722",
@@ -270,87 +289,19 @@
       "abstract_md": "Multiparametric magnetic resonance imaging (MRI), with or without prostate biopsy, has become the standard of care for diagnosing clinically significant prostate cancer. Resource capacity limits widespread adoption. Biparametric MRI, which omits the gadolinium contrast sequence, is a shorter and cheaper alternative offering time-saving capacity gains for health systems globally. To assess whether biparametric MRI is noninferior to multiparametric MRI for diagnosis of clinically significant prostate cancer. A prospective, multicenter, within-patient, noninferiority trial of biopsy-naive men from 22 centers (12 countries) with clinical suspicion of prostate cancer (elevated prostate-specific antigen [PSA] level and/or abnormal digital rectal examination findings) from April 2022 to September 2023, with the last follow-up conducted on December 3, 2024. Participants underwent multiparametric MRI, comprising T2-weighted, diffusion-weighted, and dynamic contrast-enhanced (DCE) sequences. Radiologists reported abbreviated biparametric MRI first (T2-weighted and diffusion-weighted), blinded to the DCE sequence. After unblinding, radiologists reported the full multiparametric MRI. Patients underwent a targeted biopsy with or without systematic biopsy if either biparametric MRI or multiparametric MRI was suggestive of clinically significant prostate cancer. The primary outcome was the proportion of men with clinically significant prostate cancer. Secondary outcomes included the proportion of men with clinically insignificant cancer. The noninferiority margin was 5%. Of 555 men recruited, 490 were included for primary outcome analysis. Median age was 65 (IQR, 59-70) years and median PSA level was 5.6 (IQR, 4.4-8.0) ng/mL. The proportion of patients with abnormal digital rectal examination findings was 12.7%. Biparametric MRI was noninferior to multiparametric MRI, detecting clinically significant prostate cancer in 143 of 490 men (29.2%), compared with 145 of 490 men (29.6%) (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points; P&#x2009;=&#x2009;.50). Biparametric MRI detected clinically insignificant cancer in 45 of 490 men (9.2%), compared with 47 of 490 men (9.6%) with the use of multiparametric MRI (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points). Central quality control demonstrated that 99% of scans were of adequate diagnostic quality. In men with suspected prostate cancer, provided image quality is adequate, an abbreviated biparametric MRI scan, with or without targeted biopsy, could become the new standard of care for prostate cancer diagnosis. With approximately 4 million prostate MRIs performed globally annually, adopting biparametric MRI could substantially increase scanner throughput and reduce costs worldwide. ClinicalTrials.gov Identifier: NCT04571840."
     },
     {
-      "doi": "10.1001/jama.2025.14052",
-      "url": "https://doi.org/10.1001/jama.2025.14052",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
-      "article_type": "",
-      "pubmed_pmid": "40920367",
-      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1139-1140",
-      "authors": [
-        "Kodan A Author",
-        "Kannarkat JT Author",
-        "Alexander GC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
-    },
-    {
-      "doi": "10.1001/jama.2024.18948",
-      "url": "https://doi.org/10.1001/jama.2024.18948",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
-      "article_type": "",
-      "pubmed_pmid": "41055659",
-      "title": "Audio Highlights: September 12, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "e2418948",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.11294",
-      "url": "https://doi.org/10.1001/jama.2025.11294",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
-      "article_type": "",
-      "pubmed_pmid": "40864435",
-      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1201",
-      "authors": [
-        "Philippe J Author",
-        "Powers AC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.10025",
       "url": "https://doi.org/10.1001/jama.2025.10025",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838502",
       "article_type": "",
-      "pubmed_pmid": "41055658",
-      "title": "Paradoxes in Poetry and Healing.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1205",
-      "authors": [
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -443,19 +394,15 @@
       "url": "https://doi.org/10.1001/jama.2025.9045",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838459",
       "article_type": "",
-      "pubmed_pmid": "41055660",
-      "title": "Hemianopsia.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1204",
-      "authors": [
-        "Gopinathan JC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -603,20 +550,15 @@
       "url": "https://doi.org/10.1001/jama.2025.9048",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838458",
       "article_type": "",
-      "pubmed_pmid": "41055657",
-      "title": "Poetry and Medicine as a Shared Vision.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1204",
-      "authors": [
-        "Roberts K Author",
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -648,19 +590,15 @@
       "url": "https://doi.org/10.1001/jama.2025.10022",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838503",
       "article_type": "",
-      "pubmed_pmid": "41055661",
-      "title": "A wound's what I want.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1205",
-      "authors": [
-        "Broderick Byler L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -703,7 +641,8 @@
         "Morgan TM Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1149,48 +1088,6 @@
       "abstract_md": "This JAMA Insights discusses the definition and classification of accidental hypothermia as well as indications for extracorporeal life support."
     },
     {
-      "doi": "10.1001/jama.2025.16837",
-      "url": "https://doi.org/10.1001/jama.2025.16837",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839664",
-      "article_type": "",
-      "pubmed_pmid": "41060661",
-      "title": "Respiratory Gas Shifts to Delay Asphyxiation in Critical Avalanche Burial: A Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 8",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Eisendle F Author",
-        "Roveri G Author",
-        "Rauch S Author",
-        "Thomassen Ø Author",
-        "Dal Cappello T Author",
-        "Assmus J Author",
-        "Malacrida S Author",
-        "Kammerer T Author",
-        "Schweizer J Author",
-        "Borasio N Author",
-        "Dörck V Author",
-        "Falk M Author",
-        "Falla M Author",
-        "Fruzzetti N Author",
-        "Maxenti M Author",
-        "Mydske S Author",
-        "Sasso GM Author",
-        "Vinetti G Author",
-        "Wallner B Author",
-        "Brattebø G Author",
-        "Brugger H Author",
-        "Strapazzon G Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "People who are critically buried by an avalanche typically die of asphyxia within 35 minutes, often making timely rescue impossible. The development of new strategies to delay asphyxiation is crucial to improve survival rates. To investigate the efficacy of a novel, user-carried avalanche safety device that delivers airflow from avalanche debris to the user's airway without requiring supplemental oxygen or a mouthpiece. This randomized, blinded, clinical trial was organized by 4 institutions and conducted at 1 field location in Italy from January to March 2023. Healthy volunteers aged 18 to 60 years were enrolled. Trial participants underwent a critical snow burial simulation while in a prone position covered by at least 50 cm of snow. Vital parameters were continuously monitored throughout the simulation to ensure participant safety and to collect physiological data. Participants were randomized to the safety device group (using the Safeback SBX device) or the control group (using a sham device). The safety device group completed an unblinded control in which the participants who remained buried after 35 minutes were seamlessly transferred to the sham device. The primary outcome measure was the time to oxygen saturation as measured by pulse oximetry (Spo2) less than 80% (event) during 35 minutes of monitoring, comparing intervention and control groups. Secondary outcomes included oxygen and carbon dioxide concentrations at different distances in the snow. Of 36 randomized participants, 24 performed and completed the trial and were included in the final analysis. The median (IQR) age was 27 (25-32) years, and 13 (54%) were male. In the safety device group, the median (IQR) burial duration was 35.0 (35.0-35.0) minutes and there were no events; in the control group, the median (IQR) burial duration was 6.4 (4.8-13.5) minutes and there were 7 events. The safety device group had a significantly lower risk of termination due to Spo2 less than 80% (P&#x2009;&lt;&#x2009;.001 for both log-rank and Breslow tests). Carbon dioxide in the air pocket was 1.3% (95% CI, 1.0%-1.6%) vs 6.1% (95% CI, 5.1%-7.1%) and oxygen was 19.8% (95% CI, 19.5%-20.1%) vs 12.4% (95% CI, 11.2%-13.5%) at the same points in the safety device and control groups, respectively. A user-carried avalanche safety device that delivers airflow from avalanche debris to the user's airways without requiring supplemental oxygen delayed critical hypoxemia and hypercapnia during simulated critical burial. ClinicalTrials.gov Identifier: NCT05779540."
-    },
-    {
       "doi": "10.1001/jama.2025.17274",
       "url": "https://doi.org/10.1001/jama.2025.17274",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839667",
@@ -1217,28 +1114,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study examines the relevance of minimum case volume recommendations in contemporary practice."
-    },
-    {
-      "doi": "10.1001/jama.2025.14396",
-      "url": "https://doi.org/10.1001/jama.2025.14396",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839669",
-      "article_type": "",
-      "pubmed_pmid": "41060628",
-      "title": "A Breath of Fresh Air-Improving Survival After Avalanche Burial.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 8",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Martin DS Author",
-        "McKenna HT Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18709",
@@ -1336,27 +1211,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The incidence and burden of new-onset atrial fibrillation (AF) after coronary artery bypass grafting (CABG) are not known. Nevertheless, North American guidelines state that it is reasonable to administer 60 days of oral anticoagulation to patients with new-onset AF after CABG, a moderate-strength recommendation (class 2a) based on evidence derived from nonrandomized clinical studies. To test the hypothesis that the incidence of new-onset AF within the first year after CABG is higher than suggested in the current literature and to assess AF burden. A prospective, multicenter cohort study in 2 academic cardiac surgery centers in Germany that involved 198 patients with 3-vessel coronary artery disease or left main disease and no history of arrhythmias who received an insertable cardiac monitor during CABG for long-term continuous electrocardiographic monitoring. Patients were enrolled from November 2019 through November 2023 and were followed up for 1 year. Atrial fibrillation detected within a year of continuous monitoring using insertable cardiac monitors implanted during CABG. Cumulative incidence of new-onset AF within a year of surgery. Secondary outcomes were AF burden and clinical outcomes. A total of 1217 patients were assessed, and 1008 were excluded. Of the 198 patients enrolled (173 male [87.4%]; 25 female [12.6%]; mean age, 66 [SD, 9] years), 95 patients developed new-onset AF within the first year after CABG (cumulative incidence, 48%; 95% CI, 41%-55%). The median AF burden during the first year was 0.07% (IQR, 0.02%-0.23%) or 370 minutes. The median AF burden on days 1 through 7 was 3.65% (IQR, 0.95%-9.09%); on days 8 through 30, 0.04% (IQR, 0%-1.21%); and on days 31 through 365, 0% (IQR, 0%-0.0003%), corresponding to 368, 13, and 0 minutes, respectively. After discharge, 3 patients had an AF episode longer than 24 hours. Although the incidence of new-onset AF after CABG in this study was higher than previously reported, the AF burden in these patients was very low, especially after 30 days. The very low AF burden questions the current guideline recommendations that long-term oral anticoagulation should be considered in patients with new-onset AF after CABG."
-    },
-    {
-      "doi": "10.1001/jama.2025.18165",
-      "url": "https://doi.org/10.1001/jama.2025.18165",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839713",
-      "article_type": "",
-      "pubmed_pmid": "41066092",
-      "title": "Through the Glass.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Shah J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, an otolaryngologist describes her enduring grief over the death of her father to COVID-19, a grief that doubles when hearing comments questioning whether the pandemic even occurred."
     },
     {
       "doi": "10.1001/jama.2025.17235",
@@ -1472,51 +1326,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14163",
-      "url": "https://doi.org/10.1001/jama.2025.14163",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839938",
-      "article_type": "",
-      "pubmed_pmid": "41082194",
-      "title": "Adult Adrenal Insufficiency-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Vaidya A Author",
-        "Findling J Author",
-        "Bancos I Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.19441",
-      "url": "https://doi.org/10.1001/jama.2025.19441",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840176",
-      "article_type": "",
-      "pubmed_pmid": "41082372",
-      "title": "Intra-Arterial Thrombolysis After Thrombectomy-Does the Story Have an Epilogue?",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Seitz A Author",
-        "Leslie-Mazwi TM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.16613",
       "url": "https://doi.org/10.1001/jama.2025.16613",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839941",
@@ -1548,68 +1357,6 @@
       "abstract_md": "This study uses prospectively collected data from the ABCD study to assess the relationship between longitudinal patterns of social media use (hours per day) and cognitive performance after 2 years in a diverse US sample of younger adolescents."
     },
     {
-      "doi": "10.1001/jama.2025.16876",
-      "url": "https://doi.org/10.1001/jama.2025.16876",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839937",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14157",
-      "url": "https://doi.org/10.1001/jama.2025.14157",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839940",
-      "article_type": "",
-      "pubmed_pmid": "41082187",
-      "title": "Adult Adrenal Insufficiency.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Giardina D Author",
-        "Hoffman RS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14160",
-      "url": "https://doi.org/10.1001/jama.2025.14160",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839939",
-      "article_type": "",
-      "pubmed_pmid": "41082218",
-      "title": "Adult Adrenal Insufficiency.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Sankar A Author",
-        "Syed AA Author",
-        "Heald A Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18668",
       "url": "https://doi.org/10.1001/jama.2025.18668",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839942",
@@ -1628,6 +1375,30 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14389",
+      "url": "https://doi.org/10.1001/jama.2025.14389",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
+      "article_type": "",
+      "pubmed_pmid": "40952725",
+      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1240-1242",
+      "authors": [
+        "Metcalf RA Author",
+        "Dhiman P Author",
+        "Stanworth SJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1667,29 +1438,6 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14389",
-      "url": "https://doi.org/10.1001/jama.2025.14389",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
-      "article_type": "",
-      "pubmed_pmid": "40952725",
-      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1240-1242",
-      "authors": [
-        "Metcalf RA Author",
-        "Dhiman P Author",
-        "Stanworth SJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -1812,7 +1560,8 @@
         "Lee XW Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -2554,50 +2303,6 @@
       "abstract_md": "This study analyzes the prevalence of reported conflicts of interest (COIs) among attendees at 2000-2024 meetings of the Centers for Disease Control and Prevention&#x2019;s Advisory Committee on Immunization Practices (ACIP) and the US Food and Drug Administration&#x2019;s Vaccines and Related Biological Products Advisory Committee (VRBPAC)."
     },
     {
-      "doi": "10.1001/jama.2025.14443",
-      "url": "https://doi.org/10.1001/jama.2025.14443",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839987",
-      "article_type": "",
-      "pubmed_pmid": "41091482",
-      "title": "Addictive Screen Use and Youth Mental Health-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Xiao Y Author",
-        "Keyes KM Author",
-        "Mann JJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14721",
-      "url": "https://doi.org/10.1001/jama.2025.14721",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
-      "article_type": "",
-      "pubmed_pmid": "41091498",
-      "title": "What We Couldn't Name.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Singh P Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14718",
       "url": "https://doi.org/10.1001/jama.2025.14718",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839990",
@@ -2619,28 +2324,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses rising detection of microplastics in human tissue and the importance of international cooperation to limit plastic pollution."
-    },
-    {
-      "doi": "10.1001/jama.2025.14437",
-      "url": "https://doi.org/10.1001/jama.2025.14437",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839989",
-      "article_type": "",
-      "pubmed_pmid": "41091484",
-      "title": "Addictive Screen Use and Youth Mental Health.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Christakis DA Author",
-        "Hale L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18639",
@@ -2667,50 +2350,6 @@
       "abstract_md": "This Viewpoint discusses whether mandatory chromosomal screening improves competitive integrity enough to justify its costs to athletes."
     },
     {
-      "doi": "10.1001/jama.2025.14724",
-      "url": "https://doi.org/10.1001/jama.2025.14724",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839985",
-      "article_type": "",
-      "pubmed_pmid": "41091514",
-      "title": "Family and Social Histories as Poetry.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14440",
-      "url": "https://doi.org/10.1001/jama.2025.14440",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839988",
-      "article_type": "",
-      "pubmed_pmid": "41091512",
-      "title": "Addictive Screen Use and Youth Mental Health.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Ahmed M Author",
-        "Shafi SR Author",
-        "Hakeem N Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18663",
       "url": "https://doi.org/10.1001/jama.2025.18663",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840086",
@@ -2730,54 +2369,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a surgical oncologist who befriends a patient contemplates the meaning of their relationship as it extends beyond the walls of her office."
-    },
-    {
-      "doi": "10.1001/jama.2025.16372",
-      "url": "https://doi.org/10.1001/jama.2025.16372",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840089",
-      "article_type": "",
-      "pubmed_pmid": "41100108",
-      "title": "Pathogenic Germline Variants in Cancer Susceptibility Genes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 16",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Idumah G Author",
-        "Newell D Author",
-        "Hadrys M Author",
-        "Ribaudo I Author",
-        "Ni Y Author",
-        "Arbesman J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This cross-sectional analysis uses data from the All of Us study to estimate the population-level prevalence in US adults of pathogenic variants in key cancer susceptibility genes."
-    },
-    {
-      "doi": "10.1001/jama.2025.14970",
-      "url": "https://doi.org/10.1001/jama.2025.14970",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840087",
-      "article_type": "",
-      "pubmed_pmid": "41100107",
-      "title": "Sex-Based Differences in Pediatric Mental Health Hospitalizations at US Hospitals-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 16",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Leyenaar JK Author",
-        "Freyleue S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.17362",
@@ -2823,196 +2414,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "A 56-year-old woman with no history of rheumatic disease or hand injury had swelling and tenderness of the bilateral wrists, metacarpophalangeal and proximal interphalangeal joints, nodular palmar tendon thickening, and flexion contractures of all fingers; results of serologic testing for autoimmune rheumatic diseases were negative. What is the diagnosis and what would you do next?"
-    },
-    {
-      "doi": "10.1001/jama.2025.14967",
-      "url": "https://doi.org/10.1001/jama.2025.14967",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840088",
-      "article_type": "",
-      "pubmed_pmid": "41100117",
-      "title": "Sex-Based Differences in Pediatric Mental Health Hospitalizations at US Hospitals.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 16",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Balshi A Author",
-        "Lee S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17516",
-      "url": "https://doi.org/10.1001/jama.2025.17516",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840451",
-      "article_type": "",
-      "pubmed_pmid": "41105421",
-      "title": "Ultraprocessed Food Addiction May Be Common in Middle Age.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17514",
-      "url": "https://doi.org/10.1001/jama.2025.17514",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840453",
-      "article_type": "",
-      "pubmed_pmid": "41105413",
-      "title": "Physician Involvement During In-Flight Medical Events Linked to Aircraft Diversion.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17515",
-      "url": "https://doi.org/10.1001/jama.2025.17515",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840452",
-      "article_type": "",
-      "pubmed_pmid": "41105422",
-      "title": "Cardiovascular Conditions Lead Global Disease Burden Over the Past 30 Years.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17663",
-      "url": "https://doi.org/10.1001/jama.2025.17663",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840447",
-      "article_type": "",
-      "pubmed_pmid": "41105420",
-      "title": "State Laws Aim to Bring Internationally Trained Physicians to Underserved Areas, but Barriers Abound.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses new state laws designed to relieve medical workforce shortages by waiving the requirement that internationally trained physicians receive residency training in the US before they can become licensed."
-    },
-    {
-      "doi": "10.1001/jama.2025.17518",
-      "url": "https://doi.org/10.1001/jama.2025.17518",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840449",
-      "article_type": "",
-      "pubmed_pmid": "41105419",
-      "title": "AI Scribe May Ease Administrative Burdens for Clinicians.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.18833",
-      "url": "https://doi.org/10.1001/jama.2025.18833",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840448",
-      "article_type": "",
-      "pubmed_pmid": "41105403",
-      "title": "As Pickleball Continues to Gain Players, Injuries Are Increasing.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Rodgers L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
-    },
-    {
-      "doi": "10.1001/jama.2025.17513",
-      "url": "https://doi.org/10.1001/jama.2025.17513",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840454",
-      "article_type": "",
-      "pubmed_pmid": "41105402",
-      "title": "CDC Releases 2024-2025 Flu Report, With Suggestions for Upcoming Season.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17517",
-      "url": "https://doi.org/10.1001/jama.2025.17517",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840450",
-      "article_type": "",
-      "pubmed_pmid": "41105404",
-      "title": "School Cell Phone Bans Vary Across Grade Levels, Poverty Areas.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15552",
@@ -3180,30 +2581,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15343",
-      "url": "https://doi.org/10.1001/jama.2025.15343",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840351",
-      "article_type": "",
-      "pubmed_pmid": "41115002",
-      "title": "US Physician Medicare Program Participation and Exit, 2013-2023.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Cantor J Author",
-        "Kerber R Author",
-        "Damberg CL Author",
-        "Whaley CM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study characterizes trends in physician participation in Medicare between 2013 and 2023 and whether physician- and county-level factors were associated with program exit."
-    },
-    {
       "doi": "10.1001/jama.2025.15555",
       "url": "https://doi.org/10.1001/jama.2025.15555",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840347",
@@ -3353,7 +2730,8 @@
         "Soares CN Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -3384,20 +2762,15 @@
       "url": "https://doi.org/10.1001/jama.2025.11431",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839077",
       "article_type": "",
-      "pubmed_pmid": "41117848",
-      "title": "\"Yet you're here, too-or still-\": A Medical Still Life, in Poetry.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1398",
-      "authors": [
-        "Roberts K Author",
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -3514,27 +2887,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14914",
-      "url": "https://doi.org/10.1001/jama.2025.14914",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
-      "article_type": "",
-      "pubmed_pmid": "40932705",
-      "title": "When Biology Breaks the Rules.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1331-1332",
-      "authors": [
-        "Triana AJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
-    },
-    {
       "doi": "10.1001/jama.2025.13481",
       "url": "https://doi.org/10.1001/jama.2025.13481",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838505",
@@ -3568,6 +2920,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Effective and well-tolerated pharmacotherapies for generalized anxiety disorder (GAD), which is one of the most common psychiatric disorders, are needed. To determine the dose-response relationship of MM120 (lysergide D-tartrate) in adults with moderate to severe GAD. This phase 2b, multicenter, randomized, double-blind, placebo-controlled study enrolled 198 adults aged 18 to 74 years with a primary GAD diagnosis who presented with moderate to severe symptoms (defined by a Hamilton Anxiety Rating Scale [HAM-A] score &#x2265;20) and was conducted at 22 outpatient psychiatric research sites in the US from August 2022 to August 2023. The anxiety and depression end point assessments were conducted by independent central raters who were blinded to the trial protocol, treatment allocation, and study visit date. The last date of follow-up was November 27, 2023. Participants were randomized to receive a single (freebase equivalent) treatment dose with 25 &#xb5;g (n&#x2009;=&#x2009;39), 50 &#xb5;g (n&#x2009;=&#x2009;40), 100 &#xb5;g (n&#x2009;=&#x2009;40), or 200 &#xb5;g (n&#x2009;=&#x2009;40) of MM120 or placebo (n&#x2009;=&#x2009;39). The primary outcome was a dose-response relationship assessed using the multiple comparison procedure modeling (MCP-Mod) method for change in HAM-A score at 4 weeks (score range, 0-56; higher scores indicate greater severity; &#x2264;7 indicates no or minimal anxiety; 8-14, mild; 15-23, moderate; and &#x2265;24, severe). The minimal clinically important difference was 2.5 points. Of the 198 participants randomized, 194 were included in the full analysis set (mean age, 41.3 [SD, 13.6] years; 56.7% were female; and 3.6% were Asian, 7.7% were Black or African American, and 83.0% were White). The dose-response relationship assessed using the MCP-Mod method for change in HAM-A score at week 4 was statistically significant for the 100-&#xb5;g and the 200-&#xb5;g dose groups vs placebo (least-squares mean difference, -5.0 points [95% CI, -9.6 to -0.4 points] with 100 &#xb5;g of MM120 and -6.0 points [95% CI, -9.8 to -2.0 points] with 200 &#xb5;g of MM120) but the 25-&#xb5;g and 50-&#xb5;g dose groups did not reach significance vs placebo (least-squares mean difference, -1.2 points [95% CI, -6.0 to 3.5 points] with 25 &#xb5;g of MM120 and -1.8 points [95% CI, -7.6 to 4.0 points] with 50 &#xb5;g of MM120). The adverse events were consistent with the expected effects of MM120. The most common adverse events were visual perceptual changes (illusion, pseudo-hallucination, and visual hallucination), which occurred in 46.2% of participants who received 25 &#xb5;g of MM120, in 75.0% who received 50 &#xb5;g, in 92.5% who received 100 &#xb5;g, in 100% who received 200 &#xb5;g, and in 10.3% who received placebo; nausea occurred in 7.7%, 27.5%, 40.0%, 60.0%, and 7.7%, respectively; and headache occurred in 12.8%, 22.5%, 35.0%, 27.5%, and 23.1%. In participants with moderate to severe GAD, a single dose of MM120 produced a dose-dependent reduction in anxiety. These results support the dose-dependent efficacy of MM120 and inform the dose selection for phase 3 pivotal trials. ClinicalTrials.gov Identifier: NCT05407064."
+    },
+    {
+      "doi": "10.1001/jama.2025.14914",
+      "url": "https://doi.org/10.1001/jama.2025.14914",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
+      "article_type": "",
+      "pubmed_pmid": "40932705",
+      "title": "When Biology Breaks the Rules.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1331-1332",
+      "authors": [
+        "Triana AJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
     },
     {
       "doi": "10.1001/jama.2025.12650",
@@ -3618,19 +2991,15 @@
       "url": "https://doi.org/10.1001/jama.2025.11428",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839078",
       "article_type": "",
-      "pubmed_pmid": "41117850",
-      "title": "Filial.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1398",
-      "authors": [
-        "Van Lonkhuyzen H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -3835,8 +3204,8 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Randomized Controlled Trial"
       ],
       "pubmed_is_research": true,
       "abstract_md": "Studies suggest that everolimus may reduce the risk of rejection, cardiac allograft vasculopathy (CAV), chronic kidney disease (CKD), and cytomegalovirus (CMV) after heart transplant. Everolimus use is controversial because of data demonstrating higher infection deaths when everolimus is introduced de novo after transplant. It is unclear whether everolimus is safe and effective when initiated at 6 months posttransplant in children, a population in which median graft survival is limited to 15 years and randomized clinical trials are lacking. To evaluate the safety and efficacy of everolimus combined with low-dose tacrolimus to prevent major adverse transplant events (MATEs) in children after heart transplant. Multicenter, randomized, open-label, clinical trial enrolling 211 patients who were alive 6 months after pediatric heart transplant at 25 US sites from February 2018 to August 2020. The last date of follow-up was April 17, 2023. Participants were randomized to receive everolimus and low-dose tacrolimus (n&#x2009;=&#x2009;107) or standard-dose tacrolimus and mycophenolate mofetil (n&#x2009;=&#x2009;104) for 30 months. The primary efficacy end point was the MATE-3 score at 30 months, a validated composite ordinal end point including acute cellular rejection, CAV, and CKD. The primary safety end point was the MATE-6 score, encompassing the MATE-3 score plus antibody-mediated rejection, infection, and posttransplant lymphoproliferative disorder. Among 211 children randomized, the mean age was 8.2 (SD, 6.3) years, 97 (46%) underwent transplant for congenital heart disease, and 49 (23%) were treated for rejection before 6 months. At 30 months, the mean MATE-3 score did not differ between the 2 treatment groups (mean difference, -0.32; 95% CI, -0.90 to 0.20; P&#x2009;=&#x2009;.16). The mean MATE-6 score was no higher in the everolimus group than in the mycophenolate group (baseline-adjusted mean difference, -0.40; 95% CI, -1.81 to 0.93), meeting the success criterion for safety (noninferiority margin &lt;3). There were no differences in graft survival, MATE-free survival, or freedom from any individual MATE. Everolimus was associated with greater improvement in estimated glomerular filtration rate at 12 months (mean difference, 10.5 mL/min/1.73 m2; 95% CI, 1.09-19.91 mL/min/1.73 m2) and a lower incidence of CMV infection (hazard ratio, 0.50; 95% CI, 0.26-0.93). Among 6-month pediatric heart transplant survivors, everolimus and low-dose tacrolimus did not differ from tacrolimus and mycophenolate in preventing the composite of cellular rejection, CAV, and CKD at 30 months. However, everolimus and low-dose tacrolimus appear to be safe based on the total burden of 6 MATEs and may be associated with improved kidney function and less CMV infection. ClinicalTrials.gov Identifier: NCT03386539."
@@ -4144,20 +3513,15 @@
       "url": "https://doi.org/10.1001/jama.2025.14750",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840456",
       "article_type": "",
-      "pubmed_pmid": "41123916",
-      "title": "Heartache in Medicine and the Limits of Elegy.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 22",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Roberts K Author",
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4192,19 +3556,15 @@
       "url": "https://doi.org/10.1001/jama.2025.14747",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840457",
       "article_type": "",
-      "pubmed_pmid": "41123915",
-      "title": "8 Weeks, No Discernible Cardiac Activity.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 22",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Prioleau P Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4401,25 +3761,6 @@
       "abstract_md": "In this narrative medicine essay, a hospital medicine physician offers himself as an example of a leader who had to learn how to admit he needed help under an avalanche of personal and professional challenges."
     },
     {
-      "doi": "10.1001/jama.2024.18991",
-      "url": "https://doi.org/10.1001/jama.2024.18991",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840487",
-      "article_type": "",
-      "pubmed_pmid": "41129141",
-      "title": "Current Comment.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 23",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.16270",
       "url": "https://doi.org/10.1001/jama.2025.16270",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840486",
@@ -4439,69 +3780,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.18642",
-      "url": "https://doi.org/10.1001/jama.2025.18642",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840482",
-      "article_type": "",
-      "pubmed_pmid": "41129137",
-      "title": "Preparing the Civilian Health Care System for Wartime: A National Imperative for Military-Civilian Integration.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 23",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Goralnick E Author",
-        "Holcomb JB Author",
-        "Elster EA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the need for the US health care system to prepare for war casualties through military and civilian health care collaboration."
-    },
-    {
-      "doi": "10.1001/jama.2025.17639",
-      "url": "https://doi.org/10.1001/jama.2025.17639",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840484",
-      "article_type": "",
-      "pubmed_pmid": "41129120",
-      "title": "Bioresorbable vs Metallic Occluders for Transcatheter Atrial Septal Defect Closure: A Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 23",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Ouyang W Author",
-        "Jiang H Author",
-        "Yan X Author",
-        "Hua Y Author",
-        "Luo Z Author",
-        "Yang S Author",
-        "Duan W Author",
-        "You T Author",
-        "Jin J Author",
-        "Zhao X Author",
-        "Hong L Author",
-        "Jiang X Author",
-        "Ge S Author",
-        "Guo Q Author",
-        "Pan J Author",
-        "Wang C Author",
-        "Zhang F Author",
-        "Wang S Author",
-        "Wang Y Author",
-        "Pan X Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "The permanent metallic occluders used for atrial septal defect (ASD) closure are associated with risks of late complications and may impede access to the left atrium. Bioresorbable occluders have the potential to address these limitations but have yet to be validated in randomized clinical trials. To evaluate whether a bioresorbable occluder is noninferior to a metallic occluder based on its efficacy and safety for transcatheter ASD closure. This multicenter, noninferiority, open-label randomized clinical trial included participants with secundum ASD. Enrollment occurred from May 8, 2021, to August 3, 2022, at 10 hospital sites in China. The 2-year follow-up period ended in September 2024. Participants were randomized in a 1:1 ratio to receive a bioresorbable occluder (n&#x2009;=&#x2009;116) or a metallic occluder (n&#x2009;=&#x2009;114). The primary outcome was the success rate of ASD closure at 6 months (closure success was defined as procedural success with a residual shunt diameter of &#x2264;2 mm, which was assessed using transthoracic echocardiography). At the 2-year follow-up, the occluder groups were compared regarding the success of ASD closure and the device-related adverse events. The degradation profile of the bioresorbable occluder was assessed at 2 years. Of the 230 participants randomized, implantation was not attempted in 1 participant in the bioresorbable occluder group due to a small femoral vein, leaving 229 (median age, 14.1 years [IQR, 7.0 to 37.3 years]; 68% were female). At 6 months, the success rate of ASD closure was 96.5% (111 of 115 patients) for the bioresorbable occluder group vs 97.4% (111 of 114 patients) for the metallic occluder group (between-group difference, -0.8 percentage points [95% CI, -5.0 to 3.7]; P&#x2009;&lt;&#x2009;.001 for noninferiority). At 2 years, there were no statistically significant between-group differences in ASD closure success (94.8% [109/115] in the bioresorbable occluder group vs 96.5% [110/114] in the metallic occluder group; P&#x2009;=&#x2009;.75), or in device-related adverse events (2.6% [3/115] vs 3.5% [4/114], respectively; P&#x2009;=&#x2009;.72). The rate of degradation at 2 years was approximately 99.8% for the bioresorbable occluder. A bioresorbable occluder is noninferior to a metallic occluder for ASD closure, with near-complete degradation by 2 years. These findings suggest that a bioresorbable occluder could be a valuable addition to the options for transcatheter ASD closure. chictr.org.cn Identifier: ChiCTR2100044408."
     },
     {
       "doi": "10.1001/jama.2025.16273",
@@ -4544,23 +3822,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2024.18990",
-      "url": "https://doi.org/10.1001/jama.2024.18990",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840730",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5024,7 +4285,8 @@
         "Murray AF Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -5166,8 +4428,8 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Randomized Controlled Trial"
       ],
       "pubmed_is_research": true,
       "abstract_md": "Extremely preterm infants are at high risk for bronchopulmonary dysplasia (BPD) and death. Multiple small randomized clinical trials showed that a combination of budesonide with surfactant compared with surfactant alone reduced BPD or death. To determine if early intratracheal administration of a combination of budesonide (0.25 mg/kg) mixed with surfactant, compared with surfactant alone, reduces physiologic BPD or death by 36 weeks' postmenstrual age in extremely preterm infants. This double-masked randomized clinical trial was conducted from April 2021 to June 2024 in the 17 centers of the United States Neonatal Research Network. Infants 22 to 28 weeks' gestation or 401 to 1000 g birth weight were enrolled after clinical decision to give surfactant, with the first dose of surfactant being study drug (prior surfactant was an exclusion criterion). Infants were randomly allocated 1:1 to receive 1 to 2 doses of budesonide&#x2009;+&#x2009;surfactant (poractant alfa) or surfactant alone via endotracheal tube within 50 hours of birth. The primary outcome was physiologic BPD or death by 36 weeks' postmenstrual age. There were 5 prespecified secondary outcomes and multiple prespecified exploratory and safety outcomes. The trial was stopped with 641 infants enrolled (55.3% of 1160 planned; mean birth weight, 810 g [SD, 256 g]; gestational age, 25.9 weeks [SD, 1.9 weeks]), because interim analysis at 50% enrollment reached the prespecified futility threshold. The incidence of BPD or death was 68.5% in the budesonide&#x2009;+&#x2009;surfactant group and 67.9% in the surfactant-alone group (adjusted relative risk [RR], 1.00 [95% CI, 0.90-1.11]). No differences were noted in mortality (15.3% vs 13.2%; adjusted RR, 1.13 [95% CI, 0.78-1.64]) or BPD among survivors to 36 weeks' postmenstrual age (62.9% vs 63.0%; adjusted RR, 0.99 [95% CI, 0.87-1.12]). More infants who received budesonide&#x2009;+&#x2009;surfactant compared with surfactant alone had hyperglycemia (66.7% vs 49.8%; adjusted RR, 1.33 [95% CI, 1.17-1.51]). In this large multicenter trial, the combination of budesonide with surfactant did not reduce the risk of BPD or death at 36 weeks' postmenstrual age in extremely preterm infants. ClinicalTrials.gov Identifier: NCT04545866."
@@ -5396,20 +4658,15 @@
       "url": "https://doi.org/10.1001/jama.2025.12305",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839297",
       "article_type": "",
-      "pubmed_pmid": "40991275",
-      "title": "Crossed Arms and Crossover Studies: Poetry Bridges Emotion and Medicine.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1490",
-      "authors": [
-        "Roberts K Author",
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5559,7 +4816,7 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article",
-        "Randomized Controlled Trial",
+        "Multicenter Study",
         "Comment"
       ],
       "pubmed_is_research": false,
@@ -5656,20 +4913,15 @@
       "url": "https://doi.org/10.1001/jama.2025.12308",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839298",
       "article_type": "",
-      "pubmed_pmid": "40991255",
-      "title": "Phase I, Arms Crossed.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1490",
-      "authors": [
-        "Menon TP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5768,29 +5020,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16326",
-      "url": "https://doi.org/10.1001/jama.2025.16326",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838452",
-      "article_type": "",
-      "pubmed_pmid": "40875572",
-      "title": "Expanding Prior Authorization in Traditional Medicare-The WISeR Model.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1423-1424",
-      "authors": [
-        "Rathi VK Author",
-        "Dhruva SS Author",
-        "Ross JS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the Wasteful and Inappropriate Service Reduction (WISeR) model, a new payment model announced by the Centers for Medicare &amp; Medicaid Services Innovation Center to broaden prior authorization in traditional Medicare."
-    },
-    {
       "doi": "10.1001/jama.2025.15896",
       "url": "https://doi.org/10.1001/jama.2025.15896",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838490",
@@ -5859,6 +5088,29 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Respiratory syncytial virus (RSV) vaccines for adults aged 60 years or older became available in 2023. One dose is recommended for all adults aged 75 years or older and those aged 60 to 74 years at increased risk of severe RSV; however, duration of protection is unknown. To evaluate RSV vaccine effectiveness against RSV-associated hospitalization among adults aged 60 years or older during 2 RSV seasons. A total of 6958 adults aged 60 years or older were included in this test-negative, case-control study if they were hospitalized with acute respiratory illness at any of 26 hospitals in 20 US states during the October 1, 2023, to March 31, 2024, or October 1, 2024, to April 30, 2025, RSV seasons and had respiratory virus testing within 10 days of illness onset. Case patients tested positive for RSV only; control patients tested negative for RSV, SARS-CoV-2, and influenza. Demographic and clinical data were obtained through patient interview and electronic health records. Receipt of 1 RSV vaccine dose at least 14 days before illness onset. Multivariable logistic regression was used to compare the odds of RSV vaccination among hospitalized cases and controls. Models were adjusted for age, sex, race and ethnicity, geographic region, and calendar month and year. Vaccine effectiveness was estimated as (1&#x2009;-&#x2009;adjusted odds ratio)&#x2009;&#xd7;&#x2009;100%. Analyses were stratified by timing of RSV vaccine receipt (same vs prior season) relative to illness onset. Of 6958 adults aged 60 years or older, 821 (11.8%) were RSV cases and 6137 (88.2%) were controls. A total of 1438 patients were Black (20.1%) and 4314 were White (62.0%); 3534 were female (50.8%). Median age was 72 years (IQR, 66-80 years) and 1829 adults (26.3%) were immunocompromised. A total of 63 cases (7.7%) and 966 controls (15.7%) were vaccinated. Estimated vaccine effectiveness against RSV-associated hospitalization was 58% (95% CI, 45%-68%) during 2 seasons and 69% (95% CI, 52%-81%) for same-season vaccination vs 48% (95% CI, 27%-63%; P&#x2009;=&#x2009;.06) for prior-season vaccination. Estimated vaccine effectiveness during 2 seasons was significantly lower among immunocompromised adults (30%; 95% CI, -9% to 55%) than immunocompetent adults (67%; 95% CI, 53%-77%; P&#x2009;=&#x2009;.02) and among those with cardiovascular disease (56%; 95% CI, 32%-72%) vs without (80%; 95% CI, 62%-90%; P&#x2009;=&#x2009;.03). Respiratory syncytial virus vaccines prevented RSV-associated hospitalization during 2 seasons, although effectiveness was lower in patients with immunocompromise and cardiovascular disease than in those without these conditions. Ongoing monitoring is needed to determine the optimal RSV revaccination interval."
+    },
+    {
+      "doi": "10.1001/jama.2025.16326",
+      "url": "https://doi.org/10.1001/jama.2025.16326",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838452",
+      "article_type": "",
+      "pubmed_pmid": "40875572",
+      "title": "Expanding Prior Authorization in Traditional Medicare-The WISeR Model.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1423-1424",
+      "authors": [
+        "Rathi VK Author",
+        "Dhruva SS Author",
+        "Ross JS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the Wasteful and Inappropriate Service Reduction (WISeR) model, a new payment model announced by the Centers for Medicare &amp; Medicaid Services Innovation Center to broaden prior authorization in traditional Medicare."
     },
     {
       "doi": "10.1001/jama.2025.12784",
