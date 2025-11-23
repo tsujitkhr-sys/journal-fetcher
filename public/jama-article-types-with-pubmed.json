@@ -153,70 +153,6 @@
       "abstract_md": "This Viewpoint discusses a framework termed temporal medicine that complements rather than replaces spatial reasoning in medicine by shifting the axis of inquiry."
     },
     {
-      "doi": "10.1001/jama.2025.14052",
-      "url": "https://doi.org/10.1001/jama.2025.14052",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
-      "article_type": "",
-      "pubmed_pmid": "40920367",
-      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1139-1140",
-      "authors": [
-        "Kodan A Author",
-        "Kannarkat JT Author",
-        "Alexander GC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
-    },
-    {
-      "doi": "10.1001/jama.2024.18948",
-      "url": "https://doi.org/10.1001/jama.2024.18948",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
-      "article_type": "",
-      "pubmed_pmid": "41055659",
-      "title": "Audio Highlights: September 12, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "e2418948",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.11294",
-      "url": "https://doi.org/10.1001/jama.2025.11294",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
-      "article_type": "",
-      "pubmed_pmid": "40864435",
-      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1201",
-      "authors": [
-        "Philippe J Author",
-        "Powers AC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13722",
       "url": "https://doi.org/10.1001/jama.2025.13722",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838799",
@@ -287,6 +223,70 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Multiparametric magnetic resonance imaging (MRI), with or without prostate biopsy, has become the standard of care for diagnosing clinically significant prostate cancer. Resource capacity limits widespread adoption. Biparametric MRI, which omits the gadolinium contrast sequence, is a shorter and cheaper alternative offering time-saving capacity gains for health systems globally. To assess whether biparametric MRI is noninferior to multiparametric MRI for diagnosis of clinically significant prostate cancer. A prospective, multicenter, within-patient, noninferiority trial of biopsy-naive men from 22 centers (12 countries) with clinical suspicion of prostate cancer (elevated prostate-specific antigen [PSA] level and/or abnormal digital rectal examination findings) from April 2022 to September 2023, with the last follow-up conducted on December 3, 2024. Participants underwent multiparametric MRI, comprising T2-weighted, diffusion-weighted, and dynamic contrast-enhanced (DCE) sequences. Radiologists reported abbreviated biparametric MRI first (T2-weighted and diffusion-weighted), blinded to the DCE sequence. After unblinding, radiologists reported the full multiparametric MRI. Patients underwent a targeted biopsy with or without systematic biopsy if either biparametric MRI or multiparametric MRI was suggestive of clinically significant prostate cancer. The primary outcome was the proportion of men with clinically significant prostate cancer. Secondary outcomes included the proportion of men with clinically insignificant cancer. The noninferiority margin was 5%. Of 555 men recruited, 490 were included for primary outcome analysis. Median age was 65 (IQR, 59-70) years and median PSA level was 5.6 (IQR, 4.4-8.0) ng/mL. The proportion of patients with abnormal digital rectal examination findings was 12.7%. Biparametric MRI was noninferior to multiparametric MRI, detecting clinically significant prostate cancer in 143 of 490 men (29.2%), compared with 145 of 490 men (29.6%) (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points; P&#x2009;=&#x2009;.50). Biparametric MRI detected clinically insignificant cancer in 45 of 490 men (9.2%), compared with 47 of 490 men (9.6%) with the use of multiparametric MRI (difference, -0.4 [95% CI, -1.2 to 0.4] percentage points). Central quality control demonstrated that 99% of scans were of adequate diagnostic quality. In men with suspected prostate cancer, provided image quality is adequate, an abbreviated biparametric MRI scan, with or without targeted biopsy, could become the new standard of care for prostate cancer diagnosis. With approximately 4 million prostate MRIs performed globally annually, adopting biparametric MRI could substantially increase scanner throughput and reduce costs worldwide. ClinicalTrials.gov Identifier: NCT04571840."
+    },
+    {
+      "doi": "10.1001/jama.2025.14052",
+      "url": "https://doi.org/10.1001/jama.2025.14052",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838633",
+      "article_type": "",
+      "pubmed_pmid": "40920367",
+      "title": "Revisiting the FDA's Accelerated Approval Pathway.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1139-1140",
+      "authors": [
+        "Kodan A Author",
+        "Kannarkat JT Author",
+        "Alexander GC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This article discusses key components of the FDA&#x2019;s recent guidance and suggests how the FDA could clarify expectations for confirmatory trials and management of uncertainty regarding product safety."
+    },
+    {
+      "doi": "10.1001/jama.2024.18948",
+      "url": "https://doi.org/10.1001/jama.2024.18948",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839059",
+      "article_type": "",
+      "pubmed_pmid": "41055659",
+      "title": "Audio Highlights: September 12, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "e2418948",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.11294",
+      "url": "https://doi.org/10.1001/jama.2025.11294",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838087",
+      "article_type": "",
+      "pubmed_pmid": "40864435",
+      "title": "Discovery of Glucagon-Like Peptide-1 and Its Biological Activity-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1201",
+      "authors": [
+        "Philippe J Author",
+        "Powers AC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.10025",
@@ -563,29 +563,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14049",
-      "url": "https://doi.org/10.1001/jama.2025.14049",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
-      "article_type": "",
-      "pubmed_pmid": "40906488",
-      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 7",
-      "volume": "334",
-      "issue": "13",
-      "pages": "1137-1138",
-      "authors": [
-        "Shachar C Author",
-        "Lynch J Author",
-        "Costello K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
-    },
-    {
       "doi": "10.1001/jama.2025.10022",
       "url": "https://doi.org/10.1001/jama.2025.10022",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838503",
@@ -646,6 +623,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14049",
+      "url": "https://doi.org/10.1001/jama.2025.14049",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838500",
+      "article_type": "",
+      "pubmed_pmid": "40906488",
+      "title": "Federal Funding Conditions Threaten Gender-Affirming Care Access and Physician Autonomy.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 7",
+      "volume": "334",
+      "issue": "13",
+      "pages": "1137-1138",
+      "authors": [
+        "Shachar C Author",
+        "Lynch J Author",
+        "Costello K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses how federal funding conditions could undermine patient care and physician autonomy, particularly the ability to provide gender-affirming care to youth."
     },
     {
       "doi": "10.1001/jama.2025.13358",
@@ -1380,30 +1380,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14389",
-      "url": "https://doi.org/10.1001/jama.2025.14389",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
-      "article_type": "",
-      "pubmed_pmid": "40952725",
-      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1240-1242",
-      "authors": [
-        "Metcalf RA Author",
-        "Dhiman P Author",
-        "Stanworth SJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12946",
       "url": "https://doi.org/10.1001/jama.2025.12946",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838191",
@@ -1438,6 +1414,30 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14389",
+      "url": "https://doi.org/10.1001/jama.2025.14389",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839000",
+      "article_type": "",
+      "pubmed_pmid": "40952725",
+      "title": "Personalized Platelet Transfusion Predictions for Neonates.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1240-1242",
+      "authors": [
+        "Metcalf RA Author",
+        "Dhiman P Author",
+        "Stanworth SJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -1931,50 +1931,6 @@
       "abstract_md": "This Perspective explores recent progress and future directions in glucagon-like peptide-1 medicines."
     },
     {
-      "doi": "10.1001/jama.2025.12818",
-      "url": "https://doi.org/10.1001/jama.2025.12818",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
-      "article_type": "",
-      "pubmed_pmid": "40810946",
-      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1294-1295",
-      "authors": [
-        "Hailat R Author",
-        "Ridha M Author",
-        "Lin CC Author",
-        "Kerber K Author",
-        "Burke JF Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
-    },
-    {
-      "doi": "10.1001/jama.2024.18955",
-      "url": "https://doi.org/10.1001/jama.2024.18955",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
-      "article_type": "",
-      "pubmed_pmid": "41085578",
-      "title": "Audio Highlights: September 19, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "e2418955",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.12097",
       "url": "https://doi.org/10.1001/jama.2025.12097",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838507",
@@ -2015,6 +1971,50 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2024.18955",
+      "url": "https://doi.org/10.1001/jama.2024.18955",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
+      "article_type": "",
+      "pubmed_pmid": "41085578",
+      "title": "Audio Highlights: September 19, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "e2418955",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.12818",
+      "url": "https://doi.org/10.1001/jama.2025.12818",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
+      "article_type": "",
+      "pubmed_pmid": "40810946",
+      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1294-1295",
+      "authors": [
+        "Hailat R Author",
+        "Ridha M Author",
+        "Lin CC Author",
+        "Kerber K Author",
+        "Burke JF Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
     },
     {
       "doi": "10.1001/jama.2025.12094",
@@ -2092,28 +2092,6 @@
       "abstract_md": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324&#x202f;398 individuals, and 206&#x202f;839 died of ovarian cancer worldwide. In 2025, it is estimated that 20&#x202f;890 US women will be diagnosed with ovarian cancer and 12&#x202f;730 patients will die of ovarian cancer. Approximately 90% of ovarian cancers are epithelial malignancies, of which 70% to 80% are high-grade serous ovarian cancers. Less common epithelial subtypes include endometrioid, clear cell, low-grade serous, mucinous, and carcinosarcoma. The median age at diagnosis of ovarian cancer is 63 years. Risk factors include older age, family history of breast or ovarian cancer, endometriosis, and nulliparity. Hereditary factors are associated with 25% of cases, predominantly linked to BRCA1/2 gene variants. At diagnosis, approximately 95% of patients experience nonspecific symptoms, such as abdominal pain, bloating, and urinary urgency and frequency, and about 80% have advanced-stage disease (stage III-IV), including extrapelvic disease, ascites, and abdominal masses. Diagnostic and staging evaluation includes pelvic ultrasound; computed tomography of the chest, abdomen, and pelvis; and serum tumor markers such as carbohydrate antigen 125, carbohydrate antigen 19-9, and carcinoembryonic antigen. First-line treatment for early-stage ovarian cancer, defined as limited to the ovary or fallopian tube (stage I) or confined to the pelvis (stage II), is surgery (hysterectomy, bilateral salpingo-oophorectomy, omentectomy, and lymphadenectomy), followed by adjuvant chemotherapy (carboplatin and paclitaxel). With treatment, early-stage ovarian cancer has a 5-year overall survival of 70% to 95%. Advanced-stage ovarian cancer may be treated with primary cytoreductive surgery (removal of all visible cancer in the abdominal cavity) and adjuvant chemotherapy (carboplatin and paclitaxel) or with neoadjuvant chemotherapy followed by cytoreductive surgery and adjuvant chemotherapy. Most patients with advanced-stage ovarian cancer receive maintenance therapy with bevacizumab (a monoclonal antibody that blocks angiogenesis) and/or poly-adenosine diphosphate ribose polymerase (PARP) inhibitors. With treatment, the 5-year overall survival rate for advanced-stage ovarian cancer is 10% to 40%. However, individuals with BRCA-related gene variants have a 5-year overall survival rate of approximately 70% with PARP inhibitor treatment. Despite an initial remission rate of 80%, approximately 75% of patients with advanced-stage disease have ovarian cancer relapse within 2 years. Approximately 21&#x202f;000 women are diagnosed with ovarian cancer annually in the US, and approximately 80% have advanced-stage ovarian cancer at diagnosis. First-line treatment of early-stage ovarian cancer is surgery and adjuvant platinum-based chemotherapy. Treatment of advanced-stage ovarian cancer includes cytoreductive surgery, platinum-based chemotherapy, and targeted maintenance therapies such as bevacizumab and/or PARP inhibitors."
     },
     {
-      "doi": "10.1001/jama.2025.14446",
-      "url": "https://doi.org/10.1001/jama.2025.14446",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839076",
-      "article_type": "",
-      "pubmed_pmid": "40960851",
-      "title": "To Improve Health in the United States, Focus on Women.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1225-1226",
-      "authors": [
-        "Temkin SM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the dearth of women&#x2019;s health research at the National Institutes of Health and proposes investment in a national chronic disease research agenda that promotes the science of gynecology."
-    },
-    {
       "doi": "10.1001/jama.2025.14194",
       "url": "https://doi.org/10.1001/jama.2025.14194",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838997",
@@ -2154,6 +2132,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Preterm infants with severe thrombocytopenia (platelet count &lt;50&#x2009;&#xd7;&#x2009;109/L) frequently receive platelet transfusions. However, it is unclear in what cases prophylactic transfusion truly reduces bleeding risk or whether it does more harm than good. To develop and validate a dynamic prediction model for major bleeding or mortality if prophylactic platelet transfusion were or were not to be given to infants with severe thrombocytopenia. The dynamic prediction model was developed in an international multicenter cohort (2017-2021) comprising 14 neonatal intensive care units in the Netherlands, Sweden, and Germany. Model evaluation was performed in a national multicenter cohort (2010-2014) including 7 Dutch neonatal intensive care units. The study population consisted of infants with severe thrombocytopenia less than 34 weeks' gestation. Two transfusion strategies were contrasted at each prediction point: receiving a platelet transfusion within 6 hours (prophylaxis) vs no platelet transfusion for 3 days (no prophylaxis). The primary outcome was the 3-day risk of major bleeding or mortality, reestimated every 2 hours during the first week after severe thrombocytopenia onset. Predictors included gestational and postnatal age, small-for-gestational-age infant, necrotizing enterocolitis, sepsis, mechanical ventilation, vasoactive agents, platelet count, and prior platelet transfusion(s). Landmarking combined with the clone-censor-weight approach enabled dynamic prediction under the 2 transfusion strategies, accounting for time-varying confounding. Model performance was evaluated in the external validation cohort. In both the development (n&#x2009;=&#x2009;1042) and validation (n&#x2009;=&#x2009;637) cohorts, the median gestational age was 28 weeks and median birth weight was 900 g; there were 613 (59%) and 370 (58%) males, respectively. Major bleeding or death occurred in 235 infants (23%) in the development cohort and 135 (21%) in the validation cohort. In the validation cohort, the time-dependent area under the receiver operating characteristic curve was 0.69 (95% CI, 0.60-0.76) for the prophylaxis strategy and 0.85 (95% CI, 0.76-0.92) for the no prophylaxis strategy, with calibration plots showing good calibration. Estimated risks under both strategies varied considerably depending on the infant's clinical condition at the time of prediction. Among preterm infants with severe thrombocytopenia, this modeling study found substantial variation among individuals in predicted benefits and harms of prophylactic platelet transfusion based on their current clinical characteristics. The dynamic prediction model performed well in a validation cohort, and its value to support individualized decisions warrants evaluation in future studies."
+    },
+    {
+      "doi": "10.1001/jama.2025.14446",
+      "url": "https://doi.org/10.1001/jama.2025.14446",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839076",
+      "article_type": "",
+      "pubmed_pmid": "40960851",
+      "title": "To Improve Health in the United States, Focus on Women.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1225-1226",
+      "authors": [
+        "Temkin SM Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the dearth of women&#x2019;s health research at the National Institutes of Health and proposes investment in a national chronic disease research agenda that promotes the science of gynecology."
     },
     {
       "doi": "10.1001/jama.2025.11869",
@@ -2737,27 +2737,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14860",
-      "url": "https://doi.org/10.1001/jama.2025.14860",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
-      "article_type": "",
-      "pubmed_pmid": "40965898",
-      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1338",
-      "authors": [
-        "Perlis R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14912",
       "url": "https://doi.org/10.1001/jama.2025.14912",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838663",
@@ -2792,6 +2771,27 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14860",
+      "url": "https://doi.org/10.1001/jama.2025.14860",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
+      "article_type": "",
+      "pubmed_pmid": "40965898",
+      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1338",
+      "authors": [
+        "Perlis R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2887,27 +2887,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14914",
-      "url": "https://doi.org/10.1001/jama.2025.14914",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
-      "article_type": "",
-      "pubmed_pmid": "40932705",
-      "title": "When Biology Breaks the Rules.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1331-1332",
-      "authors": [
-        "Triana AJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
-    },
-    {
       "doi": "10.1001/jama.2025.13481",
       "url": "https://doi.org/10.1001/jama.2025.13481",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838505",
@@ -2941,6 +2920,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Effective and well-tolerated pharmacotherapies for generalized anxiety disorder (GAD), which is one of the most common psychiatric disorders, are needed. To determine the dose-response relationship of MM120 (lysergide D-tartrate) in adults with moderate to severe GAD. This phase 2b, multicenter, randomized, double-blind, placebo-controlled study enrolled 198 adults aged 18 to 74 years with a primary GAD diagnosis who presented with moderate to severe symptoms (defined by a Hamilton Anxiety Rating Scale [HAM-A] score &#x2265;20) and was conducted at 22 outpatient psychiatric research sites in the US from August 2022 to August 2023. The anxiety and depression end point assessments were conducted by independent central raters who were blinded to the trial protocol, treatment allocation, and study visit date. The last date of follow-up was November 27, 2023. Participants were randomized to receive a single (freebase equivalent) treatment dose with 25 &#xb5;g (n&#x2009;=&#x2009;39), 50 &#xb5;g (n&#x2009;=&#x2009;40), 100 &#xb5;g (n&#x2009;=&#x2009;40), or 200 &#xb5;g (n&#x2009;=&#x2009;40) of MM120 or placebo (n&#x2009;=&#x2009;39). The primary outcome was a dose-response relationship assessed using the multiple comparison procedure modeling (MCP-Mod) method for change in HAM-A score at 4 weeks (score range, 0-56; higher scores indicate greater severity; &#x2264;7 indicates no or minimal anxiety; 8-14, mild; 15-23, moderate; and &#x2265;24, severe). The minimal clinically important difference was 2.5 points. Of the 198 participants randomized, 194 were included in the full analysis set (mean age, 41.3 [SD, 13.6] years; 56.7% were female; and 3.6% were Asian, 7.7% were Black or African American, and 83.0% were White). The dose-response relationship assessed using the MCP-Mod method for change in HAM-A score at week 4 was statistically significant for the 100-&#xb5;g and the 200-&#xb5;g dose groups vs placebo (least-squares mean difference, -5.0 points [95% CI, -9.6 to -0.4 points] with 100 &#xb5;g of MM120 and -6.0 points [95% CI, -9.8 to -2.0 points] with 200 &#xb5;g of MM120) but the 25-&#xb5;g and 50-&#xb5;g dose groups did not reach significance vs placebo (least-squares mean difference, -1.2 points [95% CI, -6.0 to 3.5 points] with 25 &#xb5;g of MM120 and -1.8 points [95% CI, -7.6 to 4.0 points] with 50 &#xb5;g of MM120). The adverse events were consistent with the expected effects of MM120. The most common adverse events were visual perceptual changes (illusion, pseudo-hallucination, and visual hallucination), which occurred in 46.2% of participants who received 25 &#xb5;g of MM120, in 75.0% who received 50 &#xb5;g, in 92.5% who received 100 &#xb5;g, in 100% who received 200 &#xb5;g, and in 10.3% who received placebo; nausea occurred in 7.7%, 27.5%, 40.0%, 60.0%, and 7.7%, respectively; and headache occurred in 12.8%, 22.5%, 35.0%, 27.5%, and 23.1%. In participants with moderate to severe GAD, a single dose of MM120 produced a dose-dependent reduction in anxiety. These results support the dose-dependent efficacy of MM120 and inform the dose selection for phase 3 pivotal trials. ClinicalTrials.gov Identifier: NCT05407064."
+    },
+    {
+      "doi": "10.1001/jama.2025.14914",
+      "url": "https://doi.org/10.1001/jama.2025.14914",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
+      "article_type": "",
+      "pubmed_pmid": "40932705",
+      "title": "When Biology Breaks the Rules.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1331-1332",
+      "authors": [
+        "Triana AJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
     },
     {
       "doi": "10.1001/jama.2025.12650",
@@ -3276,6 +3276,25 @@
       "abstract_md": "In this Viewpoint, 2025 Albert Lasker Basic Medical Research Award winner Dirk G&#xf6;rlich describes discoveries that exposed the structures and functions of protein sequences of low complexity, revealing new principles of intracellular transport, pathogenesis, and cellular organization."
     },
     {
+      "doi": "10.1001/jama.2024.18963",
+      "url": "https://doi.org/10.1001/jama.2024.18963",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
+      "article_type": "",
+      "pubmed_pmid": "40996758",
+      "title": "Sleep.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1400",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14913",
       "url": "https://doi.org/10.1001/jama.2025.14913",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838662",
@@ -3297,25 +3316,6 @@
       "abstract_md": "In this Viewpoint, 2025 Lasker-DeBakey Clinical Medical Research Award winner Michael J. Welsh describes his contributions to cystic fibrosis (CF) disease identification, understanding the cellular and molecular basis of CF, and development of a highly effective triple-drug treatment."
     },
     {
-      "doi": "10.1001/jama.2024.18963",
-      "url": "https://doi.org/10.1001/jama.2024.18963",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
-      "article_type": "",
-      "pubmed_pmid": "40996758",
-      "title": "Sleep.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1400",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2024.18962",
       "url": "https://doi.org/10.1001/jama.2024.18962",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839515",
@@ -3333,29 +3333,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.10218",
-      "url": "https://doi.org/10.1001/jama.2025.10218",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2836671",
-      "article_type": "",
-      "pubmed_pmid": "40674064",
-      "title": "Early-Onset Gastrointestinal Cancers: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1373-1385",
-      "authors": [
-        "Jayakrishnan T Author",
-        "Ng K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Early-onset gastrointestinal (GI) cancer is typically defined as GI cancer diagnosed in individuals younger than 50 years. The incidence of early-onset GI cancer is rising globally, and early-onset GI cancers represent the most rapidly increasing early-onset cancer in the US. Worldwide, among early-onset GI cancers reported in 2022, colorectal cancer (CRC) was the most common (54.3%; 184&#x202f;709 cases), followed by gastric cancer (23.8%; 80&#x202f;885 cases), esophageal cancer (13.2%; 45&#x202f;056 cases), and pancreatic cancer (8.6%; 29&#x202f;402 cases). In the US, among early-onset GI cancers reported in 2022, 20&#x202f;805 individuals were diagnosed with early-onset CRC, 2689 with early-onset gastric, 2657 with early-onset pancreatic, and 875 with early-onset esophageal cancer. Most early-onset GI cancers are associated with modifiable risk factors including obesity, poor-quality diet (eg, sugar-sweetened beverages, ultraprocessed foods), sedentary lifestyle, cigarette smoking, and alcohol consumption. Nonmodifiable risk factors include family history, hereditary syndromes (eg, Lynch syndrome), and inflammatory bowel disease for patients with early-onset CRC. Approximately 15% to 30% of early-onset GI cancers have pathogenic germline variants in genes such as DNA mismatch repair genes and BRCA1/2. All patients with early-onset GI cancers should undergo germline and somatic genetic testing to guide treatment, screen for other cancers (eg, endometrial cancer in Lynch syndrome), and assess familial risk. Treatment for early-onset GI cancers is similar to later-onset GI cancers and may include chemotherapy, surgery, radiation, and therapies such as poly-adenosine diphosphate ribose polymerase inhibitors for BRCA-associated pancreatic cancer. Compared with GI cancers diagnosed after age 50 years, patients with early-onset GI cancers typically receive more treatments but often have similar or shorter survival. Specialized centers and multidisciplinary teams can support patients with challenges around fertility preservation, parenting with cancer, financial difficulty, and psychosocial distress. Currently, screening is not recommended for most early-onset GI cancers, although in the US, screening for CRC is recommended for average-risk individuals starting at age 45 years. High-risk individuals (eg, those with Lynch syndrome, a first-degree relative with CRC, or advanced colorectal adenoma) should begin CRC screening earlier, at an age determined by the specific risk factor. Early-onset GI cancers, typically defined as cancer diagnosed in individuals younger than 50 years, are among the largest subset of early-onset cancers globally. Treatment is similar to later-onset GI cancers and typically involves a combination of chemotherapy, surgery, and radiation, depending on the cancer type and stage. The prognosis for patients with early-onset GI cancers is similar to or worse than that for patients with later-onset GI cancers, highlighting the need for improved methods of prevention and early detection."
     },
     {
       "doi": "10.1001/jama.2025.15440",
@@ -3390,6 +3367,29 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Screening for atrial fibrillation (AF) might reduce stroke if it increases long-term AF detection and anticoagulation use compared with usual care. To investigate the long-term efficacy of AF screening in older individuals at moderate to high risk of stroke using 14-day, patch-based continuous ambulatory electrocardiogram (ECG) monitoring. A parallel-group, unblinded, remote randomized clinical trial recruiting from 27 UK primary care practices from May 2, 2019, to February 28, 2022. All eligible individuals 65 years or older with a CHA2DS2VASc score of 3 or higher (men) or 4 or higher (women) with no previous AF or atrial flutter were identified via automated electronic health record searches. Last follow-up was on August 29, 2024, and statistical analysis was conducted from May to July 2025. Participants were randomized to receive and return an ECG patch monitor by postal mail (intervention, n&#x2009;=&#x2009;2520) or usual care (control, n&#x2009;=&#x2009;2520). Intention-to-treat analysis of the proportion of participants with AF recorded in primary care records within 2.5 years postrandomization. Exploratory outcomes included exposure to oral anticoagulation and stroke. Of the 22&#x202f;044 individuals invited, 5040 (22.9%) were randomized. The participants' mean (SD) age was 78 (6) years, 47% were female, and the median (IQR) CHA2DS2VASc score was 4 (3-5). A total of 2126 participants (84.4%) wore and returned the patch. AF was detected by patch in 89 participants (4.2%), 55% of whom had an AF burden less than 10%. After 2.5 years, a postrandomization record of AF was present in 172 individuals (6.8%) in the intervention group vs 136 (5.4%) in the control group (ratio of proportions, 1.26 [95% CI, 1.02-1.57]; P&#x2009;=&#x2009;.03), with consistent results in prespecified subgroups. Mean exposure to oral anticoagulation by 2.5 years was 1.63 months (95% CI, 1.50-1.76) in the intervention group and 1.14 months (95% CI, 1.01-1.26) in the control group (difference, 0.50 months [95% CI, 0.24-0.75]; P&#x2009;&lt;&#x2009;.001). Stroke occurred in 69 participants (2.7%) in the intervention group and 64 (2.5%) in the control group (rate ratio, 1.08 [95% CI, 0.76-1.53]). In this remote randomized clinical trial, mail-based AF screening with an ECG patch in older patients at moderate to high risk of stroke led to a modest long-term increase in AF diagnosis at 2.5 years. ISRCTN Identifier: 15544176."
+    },
+    {
+      "doi": "10.1001/jama.2025.10218",
+      "url": "https://doi.org/10.1001/jama.2025.10218",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2836671",
+      "article_type": "",
+      "pubmed_pmid": "40674064",
+      "title": "Early-Onset Gastrointestinal Cancers: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1373-1385",
+      "authors": [
+        "Jayakrishnan T Author",
+        "Ng K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Early-onset gastrointestinal (GI) cancer is typically defined as GI cancer diagnosed in individuals younger than 50 years. The incidence of early-onset GI cancer is rising globally, and early-onset GI cancers represent the most rapidly increasing early-onset cancer in the US. Worldwide, among early-onset GI cancers reported in 2022, colorectal cancer (CRC) was the most common (54.3%; 184&#x202f;709 cases), followed by gastric cancer (23.8%; 80&#x202f;885 cases), esophageal cancer (13.2%; 45&#x202f;056 cases), and pancreatic cancer (8.6%; 29&#x202f;402 cases). In the US, among early-onset GI cancers reported in 2022, 20&#x202f;805 individuals were diagnosed with early-onset CRC, 2689 with early-onset gastric, 2657 with early-onset pancreatic, and 875 with early-onset esophageal cancer. Most early-onset GI cancers are associated with modifiable risk factors including obesity, poor-quality diet (eg, sugar-sweetened beverages, ultraprocessed foods), sedentary lifestyle, cigarette smoking, and alcohol consumption. Nonmodifiable risk factors include family history, hereditary syndromes (eg, Lynch syndrome), and inflammatory bowel disease for patients with early-onset CRC. Approximately 15% to 30% of early-onset GI cancers have pathogenic germline variants in genes such as DNA mismatch repair genes and BRCA1/2. All patients with early-onset GI cancers should undergo germline and somatic genetic testing to guide treatment, screen for other cancers (eg, endometrial cancer in Lynch syndrome), and assess familial risk. Treatment for early-onset GI cancers is similar to later-onset GI cancers and may include chemotherapy, surgery, radiation, and therapies such as poly-adenosine diphosphate ribose polymerase inhibitors for BRCA-associated pancreatic cancer. Compared with GI cancers diagnosed after age 50 years, patients with early-onset GI cancers typically receive more treatments but often have similar or shorter survival. Specialized centers and multidisciplinary teams can support patients with challenges around fertility preservation, parenting with cancer, financial difficulty, and psychosocial distress. Currently, screening is not recommended for most early-onset GI cancers, although in the US, screening for CRC is recommended for average-risk individuals starting at age 45 years. High-risk individuals (eg, those with Lynch syndrome, a first-degree relative with CRC, or advanced colorectal adenoma) should begin CRC screening earlier, at an age determined by the specific risk factor. Early-onset GI cancers, typically defined as cancer diagnosed in individuals younger than 50 years, are among the largest subset of early-onset cancers globally. Treatment is similar to later-onset GI cancers and typically involves a combination of chemotherapy, surgery, and radiation, depending on the cancer type and stage. The prognosis for patients with early-onset GI cancers is similar to or worse than that for patients with later-onset GI cancers, highlighting the need for improved methods of prevention and early detection."
     },
     {
       "doi": "10.1001/jama.2025.13884",
@@ -4715,29 +4715,6 @@
       "abstract_md": "This Viewpoint explores how training in both the medical and health humanities complements biomedical research, expanding clinician-scholars&#x2019; understanding of human health."
     },
     {
-      "doi": "10.1001/jama.2025.12793",
-      "url": "https://doi.org/10.1001/jama.2025.12793",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
-      "article_type": "",
-      "pubmed_pmid": "40960820",
-      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1484-1485",
-      "authors": [
-        "Feng S Author",
-        "Li H Author",
-        "Sun R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14067",
       "url": "https://doi.org/10.1001/jama.2025.14067",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839085",
@@ -4763,6 +4740,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study uses US national data to examine Epstein-Barr virus&#x2013;seronegative donor kidney use among Epstein-Barr virus&#x2013;seronegative children."
+    },
+    {
+      "doi": "10.1001/jama.2025.12793",
+      "url": "https://doi.org/10.1001/jama.2025.12793",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
+      "article_type": "",
+      "pubmed_pmid": "40960820",
+      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1484-1485",
+      "authors": [
+        "Feng S Author",
+        "Li H Author",
+        "Sun R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13888",
