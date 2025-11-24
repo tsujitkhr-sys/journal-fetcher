@@ -1782,27 +1782,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14852",
-      "url": "https://doi.org/10.1001/jama.2025.14852",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838501",
-      "article_type": "",
-      "pubmed_pmid": "40906490",
-      "title": "Good Grief.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1235-1236",
-      "authors": [
-        "Nelson C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a pediatric hospitalist who had to navigate alone her grief after her mom died during medical school offers some suggestions about the process to a friend as he navigates the loss of his mother."
-    },
-    {
       "doi": "10.1001/jama.2025.14150",
       "url": "https://doi.org/10.1001/jama.2025.14150",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
@@ -1825,6 +1804,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
+    },
+    {
+      "doi": "10.1001/jama.2025.14852",
+      "url": "https://doi.org/10.1001/jama.2025.14852",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838501",
+      "article_type": "",
+      "pubmed_pmid": "40906490",
+      "title": "Good Grief.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1235-1236",
+      "authors": [
+        "Nelson C Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a pediatric hospitalist who had to navigate alone her grief after her mom died during medical school offers some suggestions about the process to a friend as he navigates the loss of his mother."
     },
     {
       "doi": "10.1001/jama.2024.18954",
@@ -2040,6 +2040,30 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.9495",
+      "url": "https://doi.org/10.1001/jama.2025.9495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2836686",
+      "article_type": "",
+      "pubmed_pmid": "40690248",
+      "title": "Ovarian Cancer: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1278-1291",
+      "authors": [
+        "Caruso G Author",
+        "Weroha SJ Author",
+        "Cliby W Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324&#x202f;398 individuals, and 206&#x202f;839 died of ovarian cancer worldwide. In 2025, it is estimated that 20&#x202f;890 US women will be diagnosed with ovarian cancer and 12&#x202f;730 patients will die of ovarian cancer. Approximately 90% of ovarian cancers are epithelial malignancies, of which 70% to 80% are high-grade serous ovarian cancers. Less common epithelial subtypes include endometrioid, clear cell, low-grade serous, mucinous, and carcinosarcoma. The median age at diagnosis of ovarian cancer is 63 years. Risk factors include older age, family history of breast or ovarian cancer, endometriosis, and nulliparity. Hereditary factors are associated with 25% of cases, predominantly linked to BRCA1/2 gene variants. At diagnosis, approximately 95% of patients experience nonspecific symptoms, such as abdominal pain, bloating, and urinary urgency and frequency, and about 80% have advanced-stage disease (stage III-IV), including extrapelvic disease, ascites, and abdominal masses. Diagnostic and staging evaluation includes pelvic ultrasound; computed tomography of the chest, abdomen, and pelvis; and serum tumor markers such as carbohydrate antigen 125, carbohydrate antigen 19-9, and carcinoembryonic antigen. First-line treatment for early-stage ovarian cancer, defined as limited to the ovary or fallopian tube (stage I) or confined to the pelvis (stage II), is surgery (hysterectomy, bilateral salpingo-oophorectomy, omentectomy, and lymphadenectomy), followed by adjuvant chemotherapy (carboplatin and paclitaxel). With treatment, early-stage ovarian cancer has a 5-year overall survival of 70% to 95%. Advanced-stage ovarian cancer may be treated with primary cytoreductive surgery (removal of all visible cancer in the abdominal cavity) and adjuvant chemotherapy (carboplatin and paclitaxel) or with neoadjuvant chemotherapy followed by cytoreductive surgery and adjuvant chemotherapy. Most patients with advanced-stage ovarian cancer receive maintenance therapy with bevacizumab (a monoclonal antibody that blocks angiogenesis) and/or poly-adenosine diphosphate ribose polymerase (PARP) inhibitors. With treatment, the 5-year overall survival rate for advanced-stage ovarian cancer is 10% to 40%. However, individuals with BRCA-related gene variants have a 5-year overall survival rate of approximately 70% with PARP inhibitor treatment. Despite an initial remission rate of 80%, approximately 75% of patients with advanced-stage disease have ovarian cancer relapse within 2 years. Approximately 21&#x202f;000 women are diagnosed with ovarian cancer annually in the US, and approximately 80% have advanced-stage ovarian cancer at diagnosis. First-line treatment of early-stage ovarian cancer is surgery and adjuvant platinum-based chemotherapy. Treatment of advanced-stage ovarian cancer includes cytoreductive surgery, platinum-based chemotherapy, and targeted maintenance therapies such as bevacizumab and/or PARP inhibitors."
+    },
+    {
       "doi": "10.1001/jama.2025.14092",
       "url": "https://doi.org/10.1001/jama.2025.14092",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838293",
@@ -2066,30 +2090,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Heart failure with preserved ejection fraction (HFpEF) is a major cause of hospitalization, often occurring in patients with cardiometabolic comorbidities such as obesity and type 2 diabetes. Although early trials of semaglutide and tirzepatide have shown promising results in improving symptoms, those findings were based on few clinical events, leaving treatment recommendations uncertain. To evaluate the effectiveness and safety of semaglutide and tirzepatide in patients with cardiometabolic HFpEF in clinical practice. Five cohort studies using national US health care claims data from 2018 to 2024. Two cohort studies emulated the STEP-HFpEF DM (semaglutide) and SUMMIT (tirzepatide) trials to benchmark results. Eligibility criteria were then expanded to evaluate treatment effects in patients typically treated in clinical practice. Finally, a head-to-head comparison of tirzepatide and semaglutide was implemented. Follow-up was up to 52 weeks. New use of semaglutide, tirzepatide, or sitagliptin as a placebo proxy. The primary end point was a composite of hospitalization for heart failure or all-cause mortality. Negative control outcomes, secondary end points, subgroups, and sensitivity analyses were prespecified. Hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated by fitting proportional hazards models with propensity score weighting to adjust for a comprehensive set of pretreatment patient characteristics. Benchmarking of the 2 trial emulations demonstrated high agreement on all prespecified metrics. In analyses using expanded eligibility criteria, 58&#x202f;333 patients were included in the semaglutide vs sitagliptin cohort, 11&#x202f;257 for tirzepatide vs sitagliptin, and 28&#x202f;100 for tirzepatide vs semaglutide. Initiators of semaglutide (HR, 0.58 [95% CI, 0.51-0.65]) and tirzepatide (HR, 0.42 [95% CI, 0.31-0.57]) had substantially lower risk of the primary end point compared with sitagliptin. Tirzepatide had no meaningfully lowered risk compared with semaglutide (HR, 0.86 [95% CI, 0.70-1.06]). Negative controls, secondary end points, subgroups, and sensitivity analyses showed consistent results. No substantially increased risk was observed for select safety end points. In patients with cardiometabolic HFpEF, semaglutide and tirzepatide showed more than 40% risk reduction for the composite of hospitalization for heart failure or all-cause mortality compared with a placebo proxy. Tirzepatide showed no meaningful benefit over semaglutide. ClinicalTrials.gov Identifiers: NCT06914102, NCT06914154, NCT06914141."
-    },
-    {
-      "doi": "10.1001/jama.2025.9495",
-      "url": "https://doi.org/10.1001/jama.2025.9495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2836686",
-      "article_type": "",
-      "pubmed_pmid": "40690248",
-      "title": "Ovarian Cancer: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1278-1291",
-      "authors": [
-        "Caruso G Author",
-        "Weroha SJ Author",
-        "Cliby W Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324&#x202f;398 individuals, and 206&#x202f;839 died of ovarian cancer worldwide. In 2025, it is estimated that 20&#x202f;890 US women will be diagnosed with ovarian cancer and 12&#x202f;730 patients will die of ovarian cancer. Approximately 90% of ovarian cancers are epithelial malignancies, of which 70% to 80% are high-grade serous ovarian cancers. Less common epithelial subtypes include endometrioid, clear cell, low-grade serous, mucinous, and carcinosarcoma. The median age at diagnosis of ovarian cancer is 63 years. Risk factors include older age, family history of breast or ovarian cancer, endometriosis, and nulliparity. Hereditary factors are associated with 25% of cases, predominantly linked to BRCA1/2 gene variants. At diagnosis, approximately 95% of patients experience nonspecific symptoms, such as abdominal pain, bloating, and urinary urgency and frequency, and about 80% have advanced-stage disease (stage III-IV), including extrapelvic disease, ascites, and abdominal masses. Diagnostic and staging evaluation includes pelvic ultrasound; computed tomography of the chest, abdomen, and pelvis; and serum tumor markers such as carbohydrate antigen 125, carbohydrate antigen 19-9, and carcinoembryonic antigen. First-line treatment for early-stage ovarian cancer, defined as limited to the ovary or fallopian tube (stage I) or confined to the pelvis (stage II), is surgery (hysterectomy, bilateral salpingo-oophorectomy, omentectomy, and lymphadenectomy), followed by adjuvant chemotherapy (carboplatin and paclitaxel). With treatment, early-stage ovarian cancer has a 5-year overall survival of 70% to 95%. Advanced-stage ovarian cancer may be treated with primary cytoreductive surgery (removal of all visible cancer in the abdominal cavity) and adjuvant chemotherapy (carboplatin and paclitaxel) or with neoadjuvant chemotherapy followed by cytoreductive surgery and adjuvant chemotherapy. Most patients with advanced-stage ovarian cancer receive maintenance therapy with bevacizumab (a monoclonal antibody that blocks angiogenesis) and/or poly-adenosine diphosphate ribose polymerase (PARP) inhibitors. With treatment, the 5-year overall survival rate for advanced-stage ovarian cancer is 10% to 40%. However, individuals with BRCA-related gene variants have a 5-year overall survival rate of approximately 70% with PARP inhibitor treatment. Despite an initial remission rate of 80%, approximately 75% of patients with advanced-stage disease have ovarian cancer relapse within 2 years. Approximately 21&#x202f;000 women are diagnosed with ovarian cancer annually in the US, and approximately 80% have advanced-stage ovarian cancer at diagnosis. First-line treatment of early-stage ovarian cancer is surgery and adjuvant platinum-based chemotherapy. Treatment of advanced-stage ovarian cancer includes cytoreductive surgery, platinum-based chemotherapy, and targeted maintenance therapies such as bevacizumab and/or PARP inhibitors."
     },
     {
       "doi": "10.1001/jama.2025.14194",
@@ -4715,6 +4715,29 @@
       "abstract_md": "This Viewpoint explores how training in both the medical and health humanities complements biomedical research, expanding clinician-scholars&#x2019; understanding of human health."
     },
     {
+      "doi": "10.1001/jama.2025.12793",
+      "url": "https://doi.org/10.1001/jama.2025.12793",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
+      "article_type": "",
+      "pubmed_pmid": "40960820",
+      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1484-1485",
+      "authors": [
+        "Feng S Author",
+        "Li H Author",
+        "Sun R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14067",
       "url": "https://doi.org/10.1001/jama.2025.14067",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839085",
@@ -4740,29 +4763,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study uses US national data to examine Epstein-Barr virus&#x2013;seronegative donor kidney use among Epstein-Barr virus&#x2013;seronegative children."
-    },
-    {
-      "doi": "10.1001/jama.2025.12793",
-      "url": "https://doi.org/10.1001/jama.2025.12793",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
-      "article_type": "",
-      "pubmed_pmid": "40960820",
-      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1484-1485",
-      "authors": [
-        "Feng S Author",
-        "Li H Author",
-        "Sun R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13888",
