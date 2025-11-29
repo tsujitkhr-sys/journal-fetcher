@@ -1621,6 +1621,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14852",
+      "url": "https://doi.org/10.1001/jama.2025.14852",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838501",
+      "article_type": "",
+      "pubmed_pmid": "40906490",
+      "title": "Good Grief.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1235-1236",
+      "authors": [
+        "Nelson C Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a pediatric hospitalist who had to navigate alone her grief after her mom died during medical school offers some suggestions about the process to a friend as he navigates the loss of his mother."
+    },
+    {
       "doi": "10.1001/jama.2025.14150",
       "url": "https://doi.org/10.1001/jama.2025.14150",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838795",
@@ -1643,27 +1664,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint describes advantages of the Innovation Center&#x2019;s current alternative payment models for behavioral health care and discusses opportunities to strengthen specific guidance and incentives for key evidence-based practices."
-    },
-    {
-      "doi": "10.1001/jama.2025.14852",
-      "url": "https://doi.org/10.1001/jama.2025.14852",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838501",
-      "article_type": "",
-      "pubmed_pmid": "40906490",
-      "title": "Good Grief.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1235-1236",
-      "authors": [
-        "Nelson C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a pediatric hospitalist who had to navigate alone her grief after her mom died during medical school offers some suggestions about the process to a friend as he navigates the loss of his mother."
     },
     {
       "doi": "10.1001/jama.2024.18954",
@@ -1770,6 +1770,50 @@
       "abstract_md": "This Perspective explores recent progress and future directions in glucagon-like peptide-1 medicines."
     },
     {
+      "doi": "10.1001/jama.2025.12818",
+      "url": "https://doi.org/10.1001/jama.2025.12818",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
+      "article_type": "",
+      "pubmed_pmid": "40810946",
+      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "1294-1295",
+      "authors": [
+        "Hailat R Author",
+        "Ridha M Author",
+        "Lin CC Author",
+        "Kerber K Author",
+        "Burke JF Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
+    },
+    {
+      "doi": "10.1001/jama.2024.18955",
+      "url": "https://doi.org/10.1001/jama.2024.18955",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
+      "article_type": "",
+      "pubmed_pmid": "41085578",
+      "title": "Audio Highlights: September 19, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 14",
+      "volume": "334",
+      "issue": "14",
+      "pages": "e2418955",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.12097",
       "url": "https://doi.org/10.1001/jama.2025.12097",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838507",
@@ -1810,50 +1854,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2024.18955",
-      "url": "https://doi.org/10.1001/jama.2024.18955",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839340",
-      "article_type": "",
-      "pubmed_pmid": "41085578",
-      "title": "Audio Highlights: September 19, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "e2418955",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.12818",
-      "url": "https://doi.org/10.1001/jama.2025.12818",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837659",
-      "article_type": "",
-      "pubmed_pmid": "40810946",
-      "title": "Trends in the Proportion of US and International Medical Graduates at the County Level.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 14",
-      "volume": "334",
-      "issue": "14",
-      "pages": "1294-1295",
-      "authors": [
-        "Hailat R Author",
-        "Ridha M Author",
-        "Lin CC Author",
-        "Kerber K Author",
-        "Burke JF Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study assesses temporal trends in US medical graduates&#x2019; and international medical graduates&#x2019; relative contributions to the total physician workforce from 2010 to 2022, by rurality and across medically underserved areas."
     },
     {
       "doi": "10.1001/jama.2025.12094",
@@ -2322,6 +2322,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14860",
+      "url": "https://doi.org/10.1001/jama.2025.14860",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
+      "article_type": "",
+      "pubmed_pmid": "40965898",
+      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1338",
+      "authors": [
+        "Perlis R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14912",
       "url": "https://doi.org/10.1001/jama.2025.14912",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838663",
@@ -2356,27 +2377,6 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14860",
-      "url": "https://doi.org/10.1001/jama.2025.14860",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839109",
-      "article_type": "",
-      "pubmed_pmid": "40965898",
-      "title": "\"15% of Searches Have Never Been Typed Before\": Why AI Safety in Health-Related Search Is Hard.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1338",
-      "authors": [
-        "Perlis R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2472,6 +2472,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.14914",
+      "url": "https://doi.org/10.1001/jama.2025.14914",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
+      "article_type": "",
+      "pubmed_pmid": "40932705",
+      "title": "When Biology Breaks the Rules.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1331-1332",
+      "authors": [
+        "Triana AJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
+    },
+    {
       "doi": "10.1001/jama.2025.13481",
       "url": "https://doi.org/10.1001/jama.2025.13481",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838505",
@@ -2505,27 +2526,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Effective and well-tolerated pharmacotherapies for generalized anxiety disorder (GAD), which is one of the most common psychiatric disorders, are needed. To determine the dose-response relationship of MM120 (lysergide D-tartrate) in adults with moderate to severe GAD. This phase 2b, multicenter, randomized, double-blind, placebo-controlled study enrolled 198 adults aged 18 to 74 years with a primary GAD diagnosis who presented with moderate to severe symptoms (defined by a Hamilton Anxiety Rating Scale [HAM-A] score &#x2265;20) and was conducted at 22 outpatient psychiatric research sites in the US from August 2022 to August 2023. The anxiety and depression end point assessments were conducted by independent central raters who were blinded to the trial protocol, treatment allocation, and study visit date. The last date of follow-up was November 27, 2023. Participants were randomized to receive a single (freebase equivalent) treatment dose with 25 &#xb5;g (n&#x2009;=&#x2009;39), 50 &#xb5;g (n&#x2009;=&#x2009;40), 100 &#xb5;g (n&#x2009;=&#x2009;40), or 200 &#xb5;g (n&#x2009;=&#x2009;40) of MM120 or placebo (n&#x2009;=&#x2009;39). The primary outcome was a dose-response relationship assessed using the multiple comparison procedure modeling (MCP-Mod) method for change in HAM-A score at 4 weeks (score range, 0-56; higher scores indicate greater severity; &#x2264;7 indicates no or minimal anxiety; 8-14, mild; 15-23, moderate; and &#x2265;24, severe). The minimal clinically important difference was 2.5 points. Of the 198 participants randomized, 194 were included in the full analysis set (mean age, 41.3 [SD, 13.6] years; 56.7% were female; and 3.6% were Asian, 7.7% were Black or African American, and 83.0% were White). The dose-response relationship assessed using the MCP-Mod method for change in HAM-A score at week 4 was statistically significant for the 100-&#xb5;g and the 200-&#xb5;g dose groups vs placebo (least-squares mean difference, -5.0 points [95% CI, -9.6 to -0.4 points] with 100 &#xb5;g of MM120 and -6.0 points [95% CI, -9.8 to -2.0 points] with 200 &#xb5;g of MM120) but the 25-&#xb5;g and 50-&#xb5;g dose groups did not reach significance vs placebo (least-squares mean difference, -1.2 points [95% CI, -6.0 to 3.5 points] with 25 &#xb5;g of MM120 and -1.8 points [95% CI, -7.6 to 4.0 points] with 50 &#xb5;g of MM120). The adverse events were consistent with the expected effects of MM120. The most common adverse events were visual perceptual changes (illusion, pseudo-hallucination, and visual hallucination), which occurred in 46.2% of participants who received 25 &#xb5;g of MM120, in 75.0% who received 50 &#xb5;g, in 92.5% who received 100 &#xb5;g, in 100% who received 200 &#xb5;g, and in 10.3% who received placebo; nausea occurred in 7.7%, 27.5%, 40.0%, 60.0%, and 7.7%, respectively; and headache occurred in 12.8%, 22.5%, 35.0%, 27.5%, and 23.1%. In participants with moderate to severe GAD, a single dose of MM120 produced a dose-dependent reduction in anxiety. These results support the dose-dependent efficacy of MM120 and inform the dose selection for phase 3 pivotal trials. ClinicalTrials.gov Identifier: NCT05407064."
-    },
-    {
-      "doi": "10.1001/jama.2025.14914",
-      "url": "https://doi.org/10.1001/jama.2025.14914",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838867",
-      "article_type": "",
-      "pubmed_pmid": "40932705",
-      "title": "When Biology Breaks the Rules.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1331-1332",
-      "authors": [
-        "Triana AJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a cardiology fellow recalls with chagrin missing his own diagnosis during his fourth year of residency and reflects on the practice of medical diagnosis."
     },
     {
       "doi": "10.1001/jama.2025.12650",
@@ -2589,6 +2589,46 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.12231",
+      "url": "https://doi.org/10.1001/jama.2025.12231",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838800",
+      "article_type": "",
+      "pubmed_pmid": "40928795",
+      "title": "Hypertension Medications and Health-Related Quality of Life-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1393-1394",
+      "authors": [
+        "Lee CJ Author",
+        "Kim DH Author",
+        "Park S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.12103",
+      "url": "https://doi.org/10.1001/jama.2025.12103",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839103",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.12647",
       "url": "https://doi.org/10.1001/jama.2025.12647",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838872",
@@ -2627,46 +2667,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.12231",
-      "url": "https://doi.org/10.1001/jama.2025.12231",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838800",
-      "article_type": "",
-      "pubmed_pmid": "40928795",
-      "title": "Hypertension Medications and Health-Related Quality of Life-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1393-1394",
-      "authors": [
-        "Lee CJ Author",
-        "Kim DH Author",
-        "Park S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.12103",
-      "url": "https://doi.org/10.1001/jama.2025.12103",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839103",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2861,25 +2861,6 @@
       "abstract_md": "In this Viewpoint, 2025 Albert Lasker Basic Medical Research Award winner Dirk G&#xf6;rlich describes discoveries that exposed the structures and functions of protein sequences of low complexity, revealing new principles of intracellular transport, pathogenesis, and cellular organization."
     },
     {
-      "doi": "10.1001/jama.2024.18963",
-      "url": "https://doi.org/10.1001/jama.2024.18963",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
-      "article_type": "",
-      "pubmed_pmid": "40996758",
-      "title": "Sleep.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 21",
-      "volume": "334",
-      "issue": "15",
-      "pages": "1400",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14913",
       "url": "https://doi.org/10.1001/jama.2025.14913",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838662",
@@ -2899,6 +2880,25 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this Viewpoint, 2025 Lasker-DeBakey Clinical Medical Research Award winner Michael J. Welsh describes his contributions to cystic fibrosis (CF) disease identification, understanding the cellular and molecular basis of CF, and development of a highly effective triple-drug treatment."
+    },
+    {
+      "doi": "10.1001/jama.2024.18963",
+      "url": "https://doi.org/10.1001/jama.2024.18963",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839313",
+      "article_type": "",
+      "pubmed_pmid": "40996758",
+      "title": "Sleep.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 21",
+      "volume": "334",
+      "issue": "15",
+      "pages": "1400",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2024.18962",
@@ -3910,23 +3910,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.12305",
-      "url": "https://doi.org/10.1001/jama.2025.12305",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839297",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13887",
       "url": "https://doi.org/10.1001/jama.2025.13887",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839502",
@@ -3944,6 +3927,23 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.12305",
+      "url": "https://doi.org/10.1001/jama.2025.12305",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839297",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -3971,6 +3971,29 @@
       "abstract_md": "This Viewpoint explores how training in both the medical and health humanities complements biomedical research, expanding clinician-scholars&#x2019; understanding of human health."
     },
     {
+      "doi": "10.1001/jama.2025.12793",
+      "url": "https://doi.org/10.1001/jama.2025.12793",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
+      "article_type": "",
+      "pubmed_pmid": "40960820",
+      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1484-1485",
+      "authors": [
+        "Feng S Author",
+        "Li H Author",
+        "Sun R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.14067",
       "url": "https://doi.org/10.1001/jama.2025.14067",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839085",
@@ -3996,29 +4019,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study uses US national data to examine Epstein-Barr virus&#x2013;seronegative donor kidney use among Epstein-Barr virus&#x2013;seronegative children."
-    },
-    {
-      "doi": "10.1001/jama.2025.12793",
-      "url": "https://doi.org/10.1001/jama.2025.12793",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839081",
-      "article_type": "",
-      "pubmed_pmid": "40960820",
-      "title": "Timing of Antihypertensive Medications and Cardiovascular Outcomes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1484-1485",
-      "authors": [
-        "Feng S Author",
-        "Li H Author",
-        "Sun R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13888",
@@ -4203,28 +4203,6 @@
       "abstract_md": "This Medical News article discusses the biological and sociocultural factors that may contribute to sex-based differences in Alzheimer disease prevalence and progression."
     },
     {
-      "doi": "10.1001/jama.2025.13179",
-      "url": "https://doi.org/10.1001/jama.2025.13179",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839107",
-      "article_type": "",
-      "pubmed_pmid": "40965902",
-      "title": "Midurethral Sling vs OnabotulinumtoxinA for Urinary Incontinence.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 28",
-      "volume": "334",
-      "issue": "16",
-      "pages": "1487-1488",
-      "authors": [
-        "Klarskov N Author",
-        "Husby KR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13080",
       "url": "https://doi.org/10.1001/jama.2025.13080",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838187",
@@ -4246,6 +4224,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes the venomous snakes found in the US as well as snakebite symptoms, treatment, and prevention."
+    },
+    {
+      "doi": "10.1001/jama.2025.13179",
+      "url": "https://doi.org/10.1001/jama.2025.13179",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839107",
+      "article_type": "",
+      "pubmed_pmid": "40965902",
+      "title": "Midurethral Sling vs OnabotulinumtoxinA for Urinary Incontinence.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 28",
+      "volume": "334",
+      "issue": "16",
+      "pages": "1487-1488",
+      "authors": [
+        "Klarskov N Author",
+        "Husby KR Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15022",
