@@ -270,6 +270,27 @@
       "abstract_md": "Levodopa enhances dopaminergic signaling and may stimulate neuroplasticity, which could potentially enhance motor recovery after stroke. Levodopa is used in stroke rehabilitation despite mixed evidence for its effectiveness. To determine whether levodopa compared with placebo, administered in addition to standardized rehabilitation based on active task-oriented training, is associated with enhanced motor recovery in patients with acute stroke. A double-blind, placebo-controlled randomized clinical trial at 13 stroke units and centers and 11 collaborating rehabilitation centers in Switzerland. Between June 14, 2019 (first patient, first visit), and August 27, 2024 (last patient, last visit), 610 patients with acute ischemic or hemorrhagic stroke with clinically meaningful hemiparesis (ie, a total score of &#x2265;3 points on the following National Institutes of Health Stroke Scale items: motor arm, motor leg, or limb ataxia) were randomized 1:1 to receive levodopa or placebo. Statistical analyses were conducted from November 2024 to August 2025. Patients received levodopa/carbidopa (100 mg/25 mg; n&#x2009;=&#x2009;307) or placebo (n&#x2009;=&#x2009;303) 3 times daily for 39 days, alongside standardized rehabilitation therapy based on active task-oriented training. The primary outcome was the adjusted mean between-group difference in the Fugl-Meyer Assessment (FMA) total score (range, 0-100 points; fewer points indicate worse motor function; 6-point difference considered patient-relevant) at 3 months. Among the 610 participants (median [IQR] age, 73 [64-82] years; 252 [41.3%] female; median baseline FMA total score, 34 [14-54]), 28 participants died by 3 months, leaving 582 (95.4%) participants eligible for the primary analysis. At 3 months, the median (IQR) FMA total score was 68 (42-85) points in the levodopa group and 64 (44-83) points in the placebo group. The mean difference in the FMA total score between the levodopa and placebo groups was -0.90 points (95% CI, -3.78 to 1.98; P&#x2009;=&#x2009;.54). There were 126 serious adverse events in the levodopa group and 129 in the placebo group; the most common was infection (levodopa, n&#x2009;=&#x2009;55; placebo, n&#x2009;=&#x2009;44). In this randomized clinical trial, among patients receiving inpatient rehabilitation for acute stroke, levodopa added to standardized rehabilitation did not significantly improve motor function at 3 months compared with placebo plus standardized rehabilitation. These results do not support the use of levodopa as an adjunct to rehabilitation therapy for enhancing motor recovery after acute stroke. ClinicalTrials.gov Identifier: NCT03735901."
     },
     {
+      "doi": "10.1001/jama.2025.19345",
+      "url": "https://doi.org/10.1001/jama.2025.19345",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839562",
+      "article_type": "",
+      "pubmed_pmid": "41021328",
+      "title": "Acetaminophen Use in Pregnancy-Study Author Explains the Data.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1499-1501",
+      "authors": [
+        "Schweitzer K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article is an interview with epidemiologist Brian Lee, PhD, about his study on acetaminophen use during pregnancy and children&#x2019;s risk of autism and other neurodevelopmental disorders."
+    },
+    {
       "doi": "10.1001/jama.2025.18196",
       "url": "https://doi.org/10.1001/jama.2025.18196",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
@@ -291,25 +312,27 @@
       "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
     },
     {
-      "doi": "10.1001/jama.2025.19345",
-      "url": "https://doi.org/10.1001/jama.2025.19345",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839562",
+      "doi": "10.1001/jama.2025.13435",
+      "url": "https://doi.org/10.1001/jama.2025.13435",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
       "article_type": "",
-      "pubmed_pmid": "41021328",
-      "title": "Acetaminophen Use in Pregnancy-Study Author Explains the Data.",
+      "pubmed_pmid": "40996725",
+      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 4",
       "volume": "334",
       "issue": "17",
-      "pages": "1499-1501",
+      "pages": "1560-1561",
       "authors": [
-        "Schweitzer K Author"
+        "Jacobs JW Author",
+        "Booth GS Author",
+        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This Medical News article is an interview with epidemiologist Brian Lee, PhD, about his study on acetaminophen use during pregnancy and children&#x2019;s risk of autism and other neurodevelopmental disorders."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13432",
@@ -347,29 +370,6 @@
       "pages": "1507",
       "authors": [
         "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.13435",
-      "url": "https://doi.org/10.1001/jama.2025.13435",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
-      "article_type": "",
-      "pubmed_pmid": "40996725",
-      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1560-1561",
-      "authors": [
-        "Jacobs JW Author",
-        "Booth GS Author",
-        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -469,6 +469,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.17486",
+      "url": "https://doi.org/10.1001/jama.2025.17486",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839722",
+      "article_type": "",
+      "pubmed_pmid": "41042505",
+      "title": "Frailty Symptoms Associated With Increased Dementia Risk.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1506",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.18087",
       "url": "https://doi.org/10.1001/jama.2025.18087",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839304",
@@ -487,27 +508,6 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17486",
-      "url": "https://doi.org/10.1001/jama.2025.17486",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839722",
-      "article_type": "",
-      "pubmed_pmid": "41042505",
-      "title": "Frailty Symptoms Associated With Increased Dementia Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1506",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -753,29 +753,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.13219",
-      "url": "https://doi.org/10.1001/jama.2025.13219",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839113",
-      "article_type": "",
-      "pubmed_pmid": "40982293",
-      "title": "Extracranial-Intracranial Bypass Surgery for Symptomatic Cerebral Artery Occlusion-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1558",
-      "authors": [
-        "Liu D Author",
-        "Wang T Author",
-        "Ma Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14901",
       "url": "https://doi.org/10.1001/jama.2025.14901",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839306",
@@ -812,6 +789,29 @@
       "authors": [
         "Ghazal L Author",
         "Sinko L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13219",
+      "url": "https://doi.org/10.1001/jama.2025.13219",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839113",
+      "article_type": "",
+      "pubmed_pmid": "40982293",
+      "title": "Extracranial-Intracranial Bypass Surgery for Symptomatic Cerebral Artery Occlusion-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1558",
+      "authors": [
+        "Liu D Author",
+        "Wang T Author",
+        "Ma Y Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -908,23 +908,6 @@
       "abstract_md": "In this narrative medicine essay, a pulmonary and critical care physician credits the songs of Raffi and Barney for bringing peace and continuity to his daughter who experienced intractable seizures and progressive functional decline."
     },
     {
-      "doi": "10.1001/jama.2025.13009",
-      "url": "https://doi.org/10.1001/jama.2025.13009",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839633",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13326",
       "url": "https://doi.org/10.1001/jama.2025.13326",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839301",
@@ -943,6 +926,23 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13009",
+      "url": "https://doi.org/10.1001/jama.2025.13009",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839633",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -1385,27 +1385,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.19726",
-      "url": "https://doi.org/10.1001/jama.2025.19726",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841309",
-      "article_type": "",
-      "pubmed_pmid": "41201830",
-      "title": "ACOG Issues Contraception Access Guidance.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 7",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21336",
       "url": "https://doi.org/10.1001/jama.2025.21336",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841164",
@@ -1421,6 +1400,27 @@
         "Gregg LP Author",
         "Bozkurt B Author",
         "Navaneethan SD Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.19726",
+      "url": "https://doi.org/10.1001/jama.2025.19726",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841309",
+      "article_type": "",
+      "pubmed_pmid": "41201830",
+      "title": "ACOG Issues Contraception Access Guidance.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 7",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -2472,53 +2472,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15638",
-      "url": "https://doi.org/10.1001/jama.2025.15638",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839474",
-      "article_type": "",
-      "pubmed_pmid": "41051762",
-      "title": "A Longitudinal Assessment of Greenhouse Gas Emissions From Inhaler Devices in a National Health System.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1667-1669",
-      "authors": [
-        "Weppner WG Author",
-        "Singh H Author",
-        "Boyd J Author",
-        "Smith G Author",
-        "Chesebro BB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study uses data from the Veterans Health Administration (VA) Corporate Data Warehouse to analyze trends in annual inhaler-related emissions by inhaler type (metered-dose, dry powder, soft mist) in the VA from 2008 to 2023."
-    },
-    {
-      "doi": "10.1001/jama.2025.17495",
-      "url": "https://doi.org/10.1001/jama.2025.17495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840179",
-      "article_type": "",
-      "pubmed_pmid": "41071544",
-      "title": "Mediterranean Diet May Offer Psoriasis Benefits.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1612",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18490",
       "url": "https://doi.org/10.1001/jama.2025.18490",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
@@ -2590,6 +2543,53 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Artificial intelligence (AI) is changing health and health care on an unprecedented scale. Though the potential benefits are massive, so are the risks. The JAMA Summit on AI discussed how health and health care AI should be developed, evaluated, regulated, disseminated, and monitored. Health and health care AI is wide-ranging, including clinical tools (eg, sepsis alerts or diabetic retinopathy screening software), technologies used by individuals with health concerns (eg, mobile health apps), tools used by health care systems to improve business operations (eg, revenue cycle management or scheduling), and hybrid tools supporting both business operations (eg, documentation and billing) and clinical activities (eg, suggesting diagnoses or treatment plans). Many AI tools are already widely adopted, especially for medical imaging, mobile health, health care business operations, and hybrid functions like scribing outpatient visits. All these tools can have important health effects (good or bad), but these effects are often not quantified because evaluations are extremely challenging or not required, in part because many are outside the US Food and Drug Administration's regulatory oversight. A major challenge in evaluation is that a tool's effects are highly dependent on the human-computer interface, user training, and setting in which the tool is used. Numerous efforts lay out standards for the responsible use of AI, but most focus on monitoring for safety (eg, detection of model hallucinations) or institutional compliance with various process measures, and do not address effectiveness (ie, demonstration of improved outcomes). Ensuring AI is deployed equitably and in a manner that improves health outcomes or, if improving efficiency of health care delivery, does so safely, requires progress in 4 areas. First, multistakeholder engagement throughout the total product life cycle is needed. This effort would include greater partnership of end users with developers in initial tool creation and greater partnership of developers, regulators, and health care systems in the evaluation of tools as they are deployed. Second, measurement tools for evaluation and monitoring should be developed and disseminated. Beyond proposed monitoring and certification initiatives, this will require new methods and expertise to allow health care systems to conduct or participate in rapid, efficient, and robust evaluations of effectiveness. The third priority is creation of a nationally representative data infrastructure and learning environment to support the generation of generalizable knowledge about health effects of AI tools across different settings. Fourth, an incentive structure should be promoted, using market forces and policy levers, to drive these changes. AI will disrupt every part of health and health care delivery in the coming years. Given the many long-standing problems in health care, this disruption represents an incredible opportunity. However, the odds that this disruption will improve health for all will depend heavily on the creation of an ecosystem capable of rapid, efficient, robust, and generalizable knowledge about the consequences of these tools on health."
+    },
+    {
+      "doi": "10.1001/jama.2025.17495",
+      "url": "https://doi.org/10.1001/jama.2025.17495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840179",
+      "article_type": "",
+      "pubmed_pmid": "41071544",
+      "title": "Mediterranean Diet May Offer Psoriasis Benefits.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1612",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15638",
+      "url": "https://doi.org/10.1001/jama.2025.15638",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839474",
+      "article_type": "",
+      "pubmed_pmid": "41051762",
+      "title": "A Longitudinal Assessment of Greenhouse Gas Emissions From Inhaler Devices in a National Health System.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1667-1669",
+      "authors": [
+        "Weppner WG Author",
+        "Singh H Author",
+        "Boyd J Author",
+        "Smith G Author",
+        "Chesebro BB Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study uses data from the Veterans Health Administration (VA) Corporate Data Warehouse to analyze trends in annual inhaler-related emissions by inhaler type (metered-dose, dry powder, soft mist) in the VA from 2008 to 2023."
     },
     {
       "doi": "10.1001/jama.2025.13984",
@@ -3975,9 +3975,9 @@
       "abstract_md": "This JAMA Insights explores the management of severe refractory asthma, including medications, access to specialists, and managing environmental triggers."
     },
     {
-      "doi": "10.1001/jama.2024.18990",
-      "url": "https://doi.org/10.1001/jama.2024.18990",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840730",
+      "doi": "10.1001/jama.2025.14721",
+      "url": "https://doi.org/10.1001/jama.2025.14721",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3992,9 +3992,9 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14721",
-      "url": "https://doi.org/10.1001/jama.2025.14721",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
+      "doi": "10.1001/jama.2024.18990",
+      "url": "https://doi.org/10.1001/jama.2024.18990",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840730",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -4407,6 +4407,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.18833",
+      "url": "https://doi.org/10.1001/jama.2025.18833",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840448",
+      "article_type": "",
+      "pubmed_pmid": "41105403",
+      "title": "As Pickleball Continues to Gain Players, Injuries Are Increasing.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 17",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Rodgers L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
+    },
+    {
       "doi": "10.1001/jama.2025.17639",
       "url": "https://doi.org/10.1001/jama.2025.17639",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840484",
@@ -4445,27 +4466,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The permanent metallic occluders used for atrial septal defect (ASD) closure are associated with risks of late complications and may impede access to the left atrium. Bioresorbable occluders have the potential to address these limitations but have yet to be validated in randomized clinical trials. To evaluate whether a bioresorbable occluder is noninferior to a metallic occluder based on its efficacy and safety for transcatheter ASD closure. This multicenter, noninferiority, open-label randomized clinical trial included participants with secundum ASD. Enrollment occurred from May 8, 2021, to August 3, 2022, at 10 hospital sites in China. The 2-year follow-up period ended in September 2024. Participants were randomized in a 1:1 ratio to receive a bioresorbable occluder (n&#x2009;=&#x2009;116) or a metallic occluder (n&#x2009;=&#x2009;114). The primary outcome was the success rate of ASD closure at 6 months (closure success was defined as procedural success with a residual shunt diameter of &#x2264;2 mm, which was assessed using transthoracic echocardiography). At the 2-year follow-up, the occluder groups were compared regarding the success of ASD closure and the device-related adverse events. The degradation profile of the bioresorbable occluder was assessed at 2 years. Of the 230 participants randomized, implantation was not attempted in 1 participant in the bioresorbable occluder group due to a small femoral vein, leaving 229 (median age, 14.1 years [IQR, 7.0 to 37.3 years]; 68% were female). At 6 months, the success rate of ASD closure was 96.5% (111 of 115 patients) for the bioresorbable occluder group vs 97.4% (111 of 114 patients) for the metallic occluder group (between-group difference, -0.8 percentage points [95% CI, -5.0 to 3.7]; P&#x2009;&lt;&#x2009;.001 for noninferiority). At 2 years, there were no statistically significant between-group differences in ASD closure success (94.8% [109/115] in the bioresorbable occluder group vs 96.5% [110/114] in the metallic occluder group; P&#x2009;=&#x2009;.75), or in device-related adverse events (2.6% [3/115] vs 3.5% [4/114], respectively; P&#x2009;=&#x2009;.72). The rate of degradation at 2 years was approximately 99.8% for the bioresorbable occluder. A bioresorbable occluder is noninferior to a metallic occluder for ASD closure, with near-complete degradation by 2 years. These findings suggest that a bioresorbable occluder could be a valuable addition to the options for transcatheter ASD closure. chictr.org.cn Identifier: ChiCTR2100044408."
-    },
-    {
-      "doi": "10.1001/jama.2025.18833",
-      "url": "https://doi.org/10.1001/jama.2025.18833",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840448",
-      "article_type": "",
-      "pubmed_pmid": "41105403",
-      "title": "As Pickleball Continues to Gain Players, Injuries Are Increasing.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Rodgers L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
     },
     {
       "doi": "10.1001/jama.2025.17517",
@@ -4648,28 +4648,6 @@
       "abstract_md": "This Viewpoint lays out the consequences of the proposed agreement to share Medicaid patient data with the Department of Homeland Security and offers advice to clinicians and health care administrators on how to protect patients."
     },
     {
-      "doi": "10.1001/jama.2025.18243",
-      "url": "https://doi.org/10.1001/jama.2025.18243",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
-      "article_type": "",
-      "pubmed_pmid": "41259054",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 19",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Jayakrishnan T Author",
-        "Ng K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19798",
       "url": "https://doi.org/10.1001/jama.2025.19798",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841694",
@@ -4694,6 +4672,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study examines the current national prevalence of up-to-date lung cancer screening and estimates lung cancer deaths prevented and life-years gained from screening."
+    },
+    {
+      "doi": "10.1001/jama.2025.18243",
+      "url": "https://doi.org/10.1001/jama.2025.18243",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
+      "article_type": "",
+      "pubmed_pmid": "41259054",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 19",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Jayakrishnan T Author",
+        "Ng K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23244",
@@ -4723,19 +4723,15 @@
       "url": "https://doi.org/10.1001/jama.2025.17294",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841690",
       "article_type": "",
-      "pubmed_pmid": "41259034",
-      "title": "\"How Strangely Sweet\": Laryngitis and the Quiet Quirkiness of Senryu.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 19",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4744,19 +4740,15 @@
       "url": "https://doi.org/10.1001/jama.2025.17291",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841691",
       "article_type": "",
-      "pubmed_pmid": "41259009",
-      "title": "Hush.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 19",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Savoie J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5518,27 +5510,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15275",
-      "url": "https://doi.org/10.1001/jama.2025.15275",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839712",
-      "article_type": "",
-      "pubmed_pmid": "41065642",
-      "title": "Is There Really Something Different About Postoperative Atrial Fibrillation After Cardiac Surgery?",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1804-1805",
-      "authors": [
-        "Marcus GM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.15546",
       "url": "https://doi.org/10.1001/jama.2025.15546",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840350",
@@ -5553,6 +5524,27 @@
       "authors": [
         "Zhang B Author",
         "Zhang H Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15275",
+      "url": "https://doi.org/10.1001/jama.2025.15275",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839712",
+      "article_type": "",
+      "pubmed_pmid": "41065642",
+      "title": "Is There Really Something Different About Postoperative Atrial Fibrillation After Cardiac Surgery?",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1804-1805",
+      "authors": [
+        "Marcus GM Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5578,6 +5570,39 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14891",
+      "url": "https://doi.org/10.1001/jama.2025.14891",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839710",
+      "article_type": "",
+      "pubmed_pmid": "41065638",
+      "title": "Long-Term Continuous Monitoring of New-Onset Atrial Fibrillation After Coronary Artery Bypass Grafting.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1827-1835",
+      "authors": [
+        "Herrmann FEM Author",
+        "Jeppsson A Author",
+        "Kirov H Author",
+        "Charitos EI Author",
+        "Dacian D Author",
+        "Brömsen J Author",
+        "Massberg S Author",
+        "Sadoni S Author",
+        "Doenst T Author",
+        "Juchem G Author",
+        "Hagl C Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Multicenter Study",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "The incidence and burden of new-onset atrial fibrillation (AF) after coronary artery bypass grafting (CABG) are not known. Nevertheless, North American guidelines state that it is reasonable to administer 60 days of oral anticoagulation to patients with new-onset AF after CABG, a moderate-strength recommendation (class 2a) based on evidence derived from nonrandomized clinical studies. To test the hypothesis that the incidence of new-onset AF within the first year after CABG is higher than suggested in the current literature and to assess AF burden. A prospective, multicenter cohort study in 2 academic cardiac surgery centers in Germany that involved 198 patients with 3-vessel coronary artery disease or left main disease and no history of arrhythmias who received an insertable cardiac monitor during CABG for long-term continuous electrocardiographic monitoring. Patients were enrolled from November 2019 through November 2023 and were followed up for 1 year. Atrial fibrillation detected within a year of continuous monitoring using insertable cardiac monitors implanted during CABG. Cumulative incidence of new-onset AF within a year of surgery. Secondary outcomes were AF burden and clinical outcomes. A total of 1217 patients were assessed, and 1008 were excluded. Of the 198 patients enrolled (173 male [87.4%]; 25 female [12.6%]; mean age, 66 [SD, 9] years), 95 patients developed new-onset AF within the first year after CABG (cumulative incidence, 48%; 95% CI, 41%-55%). The median AF burden during the first year was 0.07% (IQR, 0.02%-0.23%) or 370 minutes. The median AF burden on days 1 through 7 was 3.65% (IQR, 0.95%-9.09%); on days 8 through 30, 0.04% (IQR, 0%-1.21%); and on days 31 through 365, 0% (IQR, 0%-0.0003%), corresponding to 368, 13, and 0 minutes, respectively. After discharge, 3 patients had an AF episode longer than 24 hours. Although the incidence of new-onset AF after CABG in this study was higher than previously reported, the AF burden in these patients was very low, especially after 30 days. The very low AF burden questions the current guideline recommendations that long-term oral anticoagulation should be considered in patients with new-onset AF after CABG."
     },
     {
       "doi": "10.1001/jama.2025.14593",
@@ -5623,39 +5648,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14891",
-      "url": "https://doi.org/10.1001/jama.2025.14891",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839710",
-      "article_type": "",
-      "pubmed_pmid": "41065638",
-      "title": "Long-Term Continuous Monitoring of New-Onset Atrial Fibrillation After Coronary Artery Bypass Grafting.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1827-1835",
-      "authors": [
-        "Herrmann FEM Author",
-        "Jeppsson A Author",
-        "Kirov H Author",
-        "Charitos EI Author",
-        "Dacian D Author",
-        "Brömsen J Author",
-        "Massberg S Author",
-        "Sadoni S Author",
-        "Doenst T Author",
-        "Juchem G Author",
-        "Hagl C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Multicenter Study",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "The incidence and burden of new-onset atrial fibrillation (AF) after coronary artery bypass grafting (CABG) are not known. Nevertheless, North American guidelines state that it is reasonable to administer 60 days of oral anticoagulation to patients with new-onset AF after CABG, a moderate-strength recommendation (class 2a) based on evidence derived from nonrandomized clinical studies. To test the hypothesis that the incidence of new-onset AF within the first year after CABG is higher than suggested in the current literature and to assess AF burden. A prospective, multicenter cohort study in 2 academic cardiac surgery centers in Germany that involved 198 patients with 3-vessel coronary artery disease or left main disease and no history of arrhythmias who received an insertable cardiac monitor during CABG for long-term continuous electrocardiographic monitoring. Patients were enrolled from November 2019 through November 2023 and were followed up for 1 year. Atrial fibrillation detected within a year of continuous monitoring using insertable cardiac monitors implanted during CABG. Cumulative incidence of new-onset AF within a year of surgery. Secondary outcomes were AF burden and clinical outcomes. A total of 1217 patients were assessed, and 1008 were excluded. Of the 198 patients enrolled (173 male [87.4%]; 25 female [12.6%]; mean age, 66 [SD, 9] years), 95 patients developed new-onset AF within the first year after CABG (cumulative incidence, 48%; 95% CI, 41%-55%). The median AF burden during the first year was 0.07% (IQR, 0.02%-0.23%) or 370 minutes. The median AF burden on days 1 through 7 was 3.65% (IQR, 0.95%-9.09%); on days 8 through 30, 0.04% (IQR, 0%-1.21%); and on days 31 through 365, 0% (IQR, 0%-0.0003%), corresponding to 368, 13, and 0 minutes, respectively. After discharge, 3 patients had an AF episode longer than 24 hours. Although the incidence of new-onset AF after CABG in this study was higher than previously reported, the AF burden in these patients was very low, especially after 30 days. The very low AF burden questions the current guideline recommendations that long-term oral anticoagulation should be considered in patients with new-onset AF after CABG."
     },
     {
       "doi": "10.1001/jama.2025.18834",
@@ -5780,25 +5772,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2024.18997",
-      "url": "https://doi.org/10.1001/jama.2024.18997",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841030",
-      "article_type": "",
-      "pubmed_pmid": "41288614",
-      "title": "Audio Highlights: October 31, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "e2418997",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.16167",
       "url": "https://doi.org/10.1001/jama.2025.16167",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840460",
@@ -5846,22 +5819,18 @@
       "abstract_md": "This cross-sectional study examines Medicare Part D coverage and out-of-pocket costs for glucagon-like peptide-1 receptor agonists following implementation of the Inflation Reduction Act."
     },
     {
-      "doi": "10.1001/jama.2025.15204",
-      "url": "https://doi.org/10.1001/jama.2025.15204",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
+      "doi": "10.1001/jama.2024.18997",
+      "url": "https://doi.org/10.1001/jama.2024.18997",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841030",
       "article_type": "",
-      "pubmed_pmid": "41115001",
-      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
+      "pubmed_pmid": "41288614",
+      "title": "Audio Highlights: October 31, 2025.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 25",
       "volume": "334",
       "issue": "20",
-      "pages": "1799-1801",
-      "authors": [
-        "Kearney L Author",
-        "Carter-Bawa L Author",
-        "Wiener RS Author"
-      ],
+      "pages": "e2418997",
+      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -5903,6 +5872,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15204",
+      "url": "https://doi.org/10.1001/jama.2025.15204",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
+      "article_type": "",
+      "pubmed_pmid": "41115001",
+      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1799-1801",
+      "authors": [
+        "Kearney L Author",
+        "Carter-Bawa L Author",
+        "Wiener RS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5993,27 +5985,6 @@
       "abstract_md": "This Viewpoint discusses whether mandatory chromosomal screening improves competitive integrity enough to justify its costs to athletes."
     },
     {
-      "doi": "10.1001/jama.2025.17522",
-      "url": "https://doi.org/10.1001/jama.2025.17522",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840673",
-      "article_type": "",
-      "pubmed_pmid": "41134567",
-      "title": "Cannabis Use Increased Among People With Psychosis Following State Legalization.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1789",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17523",
       "url": "https://doi.org/10.1001/jama.2025.17523",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840672",
@@ -6027,6 +5998,27 @@
       "pages": "1789",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17522",
+      "url": "https://doi.org/10.1001/jama.2025.17522",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840673",
+      "article_type": "",
+      "pubmed_pmid": "41134567",
+      "title": "Cannabis Use Increased Among People With Psychosis Following State Legalization.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1789",
+      "authors": [
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -6058,25 +6050,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24458",
-      "url": "https://doi.org/10.1001/jama.2025.24458",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842206",
+      "doi": "10.1001/jama.2025.17527",
+      "url": "https://doi.org/10.1001/jama.2025.17527",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840669",
       "article_type": "",
-      "pubmed_pmid": "41288558",
-      "title": "The One Big Beautiful Bill Act-Making Medicaid and the Exchanges Sustainable.",
+      "pubmed_pmid": "41134591",
+      "title": "Mortality Risk Study Offers Good News for Patients With Narcolepsy.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 25",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1789-1790",
       "authors": [
-        "Malani A Author"
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the One Big Beautiful Bill Act and making Medicaid and the health insurance exchanges sustainable."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.16170",
@@ -6101,25 +6093,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.17527",
-      "url": "https://doi.org/10.1001/jama.2025.17527",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840669",
+      "doi": "10.1001/jama.2025.24458",
+      "url": "https://doi.org/10.1001/jama.2025.24458",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842206",
       "article_type": "",
-      "pubmed_pmid": "41134591",
-      "title": "Mortality Risk Study Offers Good News for Patients With Narcolepsy.",
+      "pubmed_pmid": "41288558",
+      "title": "The One Big Beautiful Bill Act-Making Medicaid and the Exchanges Sustainable.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1789-1790",
+      "volume": "",
+      "issue": "",
+      "pages": "",
       "authors": [
-        "Pant S Author"
+        "Malani A Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint discusses the One Big Beautiful Bill Act and making Medicaid and the health insurance exchanges sustainable."
     },
     {
       "doi": "10.1001/jama.2025.18210",
