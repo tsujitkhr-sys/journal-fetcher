@@ -269,29 +269,6 @@
       "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
     },
     {
-      "doi": "10.1001/jama.2025.13435",
-      "url": "https://doi.org/10.1001/jama.2025.13435",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
-      "article_type": "",
-      "pubmed_pmid": "40996725",
-      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1560-1561",
-      "authors": [
-        "Jacobs JW Author",
-        "Booth GS Author",
-        "Wheeler AP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13432",
       "url": "https://doi.org/10.1001/jama.2025.13432",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839311",
@@ -327,6 +304,29 @@
       "pages": "1507",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13435",
+      "url": "https://doi.org/10.1001/jama.2025.13435",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
+      "article_type": "",
+      "pubmed_pmid": "40996725",
+      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1560-1561",
+      "authors": [
+        "Jacobs JW Author",
+        "Booth GS Author",
+        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -426,27 +426,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.17486",
-      "url": "https://doi.org/10.1001/jama.2025.17486",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839722",
-      "article_type": "",
-      "pubmed_pmid": "41042505",
-      "title": "Frailty Symptoms Associated With Increased Dementia Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1506",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18087",
       "url": "https://doi.org/10.1001/jama.2025.18087",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839304",
@@ -465,6 +444,27 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17486",
+      "url": "https://doi.org/10.1001/jama.2025.17486",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839722",
+      "article_type": "",
+      "pubmed_pmid": "41042505",
+      "title": "Frailty Symptoms Associated With Increased Dementia Risk.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1506",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1546,8 +1546,8 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
+      "pubmed_is_research": true,
+      "abstract_md": "Persons with heterozygous familial hypercholesterolemia (HeFH) are at increased risk of atherosclerotic cardiovascular disease due to lifelong elevated levels of low-density lipoprotein cholesterol (LDL-C). Many patients with HeFH do not achieve guideline-recommended LDL-C goals with the currently available lipid-lowering therapies. To evaluate the efficacy of enlicitide decanoate (an oral proprotein convertase subtilisin/kexin type 9 inhibitor) vs placebo in adults with HeFH requiring further lowering of LDL-C levels despite use of statin therapy. This phase 3, randomized clinical trial included persons aged 18 years or older with HeFH currently using lipid-lowering therapy (taking at least a moderate- or high-intensity statin) and either an LDL-C level of 55 mg/dL or greater and a history of major atherosclerotic cardiovascular disease or an LDL-C level of 70 mg/dL or greater without a history of major atherosclerotic cardiovascular disease. The trial was conducted at 59 sites across 17 countries; the first participant was screened on August 8, 2023, and the last follow-up visit occurred on April 7, 2025. Participants were randomized (2:1) to 20 mg of enlicitide (n&#x2009;=&#x2009;202) or placebo (n&#x2009;=&#x2009;101) once daily for 52 weeks. The primary outcome was the mean percentage change in LDL-C level at week 24. The secondary outcomes included the mean percentage change in LDL-C level at week 52, the mean percentage change at week 24 in levels of non-high-density lipoprotein cholesterol (non-HDL-C) and apolipoprotein B, and the median percentage change at week 24 in lipoprotein(a). Of the 303 participants (mean age, 52.4 [SD, 13.5] years; 51% were female) randomized, 293 (96.7%) completed the trial. The mean LDL-C level was 119.0 mg/dL (SD, 41.0 mg/dL) at baseline, all had statin current use (81.5% were taking a high-intensity statin), and 64.4% were taking ezetimibe. The mean percentage change in LDL-C level at week 24 was -58.2% in the enlicitide group vs 2.6% in the placebo group (between-group difference, -59.4% [95% CI, -65.6% to -53.2%]; P&#x2009;&lt;&#x2009;.001). The mean percentage change in LDL-C level at week 52 was -55.3% in the enlicitide group vs 8.7% in the placebo group (between-group difference, -61.5% [95% CI, -69.4% to -53.7%]; P&#x2009;&lt;&#x2009;.001). At week 24, the mean percentage change in non-HDL-C level was -52.3% in the enlicitide group vs 2.1% in the placebo group (between-group difference, -53.0% [95% CI, -58.5% to -47.4%]; P&#x2009;&lt;&#x2009;.001), the mean percentage change in apolipoprotein B level was -48.2% vs 1.8%, respectively (between-group difference, -49.1% [95% CI, -54.0% to -44.3%]; P&#x2009;&lt;&#x2009;.001), and the median percentage change in lipoprotein(a) level was -24.7% vs -1.6% (between-group difference, -27.5% [95% CI, -34.3% to -20.6%]; P&#x2009;&lt;&#x2009;.001). The incidence of adverse events, serious adverse events, and study discontinuation due to adverse events was similar between groups. Among adults with HeFH, treatment with enlicitide was well tolerated and significantly reduced levels of LDL-C, apolipoprotein B, non-HDL-C, and lipoprotein(a). ClinicalTrials.gov Identifier: NCT05952869."
     },
     {
       "doi": "10.1001/jama.2025.20965",
@@ -1952,6 +1952,28 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.16358",
+      "url": "https://doi.org/10.1001/jama.2025.16358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
+      "article_type": "",
+      "pubmed_pmid": "40982246",
+      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1613-1614",
+      "authors": [
+        "Koh KA Author",
+        "Olivet J Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
+    },
+    {
       "doi": "10.1001/jama.2025.19431",
       "url": "https://doi.org/10.1001/jama.2025.19431",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840091",
@@ -2012,28 +2034,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The benefits of fractional flow reserve (FFR)-guided complete coronary revascularization in patients with non-ST-segment elevation myocardial infarction (NSTEMI) and multivessel disease remain unclear. To compare FFR-guided complete revascularization of nonculprit lesions vs culprit-only revascularization in patients with NSTEMI and multivessel disease. This prospective, investigator-initiated, multicenter, international randomized clinical trial was conducted at 9 hospitals in Europe. Patients with NSTEMI and multivessel disease who had successful revascularization of the culprit lesion were enrolled between June 2018 and July 2024, and final follow-up was completed on July 21, 2025. The analysis was conducted on July 28, 2025. Eligibility criteria included the presence of at least 1 stenosis of at least 50% in a nonculprit lesion amendable for revascularization. Patients were randomized to receive either FFR-guided complete or culprit-only revascularization during the index procedure. Staged revascularization within 6 weeks after the index procedure was allowed in the culprit-only group. The primary outcome was a composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. Key secondary outcomes included individual components of the primary outcome, net adverse clinical events, all-cause death or nonfatal myocardial infarction, cardiac rehospitalization, and bleeding events. Among 478 randomized patients (mean [SD] age, 65.9 [10.6] years; 347 [72.9%] males), 240 were randomized to receive FFR-guided complete revascularization and 238 were randomized to receive culprit-only revascularization, with crossover occurring in 7 patients in the culprit-only group. The primary outcome occurred in 13 patients (5.5%) in the FFR-guided complete revascularization group vs 32 patients (13.6%) in the culprit-only group (hazard ratio [HR], 0.38 [95% CI, 0.20-0.72]; P&#x2009;=&#x2009;.003). Rates of any revascularization (3.0% vs 11.5%; HR, 0.24 [95% CI, 0.11-0.56]; P&#x2009;&lt;&#x2009;.001) and net adverse clinical events (6.3% vs 15.3%; HR, 0.39 [95% CI, 0.21-0.70]; P&#x2009;=&#x2009;.002) were also significantly lower in the complete revascularization group, while there were no significant differences in the remaining secondary outcomes. FFR-guided complete revascularization during the index procedure resulted in a significant reduction in the composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. This was mainly driven by reduced repeat revascularization. ClinicalTrials.gov Identifier: NCT03562572."
-    },
-    {
-      "doi": "10.1001/jama.2025.16358",
-      "url": "https://doi.org/10.1001/jama.2025.16358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
-      "article_type": "",
-      "pubmed_pmid": "40982246",
-      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1613-1614",
-      "authors": [
-        "Koh KA Author",
-        "Olivet J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
     },
     {
       "doi": "10.1001/jama.2025.16537",
@@ -2129,27 +2129,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.17495",
-      "url": "https://doi.org/10.1001/jama.2025.17495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840179",
-      "article_type": "",
-      "pubmed_pmid": "41071544",
-      "title": "Mediterranean Diet May Offer Psoriasis Benefits.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1612",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.15638",
       "url": "https://doi.org/10.1001/jama.2025.15638",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839474",
@@ -2174,6 +2153,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study uses data from the Veterans Health Administration (VA) Corporate Data Warehouse to analyze trends in annual inhaler-related emissions by inhaler type (metered-dose, dry powder, soft mist) in the VA from 2008 to 2023."
+    },
+    {
+      "doi": "10.1001/jama.2025.17495",
+      "url": "https://doi.org/10.1001/jama.2025.17495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840179",
+      "article_type": "",
+      "pubmed_pmid": "41071544",
+      "title": "Mediterranean Diet May Offer Psoriasis Benefits.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1612",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18490",
@@ -5425,6 +5425,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.15204",
+      "url": "https://doi.org/10.1001/jama.2025.15204",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
+      "article_type": "",
+      "pubmed_pmid": "41115001",
+      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1799-1801",
+      "authors": [
+        "Kearney L Author",
+        "Carter-Bawa L Author",
+        "Wiener RS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.17526",
       "url": "https://doi.org/10.1001/jama.2025.17526",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840670",
@@ -5459,29 +5482,6 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15204",
-      "url": "https://doi.org/10.1001/jama.2025.15204",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
-      "article_type": "",
-      "pubmed_pmid": "41115001",
-      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1799-1801",
-      "authors": [
-        "Kearney L Author",
-        "Carter-Bawa L Author",
-        "Wiener RS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
