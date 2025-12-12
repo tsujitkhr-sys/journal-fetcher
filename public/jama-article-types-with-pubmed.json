@@ -227,6 +227,27 @@
       "abstract_md": "Levodopa enhances dopaminergic signaling and may stimulate neuroplasticity, which could potentially enhance motor recovery after stroke. Levodopa is used in stroke rehabilitation despite mixed evidence for its effectiveness. To determine whether levodopa compared with placebo, administered in addition to standardized rehabilitation based on active task-oriented training, is associated with enhanced motor recovery in patients with acute stroke. A double-blind, placebo-controlled randomized clinical trial at 13 stroke units and centers and 11 collaborating rehabilitation centers in Switzerland. Between June 14, 2019 (first patient, first visit), and August 27, 2024 (last patient, last visit), 610 patients with acute ischemic or hemorrhagic stroke with clinically meaningful hemiparesis (ie, a total score of &#x2265;3 points on the following National Institutes of Health Stroke Scale items: motor arm, motor leg, or limb ataxia) were randomized 1:1 to receive levodopa or placebo. Statistical analyses were conducted from November 2024 to August 2025. Patients received levodopa/carbidopa (100 mg/25 mg; n&#x2009;=&#x2009;307) or placebo (n&#x2009;=&#x2009;303) 3 times daily for 39 days, alongside standardized rehabilitation therapy based on active task-oriented training. The primary outcome was the adjusted mean between-group difference in the Fugl-Meyer Assessment (FMA) total score (range, 0-100 points; fewer points indicate worse motor function; 6-point difference considered patient-relevant) at 3 months. Among the 610 participants (median [IQR] age, 73 [64-82] years; 252 [41.3%] female; median baseline FMA total score, 34 [14-54]), 28 participants died by 3 months, leaving 582 (95.4%) participants eligible for the primary analysis. At 3 months, the median (IQR) FMA total score was 68 (42-85) points in the levodopa group and 64 (44-83) points in the placebo group. The mean difference in the FMA total score between the levodopa and placebo groups was -0.90 points (95% CI, -3.78 to 1.98; P&#x2009;=&#x2009;.54). There were 126 serious adverse events in the levodopa group and 129 in the placebo group; the most common was infection (levodopa, n&#x2009;=&#x2009;55; placebo, n&#x2009;=&#x2009;44). In this randomized clinical trial, among patients receiving inpatient rehabilitation for acute stroke, levodopa added to standardized rehabilitation did not significantly improve motor function at 3 months compared with placebo plus standardized rehabilitation. These results do not support the use of levodopa as an adjunct to rehabilitation therapy for enhancing motor recovery after acute stroke. ClinicalTrials.gov Identifier: NCT03735901."
     },
     {
+      "doi": "10.1001/jama.2025.18196",
+      "url": "https://doi.org/10.1001/jama.2025.18196",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
+      "article_type": "",
+      "pubmed_pmid": "41042533",
+      "title": "Seven Takeaways From the MAHA Children's Health Strategy.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1504-1505",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
+    },
+    {
       "doi": "10.1001/jama.2025.19345",
       "url": "https://doi.org/10.1001/jama.2025.19345",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839562",
@@ -248,25 +269,27 @@
       "abstract_md": "This Medical News article is an interview with epidemiologist Brian Lee, PhD, about his study on acetaminophen use during pregnancy and children&#x2019;s risk of autism and other neurodevelopmental disorders."
     },
     {
-      "doi": "10.1001/jama.2025.18196",
-      "url": "https://doi.org/10.1001/jama.2025.18196",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
+      "doi": "10.1001/jama.2025.13435",
+      "url": "https://doi.org/10.1001/jama.2025.13435",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
       "article_type": "",
-      "pubmed_pmid": "41042533",
-      "title": "Seven Takeaways From the MAHA Children's Health Strategy.",
+      "pubmed_pmid": "40996725",
+      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 4",
       "volume": "334",
       "issue": "17",
-      "pages": "1504-1505",
+      "pages": "1560-1561",
       "authors": [
-        "Anderer S Author"
+        "Jacobs JW Author",
+        "Booth GS Author",
+        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13432",
@@ -304,29 +327,6 @@
       "pages": "1507",
       "authors": [
         "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.13435",
-      "url": "https://doi.org/10.1001/jama.2025.13435",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
-      "article_type": "",
-      "pubmed_pmid": "40996725",
-      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1560-1561",
-      "authors": [
-        "Jacobs JW Author",
-        "Booth GS Author",
-        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -426,6 +426,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.17486",
+      "url": "https://doi.org/10.1001/jama.2025.17486",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839722",
+      "article_type": "",
+      "pubmed_pmid": "41042505",
+      "title": "Frailty Symptoms Associated With Increased Dementia Risk.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1506",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.18087",
       "url": "https://doi.org/10.1001/jama.2025.18087",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839304",
@@ -444,27 +465,6 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17486",
-      "url": "https://doi.org/10.1001/jama.2025.17486",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839722",
-      "article_type": "",
-      "pubmed_pmid": "41042505",
-      "title": "Frailty Symptoms Associated With Increased Dementia Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1506",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -863,6 +863,23 @@
       "abstract_md": "In this narrative medicine essay, a pulmonary and critical care physician credits the songs of Raffi and Barney for bringing peace and continuity to his daughter who experienced intractable seizures and progressive functional decline."
     },
     {
+      "doi": "10.1001/jama.2025.13009",
+      "url": "https://doi.org/10.1001/jama.2025.13009",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839633",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.13326",
       "url": "https://doi.org/10.1001/jama.2025.13326",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839301",
@@ -881,23 +898,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.13009",
-      "url": "https://doi.org/10.1001/jama.2025.13009",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839633",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -1952,28 +1952,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16358",
-      "url": "https://doi.org/10.1001/jama.2025.16358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
-      "article_type": "",
-      "pubmed_pmid": "40982246",
-      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1613-1614",
-      "authors": [
-        "Koh KA Author",
-        "Olivet J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
-    },
-    {
       "doi": "10.1001/jama.2025.19431",
       "url": "https://doi.org/10.1001/jama.2025.19431",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840091",
@@ -2034,6 +2012,28 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The benefits of fractional flow reserve (FFR)-guided complete coronary revascularization in patients with non-ST-segment elevation myocardial infarction (NSTEMI) and multivessel disease remain unclear. To compare FFR-guided complete revascularization of nonculprit lesions vs culprit-only revascularization in patients with NSTEMI and multivessel disease. This prospective, investigator-initiated, multicenter, international randomized clinical trial was conducted at 9 hospitals in Europe. Patients with NSTEMI and multivessel disease who had successful revascularization of the culprit lesion were enrolled between June 2018 and July 2024, and final follow-up was completed on July 21, 2025. The analysis was conducted on July 28, 2025. Eligibility criteria included the presence of at least 1 stenosis of at least 50% in a nonculprit lesion amendable for revascularization. Patients were randomized to receive either FFR-guided complete or culprit-only revascularization during the index procedure. Staged revascularization within 6 weeks after the index procedure was allowed in the culprit-only group. The primary outcome was a composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. Key secondary outcomes included individual components of the primary outcome, net adverse clinical events, all-cause death or nonfatal myocardial infarction, cardiac rehospitalization, and bleeding events. Among 478 randomized patients (mean [SD] age, 65.9 [10.6] years; 347 [72.9%] males), 240 were randomized to receive FFR-guided complete revascularization and 238 were randomized to receive culprit-only revascularization, with crossover occurring in 7 patients in the culprit-only group. The primary outcome occurred in 13 patients (5.5%) in the FFR-guided complete revascularization group vs 32 patients (13.6%) in the culprit-only group (hazard ratio [HR], 0.38 [95% CI, 0.20-0.72]; P&#x2009;=&#x2009;.003). Rates of any revascularization (3.0% vs 11.5%; HR, 0.24 [95% CI, 0.11-0.56]; P&#x2009;&lt;&#x2009;.001) and net adverse clinical events (6.3% vs 15.3%; HR, 0.39 [95% CI, 0.21-0.70]; P&#x2009;=&#x2009;.002) were also significantly lower in the complete revascularization group, while there were no significant differences in the remaining secondary outcomes. FFR-guided complete revascularization during the index procedure resulted in a significant reduction in the composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. This was mainly driven by reduced repeat revascularization. ClinicalTrials.gov Identifier: NCT03562572."
+    },
+    {
+      "doi": "10.1001/jama.2025.16358",
+      "url": "https://doi.org/10.1001/jama.2025.16358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
+      "article_type": "",
+      "pubmed_pmid": "40982246",
+      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1613-1614",
+      "authors": [
+        "Koh KA Author",
+        "Olivet J Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
     },
     {
       "doi": "10.1001/jama.2025.16537",
@@ -2129,6 +2129,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.17495",
+      "url": "https://doi.org/10.1001/jama.2025.17495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840179",
+      "article_type": "",
+      "pubmed_pmid": "41071544",
+      "title": "Mediterranean Diet May Offer Psoriasis Benefits.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1612",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.15638",
       "url": "https://doi.org/10.1001/jama.2025.15638",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839474",
@@ -2153,27 +2174,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study uses data from the Veterans Health Administration (VA) Corporate Data Warehouse to analyze trends in annual inhaler-related emissions by inhaler type (metered-dose, dry powder, soft mist) in the VA from 2008 to 2023."
-    },
-    {
-      "doi": "10.1001/jama.2025.17495",
-      "url": "https://doi.org/10.1001/jama.2025.17495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840179",
-      "article_type": "",
-      "pubmed_pmid": "41071544",
-      "title": "Mediterranean Diet May Offer Psoriasis Benefits.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1612",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18490",
@@ -2357,27 +2357,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.19069",
-      "url": "https://doi.org/10.1001/jama.2025.19069",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840177",
-      "article_type": "",
-      "pubmed_pmid": "41071558",
-      "title": "Oral Microbiome Composition Linked to Pancreatic Cancer Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1607-1608",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses research linking oral bacteria and fungi with pancreatic cancer risk, highlighting microbial signatures that may inform future screening strategies."
-    },
-    {
       "doi": "10.1001/jama.2025.16914",
       "url": "https://doi.org/10.1001/jama.2025.16914",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839354",
@@ -2399,6 +2378,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Perspective discusses the evidence presented in a recent report from the National Academies of Sciences, Engineering, and Medicine on alcohol consumption and health."
+    },
+    {
+      "doi": "10.1001/jama.2025.19069",
+      "url": "https://doi.org/10.1001/jama.2025.19069",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840177",
+      "article_type": "",
+      "pubmed_pmid": "41071558",
+      "title": "Oral Microbiome Composition Linked to Pancreatic Cancer Risk.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1607-1608",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses research linking oral bacteria and fungi with pancreatic cancer risk, highlighting microbial signatures that may inform future screening strategies."
     },
     {
       "doi": "10.1001/jama.2024.18983",
@@ -3562,9 +3562,9 @@
       "abstract_md": "This JAMA Insights explores the management of severe refractory asthma, including medications, access to specialists, and managing environmental triggers."
     },
     {
-      "doi": "10.1001/jama.2025.14721",
-      "url": "https://doi.org/10.1001/jama.2025.14721",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
+      "doi": "10.1001/jama.2024.18990",
+      "url": "https://doi.org/10.1001/jama.2024.18990",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840730",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3579,9 +3579,9 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2024.18990",
-      "url": "https://doi.org/10.1001/jama.2024.18990",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840730",
+      "doi": "10.1001/jama.2025.14721",
+      "url": "https://doi.org/10.1001/jama.2025.14721",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3994,27 +3994,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18833",
-      "url": "https://doi.org/10.1001/jama.2025.18833",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840448",
-      "article_type": "",
-      "pubmed_pmid": "41105403",
-      "title": "As Pickleball Continues to Gain Players, Injuries Are Increasing.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Rodgers L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
-    },
-    {
       "doi": "10.1001/jama.2025.17639",
       "url": "https://doi.org/10.1001/jama.2025.17639",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840484",
@@ -4053,6 +4032,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The permanent metallic occluders used for atrial septal defect (ASD) closure are associated with risks of late complications and may impede access to the left atrium. Bioresorbable occluders have the potential to address these limitations but have yet to be validated in randomized clinical trials. To evaluate whether a bioresorbable occluder is noninferior to a metallic occluder based on its efficacy and safety for transcatheter ASD closure. This multicenter, noninferiority, open-label randomized clinical trial included participants with secundum ASD. Enrollment occurred from May 8, 2021, to August 3, 2022, at 10 hospital sites in China. The 2-year follow-up period ended in September 2024. Participants were randomized in a 1:1 ratio to receive a bioresorbable occluder (n&#x2009;=&#x2009;116) or a metallic occluder (n&#x2009;=&#x2009;114). The primary outcome was the success rate of ASD closure at 6 months (closure success was defined as procedural success with a residual shunt diameter of &#x2264;2 mm, which was assessed using transthoracic echocardiography). At the 2-year follow-up, the occluder groups were compared regarding the success of ASD closure and the device-related adverse events. The degradation profile of the bioresorbable occluder was assessed at 2 years. Of the 230 participants randomized, implantation was not attempted in 1 participant in the bioresorbable occluder group due to a small femoral vein, leaving 229 (median age, 14.1 years [IQR, 7.0 to 37.3 years]; 68% were female). At 6 months, the success rate of ASD closure was 96.5% (111 of 115 patients) for the bioresorbable occluder group vs 97.4% (111 of 114 patients) for the metallic occluder group (between-group difference, -0.8 percentage points [95% CI, -5.0 to 3.7]; P&#x2009;&lt;&#x2009;.001 for noninferiority). At 2 years, there were no statistically significant between-group differences in ASD closure success (94.8% [109/115] in the bioresorbable occluder group vs 96.5% [110/114] in the metallic occluder group; P&#x2009;=&#x2009;.75), or in device-related adverse events (2.6% [3/115] vs 3.5% [4/114], respectively; P&#x2009;=&#x2009;.72). The rate of degradation at 2 years was approximately 99.8% for the bioresorbable occluder. A bioresorbable occluder is noninferior to a metallic occluder for ASD closure, with near-complete degradation by 2 years. These findings suggest that a bioresorbable occluder could be a valuable addition to the options for transcatheter ASD closure. chictr.org.cn Identifier: ChiCTR2100044408."
+    },
+    {
+      "doi": "10.1001/jama.2025.18833",
+      "url": "https://doi.org/10.1001/jama.2025.18833",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840448",
+      "article_type": "",
+      "pubmed_pmid": "41105403",
+      "title": "As Pickleball Continues to Gain Players, Injuries Are Increasing.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 17",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Rodgers L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
     },
     {
       "doi": "10.1001/jama.2025.17517",
@@ -4235,6 +4235,28 @@
       "abstract_md": "This Viewpoint lays out the consequences of the proposed agreement to share Medicaid patient data with the Department of Homeland Security and offers advice to clinicians and health care administrators on how to protect patients."
     },
     {
+      "doi": "10.1001/jama.2025.18243",
+      "url": "https://doi.org/10.1001/jama.2025.18243",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
+      "article_type": "",
+      "pubmed_pmid": "41259054",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 19",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Jayakrishnan T Author",
+        "Ng K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.19798",
       "url": "https://doi.org/10.1001/jama.2025.19798",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841694",
@@ -4259,28 +4281,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study examines the current national prevalence of up-to-date lung cancer screening and estimates lung cancer deaths prevented and life-years gained from screening."
-    },
-    {
-      "doi": "10.1001/jama.2025.18243",
-      "url": "https://doi.org/10.1001/jama.2025.18243",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
-      "article_type": "",
-      "pubmed_pmid": "41259054",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 19",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Jayakrishnan T Author",
-        "Ng K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23244",
@@ -5097,6 +5097,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.15275",
+      "url": "https://doi.org/10.1001/jama.2025.15275",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839712",
+      "article_type": "",
+      "pubmed_pmid": "41065642",
+      "title": "Is There Really Something Different About Postoperative Atrial Fibrillation After Cardiac Surgery?",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1804-1805",
+      "authors": [
+        "Marcus GM Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.15546",
       "url": "https://doi.org/10.1001/jama.2025.15546",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840350",
@@ -5111,27 +5132,6 @@
       "authors": [
         "Zhang B Author",
         "Zhang H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15275",
-      "url": "https://doi.org/10.1001/jama.2025.15275",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839712",
-      "article_type": "",
-      "pubmed_pmid": "41065642",
-      "title": "Is There Really Something Different About Postoperative Atrial Fibrillation After Cardiac Surgery?",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1804-1805",
-      "authors": [
-        "Marcus GM Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5425,29 +5425,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15204",
-      "url": "https://doi.org/10.1001/jama.2025.15204",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
-      "article_type": "",
-      "pubmed_pmid": "41115001",
-      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1799-1801",
-      "authors": [
-        "Kearney L Author",
-        "Carter-Bawa L Author",
-        "Wiener RS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17526",
       "url": "https://doi.org/10.1001/jama.2025.17526",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840670",
@@ -5482,6 +5459,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15204",
+      "url": "https://doi.org/10.1001/jama.2025.15204",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
+      "article_type": "",
+      "pubmed_pmid": "41115001",
+      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1799-1801",
+      "authors": [
+        "Kearney L Author",
+        "Carter-Bawa L Author",
+        "Wiener RS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5637,25 +5637,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.17527",
-      "url": "https://doi.org/10.1001/jama.2025.17527",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840669",
+      "doi": "10.1001/jama.2025.24458",
+      "url": "https://doi.org/10.1001/jama.2025.24458",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842206",
       "article_type": "",
-      "pubmed_pmid": "41134591",
-      "title": "Mortality Risk Study Offers Good News for Patients With Narcolepsy.",
+      "pubmed_pmid": "41288558",
+      "title": "The One Big Beautiful Bill Act-Making Medicaid and the Exchanges Sustainable.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1789-1790",
+      "volume": "",
+      "issue": "",
+      "pages": "",
       "authors": [
-        "Pant S Author"
+        "Malani A Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint discusses the One Big Beautiful Bill Act and making Medicaid and the health insurance exchanges sustainable."
     },
     {
       "doi": "10.1001/jama.2025.16170",
@@ -5680,25 +5680,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24458",
-      "url": "https://doi.org/10.1001/jama.2025.24458",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842206",
+      "doi": "10.1001/jama.2025.17527",
+      "url": "https://doi.org/10.1001/jama.2025.17527",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840669",
       "article_type": "",
-      "pubmed_pmid": "41288558",
-      "title": "The One Big Beautiful Bill Act-Making Medicaid and the Exchanges Sustainable.",
+      "pubmed_pmid": "41134591",
+      "title": "Mortality Risk Study Offers Good News for Patients With Narcolepsy.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 25",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1789-1790",
       "authors": [
-        "Malani A Author"
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the One Big Beautiful Bill Act and making Medicaid and the health insurance exchanges sustainable."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18210",
