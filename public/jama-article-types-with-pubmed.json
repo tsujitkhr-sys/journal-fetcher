@@ -227,6 +227,27 @@
       "abstract_md": "Levodopa enhances dopaminergic signaling and may stimulate neuroplasticity, which could potentially enhance motor recovery after stroke. Levodopa is used in stroke rehabilitation despite mixed evidence for its effectiveness. To determine whether levodopa compared with placebo, administered in addition to standardized rehabilitation based on active task-oriented training, is associated with enhanced motor recovery in patients with acute stroke. A double-blind, placebo-controlled randomized clinical trial at 13 stroke units and centers and 11 collaborating rehabilitation centers in Switzerland. Between June 14, 2019 (first patient, first visit), and August 27, 2024 (last patient, last visit), 610 patients with acute ischemic or hemorrhagic stroke with clinically meaningful hemiparesis (ie, a total score of &#x2265;3 points on the following National Institutes of Health Stroke Scale items: motor arm, motor leg, or limb ataxia) were randomized 1:1 to receive levodopa or placebo. Statistical analyses were conducted from November 2024 to August 2025. Patients received levodopa/carbidopa (100 mg/25 mg; n&#x2009;=&#x2009;307) or placebo (n&#x2009;=&#x2009;303) 3 times daily for 39 days, alongside standardized rehabilitation therapy based on active task-oriented training. The primary outcome was the adjusted mean between-group difference in the Fugl-Meyer Assessment (FMA) total score (range, 0-100 points; fewer points indicate worse motor function; 6-point difference considered patient-relevant) at 3 months. Among the 610 participants (median [IQR] age, 73 [64-82] years; 252 [41.3%] female; median baseline FMA total score, 34 [14-54]), 28 participants died by 3 months, leaving 582 (95.4%) participants eligible for the primary analysis. At 3 months, the median (IQR) FMA total score was 68 (42-85) points in the levodopa group and 64 (44-83) points in the placebo group. The mean difference in the FMA total score between the levodopa and placebo groups was -0.90 points (95% CI, -3.78 to 1.98; P&#x2009;=&#x2009;.54). There were 126 serious adverse events in the levodopa group and 129 in the placebo group; the most common was infection (levodopa, n&#x2009;=&#x2009;55; placebo, n&#x2009;=&#x2009;44). In this randomized clinical trial, among patients receiving inpatient rehabilitation for acute stroke, levodopa added to standardized rehabilitation did not significantly improve motor function at 3 months compared with placebo plus standardized rehabilitation. These results do not support the use of levodopa as an adjunct to rehabilitation therapy for enhancing motor recovery after acute stroke. ClinicalTrials.gov Identifier: NCT03735901."
     },
     {
+      "doi": "10.1001/jama.2025.18196",
+      "url": "https://doi.org/10.1001/jama.2025.18196",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
+      "article_type": "",
+      "pubmed_pmid": "41042533",
+      "title": "Seven Takeaways From the MAHA Children's Health Strategy.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1504-1505",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
+    },
+    {
       "doi": "10.1001/jama.2025.19345",
       "url": "https://doi.org/10.1001/jama.2025.19345",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839562",
@@ -248,25 +269,27 @@
       "abstract_md": "This Medical News article is an interview with epidemiologist Brian Lee, PhD, about his study on acetaminophen use during pregnancy and children&#x2019;s risk of autism and other neurodevelopmental disorders."
     },
     {
-      "doi": "10.1001/jama.2025.18196",
-      "url": "https://doi.org/10.1001/jama.2025.18196",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
+      "doi": "10.1001/jama.2025.13435",
+      "url": "https://doi.org/10.1001/jama.2025.13435",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
       "article_type": "",
-      "pubmed_pmid": "41042533",
-      "title": "Seven Takeaways From the MAHA Children's Health Strategy.",
+      "pubmed_pmid": "40996725",
+      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 4",
       "volume": "334",
       "issue": "17",
-      "pages": "1504-1505",
+      "pages": "1560-1561",
       "authors": [
-        "Anderer S Author"
+        "Jacobs JW Author",
+        "Booth GS Author",
+        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.13432",
@@ -304,29 +327,6 @@
       "pages": "1507",
       "authors": [
         "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.13435",
-      "url": "https://doi.org/10.1001/jama.2025.13435",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
-      "article_type": "",
-      "pubmed_pmid": "40996725",
-      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1560-1561",
-      "authors": [
-        "Jacobs JW Author",
-        "Booth GS Author",
-        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -600,6 +600,28 @@
       "abstract_md": "This cohort study examines the association of elevated blood pressure at age 7 years with cardiovascular disease mortality later in life."
     },
     {
+      "doi": "10.1001/jama.2025.17483",
+      "url": "https://doi.org/10.1001/jama.2025.17483",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839725",
+      "article_type": "",
+      "pubmed_pmid": "41042537",
+      "title": "Bariatric Surgery May Cut Costs and Weight More Than GLP-1 Drugs.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1506",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.13665",
       "url": "https://doi.org/10.1001/jama.2025.13665",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838874",
@@ -621,28 +643,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights article explores a variety of current and emerging nutrient-stimulated, hormone-based medications for the treatment of individuals with obesity."
-    },
-    {
-      "doi": "10.1001/jama.2025.17483",
-      "url": "https://doi.org/10.1001/jama.2025.17483",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839725",
-      "article_type": "",
-      "pubmed_pmid": "41042537",
-      "title": "Bariatric Surgery May Cut Costs and Weight More Than GLP-1 Drugs.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1506",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.17484",
@@ -708,29 +708,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.13219",
-      "url": "https://doi.org/10.1001/jama.2025.13219",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839113",
-      "article_type": "",
-      "pubmed_pmid": "40982293",
-      "title": "Extracranial-Intracranial Bypass Surgery for Symptomatic Cerebral Artery Occlusion-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1558",
-      "authors": [
-        "Liu D Author",
-        "Wang T Author",
-        "Ma Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14901",
       "url": "https://doi.org/10.1001/jama.2025.14901",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839306",
@@ -767,6 +744,29 @@
       "authors": [
         "Ghazal L Author",
         "Sinko L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13219",
+      "url": "https://doi.org/10.1001/jama.2025.13219",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839113",
+      "article_type": "",
+      "pubmed_pmid": "40982293",
+      "title": "Extracranial-Intracranial Bypass Surgery for Symptomatic Cerebral Artery Occlusion-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1558",
+      "authors": [
+        "Liu D Author",
+        "Wang T Author",
+        "Ma Y Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -1019,52 +1019,6 @@
       "abstract_md": "This JAMA Clinical Guidelines Synopsis summarizes KDIGO&#x2019;s 2024 clinical practice guideline for evaluation and management of chronic kidney disease."
     },
     {
-      "doi": "10.1001/jama.2025.17418",
-      "url": "https://doi.org/10.1001/jama.2025.17418",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841055",
-      "article_type": "",
-      "pubmed_pmid": "41196579",
-      "title": "Telehealth and Online Cognitive Behavioral Therapy-Based Treatments for High-Impact Chronic Pain-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "DeBar LL Author",
-        "Cook AJ Author",
-        "Keefe FJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17420",
-      "url": "https://doi.org/10.1001/jama.2025.17420",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841056",
-      "article_type": "",
-      "pubmed_pmid": "41196589",
-      "title": "Telehealth and Online Cognitive Behavioral Therapy-Based Treatments for High-Impact Chronic Pain.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Xu D Author",
-        "Chen R Author",
-        "Shan H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17253",
       "url": "https://doi.org/10.1001/jama.2025.17253",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841054",
@@ -1084,71 +1038,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes hemorrhoids and their symptoms, diagnosis, and treatment."
-    },
-    {
-      "doi": "10.1001/jama.2025.18916",
-      "url": "https://doi.org/10.1001/jama.2025.18916",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841053",
-      "article_type": "",
-      "pubmed_pmid": "41196581",
-      "title": "The Last Night.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Buckley LM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a rheumatologist compares her last night on call as a resident with her last night on inpatient call 40 years later and the years between."
-    },
-    {
-      "doi": "10.1001/jama.2025.17416",
-      "url": "https://doi.org/10.1001/jama.2025.17416",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841057",
-      "article_type": "",
-      "pubmed_pmid": "41196591",
-      "title": "Telehealth and Online Cognitive Behavioral Therapy-Based Treatments for High-Impact Chronic Pain.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Jiang Y Author",
-        "Samah NA Author",
-        "Zhou H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21010",
-      "url": "https://doi.org/10.1001/jama.2025.21010",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
-      "article_type": "",
-      "pubmed_pmid": "41196628",
-      "title": "AI in the Lab-Will It Really Change Drug Discovery?",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Perlis R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21618",
@@ -1750,49 +1639,6 @@
       "abstract_md": "Heterozygous familial hypercholesterolemia (FH), a genetic condition, results in lifelong increased low-density lipoprotein cholesterol (LDL-C) and increases lifetime cardiovascular disease (CVD) risk. Most individuals with FH remain undiagnosed, so early FH identification and treatment could lower CVD burden. To evaluate the projected cost-effectiveness of population sequential FH screening (lipid testing followed by genetic testing after a high LDL-C measurement) at 10 or 18 years of age. The CVD Policy Model, a validated discrete event simulation of CVD risk factor management and CVD outcomes in National Health and Nutrition Examination Survey participants, was used to simulate lifetime health and economic outcomes from a health care sector perspective for a hypothetical cohort of 4.2 million US 10-year-olds. Individual characteristics and health care processes informed CVD events (coronary heart disease or stroke) and survival probabilities. Model inputs included national data sources, clinical trials, pooled longitudinal cohort studies, and published literature. Usual care assumed only opportunistic lipid testing and LDL-C and CVD risk-guided treatment. When added to usual care, sequential FH screening strategies examined combinations of childhood (age 10 years) or early adulthood (age 18 years) screening with 3 LDL-C thresholds (&#x2265;130 mg/dL, &#x2265;160 mg/dL, or &#x2265;190 mg/dL) to select patients for genetic testing. Primary outcomes were direct health care costs (2021 US dollars), quality-adjusted life-years (QALYs), and an incremental cost-effectiveness ratio (ICER). Future costs and QALYs were discounted 3% annually. Strategies with an ICER of less than $100&#x202f;000 per QALY gained were considered cost-effective. For the simulated cohort, usual care would lead to 3&#x202f;118&#x202f;000 (95% uncertainty interval, 3&#x202f;061&#x202f;000-3&#x202f;192&#x202f;000) total lifetime CVD events, with 16&#x202f;182 (95% uncertainty interval, 15&#x202f;683-16&#x202f;827) among those with FH. Childhood FH screening could avert between 1385 and 1820 CVD events (&lt;0.1% reduction in overall population), and early adulthood FH screening could avert between 1154 and 1448 CVD events (&lt;0.1% reduction). While effective, no FH screening strategies were cost-effective relative to usual care; screening at age 18 years using an LDL-C threshold of 190 mg/dL or greater had the lowest ICER, at $289&#x202f;700 per QALY gained. Sequential FH screening could become cost-effective vs usual care if lifetime lipid monitoring plus lifestyle therapy increased after a high screening LDL-C result, including for patients with non-FH dyslipidemias. Sequential FH screening in childhood or early adulthood could be effective but not cost-effective vs usual care. However, sequential FH screening could become cost-effective under highly optimistic assumptions about increased lifestyle therapy and increased lifetime lipid monitoring for patients with non-FH dyslipidemias."
     },
     {
-      "doi": "10.1001/jama.2025.17737",
-      "url": "https://doi.org/10.1001/jama.2025.17737",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841072",
-      "article_type": "",
-      "pubmed_pmid": "41212566",
-      "title": "Review on Uveitis-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 10",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Maghsoudlou P Author",
-        "Dick AD Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17735",
-      "url": "https://doi.org/10.1001/jama.2025.17735",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841073",
-      "article_type": "",
-      "pubmed_pmid": "41212542",
-      "title": "Review on Uveitis.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 10",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Oscherwitz S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20067",
       "url": "https://doi.org/10.1001/jama.2025.20067",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841074",
@@ -1952,28 +1798,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16358",
-      "url": "https://doi.org/10.1001/jama.2025.16358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
-      "article_type": "",
-      "pubmed_pmid": "40982246",
-      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1613-1614",
-      "authors": [
-        "Koh KA Author",
-        "Olivet J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
-    },
-    {
       "doi": "10.1001/jama.2025.19431",
       "url": "https://doi.org/10.1001/jama.2025.19431",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840091",
@@ -2034,6 +1858,28 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The benefits of fractional flow reserve (FFR)-guided complete coronary revascularization in patients with non-ST-segment elevation myocardial infarction (NSTEMI) and multivessel disease remain unclear. To compare FFR-guided complete revascularization of nonculprit lesions vs culprit-only revascularization in patients with NSTEMI and multivessel disease. This prospective, investigator-initiated, multicenter, international randomized clinical trial was conducted at 9 hospitals in Europe. Patients with NSTEMI and multivessel disease who had successful revascularization of the culprit lesion were enrolled between June 2018 and July 2024, and final follow-up was completed on July 21, 2025. The analysis was conducted on July 28, 2025. Eligibility criteria included the presence of at least 1 stenosis of at least 50% in a nonculprit lesion amendable for revascularization. Patients were randomized to receive either FFR-guided complete or culprit-only revascularization during the index procedure. Staged revascularization within 6 weeks after the index procedure was allowed in the culprit-only group. The primary outcome was a composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. Key secondary outcomes included individual components of the primary outcome, net adverse clinical events, all-cause death or nonfatal myocardial infarction, cardiac rehospitalization, and bleeding events. Among 478 randomized patients (mean [SD] age, 65.9 [10.6] years; 347 [72.9%] males), 240 were randomized to receive FFR-guided complete revascularization and 238 were randomized to receive culprit-only revascularization, with crossover occurring in 7 patients in the culprit-only group. The primary outcome occurred in 13 patients (5.5%) in the FFR-guided complete revascularization group vs 32 patients (13.6%) in the culprit-only group (hazard ratio [HR], 0.38 [95% CI, 0.20-0.72]; P&#x2009;=&#x2009;.003). Rates of any revascularization (3.0% vs 11.5%; HR, 0.24 [95% CI, 0.11-0.56]; P&#x2009;&lt;&#x2009;.001) and net adverse clinical events (6.3% vs 15.3%; HR, 0.39 [95% CI, 0.21-0.70]; P&#x2009;=&#x2009;.002) were also significantly lower in the complete revascularization group, while there were no significant differences in the remaining secondary outcomes. FFR-guided complete revascularization during the index procedure resulted in a significant reduction in the composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. This was mainly driven by reduced repeat revascularization. ClinicalTrials.gov Identifier: NCT03562572."
+    },
+    {
+      "doi": "10.1001/jama.2025.16358",
+      "url": "https://doi.org/10.1001/jama.2025.16358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
+      "article_type": "",
+      "pubmed_pmid": "40982246",
+      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1613-1614",
+      "authors": [
+        "Koh KA Author",
+        "Olivet J Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
     },
     {
       "doi": "10.1001/jama.2025.16537",
@@ -2804,74 +2650,6 @@
       "abstract_md": "In this narrative medicine essay, a gastroenterologist who is an international medical graduate reviews how the various interpretations of a handy icebreaker has morphed over the years."
     },
     {
-      "doi": "10.1001/jama.2025.17854",
-      "url": "https://doi.org/10.1001/jama.2025.17854",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841315",
-      "article_type": "",
-      "pubmed_pmid": "41222954",
-      "title": "Lower Urinary Tract Symptoms in Males.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Sinha S Author",
-        "Vasudeva P Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17852",
-      "url": "https://doi.org/10.1001/jama.2025.17852",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841316",
-      "article_type": "",
-      "pubmed_pmid": "41222924",
-      "title": "Lower Urinary Tract Symptoms in Males.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Cornu JN Author",
-        "Peyronnet B Author",
-        "De Nunzio C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20238",
-      "url": "https://doi.org/10.1001/jama.2025.20238",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841311",
-      "article_type": "",
-      "pubmed_pmid": "41222928",
-      "title": "Evolving Hospital-at-Home to Meet the Needs of Children.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Gerstenzang E Author",
-        "Vasan A Author",
-        "Kilaru AS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint describes the hospital-at-home model for delivering hospital-level services in the home, barriers to implementation of pediatric hospital-at-home programs, current opportunities for these programs, and policy changes needed to support their growth and meet the changing needs of pediatric populations."
-    },
-    {
       "doi": "10.1001/jama.2025.19029",
       "url": "https://doi.org/10.1001/jama.2025.19029",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841318",
@@ -2893,52 +2671,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses the causes and treatment of dental caries in US adults as well as preventive measures for patients and medical and dental clinicians."
-    },
-    {
-      "doi": "10.1001/jama.2025.17856",
-      "url": "https://doi.org/10.1001/jama.2025.17856",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841314",
-      "article_type": "",
-      "pubmed_pmid": "41222941",
-      "title": "Lower Urinary Tract Symptoms in Males-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Wei JT Author",
-        "Dauw C Author",
-        "Brodsky C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17850",
-      "url": "https://doi.org/10.1001/jama.2025.17850",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841317",
-      "article_type": "",
-      "pubmed_pmid": "41222921",
-      "title": "Lower Urinary Tract Symptoms in Males.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Zheng Z Author",
-        "Jiang X Author",
-        "Wu B Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18107",
@@ -3103,175 +2835,6 @@
       "abstract_md": "This study analyzes high-engagement social media posts for 3 major drug classes to assess their alignment with Food and Drug Administration and Federal Trade Commission oversight."
     },
     {
-      "doi": "10.1001/jama.2025.19735",
-      "url": "https://doi.org/10.1001/jama.2025.19735",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841662",
-      "article_type": "",
-      "pubmed_pmid": "41236760",
-      "title": "FDA Approves Nonhormonal Treatment for Menopausal Hot Flashes.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.19739",
-      "url": "https://doi.org/10.1001/jama.2025.19739",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841658",
-      "article_type": "",
-      "pubmed_pmid": "41236735",
-      "title": "AAP: Leucovorin Not Recommended for Autism.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.19733",
-      "url": "https://doi.org/10.1001/jama.2025.19733",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841663",
-      "article_type": "",
-      "pubmed_pmid": "41236773",
-      "title": "2024-2025 COVID-19 Vaccines Protected Against JN.1 Subvariants.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.22366",
-      "url": "https://doi.org/10.1001/jama.2025.22366",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841656",
-      "article_type": "",
-      "pubmed_pmid": "41236749",
-      "title": "Gluten Sensitivity Is Common Around the World-Explanations Are Emerging.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses new research on the global prevalence and characteristics of nonceliac gluten sensitivity."
-    },
-    {
-      "doi": "10.1001/jama.2025.19737",
-      "url": "https://doi.org/10.1001/jama.2025.19737",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841660",
-      "article_type": "",
-      "pubmed_pmid": "41236731",
-      "title": "Bacterial Vaginosis Treatment Should Involve All Partners, ACOG Says.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.22365",
-      "url": "https://doi.org/10.1001/jama.2025.22365",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841657",
-      "article_type": "",
-      "pubmed_pmid": "41236726",
-      "title": "New Insights on Circadian Health and Cardiometabolic Disease-Light, Sleep, Food, Exercise, and More.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Schweitzer K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses a new American Heart Association scientific statement on the importance of optimizing one&#x2019;s circadian system to reduce the risks of obesity, hypertension, type 2 diabetes, and cardiovascular disease."
-    },
-    {
-      "doi": "10.1001/jama.2025.19736",
-      "url": "https://doi.org/10.1001/jama.2025.19736",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841661",
-      "article_type": "",
-      "pubmed_pmid": "41236730",
-      "title": "Meta-Analysis: Viral Infections May Raise Cardiovascular Risks.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.19738",
-      "url": "https://doi.org/10.1001/jama.2025.19738",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841659",
-      "article_type": "",
-      "pubmed_pmid": "41236775",
-      "title": "Updated Flu, RSV Vaccination Recommendations for Immunocompromised People.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20617",
       "url": "https://doi.org/10.1001/jama.2025.20617",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841551",
@@ -3360,47 +2923,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Peripheral neuropathy, defined as damage to peripheral nerves, affects approximately 1% of adults worldwide. More than 200 causes of peripheral neuropathy exist, with symptoms ranging in severity from mild toe numbness to debilitating symptoms that can require a wheelchair. Diabetes is the most common cause of neuropathy, affecting approximately 206 million people worldwide. Peripheral neuropathy is typically length-dependent, which means that symptoms appear in the longest nerve axons (toes) and progress proximally over time. Peripheral neuropathy is typically symmetric and affects sensory axons more than motor axons. Diabetic neuropathy, which is often associated with both sensory symptoms, such as pain, tingling, or numbness; mild weakness; and autonomic symptoms, such as orthostatic hypotension, accounts for more than 50% of peripheral neuropathy in Western populations. Other causes of neuropathy include hereditary causes, such as Charcot-Marie-Tooth disease, toxic neuropathy from medications (chemotherapies [eg, cisplatin, paclitaxel, vincristine], amiodarone, or HIV nucleotide reverse transcriptase inhibitors [eg, stavudine, zalcitabine]); alcohol; vitamin deficiencies such as vitamin B12; and monoclonal gammopathies. Up to 27% of adults with neuropathy have no identifiable etiology for their neuropathy after diagnostic testing. Recommended initial testing includes blood glucose (for diabetes), serum B12 with metabolites (methylmalonic acid with or without homocysteine), and serum protein electrophoresis with immunofixation (for monoclonal gammopathies). First-line medications for neuropathic pain are the &#x3b1;2-&#x3b4; calcium channel subunit ligands, such as gabapentin and pregabalin; serotonin norepinephrine reuptake inhibitors, such as duloxetine and venlafaxine; and tricyclic antidepressants, such as amitryptyline and nortriptyline. Pain often persists despite medical management. At least a 50% reduction in pain was observed in 38% of those with painful diabetic peripheral neuropathy receiving 1200 mg of gabapentin daily. Combination drug therapies for neuropathic pain may provide added benefit. The prognosis of peripheral neuropathy depends on its underlying cause, but complete reversal of nerve damage is uncommon even in cases for which there are available treatments. Peripheral neuropathy affects approximately 1% of adults worldwide and may cause sensory, motor, and autonomic symptoms. Diabetes is the most common cause of peripheral neuropathy in Western countries. First-line therapies for neuropathic pain include gabapentin, pregabalin, duloxetine, and amitriptyline."
-    },
-    {
-      "doi": "10.1001/jama.2025.19161",
-      "url": "https://doi.org/10.1001/jama.2025.19161",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841553",
-      "article_type": "",
-      "pubmed_pmid": "41247717",
-      "title": "Arsenic Exposure Reduction and Chronic Disease Mortality.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Wu F Author",
-        "van Geen A Author",
-        "Graziano J Author",
-        "Ahmed KM Author",
-        "Liu M Author",
-        "Argos M Author",
-        "Parvez F Author",
-        "Choudhury I Author",
-        "Slavkovich VN Author",
-        "Ellis T Author",
-        "Islam T Author",
-        "Ahmed A Author",
-        "Kibriya MG Author",
-        "Jasmine F Author",
-        "Shahriar MH Author",
-        "Hasan R Author",
-        "Shima SA Author",
-        "Sarwar G Author",
-        "Navas-Acien A Author",
-        "Ahsan H Author",
-        "Chen Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Chronic exposure to arsenic in drinking water has been associated with increased chronic disease mortality. However, there is limited evidence on associations between reduced exposure and mortality risk. To examine whether reductions in arsenic exposure, measured using urinary arsenic levels, are associated with lower mortality from chronic diseases, including cancer and cardiovascular disease (CVD). A prospective cohort of 11&#x202f;746 adults was enrolled between 2000 and 2002 in Araihazar, Bangladesh, with levels of well-water arsenic ranging from less than 1 &#xb5;g/L to 864 &#xb5;g/L (mean, 102 &#xb5;g/L), exceeding the Bangladesh standard of 50 &#xb5;g/L. Arsenic levels declined over time as a result of community mitigation. Mortality was tracked through 2022. Analyses included 10&#x202f;977 participants with calculable changes in urinary arsenic levels. Urinary arsenic levels were measured up to 5 times per participant through 2018. Participants were categorized based on changes in urinary arsenic levels. Adjusted hazard ratios (aHRs) and 95% CIs for mortality from chronic diseases, including cancer and CVD. Among 10&#x202f;977 participants (57% female; mean age, 37.0 [SD, 10.1] years), mean urinary arsenic levels declined from 283 (SD, 314) to 132 (SD, 161) &#xb5;g/g creatinine from 2000 to 2018. Each IQR decrease in urinary arsenic (197 &#xb5;g/g creatinine) was associated with 22% lower chronic disease mortality (aHR, 0.78 [95% CI, 0.75-0.82]), 20% lower cancer mortality (aHR, 0.80 [95% CI, 0.73-0.87]), and 23% lower CVD mortality (aHR, 0.77 [95% CI, 0.73-0.81]). Time-varying Cox and restricted cubic spline analyses showed larger reductions were associated with lower mortality, while increases were linked to higher risk. Compared with participants with consistently high urinary arsenic levels (above the baseline median of 199 &#xb5;g/g creatinine [n&#x2009;=&#x2009;1757]), those whose levels declined below the median (n&#x2009;=&#x2009;3757) had lower mortality from chronic diseases (aHR, 0.46 [95% CI, 0.39-0.53]), including cancer (aHR, 0.51 [95% CI, 0.35-0.73]) and CVD (aHR, 0.43 [95% CI, 0.34-0.53]), similar to those consistently below the median (n&#x2009;=&#x2009;4959) (aHR, 0.43-0.49). Findings were similar in propensity score-matched analyses. These findings support an association between reduced arsenic exposure and improved health outcomes in populations exposed to contaminated drinking water."
     },
     {
       "doi": "10.1001/jama.2025.17516",
@@ -4235,6 +3757,28 @@
       "abstract_md": "This Viewpoint lays out the consequences of the proposed agreement to share Medicaid patient data with the Department of Homeland Security and offers advice to clinicians and health care administrators on how to protect patients."
     },
     {
+      "doi": "10.1001/jama.2025.18243",
+      "url": "https://doi.org/10.1001/jama.2025.18243",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
+      "article_type": "",
+      "pubmed_pmid": "41259054",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 19",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Jayakrishnan T Author",
+        "Ng K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.19798",
       "url": "https://doi.org/10.1001/jama.2025.19798",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841694",
@@ -4261,28 +3805,6 @@
       "abstract_md": "This study examines the current national prevalence of up-to-date lung cancer screening and estimates lung cancer deaths prevented and life-years gained from screening."
     },
     {
-      "doi": "10.1001/jama.2025.18243",
-      "url": "https://doi.org/10.1001/jama.2025.18243",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
-      "article_type": "",
-      "pubmed_pmid": "41259054",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 19",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Jayakrishnan T Author",
-        "Ng K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23244",
       "url": "https://doi.org/10.1001/jama.2025.23244",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841706",
@@ -4302,40 +3824,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17294",
-      "url": "https://doi.org/10.1001/jama.2025.17294",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841690",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17291",
-      "url": "https://doi.org/10.1001/jama.2025.17291",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841691",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4493,25 +3981,6 @@
       "abstract_md": "This JAMA Patient Page describes osteoporosis risk factors, symptoms, screening, diagnosis, and treatment."
     },
     {
-      "doi": "10.1001/jama.2024.19019",
-      "url": "https://doi.org/10.1001/jama.2024.19019",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841712",
-      "article_type": "",
-      "pubmed_pmid": "41264312",
-      "title": "Sunshine and Health.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18274",
       "url": "https://doi.org/10.1001/jama.2025.18274",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841710",
@@ -4657,23 +4126,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2024.19018",
-      "url": "https://doi.org/10.1001/jama.2024.19018",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842099",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5425,29 +4877,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15204",
-      "url": "https://doi.org/10.1001/jama.2025.15204",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
-      "article_type": "",
-      "pubmed_pmid": "41115001",
-      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1799-1801",
-      "authors": [
-        "Kearney L Author",
-        "Carter-Bawa L Author",
-        "Wiener RS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17526",
       "url": "https://doi.org/10.1001/jama.2025.17526",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840670",
@@ -5482,6 +4911,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15204",
+      "url": "https://doi.org/10.1001/jama.2025.15204",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840353",
+      "article_type": "",
+      "pubmed_pmid": "41115001",
+      "title": "A Digital Direct-to-Patient Intervention Shows Promise to Improve Lung Cancer Screening Rates: Multilevel Strategies Remain Essential.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1799-1801",
+      "authors": [
+        "Kearney L Author",
+        "Carter-Bawa L Author",
+        "Wiener RS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5572,27 +5024,6 @@
       "abstract_md": "This Viewpoint discusses whether mandatory chromosomal screening improves competitive integrity enough to justify its costs to athletes."
     },
     {
-      "doi": "10.1001/jama.2025.17522",
-      "url": "https://doi.org/10.1001/jama.2025.17522",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840673",
-      "article_type": "",
-      "pubmed_pmid": "41134567",
-      "title": "Cannabis Use Increased Among People With Psychosis Following State Legalization.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1789",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17523",
       "url": "https://doi.org/10.1001/jama.2025.17523",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840672",
@@ -5606,6 +5037,27 @@
       "pages": "1789",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17522",
+      "url": "https://doi.org/10.1001/jama.2025.17522",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840673",
+      "article_type": "",
+      "pubmed_pmid": "41134567",
+      "title": "Cannabis Use Increased Among People With Psychosis Following State Legalization.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1789",
+      "authors": [
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
