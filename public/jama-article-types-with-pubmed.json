@@ -3757,28 +3757,6 @@
       "abstract_md": "This Viewpoint lays out the consequences of the proposed agreement to share Medicaid patient data with the Department of Homeland Security and offers advice to clinicians and health care administrators on how to protect patients."
     },
     {
-      "doi": "10.1001/jama.2025.18243",
-      "url": "https://doi.org/10.1001/jama.2025.18243",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
-      "article_type": "",
-      "pubmed_pmid": "41259054",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 19",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Jayakrishnan T Author",
-        "Ng K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19798",
       "url": "https://doi.org/10.1001/jama.2025.19798",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841694",
@@ -3803,6 +3781,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study examines the current national prevalence of up-to-date lung cancer screening and estimates lung cancer deaths prevented and life-years gained from screening."
+    },
+    {
+      "doi": "10.1001/jama.2025.18243",
+      "url": "https://doi.org/10.1001/jama.2025.18243",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
+      "article_type": "",
+      "pubmed_pmid": "41259054",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 19",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Jayakrishnan T Author",
+        "Ng K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23244",
