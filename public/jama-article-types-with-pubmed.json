@@ -207,29 +207,6 @@
       "abstract_md": "This Medical News article is an interview with epidemiologist Brian Lee, PhD, about his study on acetaminophen use during pregnancy and children&#x2019;s risk of autism and other neurodevelopmental disorders."
     },
     {
-      "doi": "10.1001/jama.2025.13435",
-      "url": "https://doi.org/10.1001/jama.2025.13435",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
-      "article_type": "",
-      "pubmed_pmid": "40996725",
-      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1560-1561",
-      "authors": [
-        "Jacobs JW Author",
-        "Booth GS Author",
-        "Wheeler AP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13432",
       "url": "https://doi.org/10.1001/jama.2025.13432",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839311",
@@ -265,6 +242,29 @@
       "pages": "1507",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13435",
+      "url": "https://doi.org/10.1001/jama.2025.13435",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839310",
+      "article_type": "",
+      "pubmed_pmid": "40996725",
+      "title": "Immigration Policy, US Medical Training, and Patient Care-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1560-1561",
+      "authors": [
+        "Jacobs JW Author",
+        "Booth GS Author",
+        "Wheeler AP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -1657,28 +1657,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16358",
-      "url": "https://doi.org/10.1001/jama.2025.16358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
-      "article_type": "",
-      "pubmed_pmid": "40982246",
-      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1613-1614",
-      "authors": [
-        "Koh KA Author",
-        "Olivet J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
-    },
-    {
       "doi": "10.1001/jama.2025.19431",
       "url": "https://doi.org/10.1001/jama.2025.19431",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840091",
@@ -1739,6 +1717,28 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The benefits of fractional flow reserve (FFR)-guided complete coronary revascularization in patients with non-ST-segment elevation myocardial infarction (NSTEMI) and multivessel disease remain unclear. To compare FFR-guided complete revascularization of nonculprit lesions vs culprit-only revascularization in patients with NSTEMI and multivessel disease. This prospective, investigator-initiated, multicenter, international randomized clinical trial was conducted at 9 hospitals in Europe. Patients with NSTEMI and multivessel disease who had successful revascularization of the culprit lesion were enrolled between June 2018 and July 2024, and final follow-up was completed on July 21, 2025. The analysis was conducted on July 28, 2025. Eligibility criteria included the presence of at least 1 stenosis of at least 50% in a nonculprit lesion amendable for revascularization. Patients were randomized to receive either FFR-guided complete or culprit-only revascularization during the index procedure. Staged revascularization within 6 weeks after the index procedure was allowed in the culprit-only group. The primary outcome was a composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. Key secondary outcomes included individual components of the primary outcome, net adverse clinical events, all-cause death or nonfatal myocardial infarction, cardiac rehospitalization, and bleeding events. Among 478 randomized patients (mean [SD] age, 65.9 [10.6] years; 347 [72.9%] males), 240 were randomized to receive FFR-guided complete revascularization and 238 were randomized to receive culprit-only revascularization, with crossover occurring in 7 patients in the culprit-only group. The primary outcome occurred in 13 patients (5.5%) in the FFR-guided complete revascularization group vs 32 patients (13.6%) in the culprit-only group (hazard ratio [HR], 0.38 [95% CI, 0.20-0.72]; P&#x2009;=&#x2009;.003). Rates of any revascularization (3.0% vs 11.5%; HR, 0.24 [95% CI, 0.11-0.56]; P&#x2009;&lt;&#x2009;.001) and net adverse clinical events (6.3% vs 15.3%; HR, 0.39 [95% CI, 0.21-0.70]; P&#x2009;=&#x2009;.002) were also significantly lower in the complete revascularization group, while there were no significant differences in the remaining secondary outcomes. FFR-guided complete revascularization during the index procedure resulted in a significant reduction in the composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. This was mainly driven by reduced repeat revascularization. ClinicalTrials.gov Identifier: NCT03562572."
+    },
+    {
+      "doi": "10.1001/jama.2025.16358",
+      "url": "https://doi.org/10.1001/jama.2025.16358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
+      "article_type": "",
+      "pubmed_pmid": "40982246",
+      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1613-1614",
+      "authors": [
+        "Koh KA Author",
+        "Olivet J Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
     },
     {
       "doi": "10.1001/jama.2025.16537",
