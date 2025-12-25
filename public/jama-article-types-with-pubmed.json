@@ -165,27 +165,6 @@
       "abstract_md": "Levodopa enhances dopaminergic signaling and may stimulate neuroplasticity, which could potentially enhance motor recovery after stroke. Levodopa is used in stroke rehabilitation despite mixed evidence for its effectiveness. To determine whether levodopa compared with placebo, administered in addition to standardized rehabilitation based on active task-oriented training, is associated with enhanced motor recovery in patients with acute stroke. A double-blind, placebo-controlled randomized clinical trial at 13 stroke units and centers and 11 collaborating rehabilitation centers in Switzerland. Between June 14, 2019 (first patient, first visit), and August 27, 2024 (last patient, last visit), 610 patients with acute ischemic or hemorrhagic stroke with clinically meaningful hemiparesis (ie, a total score of &#x2265;3 points on the following National Institutes of Health Stroke Scale items: motor arm, motor leg, or limb ataxia) were randomized 1:1 to receive levodopa or placebo. Statistical analyses were conducted from November 2024 to August 2025. Patients received levodopa/carbidopa (100 mg/25 mg; n&#x2009;=&#x2009;307) or placebo (n&#x2009;=&#x2009;303) 3 times daily for 39 days, alongside standardized rehabilitation therapy based on active task-oriented training. The primary outcome was the adjusted mean between-group difference in the Fugl-Meyer Assessment (FMA) total score (range, 0-100 points; fewer points indicate worse motor function; 6-point difference considered patient-relevant) at 3 months. Among the 610 participants (median [IQR] age, 73 [64-82] years; 252 [41.3%] female; median baseline FMA total score, 34 [14-54]), 28 participants died by 3 months, leaving 582 (95.4%) participants eligible for the primary analysis. At 3 months, the median (IQR) FMA total score was 68 (42-85) points in the levodopa group and 64 (44-83) points in the placebo group. The mean difference in the FMA total score between the levodopa and placebo groups was -0.90 points (95% CI, -3.78 to 1.98; P&#x2009;=&#x2009;.54). There were 126 serious adverse events in the levodopa group and 129 in the placebo group; the most common was infection (levodopa, n&#x2009;=&#x2009;55; placebo, n&#x2009;=&#x2009;44). In this randomized clinical trial, among patients receiving inpatient rehabilitation for acute stroke, levodopa added to standardized rehabilitation did not significantly improve motor function at 3 months compared with placebo plus standardized rehabilitation. These results do not support the use of levodopa as an adjunct to rehabilitation therapy for enhancing motor recovery after acute stroke. ClinicalTrials.gov Identifier: NCT03735901."
     },
     {
-      "doi": "10.1001/jama.2025.18196",
-      "url": "https://doi.org/10.1001/jama.2025.18196",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
-      "article_type": "",
-      "pubmed_pmid": "41042533",
-      "title": "Seven Takeaways From the MAHA Children's Health Strategy.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 4",
-      "volume": "334",
-      "issue": "17",
-      "pages": "1504-1505",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
-    },
-    {
       "doi": "10.1001/jama.2025.19345",
       "url": "https://doi.org/10.1001/jama.2025.19345",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839562",
@@ -205,6 +184,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Medical News article is an interview with epidemiologist Brian Lee, PhD, about his study on acetaminophen use during pregnancy and children&#x2019;s risk of autism and other neurodevelopmental disorders."
+    },
+    {
+      "doi": "10.1001/jama.2025.18196",
+      "url": "https://doi.org/10.1001/jama.2025.18196",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839718",
+      "article_type": "",
+      "pubmed_pmid": "41042533",
+      "title": "Seven Takeaways From the MAHA Children's Health Strategy.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 4",
+      "volume": "334",
+      "issue": "17",
+      "pages": "1504-1505",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses key takeaways from the Make America Healthy Again Commission&#x2019;s new strategy report on addressing childhood chronic disease."
     },
     {
       "doi": "10.1001/jama.2025.13432",
@@ -801,23 +801,6 @@
       "abstract_md": "In this narrative medicine essay, a pulmonary and critical care physician credits the songs of Raffi and Barney for bringing peace and continuity to his daughter who experienced intractable seizures and progressive functional decline."
     },
     {
-      "doi": "10.1001/jama.2025.13009",
-      "url": "https://doi.org/10.1001/jama.2025.13009",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839633",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13326",
       "url": "https://doi.org/10.1001/jama.2025.13326",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839301",
@@ -836,6 +819,23 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13009",
+      "url": "https://doi.org/10.1001/jama.2025.13009",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839633",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -865,27 +865,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "US children's health insurance is fragmented across public and private sources, with wide state variation. However, the extent of children's interactions with Medicaid and Children's Health Insurance Program (CHIP) and their experience of uninsurance over 18 years of childhood remains unclear. Such estimates can provide a baseline for gauging the potential impact of upcoming Medicaid policy changes. To estimate insurance dynamics in relation to Medicaid or CHIP and uninsurance over childhood under post-Affordable Care Act (ACA) prepandemic policy conditions. Using a microsimulation model, we projected individual-level monthly insurance coverage (Medicaid or CHIP, Marketplace, employment-based, other, or uninsured) from birth until the 18th birthday for a simulated nationally representative cohort of 100&#x202f;000 US children. National data were synthesized (2015-2019), including natality records, Medical Expenditure Panel Survey pooled 2-year panels, and 1 Survey of Income and Program Participation (SIPP) 3-year panel. Monthly insurance status was simulated by matching dynamically updated predictors to SIPP samples every 12 months. Predictors included annual family income as a percentage of the federal poverty level, insurance history, state, and age. The analysis was bootstrapped 1000 times to generate 95% uncertainty intervals (95% UI). Insurance status and state of residence at birth. Cumulative insurance experience, overall and by subgroup. It was estimated that, by their 18th birthday, 61% (95% UI, 58%-63%) of US children were ever enrolled in Medicaid or CHIP and 42% (95% UI, 38%-46%) were ever uninsured. An estimated 26% (95% UI, 24%-29%) of children were continuously enrolled in employment-based or other insurance excluding Medicaid, CHIP, or Marketplace. Among children born with Medicaid or CHIP, the share ever uninsured was 59% (95% UI, 48%-66%) in ACA nonexpansion states vs 36% (95% UI, 30%-41%) in expansion states. Across alternative categorizations of policy restrictiveness, the highest share of ever uninsured among children born with Medicaid or CHIP was consistently estimated in states with the most restrictive Medicaid and CHIP eligibility criteria. An estimated 3 of 4 US children relied on publicly subsidized insurance (Medicaid, CHIP, or Marketplace) or experienced a period without any insurance by their 18th birthday in the post-ACA, prepandemic policy environment. Substantial state heterogeneity in childhood uninsurance underscores the critical role of Medicaid policies."
-    },
-    {
-      "doi": "10.1001/jama.2025.13083",
-      "url": "https://doi.org/10.1001/jama.2025.13083",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837775",
-      "article_type": "",
-      "pubmed_pmid": "40824576",
-      "title": "Hemorrhoidal Disease: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Aug 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Ashburn JH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Hemorrhoidal disease, pathology of the tissue lining of the anal canal, affects approximately 10 million individuals in the US. Hemorrhoidal disease may impair quality of life due to bleeding, pain, anal irritation, and tissue prolapse. Hemorrhoids are classified as internal, external, or mixed (concurrent internal and external hemorrhoidal disease). Internal hemorrhoids originate above the dentate line, the boundary between the upper and lower anal canal, and may cause rectal bleeding, discomfort, and tissue prolapse from the anal canal. Internal hemorrhoid prolapse is classified as grade I (into anal canal), grade II (beyond the anus with spontaneous reduction), grade III (requiring manual reduction), and grade IV (irreducible). External hemorrhoids, arising below the dentate line, cause rectal pain when engorged or thrombosed. Initial treatment of all hemorrhoidal disease involves increasing intake of dietary fiber and water and avoiding straining during defecation. Phlebotonics (eg, flavonoids [thought to improve venous tone]) reduce bleeding, rectal pain, and swelling, although symptom recurrence reaches 80% within 3 to 6 months after treatment cessation. If dietary modification and phlebotonics are ineffective, grade I to grade III internal hemorrhoidal disease can be treated with office-based interventions. Rubber band ligation-placing a band around the base of hemorrhoid tissue during anoscopy to restrict blood flow-resolves symptoms in 89% of patients, but repeated banding is needed in up to 20%. Sclerotherapy, which induces fibrosis with a sclerosant injection, is efficacious in the short term (weeks to months) among 70% to 85% of patients, but long-term remission occurs in only one-third of patients. Infrared coagulation uses heat to coagulate hemorrhoidal tissue, yielding 70% to 80% success in reducing bleeding and prolapse. Excisional hemorrhoidectomy, for disease unresponsive to office-based therapy or for mixed hemorrhoidal disease, achieves low recurrence (2%-10%), although with longer recovery (9-14 days). External hemorrhoidal disease rarely requires surgery unless acutely thrombosed. Outpatient clot evacuation within 72 hours of onset of a thrombosed external hemorrhoid is associated with decreased pain and reduced risk of repeat thrombosis. Patients presenting more than 72 hours after external hemorrhoid acute thrombosis should receive medical treatment (eg, stool softeners, oral and topical analgesics such as 5% lidocaine). Hemorrhoidal disease affects 10 million people in the US. First-line treatment is increased fiber intake, avoidance of straining during defecation, and phlebotonics. In-office rubber band ligation for grade I to III internal hemorrhoid disease is first-line procedural treatment for persistent symptoms despite conservative therapies. Excisional hemorrhoidectomy is recommended for grade III to IV prolapse, thrombosis, or mixed hemorrhoidal disease that does not improve with less invasive approaches."
     },
     {
       "doi": "10.1001/jama.2025.14762",
@@ -933,6 +912,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.13083",
+      "url": "https://doi.org/10.1001/jama.2025.13083",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837775",
+      "article_type": "",
+      "pubmed_pmid": "40824576",
+      "title": "Hemorrhoidal Disease: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Aug 18",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Ashburn JH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Hemorrhoidal disease, pathology of the tissue lining of the anal canal, affects approximately 10 million individuals in the US. Hemorrhoidal disease may impair quality of life due to bleeding, pain, anal irritation, and tissue prolapse. Hemorrhoids are classified as internal, external, or mixed (concurrent internal and external hemorrhoidal disease). Internal hemorrhoids originate above the dentate line, the boundary between the upper and lower anal canal, and may cause rectal bleeding, discomfort, and tissue prolapse from the anal canal. Internal hemorrhoid prolapse is classified as grade I (into anal canal), grade II (beyond the anus with spontaneous reduction), grade III (requiring manual reduction), and grade IV (irreducible). External hemorrhoids, arising below the dentate line, cause rectal pain when engorged or thrombosed. Initial treatment of all hemorrhoidal disease involves increasing intake of dietary fiber and water and avoiding straining during defecation. Phlebotonics (eg, flavonoids [thought to improve venous tone]) reduce bleeding, rectal pain, and swelling, although symptom recurrence reaches 80% within 3 to 6 months after treatment cessation. If dietary modification and phlebotonics are ineffective, grade I to grade III internal hemorrhoidal disease can be treated with office-based interventions. Rubber band ligation-placing a band around the base of hemorrhoid tissue during anoscopy to restrict blood flow-resolves symptoms in 89% of patients, but repeated banding is needed in up to 20%. Sclerotherapy, which induces fibrosis with a sclerosant injection, is efficacious in the short term (weeks to months) among 70% to 85% of patients, but long-term remission occurs in only one-third of patients. Infrared coagulation uses heat to coagulate hemorrhoidal tissue, yielding 70% to 80% success in reducing bleeding and prolapse. Excisional hemorrhoidectomy, for disease unresponsive to office-based therapy or for mixed hemorrhoidal disease, achieves low recurrence (2%-10%), although with longer recovery (9-14 days). External hemorrhoidal disease rarely requires surgery unless acutely thrombosed. Outpatient clot evacuation within 72 hours of onset of a thrombosed external hemorrhoid is associated with decreased pain and reduced risk of repeat thrombosis. Patients presenting more than 72 hours after external hemorrhoid acute thrombosis should receive medical treatment (eg, stool softeners, oral and topical analgesics such as 5% lidocaine). Hemorrhoidal disease affects 10 million people in the US. First-line treatment is increased fiber intake, avoidance of straining during defecation, and phlebotonics. In-office rubber band ligation for grade I to III internal hemorrhoid disease is first-line procedural treatment for persistent symptoms despite conservative therapies. Excisional hemorrhoidectomy is recommended for grade III to IV prolapse, thrombosis, or mixed hemorrhoidal disease that does not improve with less invasive approaches."
     },
     {
       "doi": "10.1001/jama.2025.18457",
@@ -1657,6 +1657,28 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.16358",
+      "url": "https://doi.org/10.1001/jama.2025.16358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
+      "article_type": "",
+      "pubmed_pmid": "40982246",
+      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1613-1614",
+      "authors": [
+        "Koh KA Author",
+        "Olivet J Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
+    },
+    {
       "doi": "10.1001/jama.2025.19431",
       "url": "https://doi.org/10.1001/jama.2025.19431",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840091",
@@ -1717,28 +1739,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The benefits of fractional flow reserve (FFR)-guided complete coronary revascularization in patients with non-ST-segment elevation myocardial infarction (NSTEMI) and multivessel disease remain unclear. To compare FFR-guided complete revascularization of nonculprit lesions vs culprit-only revascularization in patients with NSTEMI and multivessel disease. This prospective, investigator-initiated, multicenter, international randomized clinical trial was conducted at 9 hospitals in Europe. Patients with NSTEMI and multivessel disease who had successful revascularization of the culprit lesion were enrolled between June 2018 and July 2024, and final follow-up was completed on July 21, 2025. The analysis was conducted on July 28, 2025. Eligibility criteria included the presence of at least 1 stenosis of at least 50% in a nonculprit lesion amendable for revascularization. Patients were randomized to receive either FFR-guided complete or culprit-only revascularization during the index procedure. Staged revascularization within 6 weeks after the index procedure was allowed in the culprit-only group. The primary outcome was a composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. Key secondary outcomes included individual components of the primary outcome, net adverse clinical events, all-cause death or nonfatal myocardial infarction, cardiac rehospitalization, and bleeding events. Among 478 randomized patients (mean [SD] age, 65.9 [10.6] years; 347 [72.9%] males), 240 were randomized to receive FFR-guided complete revascularization and 238 were randomized to receive culprit-only revascularization, with crossover occurring in 7 patients in the culprit-only group. The primary outcome occurred in 13 patients (5.5%) in the FFR-guided complete revascularization group vs 32 patients (13.6%) in the culprit-only group (hazard ratio [HR], 0.38 [95% CI, 0.20-0.72]; P&#x2009;=&#x2009;.003). Rates of any revascularization (3.0% vs 11.5%; HR, 0.24 [95% CI, 0.11-0.56]; P&#x2009;&lt;&#x2009;.001) and net adverse clinical events (6.3% vs 15.3%; HR, 0.39 [95% CI, 0.21-0.70]; P&#x2009;=&#x2009;.002) were also significantly lower in the complete revascularization group, while there were no significant differences in the remaining secondary outcomes. FFR-guided complete revascularization during the index procedure resulted in a significant reduction in the composite of all-cause death, nonfatal myocardial infarction, any revascularization, and stroke at 1 year. This was mainly driven by reduced repeat revascularization. ClinicalTrials.gov Identifier: NCT03562572."
-    },
-    {
-      "doi": "10.1001/jama.2025.16358",
-      "url": "https://doi.org/10.1001/jama.2025.16358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839111",
-      "article_type": "",
-      "pubmed_pmid": "40982246",
-      "title": "Homelessness Policy-Assessing the Current Federal Approach.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1613-1614",
-      "authors": [
-        "Koh KA Author",
-        "Olivet J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the implications of the current administration&#x2019;s policy on homelessness, which treats people experiencing homelessness as criminals instead of focusing on providing housing and care, and suggests that state and local governments should work together to provide community-based care."
     },
     {
       "doi": "10.1001/jama.2025.16537",
@@ -2062,6 +2062,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.19069",
+      "url": "https://doi.org/10.1001/jama.2025.19069",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840177",
+      "article_type": "",
+      "pubmed_pmid": "41071558",
+      "title": "Oral Microbiome Composition Linked to Pancreatic Cancer Risk.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1607-1608",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses research linking oral bacteria and fungi with pancreatic cancer risk, highlighting microbial signatures that may inform future screening strategies."
+    },
+    {
       "doi": "10.1001/jama.2025.16914",
       "url": "https://doi.org/10.1001/jama.2025.16914",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839354",
@@ -2083,27 +2104,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Perspective discusses the evidence presented in a recent report from the National Academies of Sciences, Engineering, and Medicine on alcohol consumption and health."
-    },
-    {
-      "doi": "10.1001/jama.2025.19069",
-      "url": "https://doi.org/10.1001/jama.2025.19069",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840177",
-      "article_type": "",
-      "pubmed_pmid": "41071558",
-      "title": "Oral Microbiome Composition Linked to Pancreatic Cancer Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1607-1608",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses research linking oral bacteria and fungi with pancreatic cancer risk, highlighting microbial signatures that may inform future screening strategies."
     },
     {
       "doi": "10.1001/jama.2024.18983",
@@ -2402,27 +2402,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.17491",
-      "url": "https://doi.org/10.1001/jama.2025.17491",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840183",
-      "article_type": "",
-      "pubmed_pmid": "41071565",
-      "title": "COVID-19 Linked to Lasting and Underrecognized Smell Impairment.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 11",
-      "volume": "334",
-      "issue": "18",
-      "pages": "1611",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.14210",
       "url": "https://doi.org/10.1001/jama.2025.14210",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2837762",
@@ -2444,21 +2423,19 @@
       "abstract_md": "This JAMA Insights discusses transmission, clinical presentation, and diagnosis of measles and emphasizes the importance of vaccination to protect those at highest risk for complications from measles, including young children and pregnant individuals."
     },
     {
-      "doi": "10.1001/jama.2025.14080",
-      "url": "https://doi.org/10.1001/jama.2025.14080",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839714",
+      "doi": "10.1001/jama.2025.17491",
+      "url": "https://doi.org/10.1001/jama.2025.17491",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840183",
       "article_type": "",
-      "pubmed_pmid": "41066102",
-      "title": "Reaching Individualized Optimal Oxygen Therapy in Mechanically Ventilated Patients-Reply.",
+      "pubmed_pmid": "41071565",
+      "title": "COVID-19 Linked to Lasting and Underrecognized Smell Impairment.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 11",
       "volume": "334",
       "issue": "18",
-      "pages": "1679-1680",
+      "pages": "1611",
       "authors": [
-        "Grocott M Author",
-        "Mouncey P Author",
-        "Martin DS Author"
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -2480,6 +2457,29 @@
       "pages": "1611-1612",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14080",
+      "url": "https://doi.org/10.1001/jama.2025.14080",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839714",
+      "article_type": "",
+      "pubmed_pmid": "41066102",
+      "title": "Reaching Individualized Optimal Oxygen Therapy in Mechanically Ventilated Patients-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 11",
+      "volume": "334",
+      "issue": "18",
+      "pages": "1679-1680",
+      "authors": [
+        "Grocott M Author",
+        "Mouncey P Author",
+        "Martin DS Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -2808,9 +2808,9 @@
       "abstract_md": "This JAMA Insights explores the management of severe refractory asthma, including medications, access to specialists, and managing environmental triggers."
     },
     {
-      "doi": "10.1001/jama.2024.18990",
-      "url": "https://doi.org/10.1001/jama.2024.18990",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840730",
+      "doi": "10.1001/jama.2025.14721",
+      "url": "https://doi.org/10.1001/jama.2025.14721",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -2825,9 +2825,9 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14721",
-      "url": "https://doi.org/10.1001/jama.2025.14721",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839986",
+      "doi": "10.1001/jama.2024.18990",
+      "url": "https://doi.org/10.1001/jama.2024.18990",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840730",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3240,6 +3240,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.18833",
+      "url": "https://doi.org/10.1001/jama.2025.18833",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840448",
+      "article_type": "",
+      "pubmed_pmid": "41105403",
+      "title": "As Pickleball Continues to Gain Players, Injuries Are Increasing.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 17",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Rodgers L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
+    },
+    {
       "doi": "10.1001/jama.2025.17639",
       "url": "https://doi.org/10.1001/jama.2025.17639",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840484",
@@ -3278,27 +3299,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The permanent metallic occluders used for atrial septal defect (ASD) closure are associated with risks of late complications and may impede access to the left atrium. Bioresorbable occluders have the potential to address these limitations but have yet to be validated in randomized clinical trials. To evaluate whether a bioresorbable occluder is noninferior to a metallic occluder based on its efficacy and safety for transcatheter ASD closure. This multicenter, noninferiority, open-label randomized clinical trial included participants with secundum ASD. Enrollment occurred from May 8, 2021, to August 3, 2022, at 10 hospital sites in China. The 2-year follow-up period ended in September 2024. Participants were randomized in a 1:1 ratio to receive a bioresorbable occluder (n&#x2009;=&#x2009;116) or a metallic occluder (n&#x2009;=&#x2009;114). The primary outcome was the success rate of ASD closure at 6 months (closure success was defined as procedural success with a residual shunt diameter of &#x2264;2 mm, which was assessed using transthoracic echocardiography). At the 2-year follow-up, the occluder groups were compared regarding the success of ASD closure and the device-related adverse events. The degradation profile of the bioresorbable occluder was assessed at 2 years. Of the 230 participants randomized, implantation was not attempted in 1 participant in the bioresorbable occluder group due to a small femoral vein, leaving 229 (median age, 14.1 years [IQR, 7.0 to 37.3 years]; 68% were female). At 6 months, the success rate of ASD closure was 96.5% (111 of 115 patients) for the bioresorbable occluder group vs 97.4% (111 of 114 patients) for the metallic occluder group (between-group difference, -0.8 percentage points [95% CI, -5.0 to 3.7]; P&#x2009;&lt;&#x2009;.001 for noninferiority). At 2 years, there were no statistically significant between-group differences in ASD closure success (94.8% [109/115] in the bioresorbable occluder group vs 96.5% [110/114] in the metallic occluder group; P&#x2009;=&#x2009;.75), or in device-related adverse events (2.6% [3/115] vs 3.5% [4/114], respectively; P&#x2009;=&#x2009;.72). The rate of degradation at 2 years was approximately 99.8% for the bioresorbable occluder. A bioresorbable occluder is noninferior to a metallic occluder for ASD closure, with near-complete degradation by 2 years. These findings suggest that a bioresorbable occluder could be a valuable addition to the options for transcatheter ASD closure. chictr.org.cn Identifier: ChiCTR2100044408."
-    },
-    {
-      "doi": "10.1001/jama.2025.18833",
-      "url": "https://doi.org/10.1001/jama.2025.18833",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840448",
-      "article_type": "",
-      "pubmed_pmid": "41105403",
-      "title": "As Pickleball Continues to Gain Players, Injuries Are Increasing.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Rodgers L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses a recent study that found an increase in eye injuries among US pickleball players, especially those older than 60 years."
     },
     {
       "doi": "10.1001/jama.2025.17517",
@@ -3391,27 +3391,6 @@
       "abstract_md": "This Viewpoint discusses the enforcement action that the FDA is taking to correct decades of regulatory failure regarding direct-to-consumer pharmaceutical advertising."
     },
     {
-      "doi": "10.1001/jama.2025.18165",
-      "url": "https://doi.org/10.1001/jama.2025.18165",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839713",
-      "article_type": "",
-      "pubmed_pmid": "41066092",
-      "title": "Through the Glass.",
-      "journal": "JAMA",
-      "pubdate": "2025 Oct 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Shah J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, an otolaryngologist describes her enduring grief over the death of her father to COVID-19, a grief that doubles when hearing comments questioning whether the pandemic even occurred."
-    },
-    {
       "doi": "10.1001/jama.2025.14396",
       "url": "https://doi.org/10.1001/jama.2025.14396",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839669",
@@ -3434,27 +3413,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14440",
-      "url": "https://doi.org/10.1001/jama.2025.14440",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839988",
+      "doi": "10.1001/jama.2025.18165",
+      "url": "https://doi.org/10.1001/jama.2025.18165",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839713",
       "article_type": "",
-      "pubmed_pmid": "41091512",
-      "title": "Addictive Screen Use and Youth Mental Health.",
+      "pubmed_pmid": "41066092",
+      "title": "Through the Glass.",
       "journal": "JAMA",
-      "pubdate": "2025 Oct 15",
+      "pubdate": "2025 Oct 9",
       "volume": "",
       "issue": "",
       "pages": "",
       "authors": [
-        "Ahmed M Author",
-        "Shafi SR Author",
-        "Hakeem N Author"
+        "Shah J Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "In this narrative medicine essay, an otolaryngologist describes her enduring grief over the death of her father to COVID-19, a grief that doubles when hearing comments questioning whether the pandemic even occurred."
     },
     {
       "doi": "10.1001/jama.2025.16900",
@@ -3479,6 +3456,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint lays out the consequences of the proposed agreement to share Medicaid patient data with the Department of Homeland Security and offers advice to clinicians and health care administrators on how to protect patients."
+    },
+    {
+      "doi": "10.1001/jama.2025.14440",
+      "url": "https://doi.org/10.1001/jama.2025.14440",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839988",
+      "article_type": "",
+      "pubmed_pmid": "41091512",
+      "title": "Addictive Screen Use and Youth Mental Health.",
+      "journal": "JAMA",
+      "pubdate": "2025 Oct 15",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Ahmed M Author",
+        "Shafi SR Author",
+        "Hakeem N Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21103",
@@ -3798,27 +3798,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15275",
-      "url": "https://doi.org/10.1001/jama.2025.15275",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839712",
-      "article_type": "",
-      "pubmed_pmid": "41065642",
-      "title": "Is There Really Something Different About Postoperative Atrial Fibrillation After Cardiac Surgery?",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1804-1805",
-      "authors": [
-        "Marcus GM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.15546",
       "url": "https://doi.org/10.1001/jama.2025.15546",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840350",
@@ -3833,6 +3812,27 @@
       "authors": [
         "Zhang B Author",
         "Zhang H Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15275",
+      "url": "https://doi.org/10.1001/jama.2025.15275",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839712",
+      "article_type": "",
+      "pubmed_pmid": "41065642",
+      "title": "Is There Really Something Different About Postoperative Atrial Fibrillation After Cardiac Surgery?",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1804-1805",
+      "authors": [
+        "Marcus GM Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3858,39 +3858,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.14891",
-      "url": "https://doi.org/10.1001/jama.2025.14891",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839710",
-      "article_type": "",
-      "pubmed_pmid": "41065638",
-      "title": "Long-Term Continuous Monitoring of New-Onset Atrial Fibrillation After Coronary Artery Bypass Grafting.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1827-1835",
-      "authors": [
-        "Herrmann FEM Author",
-        "Jeppsson A Author",
-        "Kirov H Author",
-        "Charitos EI Author",
-        "Dacian D Author",
-        "Brömsen J Author",
-        "Massberg S Author",
-        "Sadoni S Author",
-        "Doenst T Author",
-        "Juchem G Author",
-        "Hagl C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Multicenter Study",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "The incidence and burden of new-onset atrial fibrillation (AF) after coronary artery bypass grafting (CABG) are not known. Nevertheless, North American guidelines state that it is reasonable to administer 60 days of oral anticoagulation to patients with new-onset AF after CABG, a moderate-strength recommendation (class 2a) based on evidence derived from nonrandomized clinical studies. To test the hypothesis that the incidence of new-onset AF within the first year after CABG is higher than suggested in the current literature and to assess AF burden. A prospective, multicenter cohort study in 2 academic cardiac surgery centers in Germany that involved 198 patients with 3-vessel coronary artery disease or left main disease and no history of arrhythmias who received an insertable cardiac monitor during CABG for long-term continuous electrocardiographic monitoring. Patients were enrolled from November 2019 through November 2023 and were followed up for 1 year. Atrial fibrillation detected within a year of continuous monitoring using insertable cardiac monitors implanted during CABG. Cumulative incidence of new-onset AF within a year of surgery. Secondary outcomes were AF burden and clinical outcomes. A total of 1217 patients were assessed, and 1008 were excluded. Of the 198 patients enrolled (173 male [87.4%]; 25 female [12.6%]; mean age, 66 [SD, 9] years), 95 patients developed new-onset AF within the first year after CABG (cumulative incidence, 48%; 95% CI, 41%-55%). The median AF burden during the first year was 0.07% (IQR, 0.02%-0.23%) or 370 minutes. The median AF burden on days 1 through 7 was 3.65% (IQR, 0.95%-9.09%); on days 8 through 30, 0.04% (IQR, 0%-1.21%); and on days 31 through 365, 0% (IQR, 0%-0.0003%), corresponding to 368, 13, and 0 minutes, respectively. After discharge, 3 patients had an AF episode longer than 24 hours. Although the incidence of new-onset AF after CABG in this study was higher than previously reported, the AF burden in these patients was very low, especially after 30 days. The very low AF burden questions the current guideline recommendations that long-term oral anticoagulation should be considered in patients with new-onset AF after CABG."
     },
     {
       "doi": "10.1001/jama.2025.14593",
@@ -3936,6 +3903,39 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14891",
+      "url": "https://doi.org/10.1001/jama.2025.14891",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839710",
+      "article_type": "",
+      "pubmed_pmid": "41065638",
+      "title": "Long-Term Continuous Monitoring of New-Onset Atrial Fibrillation After Coronary Artery Bypass Grafting.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1827-1835",
+      "authors": [
+        "Herrmann FEM Author",
+        "Jeppsson A Author",
+        "Kirov H Author",
+        "Charitos EI Author",
+        "Dacian D Author",
+        "Brömsen J Author",
+        "Massberg S Author",
+        "Sadoni S Author",
+        "Doenst T Author",
+        "Juchem G Author",
+        "Hagl C Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Multicenter Study",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "The incidence and burden of new-onset atrial fibrillation (AF) after coronary artery bypass grafting (CABG) are not known. Nevertheless, North American guidelines state that it is reasonable to administer 60 days of oral anticoagulation to patients with new-onset AF after CABG, a moderate-strength recommendation (class 2a) based on evidence derived from nonrandomized clinical studies. To test the hypothesis that the incidence of new-onset AF within the first year after CABG is higher than suggested in the current literature and to assess AF burden. A prospective, multicenter cohort study in 2 academic cardiac surgery centers in Germany that involved 198 patients with 3-vessel coronary artery disease or left main disease and no history of arrhythmias who received an insertable cardiac monitor during CABG for long-term continuous electrocardiographic monitoring. Patients were enrolled from November 2019 through November 2023 and were followed up for 1 year. Atrial fibrillation detected within a year of continuous monitoring using insertable cardiac monitors implanted during CABG. Cumulative incidence of new-onset AF within a year of surgery. Secondary outcomes were AF burden and clinical outcomes. A total of 1217 patients were assessed, and 1008 were excluded. Of the 198 patients enrolled (173 male [87.4%]; 25 female [12.6%]; mean age, 66 [SD, 9] years), 95 patients developed new-onset AF within the first year after CABG (cumulative incidence, 48%; 95% CI, 41%-55%). The median AF burden during the first year was 0.07% (IQR, 0.02%-0.23%) or 370 minutes. The median AF burden on days 1 through 7 was 3.65% (IQR, 0.95%-9.09%); on days 8 through 30, 0.04% (IQR, 0%-1.21%); and on days 31 through 365, 0% (IQR, 0%-0.0003%), corresponding to 368, 13, and 0 minutes, respectively. After discharge, 3 patients had an AF episode longer than 24 hours. Although the incidence of new-onset AF after CABG in this study was higher than previously reported, the AF burden in these patients was very low, especially after 30 days. The very low AF burden questions the current guideline recommendations that long-term oral anticoagulation should be considered in patients with new-onset AF after CABG."
     },
     {
       "doi": "10.1001/jama.2025.18834",
@@ -4060,25 +4060,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2024.18997",
-      "url": "https://doi.org/10.1001/jama.2024.18997",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841030",
-      "article_type": "",
-      "pubmed_pmid": "41288614",
-      "title": "Audio Highlights: October 31, 2025.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "e2418997",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.16167",
       "url": "https://doi.org/10.1001/jama.2025.16167",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840460",
@@ -4124,6 +4105,25 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This cross-sectional study examines Medicare Part D coverage and out-of-pocket costs for glucagon-like peptide-1 receptor agonists following implementation of the Inflation Reduction Act."
+    },
+    {
+      "doi": "10.1001/jama.2024.18997",
+      "url": "https://doi.org/10.1001/jama.2024.18997",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841030",
+      "article_type": "",
+      "pubmed_pmid": "41288614",
+      "title": "Audio Highlights: October 31, 2025.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "e2418997",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15204",
@@ -4273,27 +4273,6 @@
       "abstract_md": "This Viewpoint discusses whether mandatory chromosomal screening improves competitive integrity enough to justify its costs to athletes."
     },
     {
-      "doi": "10.1001/jama.2025.17522",
-      "url": "https://doi.org/10.1001/jama.2025.17522",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840673",
-      "article_type": "",
-      "pubmed_pmid": "41134567",
-      "title": "Cannabis Use Increased Among People With Psychosis Following State Legalization.",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1789",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17523",
       "url": "https://doi.org/10.1001/jama.2025.17523",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840672",
@@ -4307,6 +4286,27 @@
       "pages": "1789",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17522",
+      "url": "https://doi.org/10.1001/jama.2025.17522",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840673",
+      "article_type": "",
+      "pubmed_pmid": "41134567",
+      "title": "Cannabis Use Increased Among People With Psychosis Following State Legalization.",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 25",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1789",
+      "authors": [
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -4338,25 +4338,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24458",
-      "url": "https://doi.org/10.1001/jama.2025.24458",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842206",
+      "doi": "10.1001/jama.2025.17527",
+      "url": "https://doi.org/10.1001/jama.2025.17527",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840669",
       "article_type": "",
-      "pubmed_pmid": "41288558",
-      "title": "The One Big Beautiful Bill Act-Making Medicaid and the Exchanges Sustainable.",
+      "pubmed_pmid": "41134591",
+      "title": "Mortality Risk Study Offers Good News for Patients With Narcolepsy.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 25",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "334",
+      "issue": "20",
+      "pages": "1789-1790",
       "authors": [
-        "Malani A Author"
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the One Big Beautiful Bill Act and making Medicaid and the health insurance exchanges sustainable."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.16170",
@@ -4381,25 +4381,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.17527",
-      "url": "https://doi.org/10.1001/jama.2025.17527",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840669",
+      "doi": "10.1001/jama.2025.24458",
+      "url": "https://doi.org/10.1001/jama.2025.24458",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842206",
       "article_type": "",
-      "pubmed_pmid": "41134591",
-      "title": "Mortality Risk Study Offers Good News for Patients With Narcolepsy.",
+      "pubmed_pmid": "41288558",
+      "title": "The One Big Beautiful Bill Act-Making Medicaid and the Exchanges Sustainable.",
       "journal": "JAMA",
       "pubdate": "2025 Nov 25",
-      "volume": "334",
-      "issue": "20",
-      "pages": "1789-1790",
+      "volume": "",
+      "issue": "",
+      "pages": "",
       "authors": [
-        "Pant S Author"
+        "Malani A Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint discusses the One Big Beautiful Bill Act and making Medicaid and the health insurance exchanges sustainable."
     },
     {
       "doi": "10.1001/jama.2025.18210",
