@@ -540,31 +540,6 @@
       "abstract_md": "Intraoperative hypotension is associated with adverse postoperative outcomes, but whether a proactive strategy to prevent intraoperative hypotension improves outcomes is uncertain. To determine whether intraoperative blood pressure management stratified by risk of hypotension reduces postoperative functional disability compared with usual care in adults undergoing noncardiac surgery. In this randomized clinical trial, adults undergoing elective noncardiac surgery at 2 tertiary hospitals in the Netherlands were enrolled from June 17, 2021, to February 7, 2024. The date of last follow-up was October 24, 2024. Patients were randomized 1:1 to proactive blood pressure management with mean arterial pressure targets based on risk of intraoperative hypotension (low risk, &#x2265;70 mm Hg; intermediate risk, &#x2265;80; high risk, &#x2265;90) or usual management at their anesthesiologist's discretion, generally aiming to avoid a mean arterial pressure of less than 65 mm Hg without higher predefined targets. The primary outcome was functional disability at 6 months, assessed with the 12-item World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0; scale range, 0-100; higher scores indicate more disability). A minimally clinically important difference of 5 points was prespecified. There were 23 secondary outcomes, including quality of life, complications, and mortality within 6 months. The trial was stopped early for futility after 3247 of 5000 planned patients (median age, 59 years [IQR, 44-69]; 1738 female [53.5%]) were enrolled. A total of 677 patients (21%) were low risk; 1814 (56%), intermediate risk, and 756 (23%), high risk. Baseline median WHODAS scores were 12.5 [IQR, 4.2-29.2] in proactive group and 14.6 [IQR, 4.2-29.2] in standard group). At 6 months, mean (SD) WHODAS scores were 17.7 (20.1) in the proactive group and 18.2 (20.5) in the standard group (mean difference, -0.5; 95% credible interval, -1.9 to 0.9). There were no significant differences in any of the 23 secondary outcomes. Intraoperative blood pressure management with mean arterial pressure goals stratified by risk of hypotension did not improve functional disability at 6 months postoperatively compared with standard intraoperative blood pressure management. Overview of Medical Research in the Netherlands (CCMO): NL-OMON55117."
     },
     {
-      "doi": "10.1001/jama.2025.17362",
-      "url": "https://doi.org/10.1001/jama.2025.17362",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
-      "article_type": "",
-      "pubmed_pmid": "41100079",
-      "title": "Syphilis: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1927-1940",
-      "authors": [
-        "Chevalier FJ Author",
-        "Bacon O Author",
-        "Johnson KA Author",
-        "Cohen SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
-    },
-    {
       "doi": "10.1001/jama.2024.19004",
       "url": "https://doi.org/10.1001/jama.2024.19004",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841319",
@@ -627,6 +602,31 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17362",
+      "url": "https://doi.org/10.1001/jama.2025.17362",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
+      "article_type": "",
+      "pubmed_pmid": "41100079",
+      "title": "Syphilis: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1927-1940",
+      "authors": [
+        "Chevalier FJ Author",
+        "Bacon O Author",
+        "Johnson KA Author",
+        "Cohen SE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
     },
     {
       "doi": "10.1001/jama.2025.12429",
@@ -1654,27 +1654,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24099",
-      "url": "https://doi.org/10.1001/jama.2025.24099",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842640",
-      "article_type": "",
-      "pubmed_pmid": "41359997",
-      "title": "Precision Therapy for Sepsis: The End of the Beginning?",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 8",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Angus DC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20104",
       "url": "https://doi.org/10.1001/jama.2025.20104",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842442",
@@ -1688,6 +1667,27 @@
       "pages": "",
       "authors": [
         "Guo L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.24099",
+      "url": "https://doi.org/10.1001/jama.2025.24099",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842640",
+      "article_type": "",
+      "pubmed_pmid": "41359997",
+      "title": "Precision Therapy for Sepsis: The End of the Beginning?",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 8",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Angus DC Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -1831,28 +1831,6 @@
       "abstract_md": "This national study evaluates the percentage of US health care professionals sponsored for H-1B visas in fiscal year 2024 across occupation groups and county characteristics."
     },
     {
-      "doi": "10.1001/jama.2025.19728",
-      "url": "https://doi.org/10.1001/jama.2025.19728",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841307",
-      "article_type": "",
-      "pubmed_pmid": "41201795",
-      "title": "Alternative Obesity Definition Reveals Stratification of Mortality Risk.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
-      "volume": "334",
-      "issue": "22",
-      "pages": "1971-1972",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20467",
       "url": "https://doi.org/10.1001/jama.2025.20467",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841332",
@@ -1873,6 +1851,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Medical News article discusses the relatively unknown condition called metabolic dysfunction&#x2013;associated steatotic liver disease, or MASLD, which is thought to affect approximately a third of adults worldwide."
+    },
+    {
+      "doi": "10.1001/jama.2025.19728",
+      "url": "https://doi.org/10.1001/jama.2025.19728",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841307",
+      "article_type": "",
+      "pubmed_pmid": "41201795",
+      "title": "Alternative Obesity Definition Reveals Stratification of Mortality Risk.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 9",
+      "volume": "334",
+      "issue": "22",
+      "pages": "1971-1972",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.20231",
@@ -2094,38 +2094,15 @@
       "url": "https://doi.org/10.1001/jama.2024.19010",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842520",
       "article_type": "",
-      "pubmed_pmid": "41379136",
-      "title": "JAMA.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
-      "volume": "334",
-      "issue": "22",
-      "pages": "1963-1964",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
       "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.19730",
-      "url": "https://doi.org/10.1001/jama.2025.19730",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841305",
-      "article_type": "",
-      "pubmed_pmid": "41201797",
-      "title": "Online Unsupervised Tai Chi Program Improves Knee Pain.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
-      "volume": "334",
-      "issue": "22",
-      "pages": "1972",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2198,6 +2175,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial. To determine whether expectant management compared with active treatment of a protocol-defined PDA in preterm infants decreases the incidence of death or bronchopulmonary dysplasia (BPD). A randomized clinical trial including infants born at 22 to 28 weeks' gestation and diagnosed with a protocol-defined PDA between the age of 48 hours and 21 days at screening. The trial was conducted from December 2018 to December 2024 at 33 hospitals within the National Institute of Child Health and Human Development Neonatal Research Network. The final date of follow-up was June 2025. Infants with PDA were randomized to expectant management (n&#x2009;=&#x2009;242) or active treatment (n&#x2009;=&#x2009;240; acetaminophen, ibuprofen, or indomethacin) to close the PDA. The primary outcome was death or BPD at 36 weeks' postmenstrual age. The secondary outcomes included the components of the primary outcome and other morbidities of prematurity. A total of 482 infants were randomized (median gestational age, 25 weeks [IQR, 24 to 27 weeks]; median birth weight, 760 g [IQR, 620 to 935 g]). The trial was stopped for futility and safety after the 50% interim analysis for the primary outcome due to higher survival in the expectant management group. The incidence of death or BPD was 80.9% (195/241) of infants in the expectant management group vs 79.6% (191/240) of infants in the active treatment group (adjusted risk difference, 1.2% [95% CI, -5.7% to 8.1%]; P&#x2009;=&#x2009;.73). The incidence of death before 36 weeks' postmenstrual age was 4.1% (10/241) of infants in the expectant management group vs 9.6% (23/240) of infants in the active treatment group (adjusted risk difference, -5.6% [95% CI, -10.1% to -1.2%]; P&#x2009;=&#x2009;.01). Infections resulting in death occurred in 0.8% (2/241) of infants in the expectant management group vs 3.8% (9/240) of infants in the active treatment group. In extremely preterm infants with a protocol-defined PDA, death or BPD did not differ between the expectant management group and the active treatment group. Survival was substantially higher with expectant management. ClinicalTrials.gov Identifier: NCT03456336."
+    },
+    {
+      "doi": "10.1001/jama.2025.19730",
+      "url": "https://doi.org/10.1001/jama.2025.19730",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841305",
+      "article_type": "",
+      "pubmed_pmid": "41201797",
+      "title": "Online Unsupervised Tai Chi Program Improves Knee Pain.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 9",
+      "volume": "334",
+      "issue": "22",
+      "pages": "1972",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.14849",
@@ -3328,25 +3326,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24865",
-      "url": "https://doi.org/10.1001/jama.2025.24865",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842902",
-      "article_type": "",
-      "pubmed_pmid": "41385358",
-      "title": "Risk-Based vs Annual Breast Cancer Screening: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 12",
-      "volume": "",
-      "issue": "",
-      "pages": "e2524865",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20024",
       "url": "https://doi.org/10.1001/jama.2025.20024",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842895",
@@ -3361,6 +3340,25 @@
       "authors": [
         "Pant S Author"
       ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.24865",
+      "url": "https://doi.org/10.1001/jama.2025.24865",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842902",
+      "article_type": "",
+      "pubmed_pmid": "41385358",
+      "title": "Risk-Based vs Annual Breast Cancer Screening: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 12",
+      "volume": "",
+      "issue": "",
+      "pages": "e2524865",
+      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -4328,27 +4326,6 @@
       "abstract_md": "Acute dysfunction of vital organs is the hallmark of critical illness. The Sequential Organ Failure Assessment (SOFA) score, the most widely adopted approach to describe organ dysfunction, has not been updated in 30 years and therefore may not appropriately capture current clinical practice and outcomes. To inform the data-driven component of an updated score (SOFA-2) in varied geographical and resource settings (stages 6-8) after expert input via a modified Delphi process (stages 1-5). A federated analysis was performed on data collected from adult patients admitted to 1319 intensive care units (ICUs) in 9 countries (Australia, Austria, Brazil, France, Italy, Japan, Nepal, New Zealand, United States) between 2014 and 2023. Four representative multicenter cohorts containing data from 2&#x202f;098&#x202f;356 patients were used for data-driven score development and internal validation. External validation was performed on 6 cohorts containing data from 1&#x202f;241&#x202f;114 patients. Content validity for organ dysfunction identified through the modified Delphi process should be reflected by predictive validity using the area under the receiver operating characteristic (AUROC) curve of the score measured on the first ICU day (higher scores indicate worse organ dysfunction). Of 3.34 million patient encounters, 270&#x202f;108 (8.1%) died in the ICU (range, 4.5% to 20.5% across the 10 cohorts). SOFA-2 modified the 6 organ systems of the original SOFA score (brain, respiratory, cardiovascular, liver, kidney, hemostasis), including new variables and revised thresholds that better describe the organ dysfunction distribution from 0 to 4 points and their associated mortality (SOFA-2 AUROC, 0.79; 95% CI, 0.76-0.81; SOFA-1 AUROC, 0.77; 95% CI, 0.74-0.81). Evaluation of sequential SOFA-2 data from ICU day 1 to day 7 maintained its predictive validity. Insufficient data and lack of content validity precluded incorporation of gastrointestinal and immune dysfunction scores into SOFA-2. The SOFA-2 score, updated to include contemporary organ support treatments and new score thresholds, describes organ dysfunction in a large, geographically and socioeconomically diverse population of critically ill adults."
     },
     {
-      "doi": "10.1001/jama.2025.20255",
-      "url": "https://doi.org/10.1001/jama.2025.20255",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840827",
-      "article_type": "",
-      "pubmed_pmid": "41159826",
-      "title": "A Revision to Organ Failure Assessment in Critically Ill Patients.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 16",
-      "volume": "334",
-      "issue": "23",
-      "pages": "2075-2077",
-      "authors": [
-        "Seymour CW Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.13074",
       "url": "https://doi.org/10.1001/jama.2025.13074",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2838001",
@@ -4371,6 +4348,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Melanoma, the fifth most common cancer in the US, has increased from 8.8 per 100&#x202f;000 in 1975 to 28.42 per 100&#x202f;000 in 2022. Cutaneous melanoma comprises 94% of cases, with 104&#x202f;960 US cases projected for 2025. Cutaneous melanoma presents as a new, changing, or irregularly pigmented skin lesion. Cutaneous melanoma subtypes include superficial spreading (&#x2248;70%), lentigo maligna (&#x2248;15%), nodular (&#x2248;5%), desmoplastic (&#x2248;4%), amelanotic (2%-8%), spitzoid (&lt;2%), and acral (&#x2248;1%). Risk factors for cutaneous melanoma include UV radiation exposure, skin type (eg, skin that always burns, never tans), presence of benign and atypical nevi, and personal or family history of melanoma. Primary prevention consists of avoiding direct sunlight and indoor tanning, and photoprotection (sunscreen and sun-protective clothing). Based on United States Cancer Statistics data from 1999 to 2021, 77% of patients with cutaneous melanoma had localized disease (involving only the primary site), 9.5% had regional (nodal) disease, 4.7% had distant metastasis, and 8.8% were unstaged. Melanoma staging, which includes tumor thickness and ulceration and presence of lymph node or distant metastasis, ranges from stage 0 (melanoma in situ) to stage IV (distant metastasis). Localized melanoma (stage IA-IIA) is surgically excised, with margins of 0.5 cm to 2 cm based on depth of invasion. Sentinel lymph node biopsy is recommended for cutaneous melanoma that is ulcerated or 0.8 mm or more thick. Following surgery, patients with stage IIB-C melanoma have improved recurrence-free survival with adjuvant anti-PD-1 immunotherapy compared with placebo (hazard ratio [HR] for recurrence or death, 0.62 [95% CI, 0.49-0.79] for pembrolizumab and 0.42 [95% CI, 0.30-0.59] for nivolumab). For stage III disease, recurrence risk is decreased with nivolumab (HR, 0.72 [95% CI, 0.60-0.86]), pembrolizumab (HR, 0.61 [95% CI, 0.51-0.72]), or BRAF&#x2009;+&#x2009;MEK inhibitor therapy (dabrafenib&#x2009;+&#x2009;trametinib) (HR, 0.52 [95% CI, 0.43-0.63]). First-line treatment for distant metastatic or unresectable melanoma is dual checkpoint blockade with ipilimumab (anti-CTLA-4) and nivolumab. In 2017, 10-year melanoma-specific survival rates were 98% to 94% for stage IA-B, 88% to 75% for stage IIA-C, 88% for stage IIIA, 77% to 60% for stage IIIB-C, and 24% for stage IIID. In 2024, patients with distant metastatic or unresectable melanoma treated with ipilimumab and nivolumab had a 10-year overall survival rate of 43%. Melanoma is a common cancer in the US. Treatment for stage IA-IIA melanoma is surgical resection. Anti-PD-1 immunotherapy after surgical excision improves recurrence-free survival in stages IIB-C melanoma. For stage III melanoma, anti-PD-1 immunotherapy or BRAF&#x2009;+&#x2009;MEK inhibitor therapy decreases risk of melanoma recurrence. First-line therapy for metastatic melanoma is dual checkpoint blockade with ipilimumab and nivolumab."
+    },
+    {
+      "doi": "10.1001/jama.2025.20255",
+      "url": "https://doi.org/10.1001/jama.2025.20255",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840827",
+      "article_type": "",
+      "pubmed_pmid": "41159826",
+      "title": "A Revision to Organ Failure Assessment in Critically Ill Patients.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 16",
+      "volume": "334",
+      "issue": "23",
+      "pages": "2075-2077",
+      "authors": [
+        "Seymour CW Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.19738",
@@ -5305,32 +5303,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24082",
-      "url": "https://doi.org/10.1001/jama.2025.24082",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843212",
-      "article_type": "",
-      "pubmed_pmid": "41428474",
-      "title": "Nirsevimab vs RSVpreF Vaccine for Respiratory Syncytial Virus-Related Hospitalization in Newborns.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Jabagi MJ Author",
-        "Bertrand M Author",
-        "Gabet A Author",
-        "Kolla E Author",
-        "Olié V Author",
-        "Zureik M Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Respiratory syncytial virus (RSV) is a leading cause of hospitalization in infants. The comparative effectiveness of 2 recently introduced preventive strategies (infant immunization through placental antibody transfer after maternal vaccination with the RSV prefusion F protein [RSVpreF] vaccine and passive infant immunization with nirsevimab) remains unknown. To compare the associations of maternal vaccination with the RSVpreF vaccine vs passive infant immunization with nirsevimab for the prevention of RSV-related hospitalization. This population-based cohort study used data from the French National Health Data System. Maternal vaccination with the RSVpreF vaccine occurred during 32 to 36 weeks' gestation among infants born in mainland France between September 1 and December 31, 2024. Passive infant immunization with nirsevimab occurred prior to hospital discharge. Infants were matched 1:1 by maternity ward discharge date, sex, gestational age, and region. Follow-up ended at the time of RSV hospitalization or death or on February 28, 2025. Maternal immunization with the RSVpreF vaccine and passive infant immunization with nirsevimab. The primary outcome was hospitalization for RSV-associated lower respiratory tract infection. The secondary outcomes included admission to the pediatric intensive care unit (PICU), admission to high-dependency unit, ventilator support, and oxygen therapy. The hazard ratios (HRs) were estimated using conditional Cox proportional hazards models with inverse probability of treatment weighting. A total of 42&#x202f;560 infants (mean age, 3.7 [SD, 1.4] days; 51.7% male) were included in the study (21&#x202f;280 per group) with a median follow-up of 84 days (IQR, 70-99 days). Of the 481 hospitalizations for RSV-associated lower respiratory tract infection, 212 (44.1%) occurred in the nirsevimab group vs 269 (55.9%) in the RSVpreF vaccine group (between-group difference, -11.8% [95% CI, -18.1% to -5.5%]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of hospitalization for RSV-associated lower respiratory tract infection (adjusted HR, 0.74 [95% CI, 0.61 to 0.88]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of severe outcomes, including PICU admission (adjusted HR, 0.58 [95% CI, 0.42 to 0.80]), requiring ventilator support (adjusted HR, 0.57 [95% CI, 0.40 to 0.81]), or requiring oxygen therapy (adjusted HR, 0.56 [95% CI, 0.38 to 0.81]). The results were consistent across subgroups and in the sensitivity analyses. Compared with maternal vaccination with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with lower risks of RSV-related hospitalization and severe outcomes. These findings reflect the first RSV season with use of these immunization strategies in mainland France; their use should be reevaluated in future studies."
-    },
-    {
       "doi": "10.1001/jama.2025.20765",
       "url": "https://doi.org/10.1001/jama.2025.20765",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
@@ -5363,6 +5335,32 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
+    },
+    {
+      "doi": "10.1001/jama.2025.24082",
+      "url": "https://doi.org/10.1001/jama.2025.24082",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843212",
+      "article_type": "",
+      "pubmed_pmid": "41428474",
+      "title": "Nirsevimab vs RSVpreF Vaccine for Respiratory Syncytial Virus-Related Hospitalization in Newborns.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 22",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Jabagi MJ Author",
+        "Bertrand M Author",
+        "Gabet A Author",
+        "Kolla E Author",
+        "Olié V Author",
+        "Zureik M Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": true,
+      "abstract_md": "Respiratory syncytial virus (RSV) is a leading cause of hospitalization in infants. The comparative effectiveness of 2 recently introduced preventive strategies (infant immunization through placental antibody transfer after maternal vaccination with the RSV prefusion F protein [RSVpreF] vaccine and passive infant immunization with nirsevimab) remains unknown. To compare the associations of maternal vaccination with the RSVpreF vaccine vs passive infant immunization with nirsevimab for the prevention of RSV-related hospitalization. This population-based cohort study used data from the French National Health Data System. Maternal vaccination with the RSVpreF vaccine occurred during 32 to 36 weeks' gestation among infants born in mainland France between September 1 and December 31, 2024. Passive infant immunization with nirsevimab occurred prior to hospital discharge. Infants were matched 1:1 by maternity ward discharge date, sex, gestational age, and region. Follow-up ended at the time of RSV hospitalization or death or on February 28, 2025. Maternal immunization with the RSVpreF vaccine and passive infant immunization with nirsevimab. The primary outcome was hospitalization for RSV-associated lower respiratory tract infection. The secondary outcomes included admission to the pediatric intensive care unit (PICU), admission to high-dependency unit, ventilator support, and oxygen therapy. The hazard ratios (HRs) were estimated using conditional Cox proportional hazards models with inverse probability of treatment weighting. A total of 42&#x202f;560 infants (mean age, 3.7 [SD, 1.4] days; 51.7% male) were included in the study (21&#x202f;280 per group) with a median follow-up of 84 days (IQR, 70-99 days). Of the 481 hospitalizations for RSV-associated lower respiratory tract infection, 212 (44.1%) occurred in the nirsevimab group vs 269 (55.9%) in the RSVpreF vaccine group (between-group difference, -11.8% [95% CI, -18.1% to -5.5%]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of hospitalization for RSV-associated lower respiratory tract infection (adjusted HR, 0.74 [95% CI, 0.61 to 0.88]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of severe outcomes, including PICU admission (adjusted HR, 0.58 [95% CI, 0.42 to 0.80]), requiring ventilator support (adjusted HR, 0.57 [95% CI, 0.40 to 0.81]), or requiring oxygen therapy (adjusted HR, 0.56 [95% CI, 0.38 to 0.81]). The results were consistent across subgroups and in the sensitivity analyses. Compared with maternal vaccination with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with lower risks of RSV-related hospitalization and severe outcomes. These findings reflect the first RSV season with use of these immunization strategies in mainland France; their use should be reevaluated in future studies."
     },
     {
       "doi": "10.1001/jama.2025.21322",
@@ -5568,29 +5566,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18107",
-      "url": "https://doi.org/10.1001/jama.2025.18107",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
-      "article_type": "",
-      "pubmed_pmid": "41231489",
-      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2232-2233",
-      "authors": [
-        "Mozaffarian D Author",
-        "Callahan EA Author",
-        "Frist WH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18239",
       "url": "https://doi.org/10.1001/jama.2025.18239",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841554",
@@ -5627,6 +5602,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.18107",
+      "url": "https://doi.org/10.1001/jama.2025.18107",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
+      "article_type": "",
+      "pubmed_pmid": "41231489",
+      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2232-2233",
+      "authors": [
+        "Mozaffarian D Author",
+        "Callahan EA Author",
+        "Frist WH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5804,25 +5802,6 @@
       "abstract_md": "Since the start of the 21st century, more than 800&#x202f;000 firearm deaths and more than 2 million firearm injuries have occurred in the US. All categories of firearm violence-homicide, suicide, unintentional-result in reverberating harms to individuals, families, communities, and society. The collective responsibility of society is to safeguard the health and safety of its members, including from firearm harms. The JAMA Summit on Firearm Violence convened 60 thought leaders from a wide array of disciplines to chart an innovations roadmap that will lead to substantial reductions in firearm harms by 2040. The vision for 2040 is a country where firearm violence is substantially reduced and where all people and communities report feeling safe from firearm harms. The vision centers on practical solutions with an understanding of the country's constitutional protections for firearm ownership. Achieving the 2040 vision will require expansion of proven evidence-based strategies and the development of new, innovative approaches rooted in equity, accountability, and collective responsibility. Discussions centered on projecting a safer world, community violence interventions, technologic innovations, federal and state-level oversight of firearms, ethical considerations, and primordial prevention of firearm violence. The Summit charted a roadmap of 5 essential actions in the next 5 years to achieve this vision: (1) focus on communities and change fundamental structures that lead to firearm harms, (2) harness technological strengths responsibly, (3) change the narrative around firearm harms, (4) take a whole-government and whole-society approach, and (5) spark a research revolution on preventing firearm harms. A safer world will require investing in the discovery, implementation, and scaling of solutions that reduce firearm harms and center on the people and communities most affected by firearm violence."
     },
     {
-      "doi": "10.1001/jama.2024.19026",
-      "url": "https://doi.org/10.1001/jama.2024.19026",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
-      "article_type": "",
-      "pubmed_pmid": "41296332",
-      "title": "Current Medical Literature.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2237",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18272",
       "url": "https://doi.org/10.1001/jama.2025.18272",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841711",
@@ -5839,6 +5818,25 @@
         "Xie X Author",
         "Lv Q Author"
       ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2024.19026",
+      "url": "https://doi.org/10.1001/jama.2024.19026",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
+      "article_type": "",
+      "pubmed_pmid": "41296332",
+      "title": "Current Medical Literature.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2237",
+      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -5892,17 +5890,15 @@
       "url": "https://doi.org/10.1001/jama.2024.19024",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843001",
       "article_type": "",
-      "pubmed_pmid": "41493469",
-      "title": "JAMA.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2147-2148",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
       "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -6152,29 +6148,6 @@
       "abstract_md": "Hyperglycemia-related pregnancy complications occur in 50% of pregnant women with type 1 diabetes. Closed-loop insulin systems improve glycemia outside of pregnancy but have had limited testing in pregnancy. To assess the efficacy of a closed-loop system in pregnancy. Open-label trial enrolling pregnant women with type 1 diabetes at 14 clinical centers in Canada and Australia before 14 weeks' gestation with follow-up until 6 weeks postpartum. Enrollment occurred between June 2021 and July 2024 and follow-up was completed in March 2025. Participants were randomized 1:1 to closed-loop therapy (n&#x2009;=&#x2009;46) or standard care (insulin pump or multiple daily insulin injections) (n&#x2009;=&#x2009;45) with continuous glucose monitoring. The primary outcome was the percentage of time spent in the pregnancy-specific glucose range (63-140 mg/dL), measured by continuous glucose monitoring from 16 to 34 weeks' gestation. Among 94 enrolled participants, 3 experienced pregnancy loss prior to randomization, 91 were randomized (mean age, 31.7 [SD, 5.2] years; early pregnancy hemoglobin A1c, 7.4% [SD, 1.0%]), and 88 were included in the primary analysis. The mean percentage of time spent in the pregnancy-specific glucose range from 16 to 34 weeks' gestation was 65.4% in the closed-loop group and 50.3% in the standard care group (mean adjusted difference, 12.5 [95% CI, 9.5-15.6] percentage points; P&#x2009;&lt;&#x2009;.001). There was 1 episode of severe hypoglycemia in the closed-loop group, and there were 2 episodes of diabetic ketoacidosis in the closed-loop group and 1 in the standard care group. Pregnant women with type 1 diabetes using a closed-loop system spent significantly more time in the pregnancy-specific glucose range than those receiving standard care. These findings support the use of this closed-loop system in pregnant women with type 1 diabetes. ClinicalTrials.gov Identifier: NCT04902378."
     },
     {
-      "doi": "10.1001/jama.2025.17250",
-      "url": "https://doi.org/10.1001/jama.2025.17250",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
-      "article_type": "",
-      "pubmed_pmid": "41259042",
-      "title": "Pharmacologic Treatment of Perinatal Depression.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2223-2224",
-      "authors": [
-        "Miller ES Author",
-        "Cunningham SK Author",
-        "Osborne LM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Insights discusses the most effective pharmacological treatments for individuals experiencing perinatal depression."
-    },
-    {
       "doi": "10.1001/jama.2025.18241",
       "url": "https://doi.org/10.1001/jama.2025.18241",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
@@ -6196,27 +6169,27 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18274",
-      "url": "https://doi.org/10.1001/jama.2025.18274",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841710",
+      "doi": "10.1001/jama.2025.17250",
+      "url": "https://doi.org/10.1001/jama.2025.17250",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
       "article_type": "",
-      "pubmed_pmid": "41264264",
-      "title": "Prescription Stimulant Use Among US Adolescents-Reply.",
+      "pubmed_pmid": "41259042",
+      "title": "Pharmacologic Treatment of Perinatal Depression.",
       "journal": "JAMA",
       "pubdate": "2025 Dec 23",
       "volume": "334",
       "issue": "24",
-      "pages": "2231-2232",
+      "pages": "2223-2224",
       "authors": [
-        "McCabe SE Author",
-        "Wilens TE Author",
-        "Schepis TS Author"
+        "Miller ES Author",
+        "Cunningham SK Author",
+        "Osborne LM Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA Insights discusses the most effective pharmacological treatments for individuals experiencing perinatal depression."
     },
     {
       "doi": "10.1001/jama.2025.20841",
@@ -6276,6 +6249,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Postoperative red blood cell transfusion guidelines recommend transfusion for hemoglobin levels less than 7 g/dL. However, the safety of this strategy in patients at high risk of cardiac events undergoing major operations remains unclear. To evaluate the risk of death or major ischemic events within 90 days after a liberal transfusion strategy compared with a restrictive transfusion strategy in patients at high risk of cardiac events who had undergone major vascular or general surgery operations and developed postoperative anemia. This parallel, single-blind, randomized clinical superiority trial included 1428 veterans (&#x2265;18 y) at high cardiac risk undergoing major vascular or general surgery operations. Participants were enrolled from February 2018 to March 2023 across 16 Veterans Affairs Medical Centers in the US. Seven hundred fourteen participants with postoperative hemoglobin less than 10 g/dL were randomized to a liberal strategy (transfusion trigger at hemoglobin level &lt;10 g/dL) and 714 to a restrictive strategy (transfusion trigger at hemoglobin &lt;7 g/dL). The primary end point was a composite of all-cause death, myocardial infarction, coronary revascularization, acute kidney failure, or ischemic stroke within 90 days after randomization. Secondary end points included a composite of cardiac complications other than myocardial infarction (arrhythmias, heart failure, and nonfatal cardiac arrest). Of the 1424 analyzed veterans (mean age, 69.9 [SD, 7.9] years; 1393 male [97.8%]; 268 Black [18.8%]; 48 Hispanic [4.1%]; 1071 White [75.2%]), 1297 (91.1%) underwent vascular surgical procedures. The mean hemoglobin difference between transfusion strategies was 2.0 g/dL on day 5 after randomization. The primary outcome rate in the liberal group was 9.1% (61 of 670) compared with 10.1% (71 of 700) in the restrictive group (relative risk, 0.90; 95% CI, 0.65-1.24). The secondary end point of cardiac complications without myocardial infarction, which was 1 of 5 secondary end points, occurred in 5.9% (38 of 647) of patients in the liberal group and 9.9% (67 of 678) of patients in the restrictive group (relative risk, 0.59; 99% CI, 0.36-0.98). After major vascular or general surgery operations among patients at high risk of a cardiac event, a liberal transfusion strategy did not reduce 90-day death or major ischemic outcome rates compared with a restrictive strategy. ClinicalTrials.gov Identifier: NCT03229941."
+    },
+    {
+      "doi": "10.1001/jama.2025.18274",
+      "url": "https://doi.org/10.1001/jama.2025.18274",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841710",
+      "article_type": "",
+      "pubmed_pmid": "41264264",
+      "title": "Prescription Stimulant Use Among US Adolescents-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2231-2232",
+      "authors": [
+        "McCabe SE Author",
+        "Wilens TE Author",
+        "Schepis TS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18918",
