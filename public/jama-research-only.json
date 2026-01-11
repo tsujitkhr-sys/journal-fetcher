@@ -460,27 +460,6 @@
       "abstract_md": "Individual breast cancer risk can guide screening initiation, frequency, use of supplemental imaging, and preventive measures to improve breast cancer screening by shifting resources from low-risk women to high-risk women. To determine whether risk-based breast cancer screening is a feasible alternative to annual mammography. Parallel-group, pragmatic, multicenter randomized clinical trial comparing risk-based (n&#x2009;=&#x2009;14&#x202f;212) with annual (n&#x2009;=&#x2009;14&#x202f;160) breast cancer screening. Women aged 40 to 74 years without prior diagnoses of breast cancer or ductal carcinoma in situ, or prophylactic bilateral mastectomy, were recruited from all 50 US states from September 2016 to February 2023, with follow-up through September 5, 2025 (median follow-up, 5.1 years). Statistical analysis was conducted between July and November 2025. All study procedures were conducted via an online platform. Women who declined randomization were enrolled in an observational cohort. Risk assessment included sequencing of 9 susceptibility genes, polygenic risk score, and the Breast Cancer Surveillance Consortium version 2 model. The risk-based group received 1 of 4 recommendations: (1) highest risk (&#x2265;6% 5-year risk, high-penetrance pathogenic variant): alternating mammography and magnetic resonance imaging (MRI) every 6 months and counseling; (2) elevated risk (top 2.5 risk percentile by age): annual mammography and risk-reduction counseling; (3) average risk: biennial mammography; and (4) low risk (aged 40-49 years and &lt;1.3% 5-year risk): no screening until risk is 1.3% or greater or age 50 years. The coprimary outcomes included noninferiority for stage &#x2265;IIB cancers and superiority in reducing biopsy rates. Secondary outcomes included identification of stage &#x2265;IIA cancers, mammogram rates, uptake of prevention strategies in higher risk cohorts, preference for screening group in the observational cohort, ductal carcinoma in situ, MRI, and stage-specific cancer rates. A total of 28&#x202f;372 women were randomized. The mean (SD) age was 54 (9.6) years and the majority were non-Hispanic White (77%). The rate of stage &#x2265;IIB cancers was noninferior in the risk-based compared with the annual group (risk-based: 30.0 [95% CI, 16.3-43.8] vs annual: 48.0 [95% CI, 30.1-65.5] per 100&#x202f;000 person-years; rate difference, -18.0 per 100&#x202f;000 person-years [95% CI, -40.2 to 4.1]). The rate of breast biopsies was not lower in the risk-based group (rate difference, 98.7 per 100&#x202f;000 person-years [95% CI, -17.9 to 215.3]) despite fewer mammograms (rate difference, -3835.9 [95% CI, -4516.8 to -3154.9]). The cumulative incidence of cancer, biopsy, mammogram, and MRI increased as risk category increased. In the observational cohort, 89% of participants (15&#x202f;980/18&#x202f;031) chose risk based. Risk-based breast cancer screening that includes population-based genetic testing safely stratified risk and screening intensity, but did not reduce biopsy rates. ClinicalTrials.gov Identifier: NCT02620852."
     },
     {
-      "doi": "10.1001/jama.2025.18109",
-      "url": "https://doi.org/10.1001/jama.2025.18109",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
-      "article_type": "",
-      "pubmed_pmid": "41165718",
-      "title": "Pattern-Mixture Models for Missing Data.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 16",
-      "volume": "334",
-      "issue": "23",
-      "pages": "2126-2127",
-      "authors": [
-        "Little RJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
-    },
-    {
       "doi": "10.1001/jama.2025.18709",
       "url": "https://doi.org/10.1001/jama.2025.18709",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839711",
@@ -504,6 +483,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This cross-sectional analysis examines emergency Medicaid spending relative to total Medicaid expenditures and identifies state factors associated with variation in spending."
+    },
+    {
+      "doi": "10.1001/jama.2025.18109",
+      "url": "https://doi.org/10.1001/jama.2025.18109",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
+      "article_type": "",
+      "pubmed_pmid": "41165718",
+      "title": "Pattern-Mixture Models for Missing Data.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 16",
+      "volume": "334",
+      "issue": "23",
+      "pages": "2126-2127",
+      "authors": [
+        "Little RJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": true,
+      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
     },
     {
       "doi": "10.1001/jama.2025.19161",
