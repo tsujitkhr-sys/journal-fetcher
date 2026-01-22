@@ -210,29 +210,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.14718",
-      "url": "https://doi.org/10.1001/jama.2025.14718",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839990",
-      "article_type": "",
-      "pubmed_pmid": "41091491",
-      "title": "Microplastics and Human Health.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1941-1942",
-      "authors": [
-        "Mahalingaiah S Author",
-        "Nadeau KC Author",
-        "Christiani DC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Insights discusses rising detection of microplastics in human tissue and the importance of international cooperation to limit plastic pollution."
-    },
-    {
       "doi": "10.1001/jama.2025.17235",
       "url": "https://doi.org/10.1001/jama.2025.17235",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840160",
@@ -295,6 +272,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Intraoperative hypotension is associated with organ injury. However, it remains unknown if targeted blood pressure management during surgery can improve clinical outcomes. To evaluate whether individualized vs routine perioperative blood pressure management during major abdominal surgery improves clinical outcomes in patients considered at high risk of postoperative complications. This randomized single-blind clinical trial enrolled patients 45 years or older undergoing elective major abdominal surgery with general anesthesia expected to last 90 minutes or longer who had at least 1 additional high-risk criterion between February 26, 2023, and April 25, 2024, at 15 German university hospitals. The date of last follow-up was July 25, 2024. Patients were randomized in a 1:1 ratio to individualized perioperative blood pressure management (with mean arterial pressure [MAP] targets based on preoperative mean nighttime MAP assessed using automated blood pressure monitoring) or routine blood pressure management with a MAP target of 65 mm Hg or higher. The primary outcome was the incidence of a composite outcome of acute kidney injury, acute myocardial injury, nonfatal cardiac arrest, or death within the first 7 postoperative days. There were 22 secondary outcomes, including infectious complications within the first 7 postoperative days and a composite outcome of need for kidney replacement therapy, myocardial infarction, nonfatal cardiac arrest, or death within 90 days after surgery. Of the 1272 patients enrolled, 1142 were randomized (571 patients to each group), and 1134 were included in the primary analysis (median age, 66 years [IQR, 59-73 years]; 34.1% female). The primary outcome occurred in 190 of 567 patients (33.5%) assigned to individualized blood pressure management and 173 of 567 patients (30.5%) assigned to routine blood pressure management (relative risk, 1.10 [95% CI, 0.93-1.30]; P&#x2009;=&#x2009;.31). None of the 22 secondary outcomes were significantly different, including infectious complications within the first 7 postoperative days (90/567 [15.9%] vs 97/567 [17.1%]; P&#x2009;=&#x2009;.63) and a composite outcome of need for kidney replacement therapy, myocardial infarction, nonfatal cardiac arrest, or death within 90 days after surgery (32/566 [5.7%] vs 20/567 [3.5%]; P&#x2009;=&#x2009;.12). Among patients at high risk of postoperative complications undergoing major abdominal surgery, individualized perioperative blood pressure management with MAP targets based on preoperative mean nighttime MAP did not decrease the composite outcome of acute kidney injury, acute myocardial injury, nonfatal cardiac arrest, or death within the first 7 postoperative days compared with routine blood pressure management with a MAP target of 65 mm Hg or higher. ClinicalTrials.gov Identifier: NCT05416944."
+    },
+    {
+      "doi": "10.1001/jama.2025.14718",
+      "url": "https://doi.org/10.1001/jama.2025.14718",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839990",
+      "article_type": "",
+      "pubmed_pmid": "41091491",
+      "title": "Microplastics and Human Health.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1941-1942",
+      "authors": [
+        "Mahalingaiah S Author",
+        "Nadeau KC Author",
+        "Christiani DC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This JAMA Insights discusses rising detection of microplastics in human tissue and the importance of international cooperation to limit plastic pollution."
     },
     {
       "doi": "10.1001/jama.2025.18433",
@@ -518,31 +518,6 @@
       "abstract_md": "Intraoperative hypotension is associated with adverse postoperative outcomes, but whether a proactive strategy to prevent intraoperative hypotension improves outcomes is uncertain. To determine whether intraoperative blood pressure management stratified by risk of hypotension reduces postoperative functional disability compared with usual care in adults undergoing noncardiac surgery. In this randomized clinical trial, adults undergoing elective noncardiac surgery at 2 tertiary hospitals in the Netherlands were enrolled from June 17, 2021, to February 7, 2024. The date of last follow-up was October 24, 2024. Patients were randomized 1:1 to proactive blood pressure management with mean arterial pressure targets based on risk of intraoperative hypotension (low risk, &#x2265;70 mm Hg; intermediate risk, &#x2265;80; high risk, &#x2265;90) or usual management at their anesthesiologist's discretion, generally aiming to avoid a mean arterial pressure of less than 65 mm Hg without higher predefined targets. The primary outcome was functional disability at 6 months, assessed with the 12-item World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0; scale range, 0-100; higher scores indicate more disability). A minimally clinically important difference of 5 points was prespecified. There were 23 secondary outcomes, including quality of life, complications, and mortality within 6 months. The trial was stopped early for futility after 3247 of 5000 planned patients (median age, 59 years [IQR, 44-69]; 1738 female [53.5%]) were enrolled. A total of 677 patients (21%) were low risk; 1814 (56%), intermediate risk, and 756 (23%), high risk. Baseline median WHODAS scores were 12.5 [IQR, 4.2-29.2] in proactive group and 14.6 [IQR, 4.2-29.2] in standard group). At 6 months, mean (SD) WHODAS scores were 17.7 (20.1) in the proactive group and 18.2 (20.5) in the standard group (mean difference, -0.5; 95% credible interval, -1.9 to 0.9). There were no significant differences in any of the 23 secondary outcomes. Intraoperative blood pressure management with mean arterial pressure goals stratified by risk of hypotension did not improve functional disability at 6 months postoperatively compared with standard intraoperative blood pressure management. Overview of Medical Research in the Netherlands (CCMO): NL-OMON55117."
     },
     {
-      "doi": "10.1001/jama.2025.17362",
-      "url": "https://doi.org/10.1001/jama.2025.17362",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
-      "article_type": "",
-      "pubmed_pmid": "41100079",
-      "title": "Syphilis: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1927-1940",
-      "authors": [
-        "Chevalier FJ Author",
-        "Bacon O Author",
-        "Johnson KA Author",
-        "Cohen SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
-    },
-    {
       "doi": "10.1001/jama.2024.19004",
       "url": "https://doi.org/10.1001/jama.2024.19004",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841319",
@@ -605,6 +580,31 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17362",
+      "url": "https://doi.org/10.1001/jama.2025.17362",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
+      "article_type": "",
+      "pubmed_pmid": "41100079",
+      "title": "Syphilis: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1927-1940",
+      "authors": [
+        "Chevalier FJ Author",
+        "Bacon O Author",
+        "Johnson KA Author",
+        "Cohen SE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
     },
     {
       "doi": "10.1001/jama.2025.12429",
@@ -1706,27 +1706,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.16352",
-      "url": "https://doi.org/10.1001/jama.2025.16352",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840462",
-      "article_type": "",
-      "pubmed_pmid": "41123911",
-      "title": "Postpartum Hemorrhage.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
-      "volume": "334",
-      "issue": "22",
-      "pages": "2031-2032",
-      "authors": [
-        "Harvey SA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Insights discusses risk factors for, assessment, and management of postpartum hemorrhage."
-    },
-    {
       "doi": "10.1001/jama.2025.20518",
       "url": "https://doi.org/10.1001/jama.2025.20518",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840825",
@@ -1788,25 +1767,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.19730",
-      "url": "https://doi.org/10.1001/jama.2025.19730",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841305",
+      "doi": "10.1001/jama.2025.16352",
+      "url": "https://doi.org/10.1001/jama.2025.16352",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840462",
       "article_type": "",
-      "pubmed_pmid": "41201797",
-      "title": "Online Unsupervised Tai Chi Program Improves Knee Pain.",
+      "pubmed_pmid": "41123911",
+      "title": "Postpartum Hemorrhage.",
       "journal": "JAMA",
       "pubdate": "2025 Dec 9",
       "volume": "334",
       "issue": "22",
-      "pages": "1972",
+      "pages": "2031-2032",
       "authors": [
-        "Pant S Author"
+        "Harvey SA Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA Insights discusses risk factors for, assessment, and management of postpartum hemorrhage."
     },
     {
       "doi": "10.1001/jama.2025.23330",
@@ -1877,6 +1856,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial. To determine whether expectant management compared with active treatment of a protocol-defined PDA in preterm infants decreases the incidence of death or bronchopulmonary dysplasia (BPD). A randomized clinical trial including infants born at 22 to 28 weeks' gestation and diagnosed with a protocol-defined PDA between the age of 48 hours and 21 days at screening. The trial was conducted from December 2018 to December 2024 at 33 hospitals within the National Institute of Child Health and Human Development Neonatal Research Network. The final date of follow-up was June 2025. Infants with PDA were randomized to expectant management (n&#x2009;=&#x2009;242) or active treatment (n&#x2009;=&#x2009;240; acetaminophen, ibuprofen, or indomethacin) to close the PDA. The primary outcome was death or BPD at 36 weeks' postmenstrual age. The secondary outcomes included the components of the primary outcome and other morbidities of prematurity. A total of 482 infants were randomized (median gestational age, 25 weeks [IQR, 24 to 27 weeks]; median birth weight, 760 g [IQR, 620 to 935 g]). The trial was stopped for futility and safety after the 50% interim analysis for the primary outcome due to higher survival in the expectant management group. The incidence of death or BPD was 80.9% (195/241) of infants in the expectant management group vs 79.6% (191/240) of infants in the active treatment group (adjusted risk difference, 1.2% [95% CI, -5.7% to 8.1%]; P&#x2009;=&#x2009;.73). The incidence of death before 36 weeks' postmenstrual age was 4.1% (10/241) of infants in the expectant management group vs 9.6% (23/240) of infants in the active treatment group (adjusted risk difference, -5.6% [95% CI, -10.1% to -1.2%]; P&#x2009;=&#x2009;.01). Infections resulting in death occurred in 0.8% (2/241) of infants in the expectant management group vs 3.8% (9/240) of infants in the active treatment group. In extremely preterm infants with a protocol-defined PDA, death or BPD did not differ between the expectant management group and the active treatment group. Survival was substantially higher with expectant management. ClinicalTrials.gov Identifier: NCT03456336."
+    },
+    {
+      "doi": "10.1001/jama.2025.19730",
+      "url": "https://doi.org/10.1001/jama.2025.19730",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841305",
+      "article_type": "",
+      "pubmed_pmid": "41201797",
+      "title": "Online Unsupervised Tai Chi Program Improves Knee Pain.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 9",
+      "volume": "334",
+      "issue": "22",
+      "pages": "1972",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.14849",
@@ -2055,6 +2055,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.17080",
+      "url": "https://doi.org/10.1001/jama.2025.17080",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840734",
+      "article_type": "",
+      "pubmed_pmid": "41165682",
+      "title": "Screening for Hepatitis C in Emergency Departments-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 9",
+      "volume": "334",
+      "issue": "22",
+      "pages": "2040-2041",
+      "authors": [
+        "Haukoos J Author",
+        "Linas BP Author",
+        "Rowan SE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.19316",
       "url": "https://doi.org/10.1001/jama.2025.19316",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841034",
@@ -2093,29 +2116,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The effects of rituximab on relapse of nephrotic syndrome in patients with adult-onset frequently relapsing nephrotic syndrome (FRNS) or steroid-dependent nephrotic syndrome (SDNS) remain uncertain. To evaluate the effects of rituximab for patients with FRNS or SDNS. Multicenter, double-blind, randomized, placebo-controlled trial conducted at 13 centers in Japan. Adults with FRNS or SDNS who had urine protein of less than 0.3 g/gCr were enrolled between September 1, 2020, and June 28, 2022. Final follow-up occurred on March 15, 2024. Patients were randomized to receive either intravenous rituximab, 375 mg/m2 (n&#x2009;=&#x2009;36), or placebo (n&#x2009;=&#x2009;36) at weeks 1, 2, and 25. Patients were followed up for 49 weeks. The primary outcome was the proportion of patients who were free of relapse of nephrotic syndrome at 49-week follow-up. Relapse was defined as urine protein of at least 1 g/gCr on 2 consecutive measurements. Among 72 randomized participants (mean age, 47.9 years; 56.1% female), 66 (92%) received the study drug at least once and were included in analyses. The relapse-free rate at week 49 was 87.4% (95% CI, 69.8%-95.1%) in the rituximab group and 38.0% (95% CI, 22.1%-53.8%) in the placebo group (P&#x2009;&lt;&#x2009;.001 by 1-sided log-rank test). One of 18 secondary outcomes was statistically significant (favoring rituximab). The median relapse-free time in the rituximab group was greater than 49.0 weeks and in the placebo group was 30.8 weeks. A stratified Cox model showed a hazard ratio for relapse of 0.16 (95% CI, 0.05-0.46; P&#x2009;&lt;&#x2009;.001) in the rituximab group compared with the placebo group. The most common adverse effect was infusion reaction (13 [40.6%] in the rituximab group and 1 [2.9%] in the placebo group). These results support use of rituximab to prevent relapse in adults with FRNS or SDNS. Japan Registry of Clinical Trials: jRCT2051200045; University Hospital Medical Information Network Clinical Trials Registry: UMIN000041475."
-    },
-    {
-      "doi": "10.1001/jama.2025.17080",
-      "url": "https://doi.org/10.1001/jama.2025.17080",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840734",
-      "article_type": "",
-      "pubmed_pmid": "41165682",
-      "title": "Screening for Hepatitis C in Emergency Departments-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
-      "volume": "334",
-      "issue": "22",
-      "pages": "2040-2041",
-      "authors": [
-        "Haukoos J Author",
-        "Linas BP Author",
-        "Rowan SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23333",
@@ -2904,6 +2904,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.18109",
+      "url": "https://doi.org/10.1001/jama.2025.18109",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
+      "article_type": "",
+      "pubmed_pmid": "41165718",
+      "title": "Pattern-Mixture Models for Missing Data.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 16",
+      "volume": "334",
+      "issue": "23",
+      "pages": "2126-2127",
+      "authors": [
+        "Little RJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": true,
+      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
+    },
+    {
       "doi": "10.1001/jama.2025.18709",
       "url": "https://doi.org/10.1001/jama.2025.18709",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839711",
@@ -2927,27 +2948,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This cross-sectional analysis examines emergency Medicaid spending relative to total Medicaid expenditures and identifies state factors associated with variation in spending."
-    },
-    {
-      "doi": "10.1001/jama.2025.18109",
-      "url": "https://doi.org/10.1001/jama.2025.18109",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
-      "article_type": "",
-      "pubmed_pmid": "41165718",
-      "title": "Pattern-Mixture Models for Missing Data.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 16",
-      "volume": "334",
-      "issue": "23",
-      "pages": "2126-2127",
-      "authors": [
-        "Little RJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
     },
     {
       "doi": "10.1001/jama.2025.19563",
@@ -4090,7 +4090,7 @@
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint explores the US Food and Drug Administration&#x2019;s plan to approve leucovorin for patients with autism and the potential implications for evidentiary standards."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22333",
@@ -4293,21 +4293,68 @@
       "abstract_md": "This JAMA Patient Page describes endometriosis development, as well as its signs and symptoms, diagnosis, and treatment."
     },
     {
-      "doi": "10.1001/jama.2025.19841",
-      "url": "https://doi.org/10.1001/jama.2025.19841",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841786",
+      "doi": "10.1001/jama.2025.19798",
+      "url": "https://doi.org/10.1001/jama.2025.19798",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841694",
       "article_type": "",
-      "pubmed_pmid": "41284284",
-      "title": "Guiding Obstetric Care and Treatment Decisions for Women With Prior GLP-1 Receptor Agonist Use.",
+      "pubmed_pmid": "41259039",
+      "title": "Lung Cancer Deaths Prevented and Life-Years Gained From Lung Cancer Screening.",
       "journal": "JAMA",
       "pubdate": "2025 Dec 23",
       "volume": "334",
       "issue": "24",
-      "pages": "2168-2170",
+      "pages": "2225-2227",
       "authors": [
-        "Cesta CE Author",
-        "Hutcheon JA Author",
-        "Johansson K Author"
+        "Bandi P Author",
+        "Landy R Author",
+        "Star J Author",
+        "Kratzer TB Author",
+        "Smith RA Author",
+        "Jemal A Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study examines the current national prevalence of up-to-date lung cancer screening and estimates lung cancer deaths prevented and life-years gained from screening."
+    },
+    {
+      "doi": "10.1001/jama.2025.18243",
+      "url": "https://doi.org/10.1001/jama.2025.18243",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
+      "article_type": "",
+      "pubmed_pmid": "41259054",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2229-2230",
+      "authors": [
+        "Jayakrishnan T Author",
+        "Ng K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.19743",
+      "url": "https://doi.org/10.1001/jama.2025.19743",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842090",
+      "article_type": "",
+      "pubmed_pmid": "41269705",
+      "title": "Heavy Drinking May Lead to Earlier, More Severe Stroke.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2155",
+      "authors": [
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -4338,74 +4385,27 @@
       "abstract_md": "This Viewpoint discusses the disadvantages of direct-to-consumer home tests for chlamydia and gonorrhea in terms of the goals of public health authorities related to the management and control of sexually transmitted diseases."
     },
     {
-      "doi": "10.1001/jama.2025.19743",
-      "url": "https://doi.org/10.1001/jama.2025.19743",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842090",
+      "doi": "10.1001/jama.2025.19841",
+      "url": "https://doi.org/10.1001/jama.2025.19841",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841786",
       "article_type": "",
-      "pubmed_pmid": "41269705",
-      "title": "Heavy Drinking May Lead to Earlier, More Severe Stroke.",
+      "pubmed_pmid": "41284284",
+      "title": "Guiding Obstetric Care and Treatment Decisions for Women With Prior GLP-1 Receptor Agonist Use.",
       "journal": "JAMA",
       "pubdate": "2025 Dec 23",
       "volume": "334",
       "issue": "24",
-      "pages": "2155",
+      "pages": "2168-2170",
       "authors": [
-        "Pant S Author"
+        "Cesta CE Author",
+        "Hutcheon JA Author",
+        "Johansson K Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.18243",
-      "url": "https://doi.org/10.1001/jama.2025.18243",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841692",
-      "article_type": "",
-      "pubmed_pmid": "41259054",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2229-2230",
-      "authors": [
-        "Jayakrishnan T Author",
-        "Ng K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.19798",
-      "url": "https://doi.org/10.1001/jama.2025.19798",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841694",
-      "article_type": "",
-      "pubmed_pmid": "41259039",
-      "title": "Lung Cancer Deaths Prevented and Life-Years Gained From Lung Cancer Screening.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2225-2227",
-      "authors": [
-        "Bandi P Author",
-        "Landy R Author",
-        "Star J Author",
-        "Kratzer TB Author",
-        "Smith RA Author",
-        "Jemal A Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study examines the current national prevalence of up-to-date lung cancer screening and estimates lung cancer deaths prevented and life-years gained from screening."
     },
     {
       "doi": "10.1001/jama.2025.20947",
@@ -4453,29 +4453,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18107",
-      "url": "https://doi.org/10.1001/jama.2025.18107",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
-      "article_type": "",
-      "pubmed_pmid": "41231489",
-      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2232-2233",
-      "authors": [
-        "Mozaffarian D Author",
-        "Callahan EA Author",
-        "Frist WH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18239",
       "url": "https://doi.org/10.1001/jama.2025.18239",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841554",
@@ -4512,6 +4489,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.18107",
+      "url": "https://doi.org/10.1001/jama.2025.18107",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
+      "article_type": "",
+      "pubmed_pmid": "41231489",
+      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2232-2233",
+      "authors": [
+        "Mozaffarian D Author",
+        "Callahan EA Author",
+        "Frist WH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4689,25 +4689,6 @@
       "abstract_md": "Since the start of the 21st century, more than 800&#x202f;000 firearm deaths and more than 2 million firearm injuries have occurred in the US. All categories of firearm violence-homicide, suicide, unintentional-result in reverberating harms to individuals, families, communities, and society. The collective responsibility of society is to safeguard the health and safety of its members, including from firearm harms. The JAMA Summit on Firearm Violence convened 60 thought leaders from a wide array of disciplines to chart an innovations roadmap that will lead to substantial reductions in firearm harms by 2040. The vision for 2040 is a country where firearm violence is substantially reduced and where all people and communities report feeling safe from firearm harms. The vision centers on practical solutions with an understanding of the country's constitutional protections for firearm ownership. Achieving the 2040 vision will require expansion of proven evidence-based strategies and the development of new, innovative approaches rooted in equity, accountability, and collective responsibility. Discussions centered on projecting a safer world, community violence interventions, technologic innovations, federal and state-level oversight of firearms, ethical considerations, and primordial prevention of firearm violence. The Summit charted a roadmap of 5 essential actions in the next 5 years to achieve this vision: (1) focus on communities and change fundamental structures that lead to firearm harms, (2) harness technological strengths responsibly, (3) change the narrative around firearm harms, (4) take a whole-government and whole-society approach, and (5) spark a research revolution on preventing firearm harms. A safer world will require investing in the discovery, implementation, and scaling of solutions that reduce firearm harms and center on the people and communities most affected by firearm violence."
     },
     {
-      "doi": "10.1001/jama.2024.19026",
-      "url": "https://doi.org/10.1001/jama.2024.19026",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
-      "article_type": "",
-      "pubmed_pmid": "41296332",
-      "title": "Current Medical Literature.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2237",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18272",
       "url": "https://doi.org/10.1001/jama.2025.18272",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841711",
@@ -4724,6 +4705,25 @@
         "Xie X Author",
         "Lv Q Author"
       ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2024.19026",
+      "url": "https://doi.org/10.1001/jama.2024.19026",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
+      "article_type": "",
+      "pubmed_pmid": "41296332",
+      "title": "Current Medical Literature.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2237",
+      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -5036,29 +5036,6 @@
       "abstract_md": "This Medical News article is an interview with Katherine R. Tuttle, MD, education committee co-chair of Kidney Week 2025 and a professor of medicine at the University of Washington."
     },
     {
-      "doi": "10.1001/jama.2025.17250",
-      "url": "https://doi.org/10.1001/jama.2025.17250",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
-      "article_type": "",
-      "pubmed_pmid": "41259042",
-      "title": "Pharmacologic Treatment of Perinatal Depression.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2223-2224",
-      "authors": [
-        "Miller ES Author",
-        "Cunningham SK Author",
-        "Osborne LM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Insights discusses the most effective pharmacological treatments for individuals experiencing perinatal depression."
-    },
-    {
       "doi": "10.1001/jama.2025.18241",
       "url": "https://doi.org/10.1001/jama.2025.18241",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
@@ -5080,27 +5057,27 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18274",
-      "url": "https://doi.org/10.1001/jama.2025.18274",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841710",
+      "doi": "10.1001/jama.2025.17250",
+      "url": "https://doi.org/10.1001/jama.2025.17250",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
       "article_type": "",
-      "pubmed_pmid": "41264264",
-      "title": "Prescription Stimulant Use Among US Adolescents-Reply.",
+      "pubmed_pmid": "41259042",
+      "title": "Pharmacologic Treatment of Perinatal Depression.",
       "journal": "JAMA",
       "pubdate": "2025 Dec 23",
       "volume": "334",
       "issue": "24",
-      "pages": "2231-2232",
+      "pages": "2223-2224",
       "authors": [
-        "McCabe SE Author",
-        "Wilens TE Author",
-        "Schepis TS Author"
+        "Miller ES Author",
+        "Cunningham SK Author",
+        "Osborne LM Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA Insights discusses the most effective pharmacological treatments for individuals experiencing perinatal depression."
     },
     {
       "doi": "10.1001/jama.2025.20841",
@@ -5160,6 +5137,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Postoperative red blood cell transfusion guidelines recommend transfusion for hemoglobin levels less than 7 g/dL. However, the safety of this strategy in patients at high risk of cardiac events undergoing major operations remains unclear. To evaluate the risk of death or major ischemic events within 90 days after a liberal transfusion strategy compared with a restrictive transfusion strategy in patients at high risk of cardiac events who had undergone major vascular or general surgery operations and developed postoperative anemia. This parallel, single-blind, randomized clinical superiority trial included 1428 veterans (&#x2265;18 y) at high cardiac risk undergoing major vascular or general surgery operations. Participants were enrolled from February 2018 to March 2023 across 16 Veterans Affairs Medical Centers in the US. Seven hundred fourteen participants with postoperative hemoglobin less than 10 g/dL were randomized to a liberal strategy (transfusion trigger at hemoglobin level &lt;10 g/dL) and 714 to a restrictive strategy (transfusion trigger at hemoglobin &lt;7 g/dL). The primary end point was a composite of all-cause death, myocardial infarction, coronary revascularization, acute kidney failure, or ischemic stroke within 90 days after randomization. Secondary end points included a composite of cardiac complications other than myocardial infarction (arrhythmias, heart failure, and nonfatal cardiac arrest). Of the 1424 analyzed veterans (mean age, 69.9 [SD, 7.9] years; 1393 male [97.8%]; 268 Black [18.8%]; 48 Hispanic [4.1%]; 1071 White [75.2%]), 1297 (91.1%) underwent vascular surgical procedures. The mean hemoglobin difference between transfusion strategies was 2.0 g/dL on day 5 after randomization. The primary outcome rate in the liberal group was 9.1% (61 of 670) compared with 10.1% (71 of 700) in the restrictive group (relative risk, 0.90; 95% CI, 0.65-1.24). The secondary end point of cardiac complications without myocardial infarction, which was 1 of 5 secondary end points, occurred in 5.9% (38 of 647) of patients in the liberal group and 9.9% (67 of 678) of patients in the restrictive group (relative risk, 0.59; 99% CI, 0.36-0.98). After major vascular or general surgery operations among patients at high risk of a cardiac event, a liberal transfusion strategy did not reduce 90-day death or major ischemic outcome rates compared with a restrictive strategy. ClinicalTrials.gov Identifier: NCT03229941."
+    },
+    {
+      "doi": "10.1001/jama.2025.18274",
+      "url": "https://doi.org/10.1001/jama.2025.18274",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841710",
+      "article_type": "",
+      "pubmed_pmid": "41264264",
+      "title": "Prescription Stimulant Use Among US Adolescents-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2231-2232",
+      "authors": [
+        "McCabe SE Author",
+        "Wilens TE Author",
+        "Schepis TS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18918",
