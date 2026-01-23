@@ -140,6 +140,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.17664",
+      "url": "https://doi.org/10.1001/jama.2025.17664",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841006",
+      "article_type": "",
+      "pubmed_pmid": "41171265",
+      "title": "What to Know About the New Blood Pressure Guidelines.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1869-1871",
+      "authors": [
+        "Abbasi J Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses updated blood pressure recommendations from the American Heart Association and the American College of Cardiology."
+    },
+    {
       "doi": "10.1001/jama.2025.16613",
       "url": "https://doi.org/10.1001/jama.2025.16613",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839941",
@@ -172,27 +193,6 @@
       "abstract_md": "This study uses prospectively collected data from the ABCD study to assess the relationship between longitudinal patterns of social media use (hours per day) and cognitive performance after 2 years in a diverse US sample of younger adolescents."
     },
     {
-      "doi": "10.1001/jama.2025.17664",
-      "url": "https://doi.org/10.1001/jama.2025.17664",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841006",
-      "article_type": "",
-      "pubmed_pmid": "41171265",
-      "title": "What to Know About the New Blood Pressure Guidelines.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1869-1871",
-      "authors": [
-        "Abbasi J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses updated blood pressure recommendations from the American Heart Association and the American College of Cardiology."
-    },
-    {
       "doi": "10.1001/jama.2024.19003",
       "url": "https://doi.org/10.1001/jama.2024.19003",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842223",
@@ -208,6 +208,29 @@
       "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.14718",
+      "url": "https://doi.org/10.1001/jama.2025.14718",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839990",
+      "article_type": "",
+      "pubmed_pmid": "41091491",
+      "title": "Microplastics and Human Health.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1941-1942",
+      "authors": [
+        "Mahalingaiah S Author",
+        "Nadeau KC Author",
+        "Christiani DC Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This JAMA Insights discusses rising detection of microplastics in human tissue and the importance of international cooperation to limit plastic pollution."
     },
     {
       "doi": "10.1001/jama.2025.17235",
@@ -272,29 +295,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Intraoperative hypotension is associated with organ injury. However, it remains unknown if targeted blood pressure management during surgery can improve clinical outcomes. To evaluate whether individualized vs routine perioperative blood pressure management during major abdominal surgery improves clinical outcomes in patients considered at high risk of postoperative complications. This randomized single-blind clinical trial enrolled patients 45 years or older undergoing elective major abdominal surgery with general anesthesia expected to last 90 minutes or longer who had at least 1 additional high-risk criterion between February 26, 2023, and April 25, 2024, at 15 German university hospitals. The date of last follow-up was July 25, 2024. Patients were randomized in a 1:1 ratio to individualized perioperative blood pressure management (with mean arterial pressure [MAP] targets based on preoperative mean nighttime MAP assessed using automated blood pressure monitoring) or routine blood pressure management with a MAP target of 65 mm Hg or higher. The primary outcome was the incidence of a composite outcome of acute kidney injury, acute myocardial injury, nonfatal cardiac arrest, or death within the first 7 postoperative days. There were 22 secondary outcomes, including infectious complications within the first 7 postoperative days and a composite outcome of need for kidney replacement therapy, myocardial infarction, nonfatal cardiac arrest, or death within 90 days after surgery. Of the 1272 patients enrolled, 1142 were randomized (571 patients to each group), and 1134 were included in the primary analysis (median age, 66 years [IQR, 59-73 years]; 34.1% female). The primary outcome occurred in 190 of 567 patients (33.5%) assigned to individualized blood pressure management and 173 of 567 patients (30.5%) assigned to routine blood pressure management (relative risk, 1.10 [95% CI, 0.93-1.30]; P&#x2009;=&#x2009;.31). None of the 22 secondary outcomes were significantly different, including infectious complications within the first 7 postoperative days (90/567 [15.9%] vs 97/567 [17.1%]; P&#x2009;=&#x2009;.63) and a composite outcome of need for kidney replacement therapy, myocardial infarction, nonfatal cardiac arrest, or death within 90 days after surgery (32/566 [5.7%] vs 20/567 [3.5%]; P&#x2009;=&#x2009;.12). Among patients at high risk of postoperative complications undergoing major abdominal surgery, individualized perioperative blood pressure management with MAP targets based on preoperative mean nighttime MAP did not decrease the composite outcome of acute kidney injury, acute myocardial injury, nonfatal cardiac arrest, or death within the first 7 postoperative days compared with routine blood pressure management with a MAP target of 65 mm Hg or higher. ClinicalTrials.gov Identifier: NCT05416944."
-    },
-    {
-      "doi": "10.1001/jama.2025.14718",
-      "url": "https://doi.org/10.1001/jama.2025.14718",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839990",
-      "article_type": "",
-      "pubmed_pmid": "41091491",
-      "title": "Microplastics and Human Health.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1941-1942",
-      "authors": [
-        "Mahalingaiah S Author",
-        "Nadeau KC Author",
-        "Christiani DC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Insights discusses rising detection of microplastics in human tissue and the importance of international cooperation to limit plastic pollution."
     },
     {
       "doi": "10.1001/jama.2025.18433",
@@ -1793,69 +1793,16 @@
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842696",
       "article_type": "",
       "pubmed_pmid": "41364689",
-      "title": "Expectant Management vs Medication for Patent Ductus Arteriosus in Preterm Infants: The PDA Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Laughon MM Author",
-        "Thomas SM Author",
-        "Watterberg KL Author",
-        "Kennedy KA Author",
-        "Keszler M Author",
-        "Ambalavanan N Author",
-        "Davis AS Author",
-        "Slaughter JL Author",
-        "Guillet R Author",
-        "Colaizy TT Author",
-        "Cotten CM Author",
-        "Dhawan MA Author",
-        "Bose CL Author",
-        "Talbert J Author",
-        "Smucny S Author",
-        "Benitz WE Author",
-        "Rysavy MA Author",
-        "Ohls RK Author",
-        "Baserga MC Author",
-        "DeMauro SB Author",
-        "Jaleel M Author",
-        "Jackson WM Author",
-        "Carlo WA Author",
-        "Puopolo KM Author",
-        "Hibbs AM Author",
-        "Katheria A Author",
-        "Sánchez PJ Author",
-        "D'Angio CT Author",
-        "Patel RM Author",
-        "Johnson BA Author",
-        "Chock VY Author",
-        "Bhatt AJ Author",
-        "Merhar SL Author",
-        "Moore R Author",
-        "Laptook AR Author",
-        "Ghavam S Author",
-        "Fuller J Author",
-        "Vyas-Read S Author",
-        "Kicklighter SD Author",
-        "Steinbrekera B Author",
-        "Anderson K Author",
-        "Reynolds AM Author",
-        "Wyckoff MH Author",
-        "Montoya C Author",
-        "Das A Author",
-        "Do B Author",
-        "Chang S Author",
-        "Higgins RD Author",
-        "Walsh MC Author",
-        "Eunice Kennedy Shriver National Institute of Child Health and Human Development Neonatal Research Network CollectiveName"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial. To determine whether expectant management compared with active treatment of a protocol-defined PDA in preterm infants decreases the incidence of death or bronchopulmonary dysplasia (BPD). A randomized clinical trial including infants born at 22 to 28 weeks' gestation and diagnosed with a protocol-defined PDA between the age of 48 hours and 21 days at screening. The trial was conducted from December 2018 to December 2024 at 33 hospitals within the National Institute of Child Health and Human Development Neonatal Research Network. The final date of follow-up was June 2025. Infants with PDA were randomized to expectant management (n&#x2009;=&#x2009;242) or active treatment (n&#x2009;=&#x2009;240; acetaminophen, ibuprofen, or indomethacin) to close the PDA. The primary outcome was death or BPD at 36 weeks' postmenstrual age. The secondary outcomes included the components of the primary outcome and other morbidities of prematurity. A total of 482 infants were randomized (median gestational age, 25 weeks [IQR, 24 to 27 weeks]; median birth weight, 760 g [IQR, 620 to 935 g]). The trial was stopped for futility and safety after the 50% interim analysis for the primary outcome due to higher survival in the expectant management group. The incidence of death or BPD was 80.9% (195/241) of infants in the expectant management group vs 79.6% (191/240) of infants in the active treatment group (adjusted risk difference, 1.2% [95% CI, -5.7% to 8.1%]; P&#x2009;=&#x2009;.73). The incidence of death before 36 weeks' postmenstrual age was 4.1% (10/241) of infants in the expectant management group vs 9.6% (23/240) of infants in the active treatment group (adjusted risk difference, -5.6% [95% CI, -10.1% to -1.2%]; P&#x2009;=&#x2009;.01). Infections resulting in death occurred in 0.8% (2/241) of infants in the expectant management group vs 3.8% (9/240) of infants in the active treatment group. In extremely preterm infants with a protocol-defined PDA, death or BPD did not differ between the expectant management group and the active treatment group. Survival was substantially higher with expectant management. ClinicalTrials.gov Identifier: NCT03456336."
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.19730",
@@ -2055,29 +2002,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.17080",
-      "url": "https://doi.org/10.1001/jama.2025.17080",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840734",
-      "article_type": "",
-      "pubmed_pmid": "41165682",
-      "title": "Screening for Hepatitis C in Emergency Departments-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
-      "volume": "334",
-      "issue": "22",
-      "pages": "2040-2041",
-      "authors": [
-        "Haukoos J Author",
-        "Linas BP Author",
-        "Rowan SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19316",
       "url": "https://doi.org/10.1001/jama.2025.19316",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841034",
@@ -2116,6 +2040,29 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The effects of rituximab on relapse of nephrotic syndrome in patients with adult-onset frequently relapsing nephrotic syndrome (FRNS) or steroid-dependent nephrotic syndrome (SDNS) remain uncertain. To evaluate the effects of rituximab for patients with FRNS or SDNS. Multicenter, double-blind, randomized, placebo-controlled trial conducted at 13 centers in Japan. Adults with FRNS or SDNS who had urine protein of less than 0.3 g/gCr were enrolled between September 1, 2020, and June 28, 2022. Final follow-up occurred on March 15, 2024. Patients were randomized to receive either intravenous rituximab, 375 mg/m2 (n&#x2009;=&#x2009;36), or placebo (n&#x2009;=&#x2009;36) at weeks 1, 2, and 25. Patients were followed up for 49 weeks. The primary outcome was the proportion of patients who were free of relapse of nephrotic syndrome at 49-week follow-up. Relapse was defined as urine protein of at least 1 g/gCr on 2 consecutive measurements. Among 72 randomized participants (mean age, 47.9 years; 56.1% female), 66 (92%) received the study drug at least once and were included in analyses. The relapse-free rate at week 49 was 87.4% (95% CI, 69.8%-95.1%) in the rituximab group and 38.0% (95% CI, 22.1%-53.8%) in the placebo group (P&#x2009;&lt;&#x2009;.001 by 1-sided log-rank test). One of 18 secondary outcomes was statistically significant (favoring rituximab). The median relapse-free time in the rituximab group was greater than 49.0 weeks and in the placebo group was 30.8 weeks. A stratified Cox model showed a hazard ratio for relapse of 0.16 (95% CI, 0.05-0.46; P&#x2009;&lt;&#x2009;.001) in the rituximab group compared with the placebo group. The most common adverse effect was infusion reaction (13 [40.6%] in the rituximab group and 1 [2.9%] in the placebo group). These results support use of rituximab to prevent relapse in adults with FRNS or SDNS. Japan Registry of Clinical Trials: jRCT2051200045; University Hospital Medical Information Network Clinical Trials Registry: UMIN000041475."
+    },
+    {
+      "doi": "10.1001/jama.2025.17080",
+      "url": "https://doi.org/10.1001/jama.2025.17080",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840734",
+      "article_type": "",
+      "pubmed_pmid": "41165682",
+      "title": "Screening for Hepatitis C in Emergency Departments-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 9",
+      "volume": "334",
+      "issue": "22",
+      "pages": "2040-2041",
+      "authors": [
+        "Haukoos J Author",
+        "Linas BP Author",
+        "Rowan SE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23333",
@@ -2904,27 +2851,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18109",
-      "url": "https://doi.org/10.1001/jama.2025.18109",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
-      "article_type": "",
-      "pubmed_pmid": "41165718",
-      "title": "Pattern-Mixture Models for Missing Data.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 16",
-      "volume": "334",
-      "issue": "23",
-      "pages": "2126-2127",
-      "authors": [
-        "Little RJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
-    },
-    {
       "doi": "10.1001/jama.2025.18709",
       "url": "https://doi.org/10.1001/jama.2025.18709",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839711",
@@ -2948,6 +2874,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This cross-sectional analysis examines emergency Medicaid spending relative to total Medicaid expenditures and identifies state factors associated with variation in spending."
+    },
+    {
+      "doi": "10.1001/jama.2025.18109",
+      "url": "https://doi.org/10.1001/jama.2025.18109",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
+      "article_type": "",
+      "pubmed_pmid": "41165718",
+      "title": "Pattern-Mixture Models for Missing Data.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 16",
+      "volume": "334",
+      "issue": "23",
+      "pages": "2126-2127",
+      "authors": [
+        "Little RJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": true,
+      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
     },
     {
       "doi": "10.1001/jama.2025.19563",
@@ -4090,7 +4037,7 @@
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint explores the US Food and Drug Administration&#x2019;s plan to approve leucovorin for patients with autism and the potential implications for evidentiary standards."
     },
     {
       "doi": "10.1001/jama.2025.22333",
@@ -4190,6 +4137,32 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.24082",
+      "url": "https://doi.org/10.1001/jama.2025.24082",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843212",
+      "article_type": "",
+      "pubmed_pmid": "41428474",
+      "title": "Nirsevimab vs RSVpreF Vaccine for Respiratory Syncytial Virus-Related Hospitalization in Newborns.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 22",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Jabagi MJ Author",
+        "Bertrand M Author",
+        "Gabet A Author",
+        "Kolla E Author",
+        "Olié V Author",
+        "Zureik M Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": true,
+      "abstract_md": "Respiratory syncytial virus (RSV) is a leading cause of hospitalization in infants. The comparative effectiveness of 2 recently introduced preventive strategies (infant immunization through placental antibody transfer after maternal vaccination with the RSV prefusion F protein [RSVpreF] vaccine and passive infant immunization with nirsevimab) remains unknown. To compare the associations of maternal vaccination with the RSVpreF vaccine vs passive infant immunization with nirsevimab for the prevention of RSV-related hospitalization. This population-based cohort study used data from the French National Health Data System. Maternal vaccination with the RSVpreF vaccine occurred during 32 to 36 weeks' gestation among infants born in mainland France between September 1 and December 31, 2024. Passive infant immunization with nirsevimab occurred prior to hospital discharge. Infants were matched 1:1 by maternity ward discharge date, sex, gestational age, and region. Follow-up ended at the time of RSV hospitalization or death or on February 28, 2025. Maternal immunization with the RSVpreF vaccine and passive infant immunization with nirsevimab. The primary outcome was hospitalization for RSV-associated lower respiratory tract infection. The secondary outcomes included admission to the pediatric intensive care unit (PICU), admission to high-dependency unit, ventilator support, and oxygen therapy. The hazard ratios (HRs) were estimated using conditional Cox proportional hazards models with inverse probability of treatment weighting. A total of 42&#x202f;560 infants (mean age, 3.7 [SD, 1.4] days; 51.7% male) were included in the study (21&#x202f;280 per group) with a median follow-up of 84 days (IQR, 70-99 days). Of the 481 hospitalizations for RSV-associated lower respiratory tract infection, 212 (44.1%) occurred in the nirsevimab group vs 269 (55.9%) in the RSVpreF vaccine group (between-group difference, -11.8% [95% CI, -18.1% to -5.5%]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of hospitalization for RSV-associated lower respiratory tract infection (adjusted HR, 0.74 [95% CI, 0.61 to 0.88]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of severe outcomes, including PICU admission (adjusted HR, 0.58 [95% CI, 0.42 to 0.80]), requiring ventilator support (adjusted HR, 0.57 [95% CI, 0.40 to 0.81]), or requiring oxygen therapy (adjusted HR, 0.56 [95% CI, 0.38 to 0.81]). The results were consistent across subgroups and in the sensitivity analyses. Compared with maternal vaccination with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with lower risks of RSV-related hospitalization and severe outcomes. These findings reflect the first RSV season with use of these immunization strategies in mainland France; their use should be reevaluated in future studies."
+    },
+    {
       "doi": "10.1001/jama.2025.20765",
       "url": "https://doi.org/10.1001/jama.2025.20765",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
@@ -4222,32 +4195,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
-    },
-    {
-      "doi": "10.1001/jama.2025.24082",
-      "url": "https://doi.org/10.1001/jama.2025.24082",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843212",
-      "article_type": "",
-      "pubmed_pmid": "41428474",
-      "title": "Nirsevimab vs RSVpreF Vaccine for Respiratory Syncytial Virus-Related Hospitalization in Newborns.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Jabagi MJ Author",
-        "Bertrand M Author",
-        "Gabet A Author",
-        "Kolla E Author",
-        "Olié V Author",
-        "Zureik M Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Respiratory syncytial virus (RSV) is a leading cause of hospitalization in infants. The comparative effectiveness of 2 recently introduced preventive strategies (infant immunization through placental antibody transfer after maternal vaccination with the RSV prefusion F protein [RSVpreF] vaccine and passive infant immunization with nirsevimab) remains unknown. To compare the associations of maternal vaccination with the RSVpreF vaccine vs passive infant immunization with nirsevimab for the prevention of RSV-related hospitalization. This population-based cohort study used data from the French National Health Data System. Maternal vaccination with the RSVpreF vaccine occurred during 32 to 36 weeks' gestation among infants born in mainland France between September 1 and December 31, 2024. Passive infant immunization with nirsevimab occurred prior to hospital discharge. Infants were matched 1:1 by maternity ward discharge date, sex, gestational age, and region. Follow-up ended at the time of RSV hospitalization or death or on February 28, 2025. Maternal immunization with the RSVpreF vaccine and passive infant immunization with nirsevimab. The primary outcome was hospitalization for RSV-associated lower respiratory tract infection. The secondary outcomes included admission to the pediatric intensive care unit (PICU), admission to high-dependency unit, ventilator support, and oxygen therapy. The hazard ratios (HRs) were estimated using conditional Cox proportional hazards models with inverse probability of treatment weighting. A total of 42&#x202f;560 infants (mean age, 3.7 [SD, 1.4] days; 51.7% male) were included in the study (21&#x202f;280 per group) with a median follow-up of 84 days (IQR, 70-99 days). Of the 481 hospitalizations for RSV-associated lower respiratory tract infection, 212 (44.1%) occurred in the nirsevimab group vs 269 (55.9%) in the RSVpreF vaccine group (between-group difference, -11.8% [95% CI, -18.1% to -5.5%]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of hospitalization for RSV-associated lower respiratory tract infection (adjusted HR, 0.74 [95% CI, 0.61 to 0.88]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of severe outcomes, including PICU admission (adjusted HR, 0.58 [95% CI, 0.42 to 0.80]), requiring ventilator support (adjusted HR, 0.57 [95% CI, 0.40 to 0.81]), or requiring oxygen therapy (adjusted HR, 0.56 [95% CI, 0.38 to 0.81]). The results were consistent across subgroups and in the sensitivity analyses. Compared with maternal vaccination with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with lower risks of RSV-related hospitalization and severe outcomes. These findings reflect the first RSV season with use of these immunization strategies in mainland France; their use should be reevaluated in future studies."
     },
     {
       "doi": "10.1001/jama.2025.21322",
@@ -4539,29 +4486,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18237",
-      "url": "https://doi.org/10.1001/jama.2025.18237",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841555",
-      "article_type": "",
-      "pubmed_pmid": "41247727",
-      "title": "Outcomes of Nononcology Accelerated Approvals.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2233-2234",
-      "authors": [
-        "Doherty B Author",
-        "Beakes-Read G Author",
-        "Friend D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19634",
       "url": "https://doi.org/10.1001/jama.2025.19634",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841345",
@@ -4598,6 +4522,29 @@
         "Virudachalam S Author",
         "Vasan A Author",
         "Edmondson E Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.18237",
+      "url": "https://doi.org/10.1001/jama.2025.18237",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841555",
+      "article_type": "",
+      "pubmed_pmid": "41247727",
+      "title": "Outcomes of Nononcology Accelerated Approvals.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2233-2234",
+      "authors": [
+        "Doherty B Author",
+        "Beakes-Read G Author",
+        "Friend D Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5036,27 +4983,6 @@
       "abstract_md": "This Medical News article is an interview with Katherine R. Tuttle, MD, education committee co-chair of Kidney Week 2025 and a professor of medicine at the University of Washington."
     },
     {
-      "doi": "10.1001/jama.2025.18241",
-      "url": "https://doi.org/10.1001/jama.2025.18241",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
-      "article_type": "",
-      "pubmed_pmid": "41259044",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2229",
-      "authors": [
-        "Yoshino T Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17250",
       "url": "https://doi.org/10.1001/jama.2025.17250",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
@@ -5078,6 +5004,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses the most effective pharmacological treatments for individuals experiencing perinatal depression."
+    },
+    {
+      "doi": "10.1001/jama.2025.18241",
+      "url": "https://doi.org/10.1001/jama.2025.18241",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
+      "article_type": "",
+      "pubmed_pmid": "41259044",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2229",
+      "authors": [
+        "Yoshino T Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.20841",
