@@ -1788,23 +1788,6 @@
       "abstract_md": "This JAMA Insights discusses risk factors for, assessment, and management of postpartum hemorrhage."
     },
     {
-      "doi": "10.1001/jama.2025.23330",
-      "url": "https://doi.org/10.1001/jama.2025.23330",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842696",
-      "article_type": "",
-      "pubmed_pmid": "41364689",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19730",
       "url": "https://doi.org/10.1001/jama.2025.19730",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841305",
@@ -1824,6 +1807,76 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23330",
+      "url": "https://doi.org/10.1001/jama.2025.23330",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842696",
+      "article_type": "",
+      "pubmed_pmid": "41364689",
+      "title": "Expectant Management vs Medication for Patent Ductus Arteriosus in Preterm Infants: The PDA Randomized Clinical Trial.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 9",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Laughon MM Author",
+        "Thomas SM Author",
+        "Watterberg KL Author",
+        "Kennedy KA Author",
+        "Keszler M Author",
+        "Ambalavanan N Author",
+        "Davis AS Author",
+        "Slaughter JL Author",
+        "Guillet R Author",
+        "Colaizy TT Author",
+        "Cotten CM Author",
+        "Dhawan MA Author",
+        "Bose CL Author",
+        "Talbert J Author",
+        "Smucny S Author",
+        "Benitz WE Author",
+        "Rysavy MA Author",
+        "Ohls RK Author",
+        "Baserga MC Author",
+        "DeMauro SB Author",
+        "Jaleel M Author",
+        "Jackson WM Author",
+        "Carlo WA Author",
+        "Puopolo KM Author",
+        "Hibbs AM Author",
+        "Katheria A Author",
+        "Sánchez PJ Author",
+        "D'Angio CT Author",
+        "Patel RM Author",
+        "Johnson BA Author",
+        "Chock VY Author",
+        "Bhatt AJ Author",
+        "Merhar SL Author",
+        "Moore R Author",
+        "Laptook AR Author",
+        "Ghavam S Author",
+        "Fuller J Author",
+        "Vyas-Read S Author",
+        "Kicklighter SD Author",
+        "Steinbrekera B Author",
+        "Anderson K Author",
+        "Reynolds AM Author",
+        "Wyckoff MH Author",
+        "Montoya C Author",
+        "Das A Author",
+        "Do B Author",
+        "Chang S Author",
+        "Higgins RD Author",
+        "Walsh MC Author",
+        "Eunice Kennedy Shriver National Institute of Child Health and Human Development Neonatal Research Network CollectiveName"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": true,
+      "abstract_md": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial. To determine whether expectant management compared with active treatment of a protocol-defined PDA in preterm infants decreases the incidence of death or bronchopulmonary dysplasia (BPD). A randomized clinical trial including infants born at 22 to 28 weeks' gestation and diagnosed with a protocol-defined PDA between the age of 48 hours and 21 days at screening. The trial was conducted from December 2018 to December 2024 at 33 hospitals within the National Institute of Child Health and Human Development Neonatal Research Network. The final date of follow-up was June 2025. Infants with PDA were randomized to expectant management (n&#x2009;=&#x2009;242) or active treatment (n&#x2009;=&#x2009;240; acetaminophen, ibuprofen, or indomethacin) to close the PDA. The primary outcome was death or BPD at 36 weeks' postmenstrual age. The secondary outcomes included the components of the primary outcome and other morbidities of prematurity. A total of 482 infants were randomized (median gestational age, 25 weeks [IQR, 24 to 27 weeks]; median birth weight, 760 g [IQR, 620 to 935 g]). The trial was stopped for futility and safety after the 50% interim analysis for the primary outcome due to higher survival in the expectant management group. The incidence of death or BPD was 80.9% (195/241) of infants in the expectant management group vs 79.6% (191/240) of infants in the active treatment group (adjusted risk difference, 1.2% [95% CI, -5.7% to 8.1%]; P&#x2009;=&#x2009;.73). The incidence of death before 36 weeks' postmenstrual age was 4.1% (10/241) of infants in the expectant management group vs 9.6% (23/240) of infants in the active treatment group (adjusted risk difference, -5.6% [95% CI, -10.1% to -1.2%]; P&#x2009;=&#x2009;.01). Infections resulting in death occurred in 0.8% (2/241) of infants in the expectant management group vs 3.8% (9/240) of infants in the active treatment group. In extremely preterm infants with a protocol-defined PDA, death or BPD did not differ between the expectant management group and the active treatment group. Survival was substantially higher with expectant management. ClinicalTrials.gov Identifier: NCT03456336."
     },
     {
       "doi": "10.1001/jama.2025.14849",
@@ -4400,6 +4453,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.18107",
+      "url": "https://doi.org/10.1001/jama.2025.18107",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
+      "article_type": "",
+      "pubmed_pmid": "41231489",
+      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2232-2233",
+      "authors": [
+        "Mozaffarian D Author",
+        "Callahan EA Author",
+        "Frist WH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.18239",
       "url": "https://doi.org/10.1001/jama.2025.18239",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841554",
@@ -4436,29 +4512,6 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.18107",
-      "url": "https://doi.org/10.1001/jama.2025.18107",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
-      "article_type": "",
-      "pubmed_pmid": "41231489",
-      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2232-2233",
-      "authors": [
-        "Mozaffarian D Author",
-        "Callahan EA Author",
-        "Frist WH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4636,6 +4689,25 @@
       "abstract_md": "Since the start of the 21st century, more than 800&#x202f;000 firearm deaths and more than 2 million firearm injuries have occurred in the US. All categories of firearm violence-homicide, suicide, unintentional-result in reverberating harms to individuals, families, communities, and society. The collective responsibility of society is to safeguard the health and safety of its members, including from firearm harms. The JAMA Summit on Firearm Violence convened 60 thought leaders from a wide array of disciplines to chart an innovations roadmap that will lead to substantial reductions in firearm harms by 2040. The vision for 2040 is a country where firearm violence is substantially reduced and where all people and communities report feeling safe from firearm harms. The vision centers on practical solutions with an understanding of the country's constitutional protections for firearm ownership. Achieving the 2040 vision will require expansion of proven evidence-based strategies and the development of new, innovative approaches rooted in equity, accountability, and collective responsibility. Discussions centered on projecting a safer world, community violence interventions, technologic innovations, federal and state-level oversight of firearms, ethical considerations, and primordial prevention of firearm violence. The Summit charted a roadmap of 5 essential actions in the next 5 years to achieve this vision: (1) focus on communities and change fundamental structures that lead to firearm harms, (2) harness technological strengths responsibly, (3) change the narrative around firearm harms, (4) take a whole-government and whole-society approach, and (5) spark a research revolution on preventing firearm harms. A safer world will require investing in the discovery, implementation, and scaling of solutions that reduce firearm harms and center on the people and communities most affected by firearm violence."
     },
     {
+      "doi": "10.1001/jama.2024.19026",
+      "url": "https://doi.org/10.1001/jama.2024.19026",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
+      "article_type": "",
+      "pubmed_pmid": "41296332",
+      "title": "Current Medical Literature.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2237",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.18272",
       "url": "https://doi.org/10.1001/jama.2025.18272",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841711",
@@ -4652,25 +4724,6 @@
         "Xie X Author",
         "Lv Q Author"
       ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2024.19026",
-      "url": "https://doi.org/10.1001/jama.2024.19026",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
-      "article_type": "",
-      "pubmed_pmid": "41296332",
-      "title": "Current Medical Literature.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2237",
-      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -4983,6 +5036,27 @@
       "abstract_md": "This Medical News article is an interview with Katherine R. Tuttle, MD, education committee co-chair of Kidney Week 2025 and a professor of medicine at the University of Washington."
     },
     {
+      "doi": "10.1001/jama.2025.18241",
+      "url": "https://doi.org/10.1001/jama.2025.18241",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
+      "article_type": "",
+      "pubmed_pmid": "41259044",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2229",
+      "authors": [
+        "Yoshino T Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.17250",
       "url": "https://doi.org/10.1001/jama.2025.17250",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
@@ -5004,27 +5078,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses the most effective pharmacological treatments for individuals experiencing perinatal depression."
-    },
-    {
-      "doi": "10.1001/jama.2025.18241",
-      "url": "https://doi.org/10.1001/jama.2025.18241",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
-      "article_type": "",
-      "pubmed_pmid": "41259044",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2229",
-      "authors": [
-        "Yoshino T Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.20841",
