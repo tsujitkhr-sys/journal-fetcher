@@ -586,40 +586,6 @@
       "abstract_md": "Respiratory syncytial virus (RSV) is a leading cause of hospitalization in infants. The comparative effectiveness of 2 recently introduced preventive strategies (infant immunization through placental antibody transfer after maternal vaccination with the RSV prefusion F protein [RSVpreF] vaccine and passive infant immunization with nirsevimab) remains unknown. To compare the associations of maternal vaccination with the RSVpreF vaccine vs passive infant immunization with nirsevimab for the prevention of RSV-related hospitalization. This population-based cohort study used data from the French National Health Data System. Maternal vaccination with the RSVpreF vaccine occurred during 32 to 36 weeks' gestation among infants born in mainland France between September 1 and December 31, 2024. Passive infant immunization with nirsevimab occurred prior to hospital discharge. Infants were matched 1:1 by maternity ward discharge date, sex, gestational age, and region. Follow-up ended at the time of RSV hospitalization or death or on February 28, 2025. Maternal immunization with the RSVpreF vaccine and passive infant immunization with nirsevimab. The primary outcome was hospitalization for RSV-associated lower respiratory tract infection. The secondary outcomes included admission to the pediatric intensive care unit (PICU), admission to high-dependency unit, ventilator support, and oxygen therapy. The hazard ratios (HRs) were estimated using conditional Cox proportional hazards models with inverse probability of treatment weighting. A total of 42&#x202f;560 infants (mean age, 3.7 [SD, 1.4] days; 51.7% male) were included in the study (21&#x202f;280 per group) with a median follow-up of 84 days (IQR, 70-99 days). Of the 481 hospitalizations for RSV-associated lower respiratory tract infection, 212 (44.1%) occurred in the nirsevimab group vs 269 (55.9%) in the RSVpreF vaccine group (between-group difference, -11.8% [95% CI, -18.1% to -5.5%]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of hospitalization for RSV-associated lower respiratory tract infection (adjusted HR, 0.74 [95% CI, 0.61 to 0.88]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of severe outcomes, including PICU admission (adjusted HR, 0.58 [95% CI, 0.42 to 0.80]), requiring ventilator support (adjusted HR, 0.57 [95% CI, 0.40 to 0.81]), or requiring oxygen therapy (adjusted HR, 0.56 [95% CI, 0.38 to 0.81]). The results were consistent across subgroups and in the sensitivity analyses. Compared with maternal vaccination with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with lower risks of RSV-related hospitalization and severe outcomes. These findings reflect the first RSV season with use of these immunization strategies in mainland France; their use should be reevaluated in future studies."
     },
     {
-      "doi": "10.1001/jama.2025.20765",
-      "url": "https://doi.org/10.1001/jama.2025.20765",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
-      "article_type": "",
-      "pubmed_pmid": "41428342",
-      "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Zahid M Author",
-        "Rahman F Author",
-        "Danaee M Author",
-        "Rana SH Author",
-        "Chowdhury A Author",
-        "Ansaari S Author",
-        "Lim AK Author",
-        "Boeckmann M Author",
-        "Parrott S Author",
-        "Li J Author",
-        "Khan A Author",
-        "Huque R Author",
-        "Norrie J Author",
-        "Siddiqi K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
-    },
-    {
       "doi": "10.1001/jama.2025.21990",
       "url": "https://doi.org/10.1001/jama.2025.21990",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843255",

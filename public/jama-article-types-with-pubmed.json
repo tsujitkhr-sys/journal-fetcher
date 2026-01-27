@@ -518,6 +518,31 @@
       "abstract_md": "Intraoperative hypotension is associated with adverse postoperative outcomes, but whether a proactive strategy to prevent intraoperative hypotension improves outcomes is uncertain. To determine whether intraoperative blood pressure management stratified by risk of hypotension reduces postoperative functional disability compared with usual care in adults undergoing noncardiac surgery. In this randomized clinical trial, adults undergoing elective noncardiac surgery at 2 tertiary hospitals in the Netherlands were enrolled from June 17, 2021, to February 7, 2024. The date of last follow-up was October 24, 2024. Patients were randomized 1:1 to proactive blood pressure management with mean arterial pressure targets based on risk of intraoperative hypotension (low risk, &#x2265;70 mm Hg; intermediate risk, &#x2265;80; high risk, &#x2265;90) or usual management at their anesthesiologist's discretion, generally aiming to avoid a mean arterial pressure of less than 65 mm Hg without higher predefined targets. The primary outcome was functional disability at 6 months, assessed with the 12-item World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0; scale range, 0-100; higher scores indicate more disability). A minimally clinically important difference of 5 points was prespecified. There were 23 secondary outcomes, including quality of life, complications, and mortality within 6 months. The trial was stopped early for futility after 3247 of 5000 planned patients (median age, 59 years [IQR, 44-69]; 1738 female [53.5%]) were enrolled. A total of 677 patients (21%) were low risk; 1814 (56%), intermediate risk, and 756 (23%), high risk. Baseline median WHODAS scores were 12.5 [IQR, 4.2-29.2] in proactive group and 14.6 [IQR, 4.2-29.2] in standard group). At 6 months, mean (SD) WHODAS scores were 17.7 (20.1) in the proactive group and 18.2 (20.5) in the standard group (mean difference, -0.5; 95% credible interval, -1.9 to 0.9). There were no significant differences in any of the 23 secondary outcomes. Intraoperative blood pressure management with mean arterial pressure goals stratified by risk of hypotension did not improve functional disability at 6 months postoperatively compared with standard intraoperative blood pressure management. Overview of Medical Research in the Netherlands (CCMO): NL-OMON55117."
     },
     {
+      "doi": "10.1001/jama.2025.17362",
+      "url": "https://doi.org/10.1001/jama.2025.17362",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
+      "article_type": "",
+      "pubmed_pmid": "41100079",
+      "title": "Syphilis: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1927-1940",
+      "authors": [
+        "Chevalier FJ Author",
+        "Bacon O Author",
+        "Johnson KA Author",
+        "Cohen SE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
+    },
+    {
       "doi": "10.1001/jama.2024.19004",
       "url": "https://doi.org/10.1001/jama.2024.19004",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841319",
@@ -580,31 +605,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17362",
-      "url": "https://doi.org/10.1001/jama.2025.17362",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
-      "article_type": "",
-      "pubmed_pmid": "41100079",
-      "title": "Syphilis: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1927-1940",
-      "authors": [
-        "Chevalier FJ Author",
-        "Bacon O Author",
-        "Johnson KA Author",
-        "Cohen SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
     },
     {
       "doi": "10.1001/jama.2025.12429",
@@ -2689,10 +2689,10 @@
       "pubmed_pmid": "41396446",
       "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "367-368",
       "authors": [
         "Ghosh S Author",
         "Darden D Author"
@@ -2734,10 +2734,10 @@
       "pubmed_pmid": "41396452",
       "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "368-369",
       "authors": [
         "Joung B Author",
         "Kim D Author"
@@ -3732,10 +3732,10 @@
       "pubmed_pmid": "41405903",
       "title": "Fetal Vein of Galen Malformation-Reply.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "369-370",
       "authors": [
         "Orbach D Author",
         "Shamshirsaz A Author",
@@ -3776,10 +3776,10 @@
       "pubmed_pmid": "41405872",
       "title": "Fetal Vein of Galen Malformation.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 17",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "369",
       "authors": [
         "Boettcher LB Author",
         "Jones SI Author",
@@ -3876,10 +3876,10 @@
       "pubmed_pmid": "41410926",
       "title": "Overcoming Bias in a Fall Prevention Program in Resource-Limited Areas.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "370-371",
       "authors": [
         "Zhang Q Author"
       ],
@@ -3897,10 +3897,10 @@
       "pubmed_pmid": "41411002",
       "title": "Overcoming Bias in a Fall Prevention Program in Resource-Limited Areas-Reply.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "371-372",
       "authors": [
         "Tian M Author",
         "Peng J Author",
@@ -3920,10 +3920,10 @@
       "pubmed_pmid": "41411120",
       "title": "Influenza A(H3N2) Subclade K Virus: Threat and Response.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "307-310",
       "authors": [
         "Zambon M Author",
         "Hayden FG Author"
@@ -3965,10 +3965,10 @@
       "pubmed_pmid": "41411001",
       "title": "Tiny Bubbles.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "311",
       "authors": [
         "Bredenberg E Author"
       ],
@@ -3986,10 +3986,10 @@
       "pubmed_pmid": "41411010",
       "title": "Abortion Access in Los Angeles Managed Medicaid Networks.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "364-365",
       "authors": [
         "Barker M Author",
         "Bennett M Author",
@@ -4010,10 +4010,10 @@
       "pubmed_pmid": "41428284",
       "title": "Mitigating Suicide Risk for Minors Involving AI Chatbots-A First in the Nation Law.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "301-302",
       "authors": [
         "Cohen IG Author",
         "De Freitas J Author"
@@ -4032,10 +4032,10 @@
       "pubmed_pmid": "41428344",
       "title": "Long-Term Pain Therapy With Opioids-Reply.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "372-373",
       "authors": [
         "Bicket MC Author",
         "Bateman BT Author"
@@ -4054,10 +4054,10 @@
       "pubmed_pmid": "41428296",
       "title": "mHealth Smoking Cessation Treatment for People With Tuberculosis: Time to Move From Exploration to Implementation.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "314-316",
       "authors": [
         "Shuter J Author",
         "Reddy KP Author",
@@ -4157,9 +4157,9 @@
       "pubmed_pmid": "41428339",
       "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
       "pages": "e2522836",
       "authors": [],
       "pubmed_pubtypes": [
@@ -4176,10 +4176,10 @@
       "pubmed_pmid": "41428286",
       "title": "Long-Term Pain Therapy With Opioids.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "372",
       "authors": [
         "Webster LR Author"
       ],
@@ -4223,10 +4223,10 @@
       "pubmed_pmid": "41428342",
       "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "336-344",
       "authors": [
         "Zahid M Author",
         "Rahman F Author",
@@ -4244,9 +4244,12 @@
         "Siddiqi K Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Comment"
       ],
-      "pubmed_is_research": true,
+      "pubmed_is_research": false,
       "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
     },
     {
@@ -4973,6 +4976,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.21435",
+      "url": "https://doi.org/10.1001/jama.2025.21435",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842085",
+      "article_type": "",
+      "pubmed_pmid": "41269686",
+      "title": "SGLT2 Inhibitors, Fish Oil in Hemodialysis, GLP-1 Drugs, and More-Highlights From Kidney Week.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2152-2154",
+      "authors": [
+        "Abbasi J Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article is an interview with Katherine R. Tuttle, MD, education committee co-chair of Kidney Week 2025 and a professor of medicine at the University of Washington."
+    },
+    {
       "doi": "10.1001/jama.2025.19578",
       "url": "https://doi.org/10.1001/jama.2025.19578",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840675",
@@ -5015,27 +5039,6 @@
       "abstract_md": "Hyperglycemia-related pregnancy complications occur in 50% of pregnant women with type 1 diabetes. Closed-loop insulin systems improve glycemia outside of pregnancy but have had limited testing in pregnancy. To assess the efficacy of a closed-loop system in pregnancy. Open-label trial enrolling pregnant women with type 1 diabetes at 14 clinical centers in Canada and Australia before 14 weeks' gestation with follow-up until 6 weeks postpartum. Enrollment occurred between June 2021 and July 2024 and follow-up was completed in March 2025. Participants were randomized 1:1 to closed-loop therapy (n&#x2009;=&#x2009;46) or standard care (insulin pump or multiple daily insulin injections) (n&#x2009;=&#x2009;45) with continuous glucose monitoring. The primary outcome was the percentage of time spent in the pregnancy-specific glucose range (63-140 mg/dL), measured by continuous glucose monitoring from 16 to 34 weeks' gestation. Among 94 enrolled participants, 3 experienced pregnancy loss prior to randomization, 91 were randomized (mean age, 31.7 [SD, 5.2] years; early pregnancy hemoglobin A1c, 7.4% [SD, 1.0%]), and 88 were included in the primary analysis. The mean percentage of time spent in the pregnancy-specific glucose range from 16 to 34 weeks' gestation was 65.4% in the closed-loop group and 50.3% in the standard care group (mean adjusted difference, 12.5 [95% CI, 9.5-15.6] percentage points; P&#x2009;&lt;&#x2009;.001). There was 1 episode of severe hypoglycemia in the closed-loop group, and there were 2 episodes of diabetic ketoacidosis in the closed-loop group and 1 in the standard care group. Pregnant women with type 1 diabetes using a closed-loop system spent significantly more time in the pregnancy-specific glucose range than those receiving standard care. These findings support the use of this closed-loop system in pregnant women with type 1 diabetes. ClinicalTrials.gov Identifier: NCT04902378."
     },
     {
-      "doi": "10.1001/jama.2025.21435",
-      "url": "https://doi.org/10.1001/jama.2025.21435",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842085",
-      "article_type": "",
-      "pubmed_pmid": "41269686",
-      "title": "SGLT2 Inhibitors, Fish Oil in Hemodialysis, GLP-1 Drugs, and More-Highlights From Kidney Week.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2152-2154",
-      "authors": [
-        "Abbasi J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article is an interview with Katherine R. Tuttle, MD, education committee co-chair of Kidney Week 2025 and a professor of medicine at the University of Washington."
-    },
-    {
       "doi": "10.1001/jama.2025.17250",
       "url": "https://doi.org/10.1001/jama.2025.17250",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
@@ -5072,6 +5075,29 @@
       "pages": "2229",
       "authors": [
         "Yoshino T Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.18274",
+      "url": "https://doi.org/10.1001/jama.2025.18274",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841710",
+      "article_type": "",
+      "pubmed_pmid": "41264264",
+      "title": "Prescription Stimulant Use Among US Adolescents-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2231-2232",
+      "authors": [
+        "McCabe SE Author",
+        "Wilens TE Author",
+        "Schepis TS Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5139,29 +5165,6 @@
       "abstract_md": "Postoperative red blood cell transfusion guidelines recommend transfusion for hemoglobin levels less than 7 g/dL. However, the safety of this strategy in patients at high risk of cardiac events undergoing major operations remains unclear. To evaluate the risk of death or major ischemic events within 90 days after a liberal transfusion strategy compared with a restrictive transfusion strategy in patients at high risk of cardiac events who had undergone major vascular or general surgery operations and developed postoperative anemia. This parallel, single-blind, randomized clinical superiority trial included 1428 veterans (&#x2265;18 y) at high cardiac risk undergoing major vascular or general surgery operations. Participants were enrolled from February 2018 to March 2023 across 16 Veterans Affairs Medical Centers in the US. Seven hundred fourteen participants with postoperative hemoglobin less than 10 g/dL were randomized to a liberal strategy (transfusion trigger at hemoglobin level &lt;10 g/dL) and 714 to a restrictive strategy (transfusion trigger at hemoglobin &lt;7 g/dL). The primary end point was a composite of all-cause death, myocardial infarction, coronary revascularization, acute kidney failure, or ischemic stroke within 90 days after randomization. Secondary end points included a composite of cardiac complications other than myocardial infarction (arrhythmias, heart failure, and nonfatal cardiac arrest). Of the 1424 analyzed veterans (mean age, 69.9 [SD, 7.9] years; 1393 male [97.8%]; 268 Black [18.8%]; 48 Hispanic [4.1%]; 1071 White [75.2%]), 1297 (91.1%) underwent vascular surgical procedures. The mean hemoglobin difference between transfusion strategies was 2.0 g/dL on day 5 after randomization. The primary outcome rate in the liberal group was 9.1% (61 of 670) compared with 10.1% (71 of 700) in the restrictive group (relative risk, 0.90; 95% CI, 0.65-1.24). The secondary end point of cardiac complications without myocardial infarction, which was 1 of 5 secondary end points, occurred in 5.9% (38 of 647) of patients in the liberal group and 9.9% (67 of 678) of patients in the restrictive group (relative risk, 0.59; 99% CI, 0.36-0.98). After major vascular or general surgery operations among patients at high risk of a cardiac event, a liberal transfusion strategy did not reduce 90-day death or major ischemic outcome rates compared with a restrictive strategy. ClinicalTrials.gov Identifier: NCT03229941."
     },
     {
-      "doi": "10.1001/jama.2025.18274",
-      "url": "https://doi.org/10.1001/jama.2025.18274",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841710",
-      "article_type": "",
-      "pubmed_pmid": "41264264",
-      "title": "Prescription Stimulant Use Among US Adolescents-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2231-2232",
-      "authors": [
-        "McCabe SE Author",
-        "Wilens TE Author",
-        "Schepis TS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18918",
       "url": "https://doi.org/10.1001/jama.2025.18918",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842074",
@@ -5186,10 +5189,10 @@
       "pubmed_pmid": "41460519",
       "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "362-363",
       "authors": [
         "Yan BW Author",
         "Margaretten ME Author"
@@ -5208,10 +5211,10 @@
       "pubmed_pmid": "41460507",
       "title": "Foreign Letters.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "375",
       "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5288,10 +5291,10 @@
       "pubmed_pmid": "41460643",
       "title": "Reframing Opioid Overdose as an Ambulatory Care-Sensitive Condition.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "303-304",
       "authors": [
         "Hsu M Author",
         "Lawrence D Author",
@@ -5395,10 +5398,10 @@
       "pubmed_pmid": "41460645",
       "title": "Specialty Oral Anticancer Prescription Fill Rates After Medicare Part D Cost-Sharing Changes in 2024.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "366-367",
       "authors": [
         "Lin JK Author",
         "Li P Author",
@@ -5420,10 +5423,10 @@
       "pubmed_pmid": "41468024",
       "title": "Ethics and Social Medicine Education Under Political Pressure: Teaching Through Uncertainty.",
       "journal": "JAMA",
-      "pubdate": "2025 Dec 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "305-306",
       "authors": [
         "Sonntag E Author",
         "Levenson J Author"
