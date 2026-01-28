@@ -651,29 +651,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18572",
-      "url": "https://doi.org/10.1001/jama.2025.18572",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840161",
-      "article_type": "",
-      "pubmed_pmid": "41076589",
-      "title": "Perioperative Outcomes-The Limits of Blood Pressure-Centered Strategies.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1885-1887",
-      "authors": [
-        "Legrand M Author",
-        "Lamontagne F Author",
-        "Pirracchio R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.17566",
       "url": "https://doi.org/10.1001/jama.2025.17566",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840092",
@@ -710,6 +687,29 @@
         "Madigan S Author",
         "Yeates KO Author",
         "Fearon P Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.18572",
+      "url": "https://doi.org/10.1001/jama.2025.18572",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840161",
+      "article_type": "",
+      "pubmed_pmid": "41076589",
+      "title": "Perioperative Outcomes-The Limits of Blood Pressure-Centered Strategies.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1885-1887",
+      "authors": [
+        "Legrand M Author",
+        "Lamontagne F Author",
+        "Pirracchio R Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -2682,28 +2682,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20810",
-      "url": "https://doi.org/10.1001/jama.2025.20810",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842837",
-      "article_type": "",
-      "pubmed_pmid": "41396446",
-      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "367-368",
-      "authors": [
-        "Ghosh S Author",
-        "Darden D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21733",
       "url": "https://doi.org/10.1001/jama.2025.21733",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842834",
@@ -2725,28 +2703,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Head and neck cancer, which arises in the lining or mucosa of the upper aerodigestive tract, specifically the oral cavity, oropharynx, larynx, hypopharynx, and paranasal sinuses, is the seventh most common cancer worldwide. In 2024, approximately 71&#x202f;110 individuals in the US were diagnosed with head and neck cancer, and it accounted for 16&#x202f;110 deaths. Approximately 90% of head and neck cancers are squamous cell carcinomas. Worldwide, tobacco and alcohol use are the most prevalent risk factors. In the US and Europe, 60% to 70% of newly diagnosed oropharynx cancers (a subset of head and neck cancers) are caused by human papillomavirus (HPV) infection. At presentation, approximately 30% of patients with head and neck cancer have early-stage or localized disease (tumor &lt;4 cm without regional lymph nodes involvement), 60% have locoregionally advanced disease (tumor &#x2265;4 cm with local invasion and/or regional lymphadenopathy) and 10% have metastatic disease. Up to 10% of oropharynx squamous cell carcinomas present as squamous cell carcinomas of unknown primary. Standard treatment for localized head and neck cancer is surgery or radiotherapy, which are each associated with a 5-year overall survival rate of 70% to 90%. For locoregionally advanced head and neck cancer, multimodality treatment includes surgery followed by postoperative radiation with or without chemotherapy or concomitant chemotherapy (with cisplatin as the preferred agent), and radiation with surgery is reserved for persistent or recurrent disease. With these treatments for locoregionally advanced head and neck cancer, 5-year overall survival rates are 25% to 60% and more than 80% for HPV-associated oropharynx cancer. Choice of treatment for locoregionally advanced head and neck cancer should involve shared decision-making and consideration of effects on speech and swallow function and appearance. First-line treatment for patients with incurable locoregional recurrences or distant metastatic disease is immunotherapy with programmed death ligand-1 inhibition (ie, pembrolizumab) alone or in combination with platinum-doublet chemotherapy. With treatment, patients with incurable locoregional recurrences or distant metastatic disease have a median survival of 12 to 15 months, and 5-year survival rates are less than 20%. Head and neck cancer is the seventh most common cancer worldwide. In the US and Europe, 60% to 70% of incident oropharynx cancers are associated with HPV infection. Standard treatment for localized head and neck cancer is surgery or radiotherapy. Locoregionally advanced disease is treated with surgery followed by radiation with or without chemotherapy or concurrent chemoradiation. First-line treatment for advanced disease is immunotherapy alone or with chemotherapy."
-    },
-    {
-      "doi": "10.1001/jama.2025.20808",
-      "url": "https://doi.org/10.1001/jama.2025.20808",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
-      "article_type": "",
-      "pubmed_pmid": "41396452",
-      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "368-369",
-      "authors": [
-        "Joung B Author",
-        "Kim D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22148",
@@ -3725,29 +3681,6 @@
       "abstract_md": "Chronic exposure to arsenic in drinking water has been associated with increased chronic disease mortality. However, there is limited evidence on associations between reduced exposure and mortality risk. To examine whether reductions in arsenic exposure, measured using urinary arsenic levels, are associated with lower mortality from chronic diseases, including cancer and cardiovascular disease (CVD). A prospective cohort of 11&#x202f;746 adults was enrolled between 2000 and 2002 in Araihazar, Bangladesh, with levels of well-water arsenic ranging from less than 1 &#xb5;g/L to 864 &#xb5;g/L (mean, 102 &#xb5;g/L), exceeding the Bangladesh standard of 50 &#xb5;g/L. Arsenic levels declined over time as a result of community mitigation. Mortality was tracked through 2022. Analyses included 10&#x202f;977 participants with calculable changes in urinary arsenic levels. Urinary arsenic levels were measured up to 5 times per participant through 2018. Participants were categorized based on changes in urinary arsenic levels. Adjusted hazard ratios (aHRs) and 95% CIs for mortality from chronic diseases, including cancer and CVD. Among 10&#x202f;977 participants (57% female; mean age, 37.0 [SD, 10.1] years), mean urinary arsenic levels declined from 283 (SD, 314) to 132 (SD, 161) &#xb5;g/g creatinine from 2000 to 2018. Each IQR decrease in urinary arsenic (197 &#xb5;g/g creatinine) was associated with 22% lower chronic disease mortality (aHR, 0.78 [95% CI, 0.75-0.82]), 20% lower cancer mortality (aHR, 0.80 [95% CI, 0.73-0.87]), and 23% lower CVD mortality (aHR, 0.77 [95% CI, 0.73-0.81]). Time-varying Cox and restricted cubic spline analyses showed larger reductions were associated with lower mortality, while increases were linked to higher risk. Compared with participants with consistently high urinary arsenic levels (above the baseline median of 199 &#xb5;g/g creatinine [n&#x2009;=&#x2009;1757]), those whose levels declined below the median (n&#x2009;=&#x2009;3757) had lower mortality from chronic diseases (aHR, 0.46 [95% CI, 0.39-0.53]), including cancer (aHR, 0.51 [95% CI, 0.35-0.73]) and CVD (aHR, 0.43 [95% CI, 0.34-0.53]), similar to those consistently below the median (n&#x2009;=&#x2009;4959) (aHR, 0.43-0.49). Findings were similar in propensity score-matched analyses. These findings support an association between reduced arsenic exposure and improved health outcomes in populations exposed to contaminated drinking water."
     },
     {
-      "doi": "10.1001/jama.2025.20914",
-      "url": "https://doi.org/10.1001/jama.2025.20914",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842965",
-      "article_type": "",
-      "pubmed_pmid": "41405903",
-      "title": "Fetal Vein of Galen Malformation-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "369-370",
-      "authors": [
-        "Orbach D Author",
-        "Shamshirsaz A Author",
-        "Wilkins-Haug L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20795",
       "url": "https://doi.org/10.1001/jama.2025.20795",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842968",
@@ -3761,29 +3694,6 @@
       "pages": "",
       "authors": [
         "Knopman DS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20912",
-      "url": "https://doi.org/10.1001/jama.2025.20912",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842966",
-      "article_type": "",
-      "pubmed_pmid": "41405872",
-      "title": "Fetal Vein of Galen Malformation.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "369",
-      "authors": [
-        "Boettcher LB Author",
-        "Jones SI Author",
-        "Kuller JA Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3869,72 +3779,6 @@
       "abstract_md": "In this narrative medicine essay, a medical student describes his minute-by-minute experience during the recent shooting at Brown University and reflects on the power of love and small acts of care that surfaced amid fear."
     },
     {
-      "doi": "10.1001/jama.2025.21041",
-      "url": "https://doi.org/10.1001/jama.2025.21041",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842975",
-      "article_type": "",
-      "pubmed_pmid": "41410926",
-      "title": "Overcoming Bias in a Fall Prevention Program in Resource-Limited Areas.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "370-371",
-      "authors": [
-        "Zhang Q Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21039",
-      "url": "https://doi.org/10.1001/jama.2025.21039",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842974",
-      "article_type": "",
-      "pubmed_pmid": "41411002",
-      "title": "Overcoming Bias in a Fall Prevention Program in Resource-Limited Areas-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "371-372",
-      "authors": [
-        "Tian M Author",
-        "Peng J Author",
-        "Ye P Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25903",
-      "url": "https://doi.org/10.1001/jama.2025.25903",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843190",
-      "article_type": "",
-      "pubmed_pmid": "41411120",
-      "title": "Influenza A(H3N2) Subclade K Virus: Threat and Response.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "307-310",
-      "authors": [
-        "Zambon M Author",
-        "Hayden FG Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Perspective examines the currently circulating influenza A(H3N2) subclade K virus, including antigenic variants, vaccine effectiveness, and countermeasures."
-    },
-    {
       "doi": "10.1001/jama.2025.20077",
       "url": "https://doi.org/10.1001/jama.2025.20077",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842972",
@@ -3956,118 +3800,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes avoidant/restrictive food intake disorder and its risk factors, symptoms, diagnosis, and treatment strategies."
-    },
-    {
-      "doi": "10.1001/jama.2025.21709",
-      "url": "https://doi.org/10.1001/jama.2025.21709",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842971",
-      "article_type": "",
-      "pubmed_pmid": "41411001",
-      "title": "Tiny Bubbles.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "311",
-      "authors": [
-        "Bredenberg E Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a hospitalist describes a day with her son who has severe autism and notes what most people don&#x2019;t: the moments of joy she and her son share."
-    },
-    {
-      "doi": "10.1001/jama.2025.21870",
-      "url": "https://doi.org/10.1001/jama.2025.21870",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842976",
-      "article_type": "",
-      "pubmed_pmid": "41411010",
-      "title": "Abortion Access in Los Angeles Managed Medicaid Networks.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "364-365",
-      "authors": [
-        "Barker M Author",
-        "Bennett M Author",
-        "Reyes K Author",
-        "Heyrana K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This secret shopper study assesses current capacity to provide abortion care within California&#x2019;s managed Medicaid networks in Los Angeles County after passage of federal legislation temporarily banning Medicaid payments to large family planning organizations."
-    },
-    {
-      "doi": "10.1001/jama.2025.23744",
-      "url": "https://doi.org/10.1001/jama.2025.23744",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843164",
-      "article_type": "",
-      "pubmed_pmid": "41428284",
-      "title": "Mitigating Suicide Risk for Minors Involving AI Chatbots-A First in the Nation Law.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "301-302",
-      "authors": [
-        "Cohen IG Author",
-        "De Freitas J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this Viewpoint, a California artificial intelligence law is described, including its positive contributions to making these companion chatbots safer for minor and adult users and the limits of the law, and recommends further steps California and other states can adopt to improve protections for mental health and chatbot safety, especially for minors."
-    },
-    {
-      "doi": "10.1001/jama.2025.21045",
-      "url": "https://doi.org/10.1001/jama.2025.21045",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843170",
-      "article_type": "",
-      "pubmed_pmid": "41428344",
-      "title": "Long-Term Pain Therapy With Opioids-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "372-373",
-      "authors": [
-        "Bicket MC Author",
-        "Bateman BT Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23909",
-      "url": "https://doi.org/10.1001/jama.2025.23909",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843173",
-      "article_type": "",
-      "pubmed_pmid": "41428296",
-      "title": "mHealth Smoking Cessation Treatment for People With Tuberculosis: Time to Move From Exploration to Implementation.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "314-316",
-      "authors": [
-        "Shuter J Author",
-        "Reddy KP Author",
-        "Shelley D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.24532",
@@ -4093,23 +3825,6 @@
       "abstract_md": "This Viewpoint explores the US Food and Drug Administration&#x2019;s plan to approve leucovorin for patients with autism and the potential implications for evidentiary standards."
     },
     {
-      "doi": "10.1001/jama.2025.22333",
-      "url": "https://doi.org/10.1001/jama.2025.22333",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843166",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20529",
       "url": "https://doi.org/10.1001/jama.2025.20529",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843168",
@@ -4131,63 +3846,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes superficial vein thrombosis and its risk factors, symptoms, diagnosis, and treatments."
-    },
-    {
-      "doi": "10.1001/jama.2025.22330",
-      "url": "https://doi.org/10.1001/jama.2025.22330",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843167",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.22836",
-      "url": "https://doi.org/10.1001/jama.2025.22836",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843165",
-      "article_type": "",
-      "pubmed_pmid": "41428339",
-      "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "e2522836",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21043",
-      "url": "https://doi.org/10.1001/jama.2025.21043",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843171",
-      "article_type": "",
-      "pubmed_pmid": "41428286",
-      "title": "Long-Term Pain Therapy With Opioids.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "372",
-      "authors": [
-        "Webster LR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.24082",
@@ -4214,43 +3872,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Respiratory syncytial virus (RSV) is a leading cause of hospitalization in infants. The comparative effectiveness of 2 recently introduced preventive strategies (infant immunization through placental antibody transfer after maternal vaccination with the RSV prefusion F protein [RSVpreF] vaccine and passive infant immunization with nirsevimab) remains unknown. To compare the associations of maternal vaccination with the RSVpreF vaccine vs passive infant immunization with nirsevimab for the prevention of RSV-related hospitalization. This population-based cohort study used data from the French National Health Data System. Maternal vaccination with the RSVpreF vaccine occurred during 32 to 36 weeks' gestation among infants born in mainland France between September 1 and December 31, 2024. Passive infant immunization with nirsevimab occurred prior to hospital discharge. Infants were matched 1:1 by maternity ward discharge date, sex, gestational age, and region. Follow-up ended at the time of RSV hospitalization or death or on February 28, 2025. Maternal immunization with the RSVpreF vaccine and passive infant immunization with nirsevimab. The primary outcome was hospitalization for RSV-associated lower respiratory tract infection. The secondary outcomes included admission to the pediatric intensive care unit (PICU), admission to high-dependency unit, ventilator support, and oxygen therapy. The hazard ratios (HRs) were estimated using conditional Cox proportional hazards models with inverse probability of treatment weighting. A total of 42&#x202f;560 infants (mean age, 3.7 [SD, 1.4] days; 51.7% male) were included in the study (21&#x202f;280 per group) with a median follow-up of 84 days (IQR, 70-99 days). Of the 481 hospitalizations for RSV-associated lower respiratory tract infection, 212 (44.1%) occurred in the nirsevimab group vs 269 (55.9%) in the RSVpreF vaccine group (between-group difference, -11.8% [95% CI, -18.1% to -5.5%]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of hospitalization for RSV-associated lower respiratory tract infection (adjusted HR, 0.74 [95% CI, 0.61 to 0.88]). Compared with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with a lower risk of severe outcomes, including PICU admission (adjusted HR, 0.58 [95% CI, 0.42 to 0.80]), requiring ventilator support (adjusted HR, 0.57 [95% CI, 0.40 to 0.81]), or requiring oxygen therapy (adjusted HR, 0.56 [95% CI, 0.38 to 0.81]). The results were consistent across subgroups and in the sensitivity analyses. Compared with maternal vaccination with the RSVpreF vaccine, passive infant immunization with nirsevimab was associated with lower risks of RSV-related hospitalization and severe outcomes. These findings reflect the first RSV season with use of these immunization strategies in mainland France; their use should be reevaluated in future studies."
-    },
-    {
-      "doi": "10.1001/jama.2025.20765",
-      "url": "https://doi.org/10.1001/jama.2025.20765",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
-      "article_type": "",
-      "pubmed_pmid": "41428342",
-      "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "336-344",
-      "authors": [
-        "Zahid M Author",
-        "Rahman F Author",
-        "Danaee M Author",
-        "Rana SH Author",
-        "Chowdhury A Author",
-        "Ansaari S Author",
-        "Lim AK Author",
-        "Boeckmann M Author",
-        "Parrott S Author",
-        "Li J Author",
-        "Khan A Author",
-        "Huque R Author",
-        "Norrie J Author",
-        "Siddiqi K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
     },
     {
       "doi": "10.1001/jama.2025.21322",
@@ -4456,6 +4077,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.18107",
+      "url": "https://doi.org/10.1001/jama.2025.18107",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
+      "article_type": "",
+      "pubmed_pmid": "41231489",
+      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2232-2233",
+      "authors": [
+        "Mozaffarian D Author",
+        "Callahan EA Author",
+        "Frist WH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.18239",
       "url": "https://doi.org/10.1001/jama.2025.18239",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841554",
@@ -4492,29 +4136,6 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.18107",
-      "url": "https://doi.org/10.1001/jama.2025.18107",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
-      "article_type": "",
-      "pubmed_pmid": "41231489",
-      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2232-2233",
-      "authors": [
-        "Mozaffarian D Author",
-        "Callahan EA Author",
-        "Frist WH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5182,47 +4803,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.21505",
-      "url": "https://doi.org/10.1001/jama.2025.21505",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
-      "article_type": "",
-      "pubmed_pmid": "41460519",
-      "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "362-363",
-      "authors": [
-        "Yan BW Author",
-        "Margaretten ME Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "A patient receiving adalimumab for rheumatoid arthritis had ulcerated plaques on the anterior and lateral aspects of the neck, upper chest, and nape and erythroderma on the dorsum of the hands, corresponding to areas of sun exposure, as well as swelling of the proximal interphalangeal hand joints bilaterally. What is the diagnosis and what would you do next?"
-    },
-    {
-      "doi": "10.1001/jama.2025.15675",
-      "url": "https://doi.org/10.1001/jama.2025.15675",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843260",
-      "article_type": "",
-      "pubmed_pmid": "41460507",
-      "title": "Foreign Letters.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "375",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21990",
       "url": "https://doi.org/10.1001/jama.2025.21990",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843255",
@@ -5282,30 +4862,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23741",
-      "url": "https://doi.org/10.1001/jama.2025.23741",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843252",
-      "article_type": "",
-      "pubmed_pmid": "41460643",
-      "title": "Reframing Opioid Overdose as an Ambulatory Care-Sensitive Condition.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "303-304",
-      "authors": [
-        "Hsu M Author",
-        "Lawrence D Author",
-        "Capone-Newton P Author",
-        "Gelberg L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint explores the potential benefits of designating opioid overdose as an ambulatory care&#x2013;sensitive condition, including broader implementation of evidence-based overdose prevention interventions."
     },
     {
       "doi": "10.1001/jama.2025.21099",
@@ -5389,53 +4945,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.22134",
-      "url": "https://doi.org/10.1001/jama.2025.22134",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843259",
-      "article_type": "",
-      "pubmed_pmid": "41460645",
-      "title": "Specialty Oral Anticancer Prescription Fill Rates After Medicare Part D Cost-Sharing Changes in 2024.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "366-367",
-      "authors": [
-        "Lin JK Author",
-        "Li P Author",
-        "Lei X Author",
-        "Desai SM Author",
-        "Doshi JA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study uses data from the Symphony Health Solutions Integrated Dataverse to determine whether provisions from the Inflation Reduction Act of 2022 were associated with prescription fill changes from January 1, 2023, to December 31, 2024, among Medicare Part D beneficiaries who did not receive low-income subsidies."
-    },
-    {
-      "doi": "10.1001/jama.2025.23747",
-      "url": "https://doi.org/10.1001/jama.2025.23747",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843476",
-      "article_type": "",
-      "pubmed_pmid": "41468024",
-      "title": "Ethics and Social Medicine Education Under Political Pressure: Teaching Through Uncertainty.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "305-306",
-      "authors": [
-        "Sonntag E Author",
-        "Levenson J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the uncertainty that medical ethics and social medicine instructors face in regard to the rollback of diversity, equity, and inclusion initiatives and university funding cuts."
     },
     {
       "doi": "10.1001/jama.2025.24516",
