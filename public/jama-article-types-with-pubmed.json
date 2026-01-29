@@ -518,31 +518,6 @@
       "abstract_md": "Intraoperative hypotension is associated with adverse postoperative outcomes, but whether a proactive strategy to prevent intraoperative hypotension improves outcomes is uncertain. To determine whether intraoperative blood pressure management stratified by risk of hypotension reduces postoperative functional disability compared with usual care in adults undergoing noncardiac surgery. In this randomized clinical trial, adults undergoing elective noncardiac surgery at 2 tertiary hospitals in the Netherlands were enrolled from June 17, 2021, to February 7, 2024. The date of last follow-up was October 24, 2024. Patients were randomized 1:1 to proactive blood pressure management with mean arterial pressure targets based on risk of intraoperative hypotension (low risk, &#x2265;70 mm Hg; intermediate risk, &#x2265;80; high risk, &#x2265;90) or usual management at their anesthesiologist's discretion, generally aiming to avoid a mean arterial pressure of less than 65 mm Hg without higher predefined targets. The primary outcome was functional disability at 6 months, assessed with the 12-item World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0; scale range, 0-100; higher scores indicate more disability). A minimally clinically important difference of 5 points was prespecified. There were 23 secondary outcomes, including quality of life, complications, and mortality within 6 months. The trial was stopped early for futility after 3247 of 5000 planned patients (median age, 59 years [IQR, 44-69]; 1738 female [53.5%]) were enrolled. A total of 677 patients (21%) were low risk; 1814 (56%), intermediate risk, and 756 (23%), high risk. Baseline median WHODAS scores were 12.5 [IQR, 4.2-29.2] in proactive group and 14.6 [IQR, 4.2-29.2] in standard group). At 6 months, mean (SD) WHODAS scores were 17.7 (20.1) in the proactive group and 18.2 (20.5) in the standard group (mean difference, -0.5; 95% credible interval, -1.9 to 0.9). There were no significant differences in any of the 23 secondary outcomes. Intraoperative blood pressure management with mean arterial pressure goals stratified by risk of hypotension did not improve functional disability at 6 months postoperatively compared with standard intraoperative blood pressure management. Overview of Medical Research in the Netherlands (CCMO): NL-OMON55117."
     },
     {
-      "doi": "10.1001/jama.2025.17362",
-      "url": "https://doi.org/10.1001/jama.2025.17362",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
-      "article_type": "",
-      "pubmed_pmid": "41100079",
-      "title": "Syphilis: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1927-1940",
-      "authors": [
-        "Chevalier FJ Author",
-        "Bacon O Author",
-        "Johnson KA Author",
-        "Cohen SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
-    },
-    {
       "doi": "10.1001/jama.2024.19004",
       "url": "https://doi.org/10.1001/jama.2024.19004",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841319",
@@ -605,6 +580,31 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17362",
+      "url": "https://doi.org/10.1001/jama.2025.17362",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
+      "article_type": "",
+      "pubmed_pmid": "41100079",
+      "title": "Syphilis: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1927-1940",
+      "authors": [
+        "Chevalier FJ Author",
+        "Bacon O Author",
+        "Johnson KA Author",
+        "Cohen SE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
     },
     {
       "doi": "10.1001/jama.2025.12429",
@@ -1788,27 +1788,6 @@
       "abstract_md": "This JAMA Insights discusses risk factors for, assessment, and management of postpartum hemorrhage."
     },
     {
-      "doi": "10.1001/jama.2025.19730",
-      "url": "https://doi.org/10.1001/jama.2025.19730",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841305",
-      "article_type": "",
-      "pubmed_pmid": "41201797",
-      "title": "Online Unsupervised Tai Chi Program Improves Knee Pain.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 9",
-      "volume": "334",
-      "issue": "22",
-      "pages": "1972",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23330",
       "url": "https://doi.org/10.1001/jama.2025.23330",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842696",
@@ -1877,6 +1856,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial. To determine whether expectant management compared with active treatment of a protocol-defined PDA in preterm infants decreases the incidence of death or bronchopulmonary dysplasia (BPD). A randomized clinical trial including infants born at 22 to 28 weeks' gestation and diagnosed with a protocol-defined PDA between the age of 48 hours and 21 days at screening. The trial was conducted from December 2018 to December 2024 at 33 hospitals within the National Institute of Child Health and Human Development Neonatal Research Network. The final date of follow-up was June 2025. Infants with PDA were randomized to expectant management (n&#x2009;=&#x2009;242) or active treatment (n&#x2009;=&#x2009;240; acetaminophen, ibuprofen, or indomethacin) to close the PDA. The primary outcome was death or BPD at 36 weeks' postmenstrual age. The secondary outcomes included the components of the primary outcome and other morbidities of prematurity. A total of 482 infants were randomized (median gestational age, 25 weeks [IQR, 24 to 27 weeks]; median birth weight, 760 g [IQR, 620 to 935 g]). The trial was stopped for futility and safety after the 50% interim analysis for the primary outcome due to higher survival in the expectant management group. The incidence of death or BPD was 80.9% (195/241) of infants in the expectant management group vs 79.6% (191/240) of infants in the active treatment group (adjusted risk difference, 1.2% [95% CI, -5.7% to 8.1%]; P&#x2009;=&#x2009;.73). The incidence of death before 36 weeks' postmenstrual age was 4.1% (10/241) of infants in the expectant management group vs 9.6% (23/240) of infants in the active treatment group (adjusted risk difference, -5.6% [95% CI, -10.1% to -1.2%]; P&#x2009;=&#x2009;.01). Infections resulting in death occurred in 0.8% (2/241) of infants in the expectant management group vs 3.8% (9/240) of infants in the active treatment group. In extremely preterm infants with a protocol-defined PDA, death or BPD did not differ between the expectant management group and the active treatment group. Survival was substantially higher with expectant management. ClinicalTrials.gov Identifier: NCT03456336."
+    },
+    {
+      "doi": "10.1001/jama.2025.19730",
+      "url": "https://doi.org/10.1001/jama.2025.19730",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841305",
+      "article_type": "",
+      "pubmed_pmid": "41201797",
+      "title": "Online Unsupervised Tai Chi Program Improves Knee Pain.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 9",
+      "volume": "334",
+      "issue": "22",
+      "pages": "1972",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.14849",
@@ -4313,25 +4313,6 @@
       "abstract_md": "Since the start of the 21st century, more than 800&#x202f;000 firearm deaths and more than 2 million firearm injuries have occurred in the US. All categories of firearm violence-homicide, suicide, unintentional-result in reverberating harms to individuals, families, communities, and society. The collective responsibility of society is to safeguard the health and safety of its members, including from firearm harms. The JAMA Summit on Firearm Violence convened 60 thought leaders from a wide array of disciplines to chart an innovations roadmap that will lead to substantial reductions in firearm harms by 2040. The vision for 2040 is a country where firearm violence is substantially reduced and where all people and communities report feeling safe from firearm harms. The vision centers on practical solutions with an understanding of the country's constitutional protections for firearm ownership. Achieving the 2040 vision will require expansion of proven evidence-based strategies and the development of new, innovative approaches rooted in equity, accountability, and collective responsibility. Discussions centered on projecting a safer world, community violence interventions, technologic innovations, federal and state-level oversight of firearms, ethical considerations, and primordial prevention of firearm violence. The Summit charted a roadmap of 5 essential actions in the next 5 years to achieve this vision: (1) focus on communities and change fundamental structures that lead to firearm harms, (2) harness technological strengths responsibly, (3) change the narrative around firearm harms, (4) take a whole-government and whole-society approach, and (5) spark a research revolution on preventing firearm harms. A safer world will require investing in the discovery, implementation, and scaling of solutions that reduce firearm harms and center on the people and communities most affected by firearm violence."
     },
     {
-      "doi": "10.1001/jama.2024.19026",
-      "url": "https://doi.org/10.1001/jama.2024.19026",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
-      "article_type": "",
-      "pubmed_pmid": "41296332",
-      "title": "Current Medical Literature.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2237",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18272",
       "url": "https://doi.org/10.1001/jama.2025.18272",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841711",
@@ -4348,6 +4329,25 @@
         "Xie X Author",
         "Lv Q Author"
       ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2024.19026",
+      "url": "https://doi.org/10.1001/jama.2024.19026",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842081",
+      "article_type": "",
+      "pubmed_pmid": "41296332",
+      "title": "Current Medical Literature.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2237",
+      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -4660,6 +4660,27 @@
       "abstract_md": "Hyperglycemia-related pregnancy complications occur in 50% of pregnant women with type 1 diabetes. Closed-loop insulin systems improve glycemia outside of pregnancy but have had limited testing in pregnancy. To assess the efficacy of a closed-loop system in pregnancy. Open-label trial enrolling pregnant women with type 1 diabetes at 14 clinical centers in Canada and Australia before 14 weeks' gestation with follow-up until 6 weeks postpartum. Enrollment occurred between June 2021 and July 2024 and follow-up was completed in March 2025. Participants were randomized 1:1 to closed-loop therapy (n&#x2009;=&#x2009;46) or standard care (insulin pump or multiple daily insulin injections) (n&#x2009;=&#x2009;45) with continuous glucose monitoring. The primary outcome was the percentage of time spent in the pregnancy-specific glucose range (63-140 mg/dL), measured by continuous glucose monitoring from 16 to 34 weeks' gestation. Among 94 enrolled participants, 3 experienced pregnancy loss prior to randomization, 91 were randomized (mean age, 31.7 [SD, 5.2] years; early pregnancy hemoglobin A1c, 7.4% [SD, 1.0%]), and 88 were included in the primary analysis. The mean percentage of time spent in the pregnancy-specific glucose range from 16 to 34 weeks' gestation was 65.4% in the closed-loop group and 50.3% in the standard care group (mean adjusted difference, 12.5 [95% CI, 9.5-15.6] percentage points; P&#x2009;&lt;&#x2009;.001). There was 1 episode of severe hypoglycemia in the closed-loop group, and there were 2 episodes of diabetic ketoacidosis in the closed-loop group and 1 in the standard care group. Pregnant women with type 1 diabetes using a closed-loop system spent significantly more time in the pregnancy-specific glucose range than those receiving standard care. These findings support the use of this closed-loop system in pregnant women with type 1 diabetes. ClinicalTrials.gov Identifier: NCT04902378."
     },
     {
+      "doi": "10.1001/jama.2025.18241",
+      "url": "https://doi.org/10.1001/jama.2025.18241",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
+      "article_type": "",
+      "pubmed_pmid": "41259044",
+      "title": "A Review of Early-Onset Gastrointestinal Cancers.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2229",
+      "authors": [
+        "Yoshino T Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.17250",
       "url": "https://doi.org/10.1001/jama.2025.17250",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
@@ -4681,27 +4702,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses the most effective pharmacological treatments for individuals experiencing perinatal depression."
-    },
-    {
-      "doi": "10.1001/jama.2025.18241",
-      "url": "https://doi.org/10.1001/jama.2025.18241",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841693",
-      "article_type": "",
-      "pubmed_pmid": "41259044",
-      "title": "A Review of Early-Onset Gastrointestinal Cancers.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2229",
-      "authors": [
-        "Yoshino T Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.18274",
