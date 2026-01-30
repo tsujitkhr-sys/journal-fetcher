@@ -973,27 +973,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.22130",
-      "url": "https://doi.org/10.1001/jama.2025.22130",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842280",
-      "article_type": "",
-      "pubmed_pmid": "41335432",
-      "title": "The Three O'Clock Patient.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Litwin MS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a urologic oncologist is reminded of the uniquely human ability to connect that empowers physicians to provide caring in their medical care."
-    },
-    {
       "doi": "10.1001/jama.2025.23373",
       "url": "https://doi.org/10.1001/jama.2025.23373",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842476",
@@ -1023,6 +1002,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The effect of individualized high positive end-expiratory pressure (PEEP) and recruitment maneuvers, targeting a low driving pressure, on clinical outcomes in patients undergoing open abdominal surgery is uncertain. To compare driving pressure-guided high PEEP and recruitment maneuvers with standard low PEEP without recruitment maneuvers with respect to postoperative pulmonary complications. Randomized clinical trial of 1435 adults at increased risk for postoperative pulmonary complications who were scheduled for open abdominal surgery. The trial was conducted at 29 sites in 5 countries across Europe from April 2019 to December 2024; final follow-up was in March 2025. Statistical analysis was conducted in May 2025. Patients were randomized to undergo intraoperative ventilation with driving pressure-guided high PEEP and recruitment maneuvers (n&#x2009;=&#x2009;718) or to intraoperative ventilation with standard low PEEP (n&#x2009;=&#x2009;717). All patients received low tidal volume ventilation. The primary outcome was a composite of pulmonary complications within the first 5 postoperative days, including severe respiratory failure, bronchospasm, suspected pulmonary infection, pulmonary infiltrates, aspiration pneumonitis, atelectasis, acute respiratory distress syndrome, pleural effusion, cardiopulmonary edema, and pneumothorax. Among the 16 prespecified secondary outcomes, 4 concerned intraoperative complications, including hypotension (decrease in mean arterial pressure of &gt;20% for &gt;3 minutes) and desaturation (Spo2 &lt;92% for &gt;1 minute). Among 1468 adults, 1435 (98%) completed the trial (median [IQR] age, 66 [57-74] years; 52% female). In the primary analysis population, the primary outcome occurred in 142 of 718 patients (19.8%) in the driving pressure-guided high PEEP group compared with 125 of 717 patients (17.4%) in the low PEEP group (absolute difference, 2.5% [95% CI, -1.5% to 6.4%]; P&#x2009;=&#x2009;.23). The incidence of hypotension (382 [54.0%] vs 317 [45.0%]) and use of vasoactive agents (224 [32.0%] vs 130 [18.8%]) was higher in the high PEEP group; the incidence of intraoperative desaturation (6 [0.8%] vs 20 [2.8%]) was higher in the low PEEP group. Among patients at increased risk for postoperative pulmonary complications undergoing open abdominal surgery under general anesthesia, intraoperative ventilation with driving pressure-guided high PEEP and recruitment maneuvers, compared with a strategy with standard low PEEP, did not reduce postoperative pulmonary complications. ClinicalTrials.gov Identifier: NCT03884543."
+    },
+    {
+      "doi": "10.1001/jama.2025.22130",
+      "url": "https://doi.org/10.1001/jama.2025.22130",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842280",
+      "article_type": "",
+      "pubmed_pmid": "41335432",
+      "title": "The Three O'Clock Patient.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 3",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Litwin MS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a urologic oncologist is reminded of the uniquely human ability to connect that empowers physicians to provide caring in their medical care."
     },
     {
       "doi": "10.1001/jama.2025.18446",
@@ -2860,6 +2860,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.18109",
+      "url": "https://doi.org/10.1001/jama.2025.18109",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
+      "article_type": "",
+      "pubmed_pmid": "41165718",
+      "title": "Pattern-Mixture Models for Missing Data.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 16",
+      "volume": "334",
+      "issue": "23",
+      "pages": "2126-2127",
+      "authors": [
+        "Little RJ Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": true,
+      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
+    },
+    {
       "doi": "10.1001/jama.2025.18709",
       "url": "https://doi.org/10.1001/jama.2025.18709",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2839711",
@@ -2883,27 +2904,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This cross-sectional analysis examines emergency Medicaid spending relative to total Medicaid expenditures and identifies state factors associated with variation in spending."
-    },
-    {
-      "doi": "10.1001/jama.2025.18109",
-      "url": "https://doi.org/10.1001/jama.2025.18109",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840739",
-      "article_type": "",
-      "pubmed_pmid": "41165718",
-      "title": "Pattern-Mixture Models for Missing Data.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 16",
-      "volume": "334",
-      "issue": "23",
-      "pages": "2126-2127",
-      "authors": [
-        "Little RJ Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This JAMA Guide to Statistics and Methods article discusses designing and implementing clinical trials to minimize the number of missing data."
     },
     {
       "doi": "10.1001/jama.2025.19563",
@@ -4077,29 +4077,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.18107",
-      "url": "https://doi.org/10.1001/jama.2025.18107",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
-      "article_type": "",
-      "pubmed_pmid": "41231489",
-      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 23",
-      "volume": "334",
-      "issue": "24",
-      "pages": "2232-2233",
-      "authors": [
-        "Mozaffarian D Author",
-        "Callahan EA Author",
-        "Frist WH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18239",
       "url": "https://doi.org/10.1001/jama.2025.18239",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841554",
@@ -4136,6 +4113,29 @@
       "pages": "",
       "authors": [],
       "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.18107",
+      "url": "https://doi.org/10.1001/jama.2025.18107",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841347",
+      "article_type": "",
+      "pubmed_pmid": "41231489",
+      "title": "MAHA Commission Report and Diet-Related Diseases in Youth-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 23",
+      "volume": "334",
+      "issue": "24",
+      "pages": "2232-2233",
+      "authors": [
+        "Mozaffarian D Author",
+        "Callahan EA Author",
+        "Frist WH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
