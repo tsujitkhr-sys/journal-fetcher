@@ -518,6 +518,31 @@
       "abstract_md": "Intraoperative hypotension is associated with adverse postoperative outcomes, but whether a proactive strategy to prevent intraoperative hypotension improves outcomes is uncertain. To determine whether intraoperative blood pressure management stratified by risk of hypotension reduces postoperative functional disability compared with usual care in adults undergoing noncardiac surgery. In this randomized clinical trial, adults undergoing elective noncardiac surgery at 2 tertiary hospitals in the Netherlands were enrolled from June 17, 2021, to February 7, 2024. The date of last follow-up was October 24, 2024. Patients were randomized 1:1 to proactive blood pressure management with mean arterial pressure targets based on risk of intraoperative hypotension (low risk, &#x2265;70 mm Hg; intermediate risk, &#x2265;80; high risk, &#x2265;90) or usual management at their anesthesiologist's discretion, generally aiming to avoid a mean arterial pressure of less than 65 mm Hg without higher predefined targets. The primary outcome was functional disability at 6 months, assessed with the 12-item World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0; scale range, 0-100; higher scores indicate more disability). A minimally clinically important difference of 5 points was prespecified. There were 23 secondary outcomes, including quality of life, complications, and mortality within 6 months. The trial was stopped early for futility after 3247 of 5000 planned patients (median age, 59 years [IQR, 44-69]; 1738 female [53.5%]) were enrolled. A total of 677 patients (21%) were low risk; 1814 (56%), intermediate risk, and 756 (23%), high risk. Baseline median WHODAS scores were 12.5 [IQR, 4.2-29.2] in proactive group and 14.6 [IQR, 4.2-29.2] in standard group). At 6 months, mean (SD) WHODAS scores were 17.7 (20.1) in the proactive group and 18.2 (20.5) in the standard group (mean difference, -0.5; 95% credible interval, -1.9 to 0.9). There were no significant differences in any of the 23 secondary outcomes. Intraoperative blood pressure management with mean arterial pressure goals stratified by risk of hypotension did not improve functional disability at 6 months postoperatively compared with standard intraoperative blood pressure management. Overview of Medical Research in the Netherlands (CCMO): NL-OMON55117."
     },
     {
+      "doi": "10.1001/jama.2025.17362",
+      "url": "https://doi.org/10.1001/jama.2025.17362",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
+      "article_type": "",
+      "pubmed_pmid": "41100079",
+      "title": "Syphilis: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 2",
+      "volume": "334",
+      "issue": "21",
+      "pages": "1927-1940",
+      "authors": [
+        "Chevalier FJ Author",
+        "Bacon O Author",
+        "Johnson KA Author",
+        "Cohen SE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
+    },
+    {
       "doi": "10.1001/jama.2024.19004",
       "url": "https://doi.org/10.1001/jama.2024.19004",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841319",
@@ -580,31 +605,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.17362",
-      "url": "https://doi.org/10.1001/jama.2025.17362",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840085",
-      "article_type": "",
-      "pubmed_pmid": "41100079",
-      "title": "Syphilis: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 2",
-      "volume": "334",
-      "issue": "21",
-      "pages": "1927-1940",
-      "authors": [
-        "Chevalier FJ Author",
-        "Bacon O Author",
-        "Johnson KA Author",
-        "Cohen SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Syphilis is an infectious disease caused by Treponema pallidum, a gram-negative, spirochete bacterium. Worldwide, an estimated 8 million adults aged 18 to 49 years acquired syphilis in 2022. From 2019 to 2023, US syphilis cases increased by 61% overall, with diagnoses among females increasing by 112% and congenital syphilis cases increasing by 106%. Syphilis is transmitted via contact with infectious lesions during vaginal, anal, or oral sex or via the placenta during pregnancy. Individuals at increased risk for syphilis include people with HIV, those engaging in condomless sex with multiple partners, and men who have sex with men (MSM)-who comprised one-third (32.7%) of all males with primary and secondary syphilis in 2023. Early syphilis is defined as syphilis in the first year after infection and includes symptomatic (primary and secondary) and asymptomatic (early latent) stages. Primary syphilis is characterized by painless anogenital lesions. Secondary syphilis is associated with a diffuse rash, mucocutaneous lesions, and lymphadenopathy. Syphilis diagnosed more than a year after infection is referred to as late syphilis and includes asymptomatic (late latent) and symptomatic (tertiary) stages. Neurosyphilis, which can occur at any stage, can lead to meningitis, uveitis, hearing loss, or stroke. In pregnancy, up to 40% of fetuses with in-utero exposure to syphilis are stillborn or die from their infection during infancy. The diagnosis of syphilis relies on serologic reactivity along with a clinical history and presentation consistent with active or latent syphilis infection. The recommended treatment for syphilis is benzathine penicillin G administered as intramuscular doses of 2.4 million units: a single injection for early stage and 3 weekly injections for late latent stage syphilis. Strategies to identify and prevent syphilis infections include (1) screening of sexually active people aged 15 to 44 years at least once and at least annually for those at increased risk, (2) screening 3 times in pregnant individuals (at the first prenatal visit, during the third trimester, and at delivery), (3) counseling about condom use, and (4) offering doxycycline postexposure prophylaxis (200-mg doxycycline taken within 72 hours after sex as postexposure prophylaxis) to MSM and transgender women with a history of a sexually transmitted infection in the past year. Syphilis infections, including congenital syphilis, have increased in the US and worldwide over the past decade. First-line treatment for syphilis is benzathine penicillin G. Routine syphilis screening of all pregnant patients and all sexually active people aged 15 to 44 years and use of doxycycline postexposure prophylaxis in individuals at risk for syphilis infection are recommended strategies to decrease syphilis transmission."
     },
     {
       "doi": "10.1001/jama.2025.12429",
@@ -973,6 +973,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.22130",
+      "url": "https://doi.org/10.1001/jama.2025.22130",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842280",
+      "article_type": "",
+      "pubmed_pmid": "41335432",
+      "title": "The Three O'Clock Patient.",
+      "journal": "JAMA",
+      "pubdate": "2025 Dec 3",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Litwin MS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "In this narrative medicine essay, a urologic oncologist is reminded of the uniquely human ability to connect that empowers physicians to provide caring in their medical care."
+    },
+    {
       "doi": "10.1001/jama.2025.23373",
       "url": "https://doi.org/10.1001/jama.2025.23373",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842476",
@@ -1002,27 +1023,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The effect of individualized high positive end-expiratory pressure (PEEP) and recruitment maneuvers, targeting a low driving pressure, on clinical outcomes in patients undergoing open abdominal surgery is uncertain. To compare driving pressure-guided high PEEP and recruitment maneuvers with standard low PEEP without recruitment maneuvers with respect to postoperative pulmonary complications. Randomized clinical trial of 1435 adults at increased risk for postoperative pulmonary complications who were scheduled for open abdominal surgery. The trial was conducted at 29 sites in 5 countries across Europe from April 2019 to December 2024; final follow-up was in March 2025. Statistical analysis was conducted in May 2025. Patients were randomized to undergo intraoperative ventilation with driving pressure-guided high PEEP and recruitment maneuvers (n&#x2009;=&#x2009;718) or to intraoperative ventilation with standard low PEEP (n&#x2009;=&#x2009;717). All patients received low tidal volume ventilation. The primary outcome was a composite of pulmonary complications within the first 5 postoperative days, including severe respiratory failure, bronchospasm, suspected pulmonary infection, pulmonary infiltrates, aspiration pneumonitis, atelectasis, acute respiratory distress syndrome, pleural effusion, cardiopulmonary edema, and pneumothorax. Among the 16 prespecified secondary outcomes, 4 concerned intraoperative complications, including hypotension (decrease in mean arterial pressure of &gt;20% for &gt;3 minutes) and desaturation (Spo2 &lt;92% for &gt;1 minute). Among 1468 adults, 1435 (98%) completed the trial (median [IQR] age, 66 [57-74] years; 52% female). In the primary analysis population, the primary outcome occurred in 142 of 718 patients (19.8%) in the driving pressure-guided high PEEP group compared with 125 of 717 patients (17.4%) in the low PEEP group (absolute difference, 2.5% [95% CI, -1.5% to 6.4%]; P&#x2009;=&#x2009;.23). The incidence of hypotension (382 [54.0%] vs 317 [45.0%]) and use of vasoactive agents (224 [32.0%] vs 130 [18.8%]) was higher in the high PEEP group; the incidence of intraoperative desaturation (6 [0.8%] vs 20 [2.8%]) was higher in the low PEEP group. Among patients at increased risk for postoperative pulmonary complications undergoing open abdominal surgery under general anesthesia, intraoperative ventilation with driving pressure-guided high PEEP and recruitment maneuvers, compared with a strategy with standard low PEEP, did not reduce postoperative pulmonary complications. ClinicalTrials.gov Identifier: NCT03884543."
-    },
-    {
-      "doi": "10.1001/jama.2025.22130",
-      "url": "https://doi.org/10.1001/jama.2025.22130",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842280",
-      "article_type": "",
-      "pubmed_pmid": "41335432",
-      "title": "The Three O'Clock Patient.",
-      "journal": "JAMA",
-      "pubdate": "2025 Dec 3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Litwin MS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a urologic oncologist is reminded of the uniquely human ability to connect that empowers physicians to provide caring in their medical care."
     },
     {
       "doi": "10.1001/jama.2025.18446",
