@@ -3,45 +3,9 @@
   "to": "2026-01-31",
   "items": [
     {
-      "doi": "10.1001/jama.2025.21660",
-      "url": "https://doi.org/10.1001/jama.2025.21660",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843505",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.26456",
       "url": "https://doi.org/10.1001/jama.2025.26456",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843501",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23235",
-      "url": "https://doi.org/10.1001/jama.2025.23235",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843506",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23911",
-      "url": "https://doi.org/10.1001/jama.2025.23911",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843502",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23182",
-      "url": "https://doi.org/10.1001/jama.2025.23182",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843507",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21662",
-      "url": "https://doi.org/10.1001/jama.2025.21662",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843504",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21561",
-      "url": "https://doi.org/10.1001/jama.2025.21561",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843503",
       "article_type": ""
     },
     {
@@ -189,12 +153,6 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.19916",
-      "url": "https://doi.org/10.1001/jama.2025.19916",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842282",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19029",
       "url": "https://doi.org/10.1001/jama.2025.19029",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841318",
@@ -210,6 +168,12 @@
       "doi": "10.1001/jama.2025.21721",
       "url": "https://doi.org/10.1001/jama.2025.21721",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842439",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.19916",
+      "url": "https://doi.org/10.1001/jama.2025.19916",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842282",
       "article_type": ""
     },
     {
@@ -297,30 +261,6 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.21943",
-      "url": "https://doi.org/10.1001/jama.2025.21943",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843617",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21752",
-      "url": "https://doi.org/10.1001/jama.2025.21752",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20034",
-      "url": "https://doi.org/10.1001/jama.2025.20034",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843616",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21940",
-      "url": "https://doi.org/10.1001/jama.2025.21940",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843618",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23956",
       "url": "https://doi.org/10.1001/jama.2025.23956",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843619",
@@ -339,27 +279,21 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.21754",
-      "url": "https://doi.org/10.1001/jama.2025.21754",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843620",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23936",
       "url": "https://doi.org/10.1001/jama.2025.23936",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843663",
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.25146",
-      "url": "https://doi.org/10.1001/jama.2025.25146",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20559",
       "url": "https://doi.org/10.1001/jama.2025.20559",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843664",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.25146",
+      "url": "https://doi.org/10.1001/jama.2025.25146",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
       "article_type": ""
     },
     {
@@ -375,21 +309,9 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.15682",
-      "url": "https://doi.org/10.1001/jama.2025.15682",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843669",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.25033",
       "url": "https://doi.org/10.1001/jama.2025.25033",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843665",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23452",
-      "url": "https://doi.org/10.1001/jama.2025.23452",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843668",
       "article_type": ""
     },
     {
@@ -402,66 +324,6 @@
       "doi": "10.1001/jama.2025.22266",
       "url": "https://doi.org/10.1001/jama.2025.22266",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843667",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.21724",
-      "url": "https://doi.org/10.1001/jama.2025.21724",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843670",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15681",
-      "url": "https://doi.org/10.1001/jama.2025.15681",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843921",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23009",
-      "url": "https://doi.org/10.1001/jama.2025.23009",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843818",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25208",
-      "url": "https://doi.org/10.1001/jama.2025.25208",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843811",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23017",
-      "url": "https://doi.org/10.1001/jama.2025.23017",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843813",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23965",
-      "url": "https://doi.org/10.1001/jama.2025.23965",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843812",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23013",
-      "url": "https://doi.org/10.1001/jama.2025.23013",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23016",
-      "url": "https://doi.org/10.1001/jama.2025.23016",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23015",
-      "url": "https://doi.org/10.1001/jama.2025.23015",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843815",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23014",
-      "url": "https://doi.org/10.1001/jama.2025.23014",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843816",
       "article_type": ""
     },
     {
@@ -561,15 +423,15 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.19376",
-      "url": "https://doi.org/10.1001/jama.2025.19376",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842286",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.25495",
       "url": "https://doi.org/10.1001/jama.2025.25495",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842969",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.19376",
+      "url": "https://doi.org/10.1001/jama.2025.19376",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842286",
       "article_type": ""
     },
     {
@@ -597,15 +459,15 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.20905",
-      "url": "https://doi.org/10.1001/jama.2025.20905",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2026.0276",
       "url": "https://doi.org/10.1001/jama.2026.0276",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844090",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.20905",
+      "url": "https://doi.org/10.1001/jama.2025.20905",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
       "article_type": ""
     },
     {
@@ -801,6 +663,12 @@
       "article_type": ""
     },
     {
+      "doi": "10.1001/jama.2025.22863",
+      "url": "https://doi.org/10.1001/jama.2025.22863",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843903",
+      "article_type": ""
+    },
+    {
       "doi": "10.1001/jama.2025.23179",
       "url": "https://doi.org/10.1001/jama.2025.23179",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843897",
@@ -810,12 +678,6 @@
       "doi": "10.1001/jama.2025.27164",
       "url": "https://doi.org/10.1001/jama.2025.27164",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843906",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.22863",
-      "url": "https://doi.org/10.1001/jama.2025.22863",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843903",
       "article_type": ""
     },
     {
@@ -981,9 +843,9 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.20027",
-      "url": "https://doi.org/10.1001/jama.2025.20027",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843202",
+      "doi": "10.1001/jama.2025.20026",
+      "url": "https://doi.org/10.1001/jama.2025.20026",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843203",
       "article_type": ""
     },
     {
@@ -993,9 +855,9 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.20026",
-      "url": "https://doi.org/10.1001/jama.2025.20026",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843203",
+      "doi": "10.1001/jama.2025.20027",
+      "url": "https://doi.org/10.1001/jama.2025.20027",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843202",
       "article_type": ""
     },
     {
@@ -1011,15 +873,15 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.20340",
-      "url": "https://doi.org/10.1001/jama.2025.20340",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842712",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20338",
       "url": "https://doi.org/10.1001/jama.2025.20338",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842711",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.20340",
+      "url": "https://doi.org/10.1001/jama.2025.20340",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842712",
       "article_type": ""
     },
     {
@@ -1029,15 +891,15 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.21336",
-      "url": "https://doi.org/10.1001/jama.2025.21336",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841164",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20512",
       "url": "https://doi.org/10.1001/jama.2025.20512",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842705",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.21336",
+      "url": "https://doi.org/10.1001/jama.2025.21336",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841164",
       "article_type": ""
     },
     {
@@ -1131,15 +993,15 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.15667",
-      "url": "https://doi.org/10.1001/jama.2025.15667",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20361",
       "url": "https://doi.org/10.1001/jama.2025.20361",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842962",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.15667",
+      "url": "https://doi.org/10.1001/jama.2025.15667",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
       "article_type": ""
     },
     {
@@ -1383,15 +1245,15 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.21505",
-      "url": "https://doi.org/10.1001/jama.2025.21505",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23747",
       "url": "https://doi.org/10.1001/jama.2025.23747",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843476",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.21505",
+      "url": "https://doi.org/10.1001/jama.2025.21505",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
       "article_type": ""
     },
     {
@@ -1473,15 +1335,21 @@
       "article_type": ""
     },
     {
+      "doi": "10.1001/jama.2025.25903",
+      "url": "https://doi.org/10.1001/jama.2025.25903",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843190",
+      "article_type": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20912",
       "url": "https://doi.org/10.1001/jama.2025.20912",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842966",
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.25903",
-      "url": "https://doi.org/10.1001/jama.2025.25903",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843190",
+      "doi": "10.1001/jama.2025.23741",
+      "url": "https://doi.org/10.1001/jama.2025.23741",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843252",
       "article_type": ""
     },
     {
@@ -1494,12 +1362,6 @@
       "doi": "10.1001/jama.2025.15673",
       "url": "https://doi.org/10.1001/jama.2025.15673",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844285",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23741",
-      "url": "https://doi.org/10.1001/jama.2025.23741",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843252",
       "article_type": ""
     },
     {
@@ -1533,15 +1395,21 @@
       "article_type": ""
     },
     {
+      "doi": "10.1001/jama.2025.20808",
+      "url": "https://doi.org/10.1001/jama.2025.20808",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
+      "article_type": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20765",
       "url": "https://doi.org/10.1001/jama.2025.20765",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.20808",
-      "url": "https://doi.org/10.1001/jama.2025.20808",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
+      "doi": "10.1001/jama.2025.20301",
+      "url": "https://doi.org/10.1001/jama.2025.20301",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841024",
       "article_type": ""
     },
     {
@@ -1554,12 +1422,6 @@
       "doi": "10.1001/jama.2025.21530",
       "url": "https://doi.org/10.1001/jama.2025.21530",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841171",
-      "article_type": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20301",
-      "url": "https://doi.org/10.1001/jama.2025.20301",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841024",
       "article_type": ""
     },
     {
@@ -1647,15 +1509,15 @@
       "article_type": ""
     },
     {
-      "doi": "10.1001/jama.2025.26848",
-      "url": "https://doi.org/10.1001/jama.2025.26848",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844543",
-      "article_type": ""
-    },
-    {
       "doi": "10.1001/jama.2025.26996",
       "url": "https://doi.org/10.1001/jama.2025.26996",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844542",
+      "article_type": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.26848",
+      "url": "https://doi.org/10.1001/jama.2025.26848",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844543",
       "article_type": ""
     },
     {

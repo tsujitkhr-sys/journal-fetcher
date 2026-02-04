@@ -69,47 +69,6 @@
       "abstract_md": "Ibuprofen is first-line therapy for musculoskeletal pain. However, two-thirds of children experience inadequate pain relief with ibuprofen monotherapy, and the efficacy of additive medications for moderate to severe musculoskeletal pain is unclear. To determine whether treatment with an opioid (hydromorphone) plus ibuprofen or nonopioid (acetaminophen [paracetamol]) plus ibuprofen decreased pain scores compared with ibuprofen alone. Two randomized, double-masked, placebo-controlled trials were conducted from April 2019 to March 2023 in 6 university-affiliated, tertiary care Canadian pediatric emergency departments. Children aged 6 to 17 years presenting with a nonoperative acute limb injury (&lt;24 hours) and a verbal numerical rating scale (vNRS) pain score of 5 or more out of 10 were enrolled. Date of final follow-up was March 22, 2023. The opioid trial randomized participants to a single oral dose of ibuprofen plus hydromorphone, ibuprofen plus acetaminophen, or ibuprofen alone. The nonopioid trial randomized participants to a single oral dose of ibuprofen plus acetaminophen or ibuprofen alone. In all groups, ibuprofen was dosed at 10 mg/kg (maximum, 600 mg). The acetaminophen dose was 15 mg/kg (maximum, 1000 mg), and the hydromorphone dose was 0.05 mg/kg (maximum, 5 mg). The primary efficacy outcome was self-reported vNRS pain score at 60 minutes post medication administration (score range, 0 [no pain] to 10 [worst pain]; minimal clinically important difference, 1.5). The primary safety end point was the proportion of children with any adverse event related to study drug administration. A total of 8098 children were screened for eligibility; 699 were randomized and 653 were included in the efficacy analyses. The opioid trial included 249 children: 110 randomized to ibuprofen plus hydromorphone, 70 to ibuprofen plus acetaminophen, and 69 to ibuprofen alone. The nonopioid trial included 450 children: 225 randomized to a single oral dose of ibuprofen plus acetaminophen and 225 randomized to ibuprofen alone. The mean (SD) age of children in the 2 trials was 11.5 (3.5) years and 47.4% were female. The mean (SD) vNRS score at recruitment was 6.4 (1.8). In pooled analyses, mean (SD) vNRS scores 60 minutes after drug administration were 4.8 (2.6) in the ibuprofen plus hydromorphone group, 4.6 (2.4) in the ibuprofen plus acetaminophen group, and 4.6 (2.3) in the ibuprofen alone group (P&#x2009;=&#x2009;.78). Any adverse event occurred at higher rates in the ibuprofen plus hydromorphone group (28.2%) compared with the ibuprofen plus acetaminophen (6.1%) or ibuprofen alone groups (5.8%). No serious adverse events occurred. For children with acute nonoperative musculoskeletal injury, pain scores at 60 minutes after drug administration did not improve with ibuprofen plus acetaminophen or ibuprofen plus hydromorphone compared with ibuprofen alone. Adverse events were 4-fold more frequent with hydromorphone. Clinicaltrials.gov Identifier: NCT03767933."
     },
     {
-      "doi": "10.1001/jama.2025.23452",
-      "url": "https://doi.org/10.1001/jama.2025.23452",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843668",
-      "article_type": "",
-      "pubmed_pmid": "41505122",
-      "title": "Interim Safety of RSVpreF Vaccination During Pregnancy.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "456-459",
-      "authors": [
-        "Michnick AI Author",
-        "MacDonald SC Author",
-        "Cosgrove A Author",
-        "Adimadhyam S Author",
-        "Zhang F Author",
-        "Petrone AB Author",
-        "Round KE Author",
-        "Gandhi S Author",
-        "Koram N Author",
-        "Anastasiou OE Author",
-        "Rubino H Author",
-        "Lino MM Author",
-        "Djibo DA Author",
-        "Kuntz JL Author",
-        "Love SM Author",
-        "McMahill-Walraven CN Author",
-        "Palmsten K Author",
-        "Wentz AE Author",
-        "Maro JC Author",
-        "Platt R Author",
-        "Andrade SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This interim analysis of an ongoing retrospective cohort study uses data from 5 US health plans to assess safety of a bivalent prefusion F subunit&#x2013;based respiratory syncytial virus (RSV) vaccine administered during pregnancy during the first full RSV season after US Food and Drug Administration approval (from September 22, 2023, through June 14, 2024)."
-    },
-    {
       "doi": "10.1001/jama.2025.23697",
       "url": "https://doi.org/10.1001/jama.2025.23697",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843713",
