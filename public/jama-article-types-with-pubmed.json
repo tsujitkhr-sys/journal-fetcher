@@ -226,9 +226,9 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Multicenter Study",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "The efficacy and safety of guideline-recommended treatments for heart failure (HF) are uncertain in patients with Chagas disease. To evaluate the efficacy and safety of the angiotensin receptor-neprilysin inhibitor sacubitril/valsartan in patients with HF with reduced ejection fraction due to Chagas disease. From December 10, 2019, through September 13, 2023, patients with HF, confirmed diagnosis of Chagas disease, left ventricular ejection fraction of 40% or less, and N-terminal pro-B-type natriuretic peptide (NT-proBNP) of 600 pg/mL or greater (or B-type natriuretic peptide [BNP] &#x2265;150 pg/mL) or 400 pg/mL or greater (or BNP &#x2265;100 pg/mL) if hospitalized for HF within the previous 12 months were screened at 83 sites in Argentina, Brazil, Colombia, and Mexico. Statistical analysis was conducted between May and July 2025. Patients were randomized to receive sacubitril/valsartan (target dose, 200 mg twice daily) or enalapril (target dose, 10 mg twice daily), in addition to standard therapy. The primary end point was a hierarchical composite outcome tested, in order, of death from cardiovascular causes, hospitalization for HF, or relative change in NT-proBNP from baseline to 12 weeks. The primary analysis was done using a win ratio approach. Overall, 462 participants were randomized to receive sacubitril/valsartan and 460 to receive enalapril (mean [SD] age, 64.2 [10.8] years; 387 [42.0%] were female). Over a median (IQR) follow-up of 25.2 (18.4-33.2) months, cardiovascular death occurred in 110 patients (23.8% [18.3% wins in the hierarchical comparison]) in the sacubitril/valsartan group and 117 patients (25.4% [17.5% wins]) in the enalapril group. A total of 102 patients (22.1% [7.7% wins]) in the sacubitril/valsartan group and 111 (24.1% [6.9% wins]) in the enalapril group experienced a first hospitalization for HF. Patients in the sacubitril/valsartan group had a median (IQR) decrease in NT-proBNP of 30.6% (-54.3% to -0.9%) at 12 weeks, leading to 22.5% wins, while those in the enalapril group had a 5.5% (-31.9% to 37.5%) decrease (7.2% wins). The resulting stratified win ratio was 1.52 (95% CI, 1.28-1.82; P&#x2009;&lt;&#x2009;.001) for sacubitril/valsartan compared with enalapril. In patients with HF with reduced ejection fraction due to Chagas disease, there was no significant difference in clinical outcomes between sacubitril/valsartan and enalapril, but there was a greater reduction in NT-proBNP at 12 weeks in patients in the sacubitril/valsartan group. ClinicalTrials.gov Identifier: NCT04023227."
     },
     {
@@ -402,7 +402,8 @@
         "La Hoz RM Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -412,26 +413,17 @@
       "url": "https://doi.org/10.1001/jama.2025.17422",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840461",
       "article_type": "",
-      "pubmed_pmid": "41123923",
-      "title": "Poverty, Food Insecurity, and Housing Instability Among US Health Care Workers.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 6",
-      "volume": "335",
-      "issue": "1",
-      "pages": "86-88",
-      "authors": [
-        "Zhong A Author",
-        "Gao C Author",
-        "Szlosek D Author",
-        "Nguyen D Author",
-        "Amat MJ Author",
-        "Phillips RS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
-      "abstract_md": "This study examines rates of poverty, food insecurity, and housing instability among US health care workers."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21498",
@@ -1082,14 +1074,20 @@
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843615",
       "article_type": "",
       "pubmed_pmid": "41499140",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
+      "title": "Subscription-Based Pricing for Lenacapavir-Learning From Hepatitis C and Cabotegravir.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 7",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "authors": [
+        "Rose MR Author",
+        "Flexner C Author",
+        "Roy V Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses ways in which payer license agreements can facilitate widespread lenacapavir use, a key step in ending the HIV epidemic."
     },
@@ -1898,27 +1896,6 @@
       "abstract_md": "In this narrative medicine essay, a transplant nephrologist relates how his reticence to tell a patient that her worsening health status rendered her ineligible for a transplant strengthened his resolve to better communicate bad news with his patients."
     },
     {
-      "doi": "10.1001/jama.2025.20019",
-      "url": "https://doi.org/10.1001/jama.2025.20019",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842900",
-      "article_type": "",
-      "pubmed_pmid": "41385237",
-      "title": "New Calculator Helps Younger Adults Assess CVD Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "111",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22473",
       "url": "https://doi.org/10.1001/jama.2025.22473",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841538",
@@ -1940,6 +1917,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses shared clinical decision-making for COVID-19 vaccination."
+    },
+    {
+      "doi": "10.1001/jama.2025.20019",
+      "url": "https://doi.org/10.1001/jama.2025.20019",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842900",
+      "article_type": "",
+      "pubmed_pmid": "41385237",
+      "title": "New Calculator Helps Younger Adults Assess CVD Risk.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "111",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15661",
@@ -3460,7 +3458,8 @@
         "Navaneethan SD Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -3807,6 +3806,28 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23506",
+      "url": "https://doi.org/10.1001/jama.2025.23506",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842194",
+      "article_type": "",
+      "pubmed_pmid": "41325100",
+      "title": "World AIDS Day-At a Crossroads.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "209-210",
+      "authors": [
+        "Person AK Author",
+        "Kelley CF Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the need to continue combating HIV domestically and internationally."
+    },
+    {
       "doi": "10.1001/jama.2025.19400",
       "url": "https://doi.org/10.1001/jama.2025.19400",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841552",
@@ -3828,28 +3849,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Peripheral neuropathy, defined as damage to peripheral nerves, affects approximately 1% of adults worldwide. More than 200 causes of peripheral neuropathy exist, with symptoms ranging in severity from mild toe numbness to debilitating symptoms that can require a wheelchair. Diabetes is the most common cause of neuropathy, affecting approximately 206 million people worldwide. Peripheral neuropathy is typically length-dependent, which means that symptoms appear in the longest nerve axons (toes) and progress proximally over time. Peripheral neuropathy is typically symmetric and affects sensory axons more than motor axons. Diabetic neuropathy, which is often associated with both sensory symptoms, such as pain, tingling, or numbness; mild weakness; and autonomic symptoms, such as orthostatic hypotension, accounts for more than 50% of peripheral neuropathy in Western populations. Other causes of neuropathy include hereditary causes, such as Charcot-Marie-Tooth disease, toxic neuropathy from medications (chemotherapies [eg, cisplatin, paclitaxel, vincristine], amiodarone, or HIV nucleotide reverse transcriptase inhibitors [eg, stavudine, zalcitabine]); alcohol; vitamin deficiencies such as vitamin B12; and monoclonal gammopathies. Up to 27% of adults with neuropathy have no identifiable etiology for their neuropathy after diagnostic testing. Recommended initial testing includes blood glucose (for diabetes), serum B12 with metabolites (methylmalonic acid with or without homocysteine), and serum protein electrophoresis with immunofixation (for monoclonal gammopathies). First-line medications for neuropathic pain are the &#x3b1;2-&#x3b4; calcium channel subunit ligands, such as gabapentin and pregabalin; serotonin norepinephrine reuptake inhibitors, such as duloxetine and venlafaxine; and tricyclic antidepressants, such as amitryptyline and nortriptyline. Pain often persists despite medical management. At least a 50% reduction in pain was observed in 38% of those with painful diabetic peripheral neuropathy receiving 1200 mg of gabapentin daily. Combination drug therapies for neuropathic pain may provide added benefit. The prognosis of peripheral neuropathy depends on its underlying cause, but complete reversal of nerve damage is uncommon even in cases for which there are available treatments. Peripheral neuropathy affects approximately 1% of adults worldwide and may cause sensory, motor, and autonomic symptoms. Diabetes is the most common cause of peripheral neuropathy in Western countries. First-line therapies for neuropathic pain include gabapentin, pregabalin, duloxetine, and amitriptyline."
-    },
-    {
-      "doi": "10.1001/jama.2025.23506",
-      "url": "https://doi.org/10.1001/jama.2025.23506",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842194",
-      "article_type": "",
-      "pubmed_pmid": "41325100",
-      "title": "World AIDS Day-At a Crossroads.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "209-210",
-      "authors": [
-        "Person AK Author",
-        "Kelley CF Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the need to continue combating HIV domestically and internationally."
     },
     {
       "doi": "10.1001/jama.2025.20361",
@@ -4674,7 +4673,8 @@
         "Waikar SS Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -4740,7 +4740,8 @@
         "Shelley D Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -4933,46 +4934,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23090",
-      "url": "https://doi.org/10.1001/jama.2025.23090",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843606",
-      "article_type": "",
-      "pubmed_pmid": "41481306",
-      "title": "COVID-19 in Pregnancy Linked With Risk of Neurodevelopmental Disorders in Early Childhood.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "296-297",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses new research indicating that children whose mothers had COVID-19 during pregnancy were more likely to be diagnosed with a neurodevelopmental disorder by age 3 years."
-    },
-    {
-      "doi": "10.1001/jama.2025.22836",
-      "url": "https://doi.org/10.1001/jama.2025.22836",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843165",
-      "article_type": "",
-      "pubmed_pmid": "41428339",
-      "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "e2522836",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19433",
       "url": "https://doi.org/10.1001/jama.2025.19433",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842072",
@@ -5018,6 +4979,46 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes osteoporosis risk factors, symptoms, screening, diagnosis, and treatment."
+    },
+    {
+      "doi": "10.1001/jama.2025.23090",
+      "url": "https://doi.org/10.1001/jama.2025.23090",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843606",
+      "article_type": "",
+      "pubmed_pmid": "41481306",
+      "title": "COVID-19 in Pregnancy Linked With Risk of Neurodevelopmental Disorders in Early Childhood.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "296-297",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses new research indicating that children whose mothers had COVID-19 during pregnancy were more likely to be diagnosed with a neurodevelopmental disorder by age 3 years."
+    },
+    {
+      "doi": "10.1001/jama.2025.22836",
+      "url": "https://doi.org/10.1001/jama.2025.22836",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843165",
+      "article_type": "",
+      "pubmed_pmid": "41428339",
+      "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "e2522836",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23003",
@@ -5471,9 +5472,9 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Multicenter Study",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "For patients with dialysis-requiring acute kidney injury, persistent need for dialysis is associated with increased morbidity and mortality, high health care use, and poor quality of life. To test the effect of a conservative dialysis strategy on recovery of kidney function. This multicenter, unblinded, randomized superiority trial enrolled participants with dialysis-requiring acute kidney injury who had a baseline estimated glomerular filtration rate greater than 15 mL/min/1.73 m2, had already initiated kidney replacement therapy, and were hemodynamically stable, with planned intermittent hemodialysis between January 23, 2020, and March 10, 2025, at 4 clinical sites in the United States. Of 909 patients assessed for eligibility, 221 were randomized and 220 received the allocated intervention. The date of last follow-up was June 10, 2025. With the conservative dialysis strategy, participants received dialysis only when specific metabolic or clinical indications were met. Participants in the conventional dialysis group received dialysis 3 times per week until urine output or creatinine clearance criteria were met. The primary study end point was unadjusted kidney function recovery at hospital discharge, defined as being alive and not receiving dialysis, with at least 14 consecutive days without dialysis (including after discharge). Two prespecified key secondary end points were the number of dialysis sessions per week and the number of dialysis-free days to day 28. The mean age of participants was 56 years (SD, 16 years). A total of 148 of 220 participants (67%) were male, 28 (13%) were Black, and 133 (60%) were White. Mean baseline estimated glomerular filtration rate was 64.8 mL/min/1.73 m2 (SD, 30.9 mL/min/1.73 m2). Participants had started kidney replacement therapy a median of 9 days (IQR, 5-18.5 days) before randomization. In the conservative dialysis intervention group, 70 of 109 participants (64%) achieved kidney function recovery at hospital discharge vs 55 of 109 participants (50%) in the conventional dialysis control group (difference, 13.8% [95% CI, 0.8%-26.8%; P&#x2009;=&#x2009;.04]; unadjusted odds ratio, 1.76 [95% CI, 1.02-3.03; P&#x2009;=&#x2009;.04]; after prespecified adjustment: odds ratio, 1.56 [95% CI, 0.86-2.84; P&#x2009;=&#x2009;.15]). Participants in the conservative dialysis group received fewer dialysis sessions per week (median, 1.8 [IQR, 0-2.6] vs 3.1 [IQR, 2.6-3.5]; difference, -1.4 [95% CI, -1.8 to -1.0]) and recovered earlier (21 [IQR, 0-28] vs 5 [IQR, 0-21] consecutive dialysis-free days to day 28; difference, 16 days [95% CI, 5-27]). Dialysis-associated hypotension occurred less frequently in the conservative dialysis group (69 vs 97 events). A conservative dialysis strategy in dialysis-requiring acute kidney injury resulted in a shorter time to and higher rates of recovery of kidney function in the unadjusted analysis. Given uncertainty regarding the estimated effect size, this approach should be tested in a larger study population. ClinicalTrials.gov Identifier: NCT04218370."
     },
     {
