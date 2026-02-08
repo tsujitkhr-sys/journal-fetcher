@@ -1122,25 +1122,6 @@
       "abstract_md": "In this narrative medicine essay, an infectious diseases physician&#x2019;s extended treatment course for breast cancer not only altered her emotionally and physically but also gave her a quieter approach to patient care."
     },
     {
-      "doi": "10.1001/jama.2025.25146",
-      "url": "https://doi.org/10.1001/jama.2025.25146",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
-      "article_type": "",
-      "pubmed_pmid": "41505114",
-      "title": "Acetaminophen (Paracetamol) or Opioid Analgesia Added to Ibuprofen for Children's Musculoskeletal Injury: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 8",
-      "volume": "",
-      "issue": "",
-      "pages": "e2525146",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20559",
       "url": "https://doi.org/10.1001/jama.2025.20559",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843664",
@@ -1160,6 +1141,25 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes the types of prostatitis and its risk factors, diagnosis, and treatment."
+    },
+    {
+      "doi": "10.1001/jama.2025.25146",
+      "url": "https://doi.org/10.1001/jama.2025.25146",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
+      "article_type": "",
+      "pubmed_pmid": "41505114",
+      "title": "Acetaminophen (Paracetamol) or Opioid Analgesia Added to Ibuprofen for Children's Musculoskeletal Injury: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 8",
+      "volume": "",
+      "issue": "",
+      "pages": "e2525146",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.25528",
@@ -1669,6 +1669,26 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.25495",
+      "url": "https://doi.org/10.1001/jama.2025.25495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842969",
+      "article_type": "",
+      "pubmed_pmid": "41405878",
+      "title": "Clarification of Noninferiority Wording and Corrected eFigure.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "187",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Published Erratum"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.19376",
       "url": "https://doi.org/10.1001/jama.2025.19376",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842286",
@@ -1686,26 +1706,6 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25495",
-      "url": "https://doi.org/10.1001/jama.2025.25495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842969",
-      "article_type": "",
-      "pubmed_pmid": "41405878",
-      "title": "Clarification of Noninferiority Wording and Corrected eFigure.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "187",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Published Erratum"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1794,30 +1794,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20905",
-      "url": "https://doi.org/10.1001/jama.2025.20905",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
-      "article_type": "",
-      "pubmed_pmid": "41296366",
-      "title": "Federal Loans Among US Medical Students.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "179-181",
-      "authors": [
-        "Ramesh T Author",
-        "Kadakia KT Author",
-        "Liu M Author",
-        "Yu H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study evaulates trends in federal loan use among US medical students and how they may be affected by the One Big Beautiful Bill Act, which eliminated Graduate PLUS loans for medical students."
-    },
-    {
       "doi": "10.1001/jama.2026.0276",
       "url": "https://doi.org/10.1001/jama.2026.0276",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844090",
@@ -1840,6 +1816,30 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Perspective discusses how clinicians can navigate conflicting vaccination recommendations following revisions from the Advisory Committee on Immunization Practices and US Centers for Disease Control and Prevention."
+    },
+    {
+      "doi": "10.1001/jama.2025.20905",
+      "url": "https://doi.org/10.1001/jama.2025.20905",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
+      "article_type": "",
+      "pubmed_pmid": "41296366",
+      "title": "Federal Loans Among US Medical Students.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "179-181",
+      "authors": [
+        "Ramesh T Author",
+        "Kadakia KT Author",
+        "Liu M Author",
+        "Yu H Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study evaulates trends in federal loan use among US medical students and how they may be affected by the One Big Beautiful Bill Act, which eliminated Graduate PLUS loans for medical students."
     },
     {
       "doi": "10.1001/jama.2025.20945",
@@ -2494,21 +2494,15 @@
       "url": "https://doi.org/10.1001/jama.2025.22634",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843868",
       "article_type": "",
-      "pubmed_pmid": "41533389",
-      "title": "Multidomain Lifestyle Interventions for Cognitive Function.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 14",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Jimenez A Author",
-        "Tojong D Author",
-        "Morgan JC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -3359,6 +3353,28 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.20338",
+      "url": "https://doi.org/10.1001/jama.2025.20338",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842711",
+      "article_type": "",
+      "pubmed_pmid": "41369957",
+      "title": "Marketization, Commercialization, Corporatization, and Financialization of Health Care-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "279-280",
+      "authors": [
+        "Blumenthal D Author",
+        "Galvin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20340",
       "url": "https://doi.org/10.1001/jama.2025.20340",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842712",
@@ -3374,28 +3390,6 @@
         "Phillips RA Author",
         "Oghenesume O Author",
         "Shah N Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20338",
-      "url": "https://doi.org/10.1001/jama.2025.20338",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842711",
-      "article_type": "",
-      "pubmed_pmid": "41369957",
-      "title": "Marketization, Commercialization, Corporatization, and Financialization of Health Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "279-280",
-      "authors": [
-        "Blumenthal D Author",
-        "Galvin R Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3427,6 +3421,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.20512",
+      "url": "https://doi.org/10.1001/jama.2025.20512",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842705",
+      "article_type": "",
+      "pubmed_pmid": "41379452",
+      "title": "A Review of Melanoma.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "280-281",
+      "authors": [
+        "Yu C Author",
+        "Chen R Author",
+        "Shan H Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.21336",
       "url": "https://doi.org/10.1001/jama.2025.21336",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841164",
@@ -3446,29 +3463,6 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20512",
-      "url": "https://doi.org/10.1001/jama.2025.20512",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842705",
-      "article_type": "",
-      "pubmed_pmid": "41379452",
-      "title": "A Review of Melanoma.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "280-281",
-      "authors": [
-        "Yu C Author",
-        "Chen R Author",
-        "Shan H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -4325,15 +4319,19 @@
       "url": "https://doi.org/10.1001/jama.2025.23034",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844454",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
+      "pubmed_pmid": "41575758",
+      "title": "Combination Pills May Improve Hypertension.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 23",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
