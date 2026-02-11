@@ -1099,25 +1099,6 @@
       "abstract_md": "In this narrative medicine essay, an infectious diseases physician&#x2019;s extended treatment course for breast cancer not only altered her emotionally and physically but also gave her a quieter approach to patient care."
     },
     {
-      "doi": "10.1001/jama.2025.25146",
-      "url": "https://doi.org/10.1001/jama.2025.25146",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
-      "article_type": "",
-      "pubmed_pmid": "41505114",
-      "title": "Acetaminophen (Paracetamol) or Opioid Analgesia Added to Ibuprofen for Children's Musculoskeletal Injury: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 8",
-      "volume": "",
-      "issue": "",
-      "pages": "e2525146",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20559",
       "url": "https://doi.org/10.1001/jama.2025.20559",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843664",
@@ -1137,6 +1118,25 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes the types of prostatitis and its risk factors, diagnosis, and treatment."
+    },
+    {
+      "doi": "10.1001/jama.2025.25146",
+      "url": "https://doi.org/10.1001/jama.2025.25146",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
+      "article_type": "",
+      "pubmed_pmid": "41505114",
+      "title": "Acetaminophen (Paracetamol) or Opioid Analgesia Added to Ibuprofen for Children's Musculoskeletal Injury: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 8",
+      "volume": "",
+      "issue": "",
+      "pages": "e2525146",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.25528",
@@ -1464,6 +1464,26 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.25495",
+      "url": "https://doi.org/10.1001/jama.2025.25495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842969",
+      "article_type": "",
+      "pubmed_pmid": "41405878",
+      "title": "Clarification of Noninferiority Wording and Corrected eFigure.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "187",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Published Erratum"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.19376",
       "url": "https://doi.org/10.1001/jama.2025.19376",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842286",
@@ -1481,26 +1501,6 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25495",
-      "url": "https://doi.org/10.1001/jama.2025.25495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842969",
-      "article_type": "",
-      "pubmed_pmid": "41405878",
-      "title": "Clarification of Noninferiority Wording and Corrected eFigure.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "187",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Published Erratum"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -2036,27 +2036,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20024",
-      "url": "https://doi.org/10.1001/jama.2025.20024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842895",
-      "article_type": "",
-      "pubmed_pmid": "41385222",
-      "title": "Solo Eating Potentially Associated With Poorer Nutrition in Older Adults.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "112",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.25904",
       "url": "https://doi.org/10.1001/jama.2025.25904",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843189",
@@ -2077,6 +2056,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the importance of understanding the evolution and current trajectory of state-level vaccine requirements for assessing the stability of the nation&#x2019;s immunization infrastructure."
+    },
+    {
+      "doi": "10.1001/jama.2025.20024",
+      "url": "https://doi.org/10.1001/jama.2025.20024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842895",
+      "article_type": "",
+      "pubmed_pmid": "41385222",
+      "title": "Solo Eating Potentially Associated With Poorer Nutrition in Older Adults.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "112",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.20648",
@@ -3122,8 +3122,7 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article",
-        "Meta-Analysis",
-        "Comment"
+        "Meta-Analysis"
       ],
       "pubmed_is_research": false,
       "abstract_md": "There is uncertainty about the effects of sodium-glucose cotransporter 2 (SGLT2) inhibitors in participants with chronic kidney disease, with guidelines offering different strengths of recommendation based on diabetes status and urine albumin to creatinine ratio (UACR). To assess the relative and absolute effects of SGLT2 inhibitor use across efficacy and serious safety outcomes in participants stratified by diabetes status and UACR (&#x2265;200 mg/g or &lt;200 mg/g). Included 8 randomized clinical trials that studied an SGLT2 inhibitor with a label indication for use in kidney disease and recorded longitudinal kidney outcomes and baseline data on albuminuria. Data were combined using inverse variance-weighted meta-analysis; group-specific absolute effects were estimated by applying relevant relative risks to the event rates of the placebo groups. Assessed the effects of SGLT2 inhibitor use on clinical efficacy and safety outcomes. Heterogeneity by baseline level of UACR was assessed separately by diabetes status. A total of 58&#x202f;816 participants (mean age, 64 [SD, 10] years; 35% were female; 48&#x202f;946 with diabetes and 9870 without diabetes) were included from trials comparing an SGLT2 inhibitor vs placebo. Allocation to an SGLT2 inhibitor produced a lower rate of kidney disease progression (33 vs 48 for placebo per 1000 patient-years; hazard ratio [HR], 0.65 [95% CI, 0.60-0.70] in those with diabetes and 32 vs 46 per 1000; HR, 0.74 [95% CI, 0.63-0.85] in those without diabetes), a lower rate of acute kidney injury (14 vs 18 per 1000 [HR, 0.77; 95% CI, 0.69-0.87] with diabetes and 13 vs 18 per 1000 [HR, 0.72; 95% CI, 0.56-0.92] without diabetes), a lower rate of any hospitalization (202 vs 231 per 1000 [HR, 0.90; 95% CI, 0.87-0.92] with diabetes and 203 vs 237 per 1000 [HR, 0.89; 95% CI, 0.83-0.95] without diabetes), and a lower rate of any death (42 vs 47 per 1000 [HR, 0.86; 95% CI, 0.80-0.91] with diabetes and 42 vs 48 per 1000 [HR, 0.91; 95% CI, 0.78-1.05] without diabetes). Diabetes-specific HRs were similar in participants (with a UACR &#x2265;200 mg/g vs with a UACR &lt;200 mg/g) considered separately. Higher absolute risk at a UACR of 200 mg/g or greater meant larger estimated absolute benefits on kidney disease progression were evident in this subgroup. Clear absolute benefits were evident for other efficacy outcomes, and particularly hospitalization, in participants with a UACR less than 200 mg/g. Net absolute benefits remained in the analyses of non-heart failure populations and when estimated glomerular filtration rate was less than 60 mL/min/1.73 m2. Within the studied participants, there were clear absolute benefits of SGLT2 inhibitors on kidney, hospitalization, and mortality outcomes irrespective of diabetes status and level of UACR."
@@ -3237,9 +3236,9 @@
       "abstract_md": "This Viewpoint discusses the need to continue combating HIV domestically and internationally."
     },
     {
-      "doi": "10.1001/jama.2025.20361",
-      "url": "https://doi.org/10.1001/jama.2025.20361",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842962",
+      "doi": "10.1001/jama.2025.15667",
+      "url": "https://doi.org/10.1001/jama.2025.15667",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3254,9 +3253,9 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15667",
-      "url": "https://doi.org/10.1001/jama.2025.15667",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
+      "doi": "10.1001/jama.2025.20361",
+      "url": "https://doi.org/10.1001/jama.2025.20361",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842962",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -4178,28 +4177,6 @@
       "abstract_md": "This Medical News article discusses the public health implications of the US Food and Drug Administration&#x2019;s new nicotine pouch pilot program."
     },
     {
-      "doi": "10.1001/jama.2025.21505",
-      "url": "https://doi.org/10.1001/jama.2025.21505",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
-      "article_type": "",
-      "pubmed_pmid": "41460519",
-      "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "362-363",
-      "authors": [
-        "Yan BW Author",
-        "Margaretten ME Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "A patient receiving adalimumab for rheumatoid arthritis had ulcerated plaques on the anterior and lateral aspects of the neck, upper chest, and nape and erythroderma on the dorsum of the hands, corresponding to areas of sun exposure, as well as swelling of the proximal interphalangeal hand joints bilaterally. What is the diagnosis and what would you do next?"
-    },
-    {
       "doi": "10.1001/jama.2025.23747",
       "url": "https://doi.org/10.1001/jama.2025.23747",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843476",
@@ -4220,6 +4197,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the uncertainty that medical ethics and social medicine instructors face in regard to the rollback of diversity, equity, and inclusion initiatives and university funding cuts."
+    },
+    {
+      "doi": "10.1001/jama.2025.21505",
+      "url": "https://doi.org/10.1001/jama.2025.21505",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
+      "article_type": "",
+      "pubmed_pmid": "41460519",
+      "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "362-363",
+      "authors": [
+        "Yan BW Author",
+        "Margaretten ME Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "A patient receiving adalimumab for rheumatoid arthritis had ulcerated plaques on the anterior and lateral aspects of the neck, upper chest, and nape and erythroderma on the dorsum of the hands, corresponding to areas of sun exposure, as well as swelling of the proximal interphalangeal hand joints bilaterally. What is the diagnosis and what would you do next?"
     },
     {
       "doi": "10.1001/jama.2025.15675",
@@ -4725,28 +4724,6 @@
       "abstract_md": "This secret shopper study assesses current capacity to provide abortion care within California&#x2019;s managed Medicaid networks in Los Angeles County after passage of federal legislation temporarily banning Medicaid payments to large family planning organizations."
     },
     {
-      "doi": "10.1001/jama.2025.20808",
-      "url": "https://doi.org/10.1001/jama.2025.20808",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
-      "article_type": "",
-      "pubmed_pmid": "41396452",
-      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "368-369",
-      "authors": [
-        "Joung B Author",
-        "Kim D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20765",
       "url": "https://doi.org/10.1001/jama.2025.20765",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
@@ -4781,6 +4758,28 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
+    },
+    {
+      "doi": "10.1001/jama.2025.20808",
+      "url": "https://doi.org/10.1001/jama.2025.20808",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
+      "article_type": "",
+      "pubmed_pmid": "41396452",
+      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "368-369",
+      "authors": [
+        "Joung B Author",
+        "Kim D Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22134",
@@ -4908,19 +4907,15 @@
       "url": "https://doi.org/10.1001/jama.2025.23045",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844493",
       "article_type": "",
-      "pubmed_pmid": "41604190",
-      "title": "Of Poetry and Depression.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Campo R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5120,19 +5115,15 @@
       "url": "https://doi.org/10.1001/jama.2025.23042",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
       "article_type": "",
-      "pubmed_pmid": "41604168",
-      "title": "Depression.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Patel TR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
