@@ -657,21 +657,16 @@
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842708",
       "article_type": "",
       "pubmed_pmid": "41369925",
-      "title": "When Words Disappear-How Banning Words Imperils Health Care Communication.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 6",
-      "volume": "335",
-      "issue": "1",
-      "pages": "17-18",
-      "authors": [
-        "Agrawal N Author",
-        "Norris KC Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the negative repercussions that banning certain words and mandating shifts in shared language by the federal government can have on health care."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21721",
@@ -1590,30 +1585,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20905",
-      "url": "https://doi.org/10.1001/jama.2025.20905",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
-      "article_type": "",
-      "pubmed_pmid": "41296366",
-      "title": "Federal Loans Among US Medical Students.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "179-181",
-      "authors": [
-        "Ramesh T Author",
-        "Kadakia KT Author",
-        "Liu M Author",
-        "Yu H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study evaulates trends in federal loan use among US medical students and how they may be affected by the One Big Beautiful Bill Act, which eliminated Graduate PLUS loans for medical students."
-    },
-    {
       "doi": "10.1001/jama.2026.0276",
       "url": "https://doi.org/10.1001/jama.2026.0276",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844090",
@@ -1636,6 +1607,30 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Perspective discusses how clinicians can navigate conflicting vaccination recommendations following revisions from the Advisory Committee on Immunization Practices and US Centers for Disease Control and Prevention."
+    },
+    {
+      "doi": "10.1001/jama.2025.20905",
+      "url": "https://doi.org/10.1001/jama.2025.20905",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
+      "article_type": "",
+      "pubmed_pmid": "41296366",
+      "title": "Federal Loans Among US Medical Students.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "179-181",
+      "authors": [
+        "Ramesh T Author",
+        "Kadakia KT Author",
+        "Liu M Author",
+        "Yu H Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study evaulates trends in federal loan use among US medical students and how they may be affected by the One Big Beautiful Bill Act, which eliminated Graduate PLUS loans for medical students."
     },
     {
       "doi": "10.1001/jama.2025.20945",
@@ -2036,6 +2031,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.20024",
+      "url": "https://doi.org/10.1001/jama.2025.20024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842895",
+      "article_type": "",
+      "pubmed_pmid": "41385222",
+      "title": "Solo Eating Potentially Associated With Poorer Nutrition in Older Adults.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "112",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.25904",
       "url": "https://doi.org/10.1001/jama.2025.25904",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843189",
@@ -2056,27 +2072,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the importance of understanding the evolution and current trajectory of state-level vaccine requirements for assessing the stability of the nation&#x2019;s immunization infrastructure."
-    },
-    {
-      "doi": "10.1001/jama.2025.20024",
-      "url": "https://doi.org/10.1001/jama.2025.20024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842895",
-      "article_type": "",
-      "pubmed_pmid": "41385222",
-      "title": "Solo Eating Potentially Associated With Poorer Nutrition in Older Adults.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "112",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.20648",
@@ -2527,27 +2522,6 @@
       "abstract_md": "Risk stratification strategies in primary prevention of coronary events lack precision. To determine whether prediction of first coronary events is improved by adding information on coronary atherosclerosis from coronary computed tomography angiography (CCTA) to a model using the pooled cohort equation (PCE) risk score tool and the coronary artery calcification score (CACS). Observational cohort study including individuals aged 50 to 64 years randomly recruited from the general population and examined at 6 university hospitals in Sweden from 2013 to 2018, with a median follow-up of 7.8 years. A sample of 30&#x202f;154 individuals underwent cardiopulmonary imaging, physical examinations, routine laboratory tests, questionnaires, and/or functional tests. This study included 24&#x202f;791 individuals without previous cardiovascular disease for whom high-quality CCTA images were available. Events were followed up via registers until September 2024. The information used from the CCTA images was the extent of coronary atherosclerosis (segment involvement score), presence of noncalcified atherosclerosis, and presence of coronary obstructive disease (stenosis &#x2265;50%). The outcome was a composite of first occurrence of nonfatal myocardial infarction or death from coronary heart disease. During follow-up, 304 coronary events occurred. Segment involvement scores of 3 to 4 and greater than 4 and presence of noncalcified atherosclerosis were associated with hazard ratios of 2.71 (95% CI, 1.34-5.44), 5.27 (95% CI, 2.50-11.07), and 1.66 (95% CI, 1.23-2.22), respectively. In a model based on the PCE and CACS, CCTA-derived data improved risk discrimination (C statistic improved from 0.764 to 0.779; P&#x2009;=&#x2009;.004) and risk reclassification (net reclassification improvement of 0.133 [95% CI, 0.031-0.165]), conferred a net correct upward reclassification of 14.2% in those with events and incorrectly classified 1.6% of participants not experiencing an event into a higher-risk category. Because of the low event rate in the cohort, reclassification mainly occurred in the group classified as at low risk (&lt;5%) according to the PCE. Information on coronary atherosclerosis from CCTA modestly improved risk prediction beyond traditional risk factors and CACS in identifying individuals at risk of coronary events and in need of primary prevention."
     },
     {
-      "doi": "10.1001/jama.2025.25205",
-      "url": "https://doi.org/10.1001/jama.2025.25205",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843197",
-      "article_type": "",
-      "pubmed_pmid": "41417267",
-      "title": "A New H3N2 Influenza Strain Is Raising Concerns About This Flu Season.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "199-200",
-      "authors": [
-        "Schweitzer K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses a new H3N2 influenza strain, called subclade K, that may lead to a more severe flu season."
-    },
-    {
       "doi": "10.1001/jama.2025.22591",
       "url": "https://doi.org/10.1001/jama.2025.22591",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843479",
@@ -2567,6 +2541,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Jonathan Chen, MD, PhD, and Ethan Goh, MD, MS, of Stanford University in Stanford, California, for JAMA+ AI Conversations."
+    },
+    {
+      "doi": "10.1001/jama.2025.25205",
+      "url": "https://doi.org/10.1001/jama.2025.25205",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843197",
+      "article_type": "",
+      "pubmed_pmid": "41417267",
+      "title": "A New H3N2 Influenza Strain Is Raising Concerns About This Flu Season.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "199-200",
+      "authors": [
+        "Schweitzer K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses a new H3N2 influenza strain, called subclade K, that may lead to a more severe flu season."
     },
     {
       "doi": "10.1001/jama.2025.15668",
@@ -2736,6 +2731,28 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.20338",
+      "url": "https://doi.org/10.1001/jama.2025.20338",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842711",
+      "article_type": "",
+      "pubmed_pmid": "41369957",
+      "title": "Marketization, Commercialization, Corporatization, and Financialization of Health Care-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "279-280",
+      "authors": [
+        "Blumenthal D Author",
+        "Galvin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20340",
       "url": "https://doi.org/10.1001/jama.2025.20340",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842712",
@@ -2751,28 +2768,6 @@
         "Phillips RA Author",
         "Oghenesume O Author",
         "Shah N Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20338",
-      "url": "https://doi.org/10.1001/jama.2025.20338",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842711",
-      "article_type": "",
-      "pubmed_pmid": "41369957",
-      "title": "Marketization, Commercialization, Corporatization, and Financialization of Health Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "279-280",
-      "authors": [
-        "Blumenthal D Author",
-        "Galvin R Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3079,6 +3074,48 @@
       "abstract_md": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce chronic kidney disease (CKD) progression in individuals with type 2 diabetes, CKD, or heart failure. However, their effects in those with stage 4 CKD or little to no albuminuria remain uncertain. To assess whether estimated glomerular filtration rate (eGFR) or degree of albuminuria, measured by urinary albumin to creatinine ratio (UACR), modifies the effects of SGLT2 inhibitors on kidney outcomes. SGLT2 inhibitor trials participating in the SGLT2 Inhibitor Meta-Analysis Cardio-Renal Trialists' Consortium (SMART-C). Randomized, double-blind, placebo-controlled trials within SMART-C evaluating an SGLT2 inhibitor with label indications for reducing CKD progression including at least 500 participants in each group with at least 6 months of follow-up. Treatment effects in individual trials were pooled using inverse variance-weighted meta-analysis. CKD progression, defined as kidney failure, at least 50% reduction in eGFR, or death due to kidney failure. Other outcomes included annual rate of eGFR decline and kidney failure. Among 70&#x202f;361 participants (mean [SD] age, 64.8 [8.7] years; 24&#x202f;595 [35.0%] females) in 10 randomized trials, 2314 (3.3%) experienced CKD progression and 988 (1.4%) reached kidney failure. SGLT2 inhibitors reduced the risk of CKD progression (25.4 vs 40.3 events per 1000 patient-years; hazard ratio [HR], 0.62 [95% CI, 0.57-0.68]), irrespective of baseline eGFR (HR of 0.61 [95% CI, 0.52-0.71] for eGFR &#x2265;60 mL/min/1.73 m2; 0.57 [95% CI, 0.47-0.70] for eGFR of 45 to &lt;60 mL/min/1.73 m2; 0.64 [95% CI, 0.54-0.75] for eGFR of 30 to &lt;45 mL/min/1.73 m2; and 0.71 [95% CI, 0.60-0.83] for eGFR &lt;30 mL/min/1.73 m2; P for trend&#x2009;=&#x2009;.16) and baseline albuminuria (HR of 0.58 [95% CI, 0.44-0.76] for albuminuria &#x2264;30 mg/g; 0.74 [95% CI, 0.57-0.96] for &gt;30-300 mg/g; and 0.57 [95% CI, 0.52-0.64] for more than 300 mg/g; P for trend&#x2009;=&#x2009;.49). Although the magnitude of protection varied, SGLT2 inhibitors reduced the annual rate of eGFR decline across all eGFR and UACR subgroups, including when participants with and without diabetes were analyzed separately. SGLT2 inhibitors also reduced the risk of kidney failure alone (HR, 0.66 [95% CI, 0.58-0.75]). In this meta-analysis, SGLT2 inhibitors were found to lower the risk of CKD progression regardless of baseline eGFR or albuminuria, including in patients with stage 4 CKD or minimal albuminuria, supporting their routine use to improve kidney outcomes across the full spectrum of kidney function among patients with type 2 diabetes, CKD, or heart failure."
     },
     {
+      "doi": "10.1001/jama.2025.20102",
+      "url": "https://doi.org/10.1001/jama.2025.20102",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842443",
+      "article_type": "",
+      "pubmed_pmid": "41359328",
+      "title": "Toripalimab-Based Therapy Without Concurrent Cisplatin for Nasopharyngeal Carcinoma.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "277",
+      "authors": [
+        "Altinisik Inan G Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.22810",
+      "url": "https://doi.org/10.1001/jama.2025.22810",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843198",
+      "article_type": "",
+      "pubmed_pmid": "41417262",
+      "title": "A Growing Movement Aims to Prepare All Physicians to Care for Older Adults.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "201-203",
+      "authors": [
+        "Harris E Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses challenges and progress toward more widespread geriatrics training in medical school, residency, and health systems."
+    },
+    {
       "doi": "10.1001/jama.2025.20835",
       "url": "https://doi.org/10.1001/jama.2025.20835",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841161",
@@ -3126,48 +3163,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "There is uncertainty about the effects of sodium-glucose cotransporter 2 (SGLT2) inhibitors in participants with chronic kidney disease, with guidelines offering different strengths of recommendation based on diabetes status and urine albumin to creatinine ratio (UACR). To assess the relative and absolute effects of SGLT2 inhibitor use across efficacy and serious safety outcomes in participants stratified by diabetes status and UACR (&#x2265;200 mg/g or &lt;200 mg/g). Included 8 randomized clinical trials that studied an SGLT2 inhibitor with a label indication for use in kidney disease and recorded longitudinal kidney outcomes and baseline data on albuminuria. Data were combined using inverse variance-weighted meta-analysis; group-specific absolute effects were estimated by applying relevant relative risks to the event rates of the placebo groups. Assessed the effects of SGLT2 inhibitor use on clinical efficacy and safety outcomes. Heterogeneity by baseline level of UACR was assessed separately by diabetes status. A total of 58&#x202f;816 participants (mean age, 64 [SD, 10] years; 35% were female; 48&#x202f;946 with diabetes and 9870 without diabetes) were included from trials comparing an SGLT2 inhibitor vs placebo. Allocation to an SGLT2 inhibitor produced a lower rate of kidney disease progression (33 vs 48 for placebo per 1000 patient-years; hazard ratio [HR], 0.65 [95% CI, 0.60-0.70] in those with diabetes and 32 vs 46 per 1000; HR, 0.74 [95% CI, 0.63-0.85] in those without diabetes), a lower rate of acute kidney injury (14 vs 18 per 1000 [HR, 0.77; 95% CI, 0.69-0.87] with diabetes and 13 vs 18 per 1000 [HR, 0.72; 95% CI, 0.56-0.92] without diabetes), a lower rate of any hospitalization (202 vs 231 per 1000 [HR, 0.90; 95% CI, 0.87-0.92] with diabetes and 203 vs 237 per 1000 [HR, 0.89; 95% CI, 0.83-0.95] without diabetes), and a lower rate of any death (42 vs 47 per 1000 [HR, 0.86; 95% CI, 0.80-0.91] with diabetes and 42 vs 48 per 1000 [HR, 0.91; 95% CI, 0.78-1.05] without diabetes). Diabetes-specific HRs were similar in participants (with a UACR &#x2265;200 mg/g vs with a UACR &lt;200 mg/g) considered separately. Higher absolute risk at a UACR of 200 mg/g or greater meant larger estimated absolute benefits on kidney disease progression were evident in this subgroup. Clear absolute benefits were evident for other efficacy outcomes, and particularly hospitalization, in participants with a UACR less than 200 mg/g. Net absolute benefits remained in the analyses of non-heart failure populations and when estimated glomerular filtration rate was less than 60 mL/min/1.73 m2. Within the studied participants, there were clear absolute benefits of SGLT2 inhibitors on kidney, hospitalization, and mortality outcomes irrespective of diabetes status and level of UACR."
-    },
-    {
-      "doi": "10.1001/jama.2025.20102",
-      "url": "https://doi.org/10.1001/jama.2025.20102",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842443",
-      "article_type": "",
-      "pubmed_pmid": "41359328",
-      "title": "Toripalimab-Based Therapy Without Concurrent Cisplatin for Nasopharyngeal Carcinoma.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "277",
-      "authors": [
-        "Altinisik Inan G Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.22810",
-      "url": "https://doi.org/10.1001/jama.2025.22810",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843198",
-      "article_type": "",
-      "pubmed_pmid": "41417262",
-      "title": "A Growing Movement Aims to Prepare All Physicians to Care for Older Adults.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "201-203",
-      "authors": [
-        "Harris E Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses challenges and progress toward more widespread geriatrics training in medical school, residency, and health systems."
     },
     {
       "doi": "10.1001/jama.2025.20104",
@@ -3236,9 +3231,9 @@
       "abstract_md": "This Viewpoint discusses the need to continue combating HIV domestically and internationally."
     },
     {
-      "doi": "10.1001/jama.2025.15667",
-      "url": "https://doi.org/10.1001/jama.2025.15667",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
+      "doi": "10.1001/jama.2025.20361",
+      "url": "https://doi.org/10.1001/jama.2025.20361",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842962",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3253,9 +3248,9 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20361",
-      "url": "https://doi.org/10.1001/jama.2025.20361",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842962",
+      "doi": "10.1001/jama.2025.15667",
+      "url": "https://doi.org/10.1001/jama.2025.15667",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3892,19 +3887,15 @@
       "url": "https://doi.org/10.1001/jama.2025.23446",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844451",
       "article_type": "",
-      "pubmed_pmid": "41587039",
-      "title": "Communicating Medical Numbers.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 26",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "authors": [
-        "Silverman MP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4177,28 +4168,6 @@
       "abstract_md": "This Medical News article discusses the public health implications of the US Food and Drug Administration&#x2019;s new nicotine pouch pilot program."
     },
     {
-      "doi": "10.1001/jama.2025.21505",
-      "url": "https://doi.org/10.1001/jama.2025.21505",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
-      "article_type": "",
-      "pubmed_pmid": "41460519",
-      "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "362-363",
-      "authors": [
-        "Yan BW Author",
-        "Margaretten ME Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "A patient receiving adalimumab for rheumatoid arthritis had ulcerated plaques on the anterior and lateral aspects of the neck, upper chest, and nape and erythroderma on the dorsum of the hands, corresponding to areas of sun exposure, as well as swelling of the proximal interphalangeal hand joints bilaterally. What is the diagnosis and what would you do next?"
-    },
-    {
       "doi": "10.1001/jama.2025.23747",
       "url": "https://doi.org/10.1001/jama.2025.23747",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843476",
@@ -4219,6 +4188,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the uncertainty that medical ethics and social medicine instructors face in regard to the rollback of diversity, equity, and inclusion initiatives and university funding cuts."
+    },
+    {
+      "doi": "10.1001/jama.2025.21505",
+      "url": "https://doi.org/10.1001/jama.2025.21505",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
+      "article_type": "",
+      "pubmed_pmid": "41460519",
+      "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "362-363",
+      "authors": [
+        "Yan BW Author",
+        "Margaretten ME Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "A patient receiving adalimumab for rheumatoid arthritis had ulcerated plaques on the anterior and lateral aspects of the neck, upper chest, and nape and erythroderma on the dorsum of the hands, corresponding to areas of sun exposure, as well as swelling of the proximal interphalangeal hand joints bilaterally. What is the diagnosis and what would you do next?"
     },
     {
       "doi": "10.1001/jama.2025.15675",
@@ -4724,6 +4715,28 @@
       "abstract_md": "This secret shopper study assesses current capacity to provide abortion care within California&#x2019;s managed Medicaid networks in Los Angeles County after passage of federal legislation temporarily banning Medicaid payments to large family planning organizations."
     },
     {
+      "doi": "10.1001/jama.2025.20808",
+      "url": "https://doi.org/10.1001/jama.2025.20808",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
+      "article_type": "",
+      "pubmed_pmid": "41396452",
+      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "368-369",
+      "authors": [
+        "Joung B Author",
+        "Kim D Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20765",
       "url": "https://doi.org/10.1001/jama.2025.20765",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
@@ -4758,28 +4771,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
-    },
-    {
-      "doi": "10.1001/jama.2025.20808",
-      "url": "https://doi.org/10.1001/jama.2025.20808",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
-      "article_type": "",
-      "pubmed_pmid": "41396452",
-      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "368-369",
-      "authors": [
-        "Joung B Author",
-        "Kim D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22134",
