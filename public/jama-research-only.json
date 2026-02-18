@@ -70,6 +70,8 @@
         "Prevention and Reduction of Adverse Outcomes in Chagasic Heart Failure Trial Evaluation (PARACHUTE-HF) Investigators CollectiveName"
       ],
       "pubmed_pubtypes": [
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial",
         "Journal Article",
         "Multicenter Study",
         "Randomized Controlled Trial"
@@ -156,6 +158,7 @@
         "LEVOECMO Trial Group and the International ECMO Network (ECMONet) CollectiveName"
       ],
       "pubmed_pubtypes": [
+        "Clinical Trial, Phase III",
         "Journal Article",
         "Multicenter Study",
         "Randomized Controlled Trial"
@@ -224,6 +227,7 @@
         "Catapano AL Author"
       ],
       "pubmed_pubtypes": [
+        "Clinical Trial, Phase III",
         "Journal Article",
         "Multicenter Study",
         "Randomized Controlled Trial"
@@ -334,6 +338,7 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article",
+        "Observational Study",
         "Multicenter Study"
       ],
       "pubmed_is_research": true,
@@ -483,7 +488,8 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Randomized Controlled Trial",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Comparative Study"
       ],
       "pubmed_is_research": true,
       "abstract_md": "Conventional wisdom holds that caffeinated coffee is proarrhythmic. Coffee is the most commonly consumed caffeinated beverage in the US, and a randomized trial assessing caffeinated coffee consumption in patients with atrial fibrillation (AF) has not previously been performed. To determine the effect of caffeinated coffee consumption compared with abstinence from coffee and caffeine on recurrent AF. This was a prospective, open-label, randomized clinical trial enrolling 200 current or previous (within past 5 years) coffee-drinking adults with persistent AF, or atrial flutter with a history of AF, planned for electrical cardioversion from 5 hospitals in the US, Canada, and Australia between November 2021 and December 2024. The date of final follow-up was June 5, 2025. Patients were randomized in a 1:1 ratio to regular caffeinated coffee consumption vs coffee and caffeine abstinence for 6 months. Patients in the coffee consumption group were encouraged to drink at least 1 cup of caffeinated coffee daily. Patients in the abstinence group were encouraged to completely abstain from both caffeinated and decaffeinated coffee and other caffeine-containing products. The primary end point was clinically detected recurrence of AF or atrial flutter over 6 months. Two hundred patients (mean [SD] age, 69 [11] years; 71% male) were randomized to caffeinated coffee consumption (n&#x2009;=&#x2009;100) or coffee abstinence (n&#x2009;=&#x2009;100). Baseline coffee intake was 7 cups (IQR, 7-18) per week in both groups. During follow-up, coffee intake in the consumption and abstinence groups was 7 (IQR, 6-11) and 0 (IQR, 0-2) cups per week, respectively, resulting in a between-group difference of 7 cups (95% CI, 7-7) per week. In the primary analysis, AF or atrial flutter recurrence was less in the coffee consumption (47%) than the coffee abstinence (64%) group, resulting in a 39% lower hazard of recurrence (hazard ratio, 0.61 [95% CI, 0.42-0.89]; P&#x2009;=&#x2009;.01). A comparable benefit of coffee consumption was observed with AF recurrence only. There was no significant difference in adverse events. In this clinical trial of coffee drinkers after successful cardioversion, allocation to consumption of caffeinated coffee averaging 1 cup a day was associated with less recurrence of AF or atrial flutter compared with abstinence from coffee and caffeinated products. ClinicalTrials.gov Identifier: NCT05121519."
@@ -551,6 +557,7 @@
         "Hsu CY Author"
       ],
       "pubmed_pubtypes": [
+        "Equivalence Trial",
         "Journal Article",
         "Multicenter Study",
         "Randomized Controlled Trial"
