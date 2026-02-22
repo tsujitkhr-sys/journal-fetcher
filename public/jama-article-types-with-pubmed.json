@@ -1471,30 +1471,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20905",
-      "url": "https://doi.org/10.1001/jama.2025.20905",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
-      "article_type": "",
-      "pubmed_pmid": "41296366",
-      "title": "Federal Loans Among US Medical Students.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "179-181",
-      "authors": [
-        "Ramesh T Author",
-        "Kadakia KT Author",
-        "Liu M Author",
-        "Yu H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study evaulates trends in federal loan use among US medical students and how they may be affected by the One Big Beautiful Bill Act, which eliminated Graduate PLUS loans for medical students."
-    },
-    {
       "doi": "10.1001/jama.2026.0276",
       "url": "https://doi.org/10.1001/jama.2026.0276",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844090",
@@ -1517,6 +1493,30 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Perspective discusses how clinicians can navigate conflicting vaccination recommendations following revisions from the Advisory Committee on Immunization Practices and US Centers for Disease Control and Prevention."
+    },
+    {
+      "doi": "10.1001/jama.2025.20905",
+      "url": "https://doi.org/10.1001/jama.2025.20905",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842078",
+      "article_type": "",
+      "pubmed_pmid": "41296366",
+      "title": "Federal Loans Among US Medical Students.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "179-181",
+      "authors": [
+        "Ramesh T Author",
+        "Kadakia KT Author",
+        "Liu M Author",
+        "Yu H Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study evaulates trends in federal loan use among US medical students and how they may be affected by the One Big Beautiful Bill Act, which eliminated Graduate PLUS loans for medical students."
     },
     {
       "doi": "10.1001/jama.2025.20945",
@@ -2462,6 +2462,28 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.20338",
+      "url": "https://doi.org/10.1001/jama.2025.20338",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842711",
+      "article_type": "",
+      "pubmed_pmid": "41369957",
+      "title": "Marketization, Commercialization, Corporatization, and Financialization of Health Care-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "279-280",
+      "authors": [
+        "Blumenthal D Author",
+        "Galvin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20340",
       "url": "https://doi.org/10.1001/jama.2025.20340",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842712",
@@ -2477,28 +2499,6 @@
         "Phillips RA Author",
         "Oghenesume O Author",
         "Shah N Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20338",
-      "url": "https://doi.org/10.1001/jama.2025.20338",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842711",
-      "article_type": "",
-      "pubmed_pmid": "41369957",
-      "title": "Marketization, Commercialization, Corporatization, and Financialization of Health Care-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "279-280",
-      "authors": [
-        "Blumenthal D Author",
-        "Galvin R Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3567,28 +3567,6 @@
       "abstract_md": "This Medical News article discusses the public health implications of the US Food and Drug Administration&#x2019;s new nicotine pouch pilot program."
     },
     {
-      "doi": "10.1001/jama.2025.21505",
-      "url": "https://doi.org/10.1001/jama.2025.21505",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
-      "article_type": "",
-      "pubmed_pmid": "41460519",
-      "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "362-363",
-      "authors": [
-        "Yan BW Author",
-        "Margaretten ME Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "A patient receiving adalimumab for rheumatoid arthritis had ulcerated plaques on the anterior and lateral aspects of the neck, upper chest, and nape and erythroderma on the dorsum of the hands, corresponding to areas of sun exposure, as well as swelling of the proximal interphalangeal hand joints bilaterally. What is the diagnosis and what would you do next?"
-    },
-    {
       "doi": "10.1001/jama.2025.23747",
       "url": "https://doi.org/10.1001/jama.2025.23747",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843476",
@@ -3609,6 +3587,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the uncertainty that medical ethics and social medicine instructors face in regard to the rollback of diversity, equity, and inclusion initiatives and university funding cuts."
+    },
+    {
+      "doi": "10.1001/jama.2025.21505",
+      "url": "https://doi.org/10.1001/jama.2025.21505",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843261",
+      "article_type": "",
+      "pubmed_pmid": "41460519",
+      "title": "A Woman With Rheumatoid Arthritis and Vesicular Rash.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "362-363",
+      "authors": [
+        "Yan BW Author",
+        "Margaretten ME Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "A patient receiving adalimumab for rheumatoid arthritis had ulcerated plaques on the anterior and lateral aspects of the neck, upper chest, and nape and erythroderma on the dorsum of the hands, corresponding to areas of sun exposure, as well as swelling of the proximal interphalangeal hand joints bilaterally. What is the diagnosis and what would you do next?"
     },
     {
       "doi": "10.1001/jama.2025.15675",
@@ -3947,30 +3947,6 @@
       "abstract_md": "This Perspective examines the currently circulating influenza A(H3N2) subclade K virus, including antigenic variants, vaccine effectiveness, and countermeasures."
     },
     {
-      "doi": "10.1001/jama.2025.23741",
-      "url": "https://doi.org/10.1001/jama.2025.23741",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843252",
-      "article_type": "",
-      "pubmed_pmid": "41460643",
-      "title": "Reframing Opioid Overdose as an Ambulatory Care-Sensitive Condition.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "303-304",
-      "authors": [
-        "Hsu M Author",
-        "Lawrence D Author",
-        "Capone-Newton P Author",
-        "Gelberg L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint explores the potential benefits of designating opioid overdose as an ambulatory care&#x2013;sensitive condition, including broader implementation of evidence-based overdose prevention interventions."
-    },
-    {
       "doi": "10.1001/jama.2025.23005",
       "url": "https://doi.org/10.1001/jama.2025.23005",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843611",
@@ -4007,6 +3983,30 @@
       "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23741",
+      "url": "https://doi.org/10.1001/jama.2025.23741",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843252",
+      "article_type": "",
+      "pubmed_pmid": "41460643",
+      "title": "Reframing Opioid Overdose as an Ambulatory Care-Sensitive Condition.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "303-304",
+      "authors": [
+        "Hsu M Author",
+        "Lawrence D Author",
+        "Capone-Newton P Author",
+        "Gelberg L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint explores the potential benefits of designating opioid overdose as an ambulatory care&#x2013;sensitive condition, including broader implementation of evidence-based overdose prevention interventions."
     },
     {
       "doi": "10.1001/jama.2025.21709",
