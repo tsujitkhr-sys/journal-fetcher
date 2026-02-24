@@ -3,30 +3,6 @@
   "to": "2026-01-31",
   "items": [
     {
-      "doi": "10.1001/jama.2025.26456",
-      "url": "https://doi.org/10.1001/jama.2025.26456",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843501",
-      "article_type": "",
-      "pubmed_pmid": "41489823",
-      "title": "New Cervical Cancer Screening Guidelines From the US Department of Health and Human Services: Strengthening Women's Preventive Health.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 5",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Christine B Author",
-        "Bush M Author",
-        "Thurakal A Author",
-        "Sheehy AM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses past cervical cancer screening guidelines and presents new Women&#x2019;s Preventive Services guidelines issued by the US Department of Health and Human Services."
-    },
-    {
       "doi": "10.1001/jama.2025.22829",
       "url": "https://doi.org/10.1001/jama.2025.22829",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842279",
@@ -631,23 +607,6 @@
       "abstract_md": "The Dietary Approaches to Stop Hypertension (DASH) eating plan lowered blood pressure (BP) among Black adults in a controlled environment, but to date, there are no grocery shopping strategies that replicated its health effects in a community setting. The Groceries for Black Residents of Boston to Stop Hypertension (GoFresh) trial was conducted to determine the effects of low sodium-DASH groceries on systolic BP. This parallel-group randomized clinical trial was conducted in Boston from August 2022 to September 2025 among Black residents of urban communities with few grocery stores, a systolic BP of 120 to less than 150 mm Hg, a diastolic BP less than 100 mm Hg, and no hypertension treatment. Data were analyzed from June through October 2025. Participants were randomly assigned to 12 weeks of home-delivered, DASH-patterned groceries ordered weekly with dietitian counseling without emphasizing cost or three $500 stipends every 4 weeks intended for self-directed grocery shopping. The primary comparison was the difference in the 3-month change in model-estimated office systolic BP (based on 3 measurements over at least 2 visits) between interventions. Adherence was assessed via 24-hour urine collection. Secondary outcomes included diastolic BP, body mass index (BMI), hemoglobin A1c levels, and low-density lipoprotein (LDL) cholesterol. Maintenance of effects was assessed 3 months after intervention cessation. Among 180 participants, (mean [SD] age, 46.1 [13.3] years; 102 female [56.7%]; 180 self-reported Black [100%]; 12 Hispanic [6.7%]), 175 individuals (97.2%) completed the primary outcome assessment. Mean (SD) baseline systolic BP and diastolic BP were 130.0 (6.7) mm Hg and 79.8 (8.1) mm Hg. At 3 months, the mean systolic BP changed -5.7 mm Hg (95% CI, -7.4, to-3.9 mm Hg) in the DASH-patterned group and -2.3 mm Hg (95% CI, -4.1 to -0.4 mm Hg) in the self-directed group (difference in changes, -3.4 mm Hg; 95% CI, -5.9 to -0.8 mm Hg; P&#x2009;=&#x2009;.009). Compared with the self-directed group, after 3 months the DASH-patterned group changed mean diastolic BP by -2.4 mm Hg (95% CI, -4.2 to -0.5 mm Hg), urine sodium level by -545 mg/24 h (95% CI, -1041 to -50 mg/24 h), and LDL cholesterol by -8.0 mg/dL (95% CI, -13.7 to -2.3 mg/dL) (to convert LDL cholesterol to millimoles per liter, multiply by 0.0259). Effects were not maintained 6 months after the intervention was initiated. No effects occurred in BMI or hemoglobin A1c level. In this study, a program of home-delivered, DASH-style groceries plus dietitian counseling decreased BP and LDL cholesterol levels beyond comparable monetary compensation. However, effects were not maintained after the intervention ended. ClinicalTrials.gov Identifier: NCT05121337."
     },
     {
-      "doi": "10.1001/jama.2025.19916",
-      "url": "https://doi.org/10.1001/jama.2025.19916",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842282",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19029",
       "url": "https://doi.org/10.1001/jama.2025.19029",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841318",
@@ -715,6 +674,23 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the recent decision by the US Food and Drug Administration to eliminate Risk Evaluation and Mitigation Strategies requirements for chimeric antigen receptor (CAR) T-cell therapies for the treatment of cancer."
+    },
+    {
+      "doi": "10.1001/jama.2025.19916",
+      "url": "https://doi.org/10.1001/jama.2025.19916",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842282",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15653",
@@ -1026,25 +1002,6 @@
       "abstract_md": "This JAMA Clinical Guidelines Synopsis summarizes KDIGO&#x2019;s 2024 clinical practice guideline for evaluation and management of chronic kidney disease."
     },
     {
-      "doi": "10.1001/jama.2025.25146",
-      "url": "https://doi.org/10.1001/jama.2025.25146",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
-      "article_type": "",
-      "pubmed_pmid": "41505114",
-      "title": "Acetaminophen (Paracetamol) or Opioid Analgesia Added to Ibuprofen for Children's Musculoskeletal Injury: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 8",
-      "volume": "",
-      "issue": "",
-      "pages": "e2525146",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20559",
       "url": "https://doi.org/10.1001/jama.2025.20559",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843664",
@@ -1064,6 +1021,25 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes the types of prostatitis and its risk factors, diagnosis, and treatment."
+    },
+    {
+      "doi": "10.1001/jama.2025.25146",
+      "url": "https://doi.org/10.1001/jama.2025.25146",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843662",
+      "article_type": "",
+      "pubmed_pmid": "41505114",
+      "title": "Acetaminophen (Paracetamol) or Opioid Analgesia Added to Ibuprofen for Children's Musculoskeletal Injury: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 8",
+      "volume": "",
+      "issue": "",
+      "pages": "e2525146",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.25528",
@@ -1283,6 +1259,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.20020",
+      "url": "https://doi.org/10.1001/jama.2025.20020",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842899",
+      "article_type": "",
+      "pubmed_pmid": "41385233",
+      "title": "Primary Care Physician Burnout Highest in US.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "111",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.21001",
       "url": "https://doi.org/10.1001/jama.2025.21001",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842835",
@@ -1324,22 +1321,21 @@
       "abstract_md": "Gaps in knowledge exist about the impact of COVID-19 and vaccination on pregnancy outcomes. To investigate the impact of vaccination on maternal and perinatal outcomes associated with SARS-CoV-2 infection in pregnancy. Population-level surveillance of pregnant individuals infected with SARS-CoV-2 and their infants using the CANCOVID-Preg database between April 5, 2021 (beginning of the Delta variant time period and initiation of recommendations for vaccination in pregnancy in Canada), and December 31, 2022. Cases were identified based on COVID-19 diagnoses in pregnancy in 9 of 13 Canadian provinces/territories. Cases occurring through 2022 were followed up into 2023 for pregnancy conclusion and infant outcomes. SARS-CoV-2 infection in pregnancy, with or without prior vaccination. COVID-19-associated hospitalization, critical care unit admission, and preterm birth. Of 26&#x202f;584 cases identified, 19&#x202f;899 cases were eligible for analysis. Among these, most infections occurred among those aged 30 to 35 years (46.3%) and among those of White race (55.9%). A total of 72% (n&#x2009;=&#x2009;14&#x202f;367) of cases were vaccinated and 28% (n&#x2009;=&#x2009;5532) were unvaccinated prior to their COVID-19 diagnosis. Among those vaccinated prior to COVID-19 diagnosis, 80% (n&#x2009;=&#x2009;11&#x202f;425) were vaccinated prior to pregnancy and 20% (n&#x2009;=&#x2009;2942) were vaccinated during pregnancy. Cases occurred during both Delta (n&#x2009;=&#x2009;6120) and Omicron (n&#x2009;=&#x2009;13&#x202f;799) variant time periods. Vaccination was associated with lower risk of hospitalization (Delta: relative risk [RR], 0.38 [95% CI, 0.30-0.48]; absolute risk difference [ARD], 8.7% [95% CI, 7.3%-10.2%]; Omicron: RR, 0.38 [95% CI, 0.27-0.53]; ARD, 3.8% [95% CI, 2.4%-5.2%]), critical care unit admission (Delta: RR, 0.10 [95% CI, 0.04-0.26]; ARD, 2.4% [95% CI, 1.8%-2.9%]; Omicron: RR, 0.10 [95% CI, 0.03-0.29]; ARD, 0.85% [95% CI, 0.27%-1.44%]), and preterm birth (Delta: RR, 0.80 [95% CI, 0.66-0.98]; ARD, 1.8% [95% CI, 0.3%-3.4%]; Omicron: RR, 0.64 [95% CI, 0.52-0.77]; ARD, 4.1% [95% CI, 2.0%-6.2%]). In multivariable analyses, vaccination was still associated with lower hospitalization risk in both variant time periods after controlling for comorbid conditions. In Omicron, compared with the vaccinated group, those unvaccinated had an adjusted RR of hospitalization of 2.43 (95% CI, 1.72-3.43). In Delta, those unvaccinated had an adjusted RR of hospitalization of 3.82 (95% CI, 2.38-6.14). Vaccination against SARS-CoV-2 prior to and during pregnancy, before COVID-19 diagnosis, was associated with a lower risk of severe maternal disease and preterm birth regardless of variant time period."
     },
     {
-      "doi": "10.1001/jama.2025.20020",
-      "url": "https://doi.org/10.1001/jama.2025.20020",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842899",
+      "doi": "10.1001/jama.2025.25495",
+      "url": "https://doi.org/10.1001/jama.2025.25495",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842969",
       "article_type": "",
-      "pubmed_pmid": "41385233",
-      "title": "Primary Care Physician Burnout Highest in US.",
+      "pubmed_pmid": "41405878",
+      "title": "Clarification of Noninferiority Wording and Corrected eFigure.",
       "journal": "JAMA",
       "pubdate": "2026 Jan 13",
       "volume": "335",
       "issue": "2",
-      "pages": "111",
-      "authors": [
-        "Pant S Author"
-      ],
+      "pages": "187",
+      "authors": [],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Published Erratum"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1362,26 +1358,6 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25495",
-      "url": "https://doi.org/10.1001/jama.2025.25495",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842969",
-      "article_type": "",
-      "pubmed_pmid": "41405878",
-      "title": "Clarification of Noninferiority Wording and Corrected eFigure.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "187",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Published Erratum"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1582,6 +1558,27 @@
       "abstract_md": "In this narrative medicine essay, a transplant nephrologist relates how his reticence to tell a patient that her worsening health status rendered her ineligible for a transplant strengthened his resolve to better communicate bad news with his patients."
     },
     {
+      "doi": "10.1001/jama.2025.20019",
+      "url": "https://doi.org/10.1001/jama.2025.20019",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842900",
+      "article_type": "",
+      "pubmed_pmid": "41385237",
+      "title": "New Calculator Helps Younger Adults Assess CVD Risk.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "111",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.22473",
       "url": "https://doi.org/10.1001/jama.2025.22473",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841538",
@@ -1603,27 +1600,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses shared clinical decision-making for COVID-19 vaccination."
-    },
-    {
-      "doi": "10.1001/jama.2025.20019",
-      "url": "https://doi.org/10.1001/jama.2025.20019",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842900",
-      "article_type": "",
-      "pubmed_pmid": "41385237",
-      "title": "New Calculator Helps Younger Adults Assess CVD Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "111",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15661",
@@ -1764,6 +1740,51 @@
       "abstract_md": "This study analyzes high-engagement social media posts for 3 major drug classes to assess their alignment with Food and Drug Administration and Federal Trade Commission oversight."
     },
     {
+      "doi": "10.1001/jama.2025.22071",
+      "url": "https://doi.org/10.1001/jama.2025.22071",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842978",
+      "article_type": "",
+      "pubmed_pmid": "41410913",
+      "title": "AI and Health-The Year in Review.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "e2522071",
+      "authors": [
+        "Perlis R Author",
+        "Hswen Y Author"
+      ],
+      "pubmed_pubtypes": [
+        "Video-Audio Media"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, spoke with JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, for JAMA+ AI Conversations."
+    },
+    {
+      "doi": "10.1001/jama.2025.16917",
+      "url": "https://doi.org/10.1001/jama.2025.16917",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840733",
+      "article_type": "",
+      "pubmed_pmid": "41165681",
+      "title": "What Is Uveitis?",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "192",
+      "authors": [
+        "Angulo MI Author",
+        "Barajas M Author",
+        "Vela M Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This JAMA Patient Page describes types of uveitis, ages and conditions associated with uveitis, and diagnosis and treatment."
+    },
+    {
       "doi": "10.1001/jama.2025.15659",
       "url": "https://doi.org/10.1001/jama.2025.15659",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843626",
@@ -1803,51 +1824,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Medical News article is an editor&#x2019;s choice roundup of the most impactful, newsworthy, and novel studies published in JAMA over the past year."
-    },
-    {
-      "doi": "10.1001/jama.2025.16917",
-      "url": "https://doi.org/10.1001/jama.2025.16917",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2840733",
-      "article_type": "",
-      "pubmed_pmid": "41165681",
-      "title": "What Is Uveitis?",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "192",
-      "authors": [
-        "Angulo MI Author",
-        "Barajas M Author",
-        "Vela M Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Patient Page describes types of uveitis, ages and conditions associated with uveitis, and diagnosis and treatment."
-    },
-    {
-      "doi": "10.1001/jama.2025.22071",
-      "url": "https://doi.org/10.1001/jama.2025.22071",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842978",
-      "article_type": "",
-      "pubmed_pmid": "41410913",
-      "title": "AI and Health-The Year in Review.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "e2522071",
-      "authors": [
-        "Perlis R Author",
-        "Hswen Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Video-Audio Media"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, spoke with JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, for JAMA+ AI Conversations."
     },
     {
       "doi": "10.1001/jama.2025.22259",
@@ -1917,6 +1893,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.20024",
+      "url": "https://doi.org/10.1001/jama.2025.20024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842895",
+      "article_type": "",
+      "pubmed_pmid": "41385222",
+      "title": "Solo Eating Potentially Associated With Poorer Nutrition in Older Adults.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "112",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.25904",
       "url": "https://doi.org/10.1001/jama.2025.25904",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843189",
@@ -1937,27 +1934,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the importance of understanding the evolution and current trajectory of state-level vaccine requirements for assessing the stability of the nation&#x2019;s immunization infrastructure."
-    },
-    {
-      "doi": "10.1001/jama.2025.20024",
-      "url": "https://doi.org/10.1001/jama.2025.20024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842895",
-      "article_type": "",
-      "pubmed_pmid": "41385222",
-      "title": "Solo Eating Potentially Associated With Poorer Nutrition in Older Adults.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "112",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.20648",
@@ -1993,102 +1969,6 @@
       "abstract_md": "Heterozygous familial hypercholesterolemia (FH), a genetic condition, results in lifelong increased low-density lipoprotein cholesterol (LDL-C) and increases lifetime cardiovascular disease (CVD) risk. Most individuals with FH remain undiagnosed, so early FH identification and treatment could lower CVD burden. To evaluate the projected cost-effectiveness of population sequential FH screening (lipid testing followed by genetic testing after a high LDL-C measurement) at 10 or 18 years of age. The CVD Policy Model, a validated discrete event simulation of CVD risk factor management and CVD outcomes in National Health and Nutrition Examination Survey participants, was used to simulate lifetime health and economic outcomes from a health care sector perspective for a hypothetical cohort of 4.2 million US 10-year-olds. Individual characteristics and health care processes informed CVD events (coronary heart disease or stroke) and survival probabilities. Model inputs included national data sources, clinical trials, pooled longitudinal cohort studies, and published literature. Usual care assumed only opportunistic lipid testing and LDL-C and CVD risk-guided treatment. When added to usual care, sequential FH screening strategies examined combinations of childhood (age 10 years) or early adulthood (age 18 years) screening with 3 LDL-C thresholds (&#x2265;130 mg/dL, &#x2265;160 mg/dL, or &#x2265;190 mg/dL) to select patients for genetic testing. Primary outcomes were direct health care costs (2021 US dollars), quality-adjusted life-years (QALYs), and an incremental cost-effectiveness ratio (ICER). Future costs and QALYs were discounted 3% annually. Strategies with an ICER of less than $100&#x202f;000 per QALY gained were considered cost-effective. For the simulated cohort, usual care would lead to 3&#x202f;118&#x202f;000 (95% uncertainty interval, 3&#x202f;061&#x202f;000-3&#x202f;192&#x202f;000) total lifetime CVD events, with 16&#x202f;182 (95% uncertainty interval, 15&#x202f;683-16&#x202f;827) among those with FH. Childhood FH screening could avert between 1385 and 1820 CVD events (&lt;0.1% reduction in overall population), and early adulthood FH screening could avert between 1154 and 1448 CVD events (&lt;0.1% reduction). While effective, no FH screening strategies were cost-effective relative to usual care; screening at age 18 years using an LDL-C threshold of 190 mg/dL or greater had the lowest ICER, at $289&#x202f;700 per QALY gained. Sequential FH screening could become cost-effective vs usual care if lifetime lipid monitoring plus lifestyle therapy increased after a high screening LDL-C result, including for patients with non-FH dyslipidemias. Sequential FH screening in childhood or early adulthood could be effective but not cost-effective vs usual care. However, sequential FH screening could become cost-effective under highly optimistic assumptions about increased lifestyle therapy and increased lifetime lipid monitoring for patients with non-FH dyslipidemias."
     },
     {
-      "doi": "10.1001/jama.2025.24246",
-      "url": "https://doi.org/10.1001/jama.2025.24246",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843863",
-      "article_type": "",
-      "pubmed_pmid": "41533368",
-      "title": "Minor Papillotomy for Treatment of Idiopathic Acute Pancreatitis With Pancreas Divisum: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 14",
-      "volume": "",
-      "issue": "",
-      "pages": "e2524246",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23988",
-      "url": "https://doi.org/10.1001/jama.2025.23988",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843866",
-      "article_type": "",
-      "pubmed_pmid": "41533371",
-      "title": "Minor Papillotomy for Treatment of Idiopathic Acute Pancreatitis With Pancreas Divisum: A Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Coté GA Author",
-        "Durkalski-Mauldin V Author",
-        "Fogel EL Author",
-        "Moffatt DC Author",
-        "Wang AY Author",
-        "Lara LF Author",
-        "Tarnasky PR Author",
-        "Buxbaum JL Author",
-        "Dai SC Author",
-        "Jonnalagadda S Author",
-        "Willingham FF Author",
-        "Ross A Author",
-        "Keswani RN Author",
-        "Inamdar S Author",
-        "Kothari TH Author",
-        "Gardner TB Author",
-        "Jamidar PA Author",
-        "Gaddam S Author",
-        "Pleskow DK Author",
-        "Easler JJ Author",
-        "Elmunzer BJ Author",
-        "Coneys JG Author",
-        "Mallery JS Author",
-        "Strand DS Author",
-        "Papachristou GI Author",
-        "Slivka A Author",
-        "Kedia P Author",
-        "Sahakian AB Author",
-        "Kouanda A Author",
-        "Phan A Author",
-        "Williams A Author",
-        "Andersen DK Author",
-        "Serrano J Author",
-        "Yadav D Author",
-        "SHARP Consortium CollectiveName"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Pancreas divisum is implicated as an obstructive cause for acute pancreatitis. Observational data suggest endoscopic retrograde cholangiopancreatography (ERCP) with minor papillotomy reduces the risk of pancreatitis episodes. Even though this endoscopic procedure is widely used in practice, clinical trials are lacking. To determine whether ERCP with minor papillotomy reduces the risk of acute pancreatitis among adults with unexplained acute recurrent pancreatitis and pancreas divisum. This multicenter, sham-controlled, double-blind randomized clinical trial enrolled adults with 2 or more episodes of acute pancreatitis and pancreas divisum. Adults with other etiologies for acute pancreatitis or concomitant chronic calcific pancreatitis were excluded. The trial was conducted between September 1, 2018, and August 30, 2024, at 21 referral centers in the US and Canada. Last follow-up occurred on February 15, 2025. Participants were randomized in a 1:1 ratio to ERCP with minor papillotomy or sham ERCP. The primary outcome was development of acute pancreatitis more than 30 days after randomization as a time-to-event outcome. The secondary outcomes included acute pancreatitis episode frequency and development of chronic calcific pancreatitis, diabetes, and exocrine pancreatic dysfunction. A total of 148 participants were randomized (mean age, 54 [SD, 19.5] years; 68.2% female; 95.3% non-Hispanic or Latino and 87.2% White; mean lifetime acute pancreatitis episodes, 3 [SD, 2]; mean duct diameter, 2.2 [SD, 1.3] mm) and followed up for a median of 34 months (IQR, 21.7-45.7 months). Of the 75 participants in the ERCP with minor papillotomy group, 26 (34.7%) developed acute pancreatitis compared with 32 of 73 participants (43.8%) in the sham ERCP group (adjusted hazard ratio, 0.83 [95% CI, 0.49 to 1.41]). The incidence rate ratio for acute recurrent pancreatitis episode frequency was 0.25 (95% CI, 0.18 to 0.34) in the ERCP with minor papillotomy group vs 0.30 (95% CI, 0.23 to 0.41) in the sham ERCP group. There were no between-group differences in frequency and incidence of chronic calcific pancreatitis (4.0% in the ERCP with minor papillotomy group vs 2.7% in the sham ERCP group; risk difference [RD], 0.01 [95% CI, -0.05 to 0.07]), diabetes (15.8% vs 12.8%, respectively; RD, 0.03 [95% CI, -0.13 to 0.19]), and exocrine pancreatic dysfunction (7.7% vs 17.2%; RD, -0.10 [95% CI, -0.27 to 0.08]). The adverse event of acute pancreatitis within 30 days of randomization occurred more frequently in the ERCP with minor papillotomy group (14.7%) vs the sham ERCP group (8.2%) (RD, 0.06 [95% CI, -0.04 to 0.17]). Among patients with unexplained acute recurrent pancreatitis and pancreas divisum, ERCP with minor papillotomy does not reduce the risk of another episode of acute pancreatitis or related sequelae. ClinicalTrials.gov Identifier: NCT03609944."
-    },
-    {
-      "doi": "10.1001/jama.2025.23985",
-      "url": "https://doi.org/10.1001/jama.2025.23985",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
-      "article_type": "",
-      "pubmed_pmid": "41533353",
-      "title": "Minor Papillotomy for Pancreas Divisum and Idiopathic Recurrent Pancreatitis-Evidence Over Assumptions.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 14",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Ramai D Author",
-        "Muthusamy VR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23179",
       "url": "https://doi.org/10.1001/jama.2025.23179",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843897",
@@ -2108,27 +1988,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes type 2 diabetes and its symptoms, diagnosis, treatment, and screening recommendations."
-    },
-    {
-      "doi": "10.1001/jama.2025.24090",
-      "url": "https://doi.org/10.1001/jama.2025.24090",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843896",
-      "article_type": "",
-      "pubmed_pmid": "41538198",
-      "title": "Against Medical Advice.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 15",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Stead W Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, an infectious diseases physician describes how a patient with a complex lung infection demanded that his treatment would not interfere with his life, which offered a fresh way of understanding patient-centered care."
     },
     {
       "doi": "10.1001/jama.2025.20029",
@@ -2295,6 +2154,25 @@
       "abstract_md": "This Medical News article discusses a new H3N2 influenza strain, called subclade K, that may lead to a more severe flu season."
     },
     {
+      "doi": "10.1001/jama.2025.15668",
+      "url": "https://doi.org/10.1001/jama.2025.15668",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843172",
+      "article_type": "",
+      "pubmed_pmid": "41428294",
+      "title": "The Art of Prognostication and How to Gamble Without Danger of Losing.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 20",
+      "volume": "335",
+      "issue": "3",
+      "pages": "284",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20028",
       "url": "https://doi.org/10.1001/jama.2025.20028",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843201",
@@ -2309,25 +2187,6 @@
       "authors": [
         "Pant S Author"
       ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15668",
-      "url": "https://doi.org/10.1001/jama.2025.15668",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843172",
-      "article_type": "",
-      "pubmed_pmid": "41428294",
-      "title": "The Art of Prognostication and How to Gamble Without Danger of Losing.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 20",
-      "volume": "335",
-      "issue": "3",
-      "pages": "284",
-      "authors": [],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
@@ -2359,19 +2218,19 @@
       "abstract_md": "This Viewpoint discusses how mass-production strategies that prioritize quantity over quality in research publication are undermining the principle of knowledge advancement in medical training."
     },
     {
-      "doi": "10.1001/jama.2025.20026",
-      "url": "https://doi.org/10.1001/jama.2025.20026",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843203",
+      "doi": "10.1001/jama.2025.20027",
+      "url": "https://doi.org/10.1001/jama.2025.20027",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843202",
       "article_type": "",
-      "pubmed_pmid": "41417480",
-      "title": "GLP-1 Drugs Linked With Chronic Cough.",
+      "pubmed_pmid": "41417258",
+      "title": "Shingles Vaccine May Slow Dementia Progression.",
       "journal": "JAMA",
       "pubdate": "2026 Jan 20",
       "volume": "335",
       "issue": "3",
       "pages": "204",
       "authors": [
-        "Anderer S Author"
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -2401,23 +2260,40 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20027",
-      "url": "https://doi.org/10.1001/jama.2025.20027",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843202",
+      "doi": "10.1001/jama.2025.20026",
+      "url": "https://doi.org/10.1001/jama.2025.20026",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843203",
       "article_type": "",
-      "pubmed_pmid": "41417258",
-      "title": "Shingles Vaccine May Slow Dementia Progression.",
+      "pubmed_pmid": "41417480",
+      "title": "GLP-1 Drugs Linked With Chronic Cough.",
       "journal": "JAMA",
       "pubdate": "2026 Jan 20",
       "volume": "335",
       "issue": "3",
       "pages": "204",
       "authors": [
-        "Pant S Author"
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.20358",
+      "url": "https://doi.org/10.1001/jama.2025.20358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842963",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2441,23 +2317,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20358",
-      "url": "https://doi.org/10.1001/jama.2025.20358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842963",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2577,6 +2436,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.17253",
+      "url": "https://doi.org/10.1001/jama.2025.17253",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841054",
+      "article_type": "",
+      "pubmed_pmid": "41196608",
+      "title": "What Are Hemorrhoids?",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 6",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Roberts K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This JAMA Patient Page describes hemorrhoids and their symptoms, diagnosis, and treatment."
+    },
+    {
       "doi": "10.1001/jama.2025.23059",
       "url": "https://doi.org/10.1001/jama.2025.23059",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842278",
@@ -2598,27 +2478,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses new guidance on responsible use of artificial intelligence."
-    },
-    {
-      "doi": "10.1001/jama.2025.17253",
-      "url": "https://doi.org/10.1001/jama.2025.17253",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841054",
-      "article_type": "",
-      "pubmed_pmid": "41196608",
-      "title": "What Are Hemorrhoids?",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Roberts K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Patient Page describes hemorrhoids and their symptoms, diagnosis, and treatment."
     },
     {
       "doi": "10.1001/jama.2025.20541",
@@ -2962,9 +2821,9 @@
       "abstract_md": "This Viewpoint discusses the need to continue combating HIV domestically and internationally."
     },
     {
-      "doi": "10.1001/jama.2025.15667",
-      "url": "https://doi.org/10.1001/jama.2025.15667",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
+      "doi": "10.1001/jama.2025.20361",
+      "url": "https://doi.org/10.1001/jama.2025.20361",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842962",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -2979,9 +2838,9 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20361",
-      "url": "https://doi.org/10.1001/jama.2025.20361",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842962",
+      "doi": "10.1001/jama.2025.15667",
+      "url": "https://doi.org/10.1001/jama.2025.15667",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843660",
       "article_type": "",
       "pubmed_pmid": "",
       "title": "",
@@ -3051,28 +2910,6 @@
       "abstract_md": "Antibiotic therapy is effective and safe for uncomplicated acute appendicitis in adults, but randomized clinical trial results exceeding 5 years are missing. To determine the 10-year appendicitis recurrence and appendectomy rate in patients with uncomplicated appendicitis treated with antibiotics. Ten-year observational follow-up of patients in the Appendicitis Acuta (APPAC) multicenter randomized clinical trial comparing appendectomy with antibiotics at 6 Finnish hospitals from November 2009 to June 2012, where 530 patients (aged 18-60 years) with uncomplicated acute appendicitis diagnosed by computed tomography were randomly assigned to appendectomy (n&#x2009;=&#x2009;273) or antibiotics (n&#x2009;=&#x2009;257). Last follow-up was April 29, 2024. This current analysis focused on assessing the 10-year appendicitis recurrence rate among patients assigned to antibiotics. Open appendectomy vs antibiotics with intravenous ertapenem sodium (1 g/d) for 3 days followed by 7 days of oral levofloxacin (500 mg once daily) and metronidazole (500 mg 3 times/d). Prespecified 10-year secondary end points included late (after 1 year) appendectomy and appendicitis recurrence rate after antibiotics and complications. Post hoc outcomes included the detection of possible appendiceal tumors among patients in the antibiotic group undergoing appendectomy or with an intact appendix using magnetic resonance imaging. Additional post hoc outcomes were quality of life and patient satisfaction. At 10-year follow-up, 253/257 patients (98.4%) randomized to receive antibiotics (median age, 33 years; 102 [40.3%] female) were assessed for appendicitis recurrence, with a true appendicitis recurrence rate (appendicitis at histopathology) of 37.8% (95% CI, 31.6%-44.1% [87/230]) and a cumulative appendectomy rate of 44.3% (95% CI, 38.2%-50.4% [112/253]). Overall, the 10-year cumulative complication rate in the group randomized to appendectomy was 27.4% (95% CI, 21.6%-33.3% [62/226]) and 8.5% (95% CI, 4.8%-12.1% [19/224]) in the group randomized to receive antibiotics (P&#x2009;&lt;&#x2009;.001). There was no observed significant difference in quality of life between antibiotics and appendectomy (387/530; median health index value, 1.0 [95% CI, 1.0-1.0] for both groups; P&#x2009;=&#x2009;.18). Among patients initially treated with antibiotics for uncomplicated acute appendicitis, the rate of recurrence and appendectomy at 10-year follow-up supports the use of antibiotics as an option for uncomplicated acute appendicitis in adult patients. ClinicalTrials.gov Identifier: NCT01022567."
     },
     {
-      "doi": "10.1001/jama.2025.23247",
-      "url": "https://doi.org/10.1001/jama.2025.23247",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844112",
-      "article_type": "",
-      "pubmed_pmid": "41563785",
-      "title": "Restless Legs Syndrome: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 21",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Winkelman JW Author",
-        "Wipper B Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults &#x2265;65 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P&#x2009;&lt;&#x2009;.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment."
-    },
-    {
       "doi": "10.1001/jama.2025.25464",
       "url": "https://doi.org/10.1001/jama.2025.25464",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844119",
@@ -3094,27 +2931,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Clinical Guidelines Synopsis summarizes the 2024 Canadian Research Initiative in Substance Matters (CRISM) guideline on management of opioid use disorder (OUD)."
-    },
-    {
-      "doi": "10.1001/jama.2025.26155",
-      "url": "https://doi.org/10.1001/jama.2025.26155",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844115",
-      "article_type": "",
-      "pubmed_pmid": "41563731",
-      "title": "What Is Restless Legs Syndrome?",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 21",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Walter K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Patient Page describes restless legs syndrome and its symptoms, risk factors, diagnosis, and management."
     },
     {
       "doi": "10.1001/jama.2025.26612",
@@ -3165,29 +2981,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "For patients with idiopathic pulmonary fibrosis (IPF), cough impairs quality of life; effective treatments for IPF-associated cough are needed. To determine if nalbuphine extended release (ER), a &#x3ba; opioid receptor agonist and &#x3bc;-opioid receptor antagonist, decreases cough compared with placebo in patients with IPF-associated cough. In this randomized, double-blind, placebo-controlled phase 2b trial conducted at 52 sites in 10 countries, patients with IPF, chronic cough for at least 8 weeks, and a Cough Severity Numerical Rating Scale (0, no cough; 10, worst possible cough) score of 4 or higher were enrolled from February 2024 to February 2025, with last follow-up in April 2025. Statistical analyses were conducted from May to August 2025. Patients were randomized 1:1:1:1 to receive nalbuphine ER at doses of 27 mg, 54 mg, or 108 mg or placebo twice daily for 6 weeks. The primary outcome was the relative change from baseline in 24-hour cough frequency (coughs/h), measured with a digital cough monitor, for nalbuphine ER compared with placebo at week 6. The key secondary outcome was the relative change from baseline in the patient-reported cough frequency (Evaluating Respiratory Symptoms in IPF cough subscale; scores range from 0-4, lower scores indicate lesser cough frequency) at week 6. Of the 223 patients screened, 165 were randomized (42, 43, 40, and 40 to receive nalbuphine ER 27 mg, 54 mg, and 108 mg, and placebo, respectively) and 160 were included in the primary analysis (median age, 71 [range, 51-85] years; 28.5% female). The baseline mean (SD) cough count was 28.3 (27.4) coughs/h. In the nalbuphine ER 27 mg, 54 mg, and 108 mg twice-daily groups, the mean relative decrease in the cough count and the absolute decrease in coughs/h were 47.9% (from 24.6 to 11.9; P&#x2009;=&#x2009;.008), 53.4% (from 28.0 to 14.9; P&#x2009;&lt;&#x2009;.001), and 60.2% (from 31.5 to 11.9; P&#x2009;&lt;&#x2009;.001), respectively, compared with placebo (16.9%; from 29.4 to 28.1 coughs/h). For the key secondary outcome of patient-reported cough frequency at week 6, the relative and absolute changes were -31.4% (from 2.3 to 1.5; P&#x2009;=&#x2009;.14), -40.6% (from 2.6 to 1.4; P&#x2009;=&#x2009;.004), and -40.2% (from 2.4 to 1.4; P&#x2009;&lt;&#x2009;.005) in the 27-mg, 54-mg, and 108-mg groups, respectively, compared with -21.9% (from 2.6 to 1.9) with placebo. For patients with IPF-associated chronic cough, all 3 doses of nalbuphine ER reduced objective cough frequency and the 2 higher doses improved patient-reported cough frequency at 6 weeks. ClinicalTrials.gov Identifier: NCT05964335."
-    },
-    {
-      "doi": "10.1001/jama.2025.26049",
-      "url": "https://doi.org/10.1001/jama.2025.26049",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844184",
-      "article_type": "",
-      "pubmed_pmid": "41569605",
-      "title": "Blood-Based Biomarkers for Alzheimer Disease: Preventing Unintended Consequences.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 22",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Whitson HE Author",
-        "Fowler NR Author",
-        "Mielke MM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses areas of potential harm and actions needed to mitigate risk so that the use of blood-based biomarkers for Alzheimer disease can achieve the intended goal of improving care for all."
     },
     {
       "doi": "10.1001/jama.2025.26285",
@@ -3255,95 +3048,6 @@
       "abstract_md": "Rapid recovery with extended ultraoxygenated preservation (REUP) has shown promise in adult donation after circulatory death (DCD) heart transplant when used in younger donor populations (aged 16-30 years) and/or for hearts with shorter ischemic times (&lt;4 hours). To assess the feasibility of the REUP technique in adult DCD heart transplant, without regard to donor age or anticipated ischemic time. Case series of 24 patients to undergo REUP-recovered DCD adult heart transplant at a single high-volume heart transplant center in the United States from November 2024 to July 2025. REUP used for DCD cardiac allograft recovery without preimplant donor heart reanimation or machine perfusion. Severe primary graft dysfunction, 30-day survival, and acute rejection on first endomyocardial biopsy. Twenty-four REUP-recovered DCD hearts were transplanted, with a mean donor age of 32 years and 9 donors (38%) older than 40 years. Fifty percent of recipients had prior sternotomy. The mean time from initial declaration of donor death to flush was 9 minutes. Fifteen donor hearts (60%) had a total ischemic time longer than 4 hours, including 1 that was 8 hours. Among recipients, 30-day survival was 96%. Only 1 patient (4%) had severe primary graft dysfunction, and 1 other patient (4%) had secondary graft dysfunction. On initial endomyocardial biopsy, 1 patient (4%) had acute cellular rejection grade 2R; no cases of antibody-mediated rejection were observed. This study demonstrates the safety, feasibility, and efficacy of REUP for DCD heart recovery without donor heart reanimation in a broad population of donors and recipients and without regard to anticipated ischemic time. Given the high cost and complexity of current DCD heart recovery strategies, as well as ethical concerns surrounding normothermic regional perfusion, REUP may prove to be a promising procurement method. Further study is required to support continued expansion of this novel technique."
     },
     {
-      "doi": "10.1001/jama.2025.23443",
-      "url": "https://doi.org/10.1001/jama.2025.23443",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844452",
-      "article_type": "",
-      "pubmed_pmid": "41587060",
-      "title": "Communicating Medical Numbers.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 26",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Cohen AD Author",
-        "Williams A Author",
-        "Johnson LM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23446",
-      "url": "https://doi.org/10.1001/jama.2025.23446",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844451",
-      "article_type": "",
-      "pubmed_pmid": "41587039",
-      "title": "Communicating Medical Numbers.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 26",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Silverman MP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23449",
-      "url": "https://doi.org/10.1001/jama.2025.23449",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844450",
-      "article_type": "",
-      "pubmed_pmid": "41587050",
-      "title": "Communicating Medical Numbers.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 26",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Kube T Author",
-        "Rief W Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23400",
-      "url": "https://doi.org/10.1001/jama.2025.23400",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844449",
-      "article_type": "",
-      "pubmed_pmid": "41587051",
-      "title": "Communicating Medical Numbers-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 26",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Zikmund-Fisher BJ Author",
-        "Thorpe A Author",
-        "Fagerlin A Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.27045",
       "url": "https://doi.org/10.1001/jama.2025.27045",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844447",
@@ -3387,28 +3091,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "IgA nephropathy (IgAN) is a chronic kidney disease involving deposition of IgA-containing immune complexes in the glomerulus, causing glomerular inflammation and scarring. It is the most common immune-mediated glomerular disease worldwide, and affects an estimated 198&#x202f;887 to 208&#x202f;184 persons in the US. Up to 50% of patients with IgAN develop kidney failure within 10 years of diagnosis. IgAN typically presents with nephritic syndrome and usually occurs in younger adults, with a mean age at diagnosis of 34 to 45 years. Incidence is highest in East Asia. Approximately 60% of cases are detected incidentally with hematuria or proteinuria on urinalysis. Up to 30% of patients present with episodic visible hematuria, often concomitantly with an upper respiratory or gastrointestinal tract infection (synpharyngitic hematuria). Less common presentations include nephrotic syndrome (&lt;5%) and rapidly progressive glomerulonephritis (&lt;5%). When IgAN is suspected (due to hematuria, proteinuria, or reduced kidney function), initial workup should include quantification of proteinuria and assessment for other causes of nephritic syndrome (eg, lupus nephritis). Adults with suspected IgAN and proteinuria greater than or equal to 0.5 g per day should undergo kidney biopsy. The diagnosis of primary IgAN is based on presence of IgA-dominant immune deposits in the glomerular mesangium after excluding other causes of this histologic appearance, ie, IgA vasculitis, IgA-dominant infection-related glomerulonephritis, and secondary IgAN from diseases such as cirrhosis, inflammatory bowel disease, celiac disease, infection (eg, viral hepatitis), and autoimmune diseases (eg, axial spondyloarthritis). Based on the Kidney Disease: Improving Global Outcomes 2025 clinical practice guideline for the management of IgAN, treatment for patients with proteinuria greater than 0.5 g per day includes behavioral modifications (eg, dietary sodium &lt;2 g/d, smoking cessation, weight control, exercise), antihypertensive medications for goal blood pressure less than 120/70 mm Hg, and therapies to reduce the formation of IgA-containing immune complexes (eg, targeted-release budesonide), decrease glomerular injury (eg, systemic glucocorticoids, iptacopan), and manage existing IgAN-induced nephron loss (eg, renin-angiotensin system inhibitor or dual endothelin angiotensin receptor antagonist [eg, sparsentan] alone or in combination with a sodium-glucose cotransporter 2 inhibitor). IgAN is the leading cause of immune-mediated glomerular disease worldwide. Patients with suspected IgAN and proteinuria greater than or equal to 0.5 g per day should undergo kidney biopsy to confirm the diagnosis. Treatment of IgAN includes behavioral modifications, blood pressure management, and therapies to decrease formation of IgA-containing immune complexes (eg, targeted-release budesonide), reduce immune complex-mediated glomerular injury (eg, systemic glucocorticoids, iptacopan), and manage IgAN-induced nephron loss (eg, renin-angiotensin system inhibitor, dual endothelin angiotensin receptor antagonist, and sodium-glucose cotransporter 2 inhibitor)."
-    },
-    {
-      "doi": "10.1001/jama.2025.26194",
-      "url": "https://doi.org/10.1001/jama.2025.26194",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844445",
-      "article_type": "",
-      "pubmed_pmid": "41587038",
-      "title": "Reimagining Transplant Center Incentives Beyond the CMS IOTA Model.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 26",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Chan A Author",
-        "Roth AE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
     },
     {
       "doi": "10.1001/jama.2025.23744",
@@ -3498,29 +3180,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20914",
-      "url": "https://doi.org/10.1001/jama.2025.20914",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842965",
-      "article_type": "",
-      "pubmed_pmid": "41405903",
-      "title": "Fetal Vein of Galen Malformation-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "369-370",
-      "authors": [
-        "Orbach D Author",
-        "Shamshirsaz A Author",
-        "Wilkins-Haug L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23909",
       "url": "https://doi.org/10.1001/jama.2025.23909",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843173",
@@ -3540,6 +3199,29 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.20914",
+      "url": "https://doi.org/10.1001/jama.2025.20914",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842965",
+      "article_type": "",
+      "pubmed_pmid": "41405903",
+      "title": "Fetal Vein of Galen Malformation-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "369-370",
+      "authors": [
+        "Orbach D Author",
+        "Shamshirsaz A Author",
+        "Wilkins-Haug L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -3709,6 +3391,46 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23090",
+      "url": "https://doi.org/10.1001/jama.2025.23090",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843606",
+      "article_type": "",
+      "pubmed_pmid": "41481306",
+      "title": "COVID-19 in Pregnancy Linked With Risk of Neurodevelopmental Disorders in Early Childhood.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "296-297",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses new research indicating that children whose mothers had COVID-19 during pregnancy were more likely to be diagnosed with a neurodevelopmental disorder by age 3 years."
+    },
+    {
+      "doi": "10.1001/jama.2025.22836",
+      "url": "https://doi.org/10.1001/jama.2025.22836",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843165",
+      "article_type": "",
+      "pubmed_pmid": "41428339",
+      "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "e2522836",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.19433",
       "url": "https://doi.org/10.1001/jama.2025.19433",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842072",
@@ -3756,46 +3478,6 @@
       "abstract_md": "This JAMA Patient Page describes osteoporosis risk factors, symptoms, screening, diagnosis, and treatment."
     },
     {
-      "doi": "10.1001/jama.2025.23090",
-      "url": "https://doi.org/10.1001/jama.2025.23090",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843606",
-      "article_type": "",
-      "pubmed_pmid": "41481306",
-      "title": "COVID-19 in Pregnancy Linked With Risk of Neurodevelopmental Disorders in Early Childhood.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "296-297",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses new research indicating that children whose mothers had COVID-19 during pregnancy were more likely to be diagnosed with a neurodevelopmental disorder by age 3 years."
-    },
-    {
-      "doi": "10.1001/jama.2025.22836",
-      "url": "https://doi.org/10.1001/jama.2025.22836",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843165",
-      "article_type": "",
-      "pubmed_pmid": "41428339",
-      "title": "An mHealth (Mobile Health) Intervention for Smoking Cessation in People With Tuberculosis: A Cluster Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "e2522836",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23003",
       "url": "https://doi.org/10.1001/jama.2025.23003",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843613",
@@ -3830,6 +3512,27 @@
       "pages": "298",
       "authors": [
         "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23006",
+      "url": "https://doi.org/10.1001/jama.2025.23006",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843610",
+      "article_type": "",
+      "pubmed_pmid": "41481318",
+      "title": "PAHO Urges Vaccination as Whooping Cough Surges in the Americas.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "298-299",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3881,27 +3584,6 @@
       "abstract_md": "Conventional wisdom holds that caffeinated coffee is proarrhythmic. Coffee is the most commonly consumed caffeinated beverage in the US, and a randomized trial assessing caffeinated coffee consumption in patients with atrial fibrillation (AF) has not previously been performed. To determine the effect of caffeinated coffee consumption compared with abstinence from coffee and caffeine on recurrent AF. This was a prospective, open-label, randomized clinical trial enrolling 200 current or previous (within past 5 years) coffee-drinking adults with persistent AF, or atrial flutter with a history of AF, planned for electrical cardioversion from 5 hospitals in the US, Canada, and Australia between November 2021 and December 2024. The date of final follow-up was June 5, 2025. Patients were randomized in a 1:1 ratio to regular caffeinated coffee consumption vs coffee and caffeine abstinence for 6 months. Patients in the coffee consumption group were encouraged to drink at least 1 cup of caffeinated coffee daily. Patients in the abstinence group were encouraged to completely abstain from both caffeinated and decaffeinated coffee and other caffeine-containing products. The primary end point was clinically detected recurrence of AF or atrial flutter over 6 months. Two hundred patients (mean [SD] age, 69 [11] years; 71% male) were randomized to caffeinated coffee consumption (n&#x2009;=&#x2009;100) or coffee abstinence (n&#x2009;=&#x2009;100). Baseline coffee intake was 7 cups (IQR, 7-18) per week in both groups. During follow-up, coffee intake in the consumption and abstinence groups was 7 (IQR, 6-11) and 0 (IQR, 0-2) cups per week, respectively, resulting in a between-group difference of 7 cups (95% CI, 7-7) per week. In the primary analysis, AF or atrial flutter recurrence was less in the coffee consumption (47%) than the coffee abstinence (64%) group, resulting in a 39% lower hazard of recurrence (hazard ratio, 0.61 [95% CI, 0.42-0.89]; P&#x2009;=&#x2009;.01). A comparable benefit of coffee consumption was observed with AF recurrence only. There was no significant difference in adverse events. In this clinical trial of coffee drinkers after successful cardioversion, allocation to consumption of caffeinated coffee averaging 1 cup a day was associated with less recurrence of AF or atrial flutter compared with abstinence from coffee and caffeinated products. ClinicalTrials.gov Identifier: NCT05121519."
     },
     {
-      "doi": "10.1001/jama.2025.23006",
-      "url": "https://doi.org/10.1001/jama.2025.23006",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843610",
-      "article_type": "",
-      "pubmed_pmid": "41481318",
-      "title": "PAHO Urges Vaccination as Whooping Cough Surges in the Americas.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "298-299",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.20912",
       "url": "https://doi.org/10.1001/jama.2025.20912",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842966",
@@ -3947,6 +3629,30 @@
       "abstract_md": "This Perspective examines the currently circulating influenza A(H3N2) subclade K virus, including antigenic variants, vaccine effectiveness, and countermeasures."
     },
     {
+      "doi": "10.1001/jama.2025.23741",
+      "url": "https://doi.org/10.1001/jama.2025.23741",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843252",
+      "article_type": "",
+      "pubmed_pmid": "41460643",
+      "title": "Reframing Opioid Overdose as an Ambulatory Care-Sensitive Condition.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "303-304",
+      "authors": [
+        "Hsu M Author",
+        "Lawrence D Author",
+        "Capone-Newton P Author",
+        "Gelberg L Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint explores the potential benefits of designating opioid overdose as an ambulatory care&#x2013;sensitive condition, including broader implementation of evidence-based overdose prevention interventions."
+    },
+    {
       "doi": "10.1001/jama.2025.23005",
       "url": "https://doi.org/10.1001/jama.2025.23005",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843611",
@@ -3983,30 +3689,6 @@
       "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23741",
-      "url": "https://doi.org/10.1001/jama.2025.23741",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843252",
-      "article_type": "",
-      "pubmed_pmid": "41460643",
-      "title": "Reframing Opioid Overdose as an Ambulatory Care-Sensitive Condition.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "303-304",
-      "authors": [
-        "Hsu M Author",
-        "Lawrence D Author",
-        "Capone-Newton P Author",
-        "Gelberg L Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint explores the potential benefits of designating opioid overdose as an ambulatory care&#x2013;sensitive condition, including broader implementation of evidence-based overdose prevention interventions."
     },
     {
       "doi": "10.1001/jama.2025.21709",
@@ -4115,6 +3797,28 @@
       "abstract_md": "This secret shopper study assesses current capacity to provide abortion care within California&#x2019;s managed Medicaid networks in Los Angeles County after passage of federal legislation temporarily banning Medicaid payments to large family planning organizations."
     },
     {
+      "doi": "10.1001/jama.2025.20808",
+      "url": "https://doi.org/10.1001/jama.2025.20808",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
+      "article_type": "",
+      "pubmed_pmid": "41396452",
+      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 27",
+      "volume": "335",
+      "issue": "4",
+      "pages": "368-369",
+      "authors": [
+        "Joung B Author",
+        "Kim D Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.20765",
       "url": "https://doi.org/10.1001/jama.2025.20765",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843169",
@@ -4149,28 +3853,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Smoking worsens outcomes in people with tuberculosis (TB), while quitting hastens recovery. To assess the effectiveness of a mobile health (mHealth) intervention for achieving self-reported continuous tobacco abstinence at 6 months, supported by biochemical verification at 6 months, compared with usual care in people with TB. Multicenter, cluster randomized clinical trial conducted between September 18, 2023, and January 2, 2025, randomizing (2:1) 27 TB clinics in Bangladesh and Pakistan to mHealth or usual care groups. The follow-up was 6 months. Participants were eligible if they were 15 years or older, had been diagnosed with drug-sensitive pulmonary TB in the past 4 weeks, smoked daily, were willing to quit, and had access to mobile phones. The mHealth group (n&#x2009;=&#x2009;720) received text messages throughout TB treatment, daily for 2 months then monthly for 4 months, encouraging tobacco cessation. The usual care group (n&#x2009;=&#x2009;360) received written information on tobacco cessation. The primary outcome was self-reported continuous abstinence at 6 months, verified biochemically using carbon monoxide breath test at 6 months. Secondary outcomes included self-reported point abstinence at 9 weeks and 6 months, TB treatment adherence (days receiving TB treatment), TB treatment success (cured&#x2009;+&#x2009;completed treatment), TB treatment failure, TB treatment default (interruption of TB treatment for &#x2265;2 months), and death. Of 9232 patients assessed for eligibility, 1080 were randomized; most were male (mHealth, 96.9%; usual care, 95.8%), and 985 were retained throughout the trial (91%). For the primary outcome, 300 of 720 participants (41.7%) in the mHealth group demonstrated self-reported and biochemically verified continuous abstinence at 6 months, compared with 55 of 360 (15.3%) in the usual care group (risk ratio, 3.0 [95% CI, 2.0-4.9]). In the mHealth vs usual care groups, respectively, mean TB treatment adherence was 174.3 (SD, 21.5) days vs 178.0 (SD, 12.1) days (P&#x2009;=&#x2009;.23), and treatment success was 89.3% vs 85.6% (risk ratio, 1.2 [95% CI, 0.9-1.6]). TB treatment failure (0.1% vs 0.5%) and default (3.1% vs 1.9%) were uncommon. Mortality was lower with mHealth (3.5%) vs usual care (7.5%) (hazard ratio, 0.4 [95%CI, 0.2-0.9]). An mHealth intervention was effective in achieving continuous abstinence in people with TB who smoked. mHealth is a feasible and effective intervention to help patients with TB quit smoking. isrctn.org Identifier: ISRCTN86971818."
-    },
-    {
-      "doi": "10.1001/jama.2025.20808",
-      "url": "https://doi.org/10.1001/jama.2025.20808",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842836",
-      "article_type": "",
-      "pubmed_pmid": "41396452",
-      "title": "Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 27",
-      "volume": "335",
-      "issue": "4",
-      "pages": "368-369",
-      "authors": [
-        "Joung B Author",
-        "Kim D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22134",
@@ -4275,113 +3957,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.27266",
-      "url": "https://doi.org/10.1001/jama.2025.27266",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844502",
-      "article_type": "",
-      "pubmed_pmid": "41604192",
-      "title": "Incomplete Nonauthor Collaborator Names.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Published Erratum"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23045",
-      "url": "https://doi.org/10.1001/jama.2025.23045",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844493",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23790",
-      "url": "https://doi.org/10.1001/jama.2025.23790",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844496",
-      "article_type": "",
-      "pubmed_pmid": "41604193",
-      "title": "America's Vaccine Policy Whiplash-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Navin M Author",
-        "Ross LF Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25300",
-      "url": "https://doi.org/10.1001/jama.2025.25300",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844499",
-      "article_type": "",
-      "pubmed_pmid": "41604185",
-      "title": "Author Disclosure of Use of AI in Submissions to 13 JAMA Network Journals.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Perlis RH Author",
-        "Flanagin A Author",
-        "Kendall-Taylor J Author",
-        "Berkwits M Author",
-        "Bibbins-Domingo K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study examines author self-reported disclosures of use of artificial intelligence (AI) in the preparation of manuscripts submitted to JAMA Network journals since implementation of a requirement of disclosure in 2023."
-    },
-    {
-      "doi": "10.1001/jama.2025.23787",
-      "url": "https://doi.org/10.1001/jama.2025.23787",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844497",
-      "article_type": "",
-      "pubmed_pmid": "41604181",
-      "title": "America's Vaccine Policy Whiplash.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Kressly SJ Author",
-        "Racine AD Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2026.0832",
       "url": "https://doi.org/10.1001/jama.2026.0832",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844638",
@@ -4403,51 +3978,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the recent release of the 2025-2030 Dietary Guidelines for Americans (DGAs) in the context of prior recommendations from the Dietary Guidelines Advisory Committee&#x2019;s 2025 scientific report and prior DGAs."
-    },
-    {
-      "doi": "10.1001/jama.2025.25686",
-      "url": "https://doi.org/10.1001/jama.2025.25686",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844500",
-      "article_type": "",
-      "pubmed_pmid": "41604184",
-      "title": "Win Ratio Method for Hierarchical Composite Outcomes in Randomized Clinical Trials.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Cunningham JM Author",
-        "Fuest S Author",
-        "Burke H Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This Guide to Statistics and Methods provides an overview of the win ratio method for analyzing composite end points in randomized clinical trials, including its benefits and limitations."
-    },
-    {
-      "doi": "10.1001/jama.2025.26845",
-      "url": "https://doi.org/10.1001/jama.2025.26845",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844501",
-      "article_type": "",
-      "pubmed_pmid": "41604205",
-      "title": "AI Use in Research and the Need for Continued Guidance.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Malani PN Author",
-        "Ross JS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.26817",
@@ -4478,48 +4008,6 @@
       "abstract_md": "The prevalence of obesity in the US has risen steeply over the past decades, representing a large public health burden with substantial variation by population. There is a lack of detailed population-level estimates and projections of obesity necessary for informing health policy and reducing disparities. To estimate US obesity prevalence from 1990 to 2022 and predict trends through 2035 by race and ethnicity, state, sex, and age (&#x2265;20 years). Analysis of measured body mass index data from the National Health and Nutrition Examination Survey and bias-corrected body mass index values calculated from self-reported height and weight data from the Behavioral Risk Factor Surveillance System and Gallup Daily Survey using spatiotemporal gaussian process regression and an ensemble of annualized rate of change and meta-regression bayesian spline models. Surveys for input data were conducted using population-based sampling by state and by race and ethnicity group with a total of 11&#x202f;315&#x202f;421 US participants. Results are reported for Hispanic, any race; non-Hispanic Black; and non-Hispanic White populations. Obesity prevalence (BMI &#x2265;30). In 2022, there were an estimated 107 (95% uncertainty interval [UI], 101-113) million adults living with obesity in the US (42.5% [95% UI, 40.2%-45.0%] of the adult population), an increase from 34.7 (95% UI, 31.1-38.3) million in 1990 (19.3% [95% UI, 17.3%-21.3%] of the adult population). By 2035, this is projected to increase to 126 (95% UI, 118-134) million (46.9% [95% UI, 43.9%-49.9%] of the adult population). Nationally, age-standardized prevalence by race and ethnicity group and sex in 2022 ranged from 40.1% (95% UI, 37.8%-42.5%) for non-Hispanic White males to 56.9% (95% UI, 54.1%-59.9%) for non-Hispanic Black females. There were substantial state-level differences, with prevalence highest in Midwestern and Southern states, as well as within-state disparities by race and ethnicity, which were larger for females than males. Prevalence also varied by age, with obesity prevalence highest among middle-aged adults and large increases in the youngest adult ages, especially for females. While there are large differences by race and ethnicity, sex, age, and state, the prevalence of obesity is high and forecasted to continue increasing for all groups."
     },
     {
-      "doi": "10.1001/jama.2025.25688",
-      "url": "https://doi.org/10.1001/jama.2025.25688",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844498",
-      "article_type": "",
-      "pubmed_pmid": "41604147",
-      "title": "Self-Disclosed Use of AI in Research Submissions to BMJ Journals.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 28",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "AlFayyad I Author",
-        "Zeegers MP Author",
-        "Bouter L Author",
-        "Macdonald H Author",
-        "Schroter S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study examines self-disclosed use of artificial intelligence (AI) in research manuscripts submitted to BMJ Group journals, including the types of tools used and frequency of use."
-    },
-    {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.27042",
       "url": "https://doi.org/10.1001/jama.2025.27042",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844541",
@@ -4541,27 +4029,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint proposes that the US Food and Drug Administration create a patent database for medical devices, the Yellow Book, similar to the Orange Book&#x2019;s database of drug-related patents."
-    },
-    {
-      "doi": "10.1001/jama.2025.26751",
-      "url": "https://doi.org/10.1001/jama.2025.26751",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844546",
-      "article_type": "",
-      "pubmed_pmid": "41609804",
-      "title": "What Can 50-Year-Old Chatbots Teach Us About Clinical Applications of AI?",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 29",
-      "volume": "",
-      "issue": "",
-      "pages": "e2526751",
-      "authors": [
-        "Perlis R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Video-Audio Media"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, conducted an interview with ChatGPT about the history of chatbots and their clinical applications, for JAMA+ AI Conversations."
     },
     {
       "doi": "10.1001/jama.2025.26848",
@@ -4604,29 +4071,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23796",
-      "url": "https://doi.org/10.1001/jama.2025.23796",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844548",
-      "article_type": "",
-      "pubmed_pmid": "41609735",
-      "title": "Early Intratracheal Budesonide to Reduce Bronchopulmonary Dysplasia in Extremely Preterm Infants.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Peng N Author",
-        "Peng X Author",
-        "Yang R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.26967",
       "url": "https://doi.org/10.1001/jama.2025.26967",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844545",
@@ -4659,52 +4103,6 @@
       "abstract_md": "Potentially inappropriate medications are commonly overprescribed to older adults. Although electronic health record (EHR)-based tools can increase use of evidence-based medications, their ability to reduce prescription of potentially inappropriate medications remains unclear. To test the effects of 2 EHR interventions, designed using behavioral science techniques, on the deprescribing of potentially inappropriate medications compared with usual care in older patients. In this 3-group parallel randomized clinical trial, 201 primary care physicians (PCPs) in an academic center in Massachusetts were cluster-randomized in November 2022. Follow-up ended March 15, 2024. The intervention focused on patients of randomized PCPs who were 65 years or older, had a PCP visit between November 10, 2022, and March 15, 2024, and were prescribed at least 90 pills of benzodiazepines, nonbenzodiazepine sedative hypnotics, or at least 2 anticholinergic medications in the past 180 days. PCPs were randomized to usual care (no intervention) or to 1 of 2 sequential EHR **Interventions:** a precommitment intervention, in which an EHR message was sent to the physician during the first patient visit asking the PCP to initiate deprescribing discussions with a second reminder EHR message at the patient's second visit encouraging deprescribing; and a boostering intervention, in which PCPs received a notification encouraging deprescribing at the first patient visit and an in-basket reminder 4 weeks later. The primary outcome was deprescribing at least 1 medication on or after the first patient visit though the end of follow-up. Deprescribing was defined as physician-directed discontinuation or medication tapering assessed at the patient level using EHR data. Generalized estimating equations with a log link and binary-distributed errors were used for analyses, adjusting for clustering and multiple testing using Holm-Bonferroni corrections. Of 1146 participants (mean age, 73.6 years [SD, 6.4]; 69.7% female, mean follow-up, 289.9 days), 373 (32.5%) had at least 1 medication deprescribed: 145 (36.8%) in the precommitment group, 122 (34.3%) in the boostering group, and 106 (26.8%) in usual care. Compared with usual care, deprescribing was 40% more likely (relative risk [RR], 1.40; 95% CI, 1.14-1.73; absolute difference, 10.4%) in the precommitment group and 26% more likely (RR, 1.26; 95% CI, 1.01-1.57; absolute difference, 6.5%) in the boostering group. No serious adverse events were reported through the adverse event reporting system. Death rates based on manual chart review were 1.4% in the precommitment group, 3.9% in the boostering group, and 1.8% in the usual care group. These results support use of EHR tools designed using behavioral science principles to significantly increase rates of deprescribing potentially inappropriate medications used by older adults. ClinicalTrials.gov Identifier: NCT005538065."
     },
     {
-      "doi": "10.1001/jama.2025.23793",
-      "url": "https://doi.org/10.1001/jama.2025.23793",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844549",
-      "article_type": "",
-      "pubmed_pmid": "41609777",
-      "title": "Early Intratracheal Budesonide to Reduce Bronchopulmonary Dysplasia in Extremely Preterm Infants.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Deng Z Author",
-        "Gao S Author",
-        "Zhang C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23799",
-      "url": "https://doi.org/10.1001/jama.2025.23799",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
-      "article_type": "",
-      "pubmed_pmid": "41609723",
-      "title": "Early Intratracheal Budesonide to Reduce Bronchopulmonary Dysplasia in Extremely Preterm Infants-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Brion LP Author",
-        "Carlo WA Author",
-        "Ambalavanan N Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23130",
       "url": "https://doi.org/10.1001/jama.2025.23130",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844544",
@@ -4724,211 +4122,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Patient Page describes the types of adrenal insufficiency and its symptoms, diagnosis, and treatment."
-    },
-    {
-      "doi": "10.1001/jama.2025.15703",
-      "url": "https://doi.org/10.1001/jama.2025.15703",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844550",
-      "article_type": "",
-      "pubmed_pmid": "41609757",
-      "title": "Glucose as a Food.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 29",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0287",
-      "url": "https://doi.org/10.1001/jama.2026.0287",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844678",
-      "article_type": "",
-      "pubmed_pmid": "41615674",
-      "title": "Data on 3 New GLP-1 Drugs for Weight Loss That May Be Approved This Year.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This Medical News article discusses clinical trial data for weight-loss medications, in both injectable and pill formations, that are currently under review with US Food and Drug Administration."
-    },
-    {
-      "doi": "10.1001/jama.2025.26369",
-      "url": "https://doi.org/10.1001/jama.2025.26369",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844680",
-      "article_type": "",
-      "pubmed_pmid": "41615678",
-      "title": "Light Activity Lowers Death Risk in CKM Syndrome.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26370",
-      "url": "https://doi.org/10.1001/jama.2025.26370",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844679",
-      "article_type": "",
-      "pubmed_pmid": "41615669",
-      "title": "FDA Requests Removal of Suicidal Ideation Warning From GLP-1 RA Medications.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26368",
-      "url": "https://doi.org/10.1001/jama.2025.26368",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844681",
-      "article_type": "",
-      "pubmed_pmid": "41615675",
-      "title": "Health Care Plan Aims to Lower US Drug Costs and Increase Transparency.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15702",
-      "url": "https://doi.org/10.1001/jama.2025.15702",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844710",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0553",
-      "url": "https://doi.org/10.1001/jama.2026.0553",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844677",
-      "article_type": "",
-      "pubmed_pmid": "41615671",
-      "title": "As US Overdose Deaths Drop, Researchers Search for Explanations.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses new research on factors contributing to a dramatic decrease in drug overdose deaths in the US since 2023."
-    },
-    {
-      "doi": "10.1001/jama.2025.26366",
-      "url": "https://doi.org/10.1001/jama.2025.26366",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844683",
-      "article_type": "",
-      "pubmed_pmid": "41615668",
-      "title": "High-Dose Flu Vaccine Demonstrates Benefits in Older Adults With Diabetes.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26367",
-      "url": "https://doi.org/10.1001/jama.2025.26367",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844682",
-      "article_type": "",
-      "pubmed_pmid": "41615667",
-      "title": "Bariatric Surgery and GLP-1 Drugs Both Support Sustained Fat Loss.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26365",
-      "url": "https://doi.org/10.1001/jama.2025.26365",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844684",
-      "article_type": "",
-      "pubmed_pmid": "41615670",
-      "title": "US Skilled Nursing Facility Capacity Fell 5% Since COVID-19 Pandemic.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 30",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     }
   ]
 }
