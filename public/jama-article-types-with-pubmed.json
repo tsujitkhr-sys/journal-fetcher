@@ -959,27 +959,6 @@
       "abstract_md": "Levosimendan may facilitate weaning from venoarterial extracorporeal membrane oxygenation (VA-ECMO) and improve survival, but supporting evidence remains limited. To assess whether early administration of levosimendan reduces the time to successful VA-ECMO weaning in patients with severe but potentially reversible cardiogenic shock. Randomized, double-blind, placebo-controlled trial conducted across 11 intensive care units (ICUs) in France. Between August 27, 2021, and September 10, 2024, 205 adult patients with acute cardiogenic shock who had started VA-ECMO in the preceding 48 hours were enrolled. Final follow-up was completed on November 10, 2024. Patients were randomized in a 1:1 ratio to receive levosimendan, 0.15 &#x3bc;g/kg per minute, to be increased to 0.20 &#x3bc;g/kg per minute after 2 hours (n&#x2009;=&#x2009;101), or placebo (n&#x2009;=&#x2009;104). The primary outcome was time to successful ECMO weaning within 30 days following randomization. Secondary outcomes included ECMO-, mechanical ventilation-, and organ failure-free days, ICU and hospital lengths of stay, serious adverse events, and all-cause 30- and 60-day mortality. Among the 205 randomized patients (median age, 58 [IQR, 50-67] years; 149 [72.7%] male), main cardiogenic shock etiologies were postcardiotomy (79 [38.5%]), acute myocardial infarction (56 [27.3%]), and myocarditis (28 [13.7%]). Treatment dose was increased to 0.20 &#xb1; 0.01 &#x3bc;g/kg per minute in 93% of patients receiving levosimendan and in 96% of those receiving placebo. Within 30 days, 69 of 101 patients (68.3%) had a successful ECMO weaning in the levosimendan group compared with 71 of 104 (68.3%) in the placebo group (risk difference, 0.0% [95% CI, -12.8% to 12.7%]; subdistribution hazard ratio, 1.02 [95% CI, 0.74-1.39]; P&#x2009;=&#x2009;.92). In the levosimendan and placebo groups, respectively, median ECMO duration (5 [IQR, 4-7] days vs 6 [IQR, 4-11] days; P&#x2009;=&#x2009;.53), mean ICU length of stay (18 [SD, 15] days vs 19 [SD, 15] days; P&#x2009;=&#x2009;.42), and 60-day mortality (27.7% vs 25.0%; risk difference, 2.7% [95% CI, -9.0% to 15.3%]; P&#x2009;=&#x2009;.78) did not differ significantly. Ventricular arrhythmias occurred more frequently with levosimendan (18 [17.8%] vs 9 [8.7%]; absolute risk difference, 9.2% [95% CI, 0.4%-18.1%]). Among patients with severe but potentially reversible cardiogenic shock supported by VA-ECMO, early levosimendan administration did not significantly reduce the time to successful weaning of ECMO compared with placebo. ClinicalTrials.gov Identifier: NCT04728932."
     },
     {
-      "doi": "10.1001/jama.2025.20011",
-      "url": "https://doi.org/10.1001/jama.2025.20011",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842584",
-      "article_type": "",
-      "pubmed_pmid": "41348439",
-      "title": "FDA Removes Some Warnings on Menopause Hormone Therapies.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 6",
-      "volume": "335",
-      "issue": "1",
-      "pages": "12",
-      "authors": [
-        "Pant S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.18457",
       "url": "https://doi.org/10.1001/jama.2025.18457",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841037",
@@ -1000,6 +979,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Clinical Guidelines Synopsis summarizes KDIGO&#x2019;s 2024 clinical practice guideline for evaluation and management of chronic kidney disease."
+    },
+    {
+      "doi": "10.1001/jama.2025.20011",
+      "url": "https://doi.org/10.1001/jama.2025.20011",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842584",
+      "article_type": "",
+      "pubmed_pmid": "41348439",
+      "title": "FDA Removes Some Warnings on Menopause Hormone Therapies.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 6",
+      "volume": "335",
+      "issue": "1",
+      "pages": "12",
+      "authors": [
+        "Pant S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.25146",
@@ -1621,29 +1621,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.22358",
-      "url": "https://doi.org/10.1001/jama.2025.22358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841539",
-      "article_type": "",
-      "pubmed_pmid": "41231663",
-      "title": "Food and Nutrition in the MAHA Strategy-Promise and Peril.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 13",
-      "volume": "335",
-      "issue": "2",
-      "pages": "119-121",
-      "authors": [
-        "Mozaffarian D Author",
-        "Callahan EA Author",
-        "Frist WH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses both the shortcomings and strengths of the Make Our Children Healthy Again (MAHA) Strategy and how it could represent a shift toward food and nutrition as foundations of US health."
-    },
-    {
       "doi": "10.1001/jama.2025.20039",
       "url": "https://doi.org/10.1001/jama.2025.20039",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842323",
@@ -1665,6 +1642,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.22358",
+      "url": "https://doi.org/10.1001/jama.2025.22358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841539",
+      "article_type": "",
+      "pubmed_pmid": "41231663",
+      "title": "Food and Nutrition in the MAHA Strategy-Promise and Peril.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 13",
+      "volume": "335",
+      "issue": "2",
+      "pages": "119-121",
+      "authors": [
+        "Mozaffarian D Author",
+        "Callahan EA Author",
+        "Frist WH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses both the shortcomings and strengths of the Make Our Children Healthy Again (MAHA) Strategy and how it could represent a shift toward food and nutrition as foundations of US health."
     },
     {
       "doi": "10.1001/jama.2025.19615",
@@ -2218,19 +2218,19 @@
       "abstract_md": "This Viewpoint discusses how mass-production strategies that prioritize quantity over quality in research publication are undermining the principle of knowledge advancement in medical training."
     },
     {
-      "doi": "10.1001/jama.2025.20026",
-      "url": "https://doi.org/10.1001/jama.2025.20026",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843203",
+      "doi": "10.1001/jama.2025.20027",
+      "url": "https://doi.org/10.1001/jama.2025.20027",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843202",
       "article_type": "",
-      "pubmed_pmid": "41417480",
-      "title": "GLP-1 Drugs Linked With Chronic Cough.",
+      "pubmed_pmid": "41417258",
+      "title": "Shingles Vaccine May Slow Dementia Progression.",
       "journal": "JAMA",
       "pubdate": "2026 Jan 20",
       "volume": "335",
       "issue": "3",
       "pages": "204",
       "authors": [
-        "Anderer S Author"
+        "Pant S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -2260,23 +2260,40 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.20027",
-      "url": "https://doi.org/10.1001/jama.2025.20027",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843202",
+      "doi": "10.1001/jama.2025.20026",
+      "url": "https://doi.org/10.1001/jama.2025.20026",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843203",
       "article_type": "",
-      "pubmed_pmid": "41417258",
-      "title": "Shingles Vaccine May Slow Dementia Progression.",
+      "pubmed_pmid": "41417480",
+      "title": "GLP-1 Drugs Linked With Chronic Cough.",
       "journal": "JAMA",
       "pubdate": "2026 Jan 20",
       "volume": "335",
       "issue": "3",
       "pages": "204",
       "authors": [
-        "Pant S Author"
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.20358",
+      "url": "https://doi.org/10.1001/jama.2025.20358",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842963",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2300,23 +2317,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.20358",
-      "url": "https://doi.org/10.1001/jama.2025.20358",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842963",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -2436,6 +2436,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.17253",
+      "url": "https://doi.org/10.1001/jama.2025.17253",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841054",
+      "article_type": "",
+      "pubmed_pmid": "41196608",
+      "title": "What Are Hemorrhoids?",
+      "journal": "JAMA",
+      "pubdate": "2025 Nov 6",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Roberts K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This JAMA Patient Page describes hemorrhoids and their symptoms, diagnosis, and treatment."
+    },
+    {
       "doi": "10.1001/jama.2025.23059",
       "url": "https://doi.org/10.1001/jama.2025.23059",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842278",
@@ -2457,27 +2478,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses new guidance on responsible use of artificial intelligence."
-    },
-    {
-      "doi": "10.1001/jama.2025.17253",
-      "url": "https://doi.org/10.1001/jama.2025.17253",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2841054",
-      "article_type": "",
-      "pubmed_pmid": "41196608",
-      "title": "What Are Hemorrhoids?",
-      "journal": "JAMA",
-      "pubdate": "2025 Nov 6",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Roberts K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Patient Page describes hemorrhoids and their symptoms, diagnosis, and treatment."
     },
     {
       "doi": "10.1001/jama.2025.20541",
@@ -4031,6 +4031,25 @@
       "abstract_md": "This Viewpoint proposes that the US Food and Drug Administration create a patent database for medical devices, the Yellow Book, similar to the Orange Book&#x2019;s database of drug-related patents."
     },
     {
+      "doi": "10.1001/jama.2025.26996",
+      "url": "https://doi.org/10.1001/jama.2025.26996",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844542",
+      "article_type": "",
+      "pubmed_pmid": "41609750",
+      "title": "Electronic Health Record Intervention and Deprescribing for Older Adults: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Jan 29",
+      "volume": "",
+      "issue": "",
+      "pages": "e2526996",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.26848",
       "url": "https://doi.org/10.1001/jama.2025.26848",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844543",
@@ -4050,25 +4069,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a hematologist weighs the benefits and losses of surrendering the consult note to artificial intelligence."
-    },
-    {
-      "doi": "10.1001/jama.2025.26996",
-      "url": "https://doi.org/10.1001/jama.2025.26996",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844542",
-      "article_type": "",
-      "pubmed_pmid": "41609750",
-      "title": "Electronic Health Record Intervention and Deprescribing for Older Adults: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Jan 29",
-      "volume": "",
-      "issue": "",
-      "pages": "e2526996",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.26967",
