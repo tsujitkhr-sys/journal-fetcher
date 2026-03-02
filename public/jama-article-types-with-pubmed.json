@@ -2106,25 +2106,27 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23023",
-      "url": "https://doi.org/10.1001/jama.2025.23023",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
+      "doi": "10.1001/jama.2025.23871",
+      "url": "https://doi.org/10.1001/jama.2025.23871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
       "article_type": "",
-      "pubmed_pmid": "41543840",
-      "title": "Nudging Increases Flu Vaccine Uptake.",
+      "pubmed_pmid": "41538147",
+      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "480-481",
+      "pages": "e2523871",
       "authors": [
-        "Rubin R Author"
+        "Chen AW Author",
+        "Guobyte E Author",
+        "O'Connor MB Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Video-Audio Media"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
     },
     {
       "doi": "10.1001/jama.2026.0095",
@@ -2148,27 +2150,25 @@
       "abstract_md": "This Medical News article discusses changes to the US government&#x2019;s childhood and adolescent immunization schedule and what they mean for clinicians and families."
     },
     {
-      "doi": "10.1001/jama.2025.23871",
-      "url": "https://doi.org/10.1001/jama.2025.23871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
+      "doi": "10.1001/jama.2025.23023",
+      "url": "https://doi.org/10.1001/jama.2025.23023",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
       "article_type": "",
-      "pubmed_pmid": "41538147",
-      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
+      "pubmed_pmid": "41543840",
+      "title": "Nudging Increases Flu Vaccine Uptake.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "e2523871",
+      "pages": "480-481",
       "authors": [
-        "Chen AW Author",
-        "Guobyte E Author",
-        "O'Connor MB Author"
+        "Rubin R Author"
       ],
       "pubmed_pubtypes": [
-        "Video-Audio Media"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.26462",
@@ -2594,6 +2594,23 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.15688",
+      "url": "https://doi.org/10.1001/jama.2025.15688",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.22838",
       "url": "https://doi.org/10.1001/jama.2025.22838",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843254",
@@ -2613,23 +2630,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a pediatric oncology fellow at first feels awkward when parents of gravely ill children ask her about her pregnancy until she opens up and finds herself sharing in the love parents have for their children."
-    },
-    {
-      "doi": "10.1001/jama.2025.15688",
-      "url": "https://doi.org/10.1001/jama.2025.15688",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22830",
@@ -4395,28 +4395,6 @@
       "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
     },
     {
-      "doi": "10.1001/jama.2025.23935",
-      "url": "https://doi.org/10.1001/jama.2025.23935",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
-      "article_type": "",
-      "pubmed_pmid": "41364680",
-      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "580-582",
-      "authors": [
-        "Hundscheid T Author",
-        "de Boode WP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22903",
       "url": "https://doi.org/10.1001/jama.2025.22903",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844118",
@@ -4432,6 +4410,28 @@
         "Smit JM Author",
         "Kent DM Author",
         "Krijthe JH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23935",
+      "url": "https://doi.org/10.1001/jama.2025.23935",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
+      "article_type": "",
+      "pubmed_pmid": "41364680",
+      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "580-582",
+      "authors": [
+        "Hundscheid T Author",
+        "de Boode WP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -6086,28 +6086,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.26194",
-      "url": "https://doi.org/10.1001/jama.2025.26194",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844445",
-      "article_type": "",
-      "pubmed_pmid": "41587038",
-      "title": "Reimagining Transplant Center Incentives Beyond the CMS IOTA Model.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "665-666",
-      "authors": [
-        "Chan A Author",
-        "Roth AE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
-    },
-    {
       "doi": "10.1001/jama.2025.23985",
       "url": "https://doi.org/10.1001/jama.2025.23985",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
@@ -6128,6 +6106,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.26194",
+      "url": "https://doi.org/10.1001/jama.2025.26194",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844445",
+      "article_type": "",
+      "pubmed_pmid": "41587038",
+      "title": "Reimagining Transplant Center Incentives Beyond the CMS IOTA Model.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "665-666",
+      "authors": [
+        "Chan A Author",
+        "Roth AE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
     },
     {
       "doi": "10.1001/jama.2025.15703",
