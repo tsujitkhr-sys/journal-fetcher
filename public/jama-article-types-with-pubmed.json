@@ -271,6 +271,28 @@
       "abstract_md": "This study uses data on smartphone usage in schools from the ABCD (Adolescent Brain Cognitive Development) Study to characterize smartphone app usage during school hours in a diverse sample of US adolescents."
     },
     {
+      "doi": "10.1001/jama.2025.23911",
+      "url": "https://doi.org/10.1001/jama.2025.23911",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843502",
+      "article_type": "",
+      "pubmed_pmid": "41489906",
+      "title": "Adversarial Collaboration as a Strategy for Credible Biomedical Science.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "395-396",
+      "authors": [
+        "Kent DM Author",
+        "Ioannidis JPA Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint examines adversarial collaboration&#x2014;bringing investigators with opposing views to design, analyze, and publish studies together, often with a neutral arbiter&#x2014;as a strategy for credible biomedical science."
+    },
+    {
       "doi": "10.1001/jama.2025.20034",
       "url": "https://doi.org/10.1001/jama.2025.20034",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843616",
@@ -293,28 +315,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Globally, 968&#x202f;350 new cases and 659&#x202f;853 deaths from gastric cancer were reported in 2022. In the US, 30&#x202f;300 new cases and 10&#x202f;780 deaths were estimated in 2025. Gastric cancer is more common in men, and the median age at diagnosis is 68 years. Most gastric cancers (&gt;90%) are adenocarcinomas. Worldwide, 85% of cases arise from the stomach body or antrum and 15% from the cardia. In the US, more than 90% of patients diagnosed with gastric cancer present with symptoms such as weight loss and abdominal pain. At presentation, approximately 13% have localized disease (limited to the stomach), 15% to 25% have locally advanced disease, defined as a tumor that has spread to regional lymph nodes, and 35% to 65% have metastatic disease. Helicobacter pylori infection is a treatable risk factor associated with 90% of gastric body and antrum cancers globally. Additional modifiable risk factors include smoking, alcohol, obesity, and salt intake. In countries with high incidence such as Japan and Korea, routine endoscopic screening beginning at age 40 years is associated with improved survival. Diagnosis is made by endoscopic biopsy. Patients with localized gastric cancer are treated with surgical resection and have a 5-year relative survival rate of 75% with treatment. Patients with more advanced-stage disease should receive gastrectomy, perioperative chemotherapy with 5-fluorouracil, oxaliplatin, and docetaxel and immunotherapy (durvalumab). Metastatic or unresectable disease may be treated with chemotherapy, immunotherapy, and/or targeted therapy depending on biomarkers, including programmed cell death ligand 1 (PD-L1), human epidermal growth factor receptor 2 (ERBB2; formerly HER2 or HER2/neu), and claudin-18, isoform 2 (CLDN18.2). For PD-L1-expressing gastric cancer, adding immune checkpoint inhibitors, such as nivolumab and pembrolizumab, is associated with an additional 3 months of survival when compared with chemotherapy alone. For gastric cancers overexpressing the ERBB2 or CLDN18.2 proteins, the addition of trastuzumab or zolbetuximab, respectively, is associated with an additional 3 to 4 months' survival. Early supportive care focusing on symptom management and on nutritional and psychosocial support is associated with 3 months of survival benefit. Less than 10% of patients with metastatic gastric cancer survive more than 5 years. Approximately 30&#x202f;300 new cases of gastric cancer are diagnosed annually in the US. Localized gastric cancer is treated with gastrectomy, and locally advanced disease is treated with surgery and chemoimmunotherapy. For patients with unresectable or metastatic gastric cancer, chemotherapy with immune checkpoint inhibitors and targeted therapies such as trastuzumab or zolbetuximab improves survival by several months."
-    },
-    {
-      "doi": "10.1001/jama.2025.23911",
-      "url": "https://doi.org/10.1001/jama.2025.23911",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843502",
-      "article_type": "",
-      "pubmed_pmid": "41489906",
-      "title": "Adversarial Collaboration as a Strategy for Credible Biomedical Science.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "395-396",
-      "authors": [
-        "Kent DM Author",
-        "Ioannidis JPA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint examines adversarial collaboration&#x2014;bringing investigators with opposing views to design, analyze, and publish studies together, often with a neutral arbiter&#x2014;as a strategy for credible biomedical science."
     },
     {
       "doi": "10.1001/jama.2025.15682",
@@ -534,6 +534,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23013",
+      "url": "https://doi.org/10.1001/jama.2025.23013",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
+      "article_type": "",
+      "pubmed_pmid": "41511790",
+      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "391",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.21097",
       "url": "https://doi.org/10.1001/jama.2025.21097",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843258",
@@ -571,48 +592,6 @@
       "authors": [
         "Chaker L Author",
         "Papaleontiou M Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23013",
-      "url": "https://doi.org/10.1001/jama.2025.23013",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
-      "article_type": "",
-      "pubmed_pmid": "41511790",
-      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "391",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23016",
-      "url": "https://doi.org/10.1001/jama.2025.23016",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
-      "article_type": "",
-      "pubmed_pmid": "41511765",
-      "title": "How Tanning Beds Increase Melanoma Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "392",
-      "authors": [
-        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -660,6 +639,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This interim analysis of an ongoing retrospective cohort study uses data from 5 US health plans to assess safety of a bivalent prefusion F subunit&#x2013;based respiratory syncytial virus (RSV) vaccine administered during pregnancy during the first full RSV season after US Food and Drug Administration approval (from September 22, 2023, through June 14, 2024)."
+    },
+    {
+      "doi": "10.1001/jama.2025.23016",
+      "url": "https://doi.org/10.1001/jama.2025.23016",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
+      "article_type": "",
+      "pubmed_pmid": "41511765",
+      "title": "How Tanning Beds Increase Melanoma Risk.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "392",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21099",
@@ -1441,6 +1441,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2026.0035",
+      "url": "https://doi.org/10.1001/jama.2026.0035",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844140",
+      "article_type": "",
+      "pubmed_pmid": "41543841",
+      "title": "What to Know About the New Semaglutide Pill for Obesity.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "478-479",
+      "authors": [
+        "Schweitzer K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses the US Food and Drug Administration approval of oral semaglutide for the treatment of obesity in adults."
+    },
+    {
       "doi": "10.1001/jama.2025.23697",
       "url": "https://doi.org/10.1001/jama.2025.23697",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843713",
@@ -1468,27 +1489,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This cohort study examines prescribing patterns of potentially inappropriate central nervous system (CNS)&#x2013;active medications among older adults with and without cognitive impairment."
-    },
-    {
-      "doi": "10.1001/jama.2026.0035",
-      "url": "https://doi.org/10.1001/jama.2026.0035",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844140",
-      "article_type": "",
-      "pubmed_pmid": "41543841",
-      "title": "What to Know About the New Semaglutide Pill for Obesity.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "478-479",
-      "authors": [
-        "Schweitzer K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses the US Food and Drug Administration approval of oral semaglutide for the treatment of obesity in adults."
     },
     {
       "doi": "10.1001/jama.2025.22277",
@@ -1532,27 +1532,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.22489",
-      "url": "https://doi.org/10.1001/jama.2025.22489",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
-      "article_type": "",
-      "pubmed_pmid": "41538216",
-      "title": "Insights From the Eye With AI.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "e2522489",
-      "authors": [
-        "Hswen Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Video-Audio Media"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
-    },
-    {
       "doi": "10.1001/jama.2025.24892",
       "url": "https://doi.org/10.1001/jama.2025.24892",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843661",
@@ -1572,6 +1551,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the current state of medical schools&#x2019; acceptance rates and treatment of students who are neurodivergent and demonstrates the value neurodivergent individuals have brought to science and medicine."
+    },
+    {
+      "doi": "10.1001/jama.2025.22489",
+      "url": "https://doi.org/10.1001/jama.2025.22489",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
+      "article_type": "",
+      "pubmed_pmid": "41538216",
+      "title": "Insights From the Eye With AI.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "e2522489",
+      "authors": [
+        "Hswen Y Author"
+      ],
+      "pubmed_pubtypes": [
+        "Video-Audio Media"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
     },
     {
       "doi": "10.1001/jama.2025.20529",
@@ -1614,25 +1614,27 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23023",
-      "url": "https://doi.org/10.1001/jama.2025.23023",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
+      "doi": "10.1001/jama.2025.23871",
+      "url": "https://doi.org/10.1001/jama.2025.23871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
       "article_type": "",
-      "pubmed_pmid": "41543840",
-      "title": "Nudging Increases Flu Vaccine Uptake.",
+      "pubmed_pmid": "41538147",
+      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "480-481",
+      "pages": "e2523871",
       "authors": [
-        "Rubin R Author"
+        "Chen AW Author",
+        "Guobyte E Author",
+        "O'Connor MB Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Video-Audio Media"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
     },
     {
       "doi": "10.1001/jama.2026.0095",
@@ -1656,27 +1658,25 @@
       "abstract_md": "This Medical News article discusses changes to the US government&#x2019;s childhood and adolescent immunization schedule and what they mean for clinicians and families."
     },
     {
-      "doi": "10.1001/jama.2025.23871",
-      "url": "https://doi.org/10.1001/jama.2025.23871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
+      "doi": "10.1001/jama.2025.23023",
+      "url": "https://doi.org/10.1001/jama.2025.23023",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
       "article_type": "",
-      "pubmed_pmid": "41538147",
-      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
+      "pubmed_pmid": "41543840",
+      "title": "Nudging Increases Flu Vaccine Uptake.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "e2523871",
+      "pages": "480-481",
       "authors": [
-        "Chen AW Author",
-        "Guobyte E Author",
-        "O'Connor MB Author"
+        "Rubin R Author"
       ],
       "pubmed_pubtypes": [
-        "Video-Audio Media"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.26462",
@@ -1741,25 +1741,6 @@
       "abstract_md": "This Viewpoint summarizes 5 key questions about obesity management addressed in the American Association of Clinical Endocrinology consensus statement and discusses the remaining challenges for clinical practice."
     },
     {
-      "doi": "10.1001/jama.2025.23328",
-      "url": "https://doi.org/10.1001/jama.2025.23328",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
-      "article_type": "",
-      "pubmed_pmid": "41369164",
-      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "e2523328",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21990",
       "url": "https://doi.org/10.1001/jama.2025.21990",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843255",
@@ -1799,6 +1780,25 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Low back pain (LBP) is influenced by interrelated physical, psychological, and social factors. However, most treatments focus on symptom reduction without addressing the underlying biopsychosocial needs of patients. To determine the effectiveness of spinal manipulation and clinician-supported biopsychosocial self-management vs medical care for adults with increased risk of chronic disabling LBP. This 2&#x2009;&#xd7;&#x2009;2 factorial randomized clinical trial enrolled participants in 3 research clinics at the Universities of Minnesota and Pittsburgh from November 2018 to May 2023; final follow-up was in June 2024. Adults with acute or subacute LBP at moderate to high risk of chronicity based on the STarT Back tool were randomized to 1 of 4 groups, with interventions lasting up to 8 weeks. Statistical analysis was conducted from November 2024 to June 2025. Spinal manipulation therapy (n&#x2009;=&#x2009;201), supported self-management (n&#x2009;=&#x2009;305), or combined supported self-management with spinal manipulation (n&#x2009;=&#x2009;193) compared with guideline-based medical care (n&#x2009;=&#x2009;301). Physical therapists and chiropractors provided spinal manipulation and supported self-management. The 2 primary outcomes averaged over a follow-up of 1 year were monthly low back disability (Roland-Morris Disability Questionnaire) and weekly pain intensity (numerical rating scale). Secondary analysis examined the proportion of participants achieving a 50% or higher reduction in the primary outcome measures. Among the 1000 participants randomized (mean [SD] age, 47 [16] years; 58% female), 93% completed the trial. The omnibus test for differences across the 4 treatment groups was statistically significant for disability (P&#x2009;=&#x2009;.001; supported self-management, 4.7; spinal manipulation, 5.5; combined supported self-management with spinal manipulation, 4.8; medical care, 5.9) but not pain intensity (P&#x2009;=&#x2009;.16; supported self-management, 2.8; spinal manipulation, 3.0; combined supported self-management with spinal manipulation, 2.8; medical care, 3.0). Averaged over 12 months, LBP disability was significantly lower compared with medical care for supported self-management (mean difference, -1.2 [95% CI, -1.9 to -0.5]) and supported self-management with spinal manipulation (mean difference, -1.1 [95% CI, -1.9 to -0.3]) but not spinal manipulation alone (mean difference, -0.4 [95% CI, -1.2 to 0.4]). Group differences in pain intensity were not statistically significant; point estimates ranged from -0.2 to 0. Both supported self-management groups had higher proportions of patients achieving a 50% or greater reduction in disability (supported self-management, 67%; spinal manipulation, 54%; combined supported self-management with spinal manipulation, 65%; medical care, 54%). For patients with acute or subacute LBP at increased risk of chronic disabling LBP, clinician-supported biopsychosocial self-management showed statistically significant but small reductions in disability, but not pain, vs medical care over 1-year follow-up, and spinal manipulation alone showed no significant difference for either outcome. ClinicalTrials.gov Identifier: NCT03581123."
+    },
+    {
+      "doi": "10.1001/jama.2025.23328",
+      "url": "https://doi.org/10.1001/jama.2025.23328",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
+      "article_type": "",
+      "pubmed_pmid": "41369164",
+      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "e2523328",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23127",
@@ -1882,6 +1882,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23024",
+      "url": "https://doi.org/10.1001/jama.2025.23024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
+      "article_type": "",
+      "pubmed_pmid": "41543865",
+      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "481",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.24993",
       "url": "https://doi.org/10.1001/jama.2025.24993",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843709",
@@ -1902,27 +1923,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the rising costs related to medical education and how these costs must be addressed for medicine to continue to be a viable career path for future generations."
-    },
-    {
-      "doi": "10.1001/jama.2025.23024",
-      "url": "https://doi.org/10.1001/jama.2025.23024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
-      "article_type": "",
-      "pubmed_pmid": "41543865",
-      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "481",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21733",
@@ -2102,6 +2102,23 @@
       "abstract_md": "This study examines US county-level trends in nonmedical and medical exemptions to childhood vaccination requirements."
     },
     {
+      "doi": "10.1001/jama.2025.15688",
+      "url": "https://doi.org/10.1001/jama.2025.15688",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.22838",
       "url": "https://doi.org/10.1001/jama.2025.22838",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843254",
@@ -2121,23 +2138,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a pediatric oncology fellow at first feels awkward when parents of gravely ill children ask her about her pregnancy until she opens up and finds herself sharing in the love parents have for their children."
-    },
-    {
-      "doi": "10.1001/jama.2025.15688",
-      "url": "https://doi.org/10.1001/jama.2025.15688",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22830",
@@ -2222,6 +2222,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23022",
+      "url": "https://doi.org/10.1001/jama.2025.23022",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
+      "article_type": "",
+      "pubmed_pmid": "41543867",
+      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "480",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.24404",
       "url": "https://doi.org/10.1001/jama.2025.24404",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843615",
@@ -2243,27 +2264,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses ways in which payer license agreements can facilitate widespread lenacapavir use, a key step in ending the HIV epidemic."
-    },
-    {
-      "doi": "10.1001/jama.2025.23022",
-      "url": "https://doi.org/10.1001/jama.2025.23022",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
-      "article_type": "",
-      "pubmed_pmid": "41543867",
-      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "480",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22631",
@@ -3534,27 +3534,6 @@
       "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
     },
     {
-      "doi": "10.1001/jama.2025.22872",
-      "url": "https://doi.org/10.1001/jama.2025.22872",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
-      "article_type": "",
-      "pubmed_pmid": "41538169",
-      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "634-635",
-      "authors": [
-        "Perera Molligoda Arachchige AS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23028",
       "url": "https://doi.org/10.1001/jama.2025.23028",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
@@ -3568,6 +3547,27 @@
       "pages": "567",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.22872",
+      "url": "https://doi.org/10.1001/jama.2025.22872",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
+      "article_type": "",
+      "pubmed_pmid": "41538169",
+      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "634-635",
+      "authors": [
+        "Perera Molligoda Arachchige AS Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3857,29 +3857,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.25467",
-      "url": "https://doi.org/10.1001/jama.2025.25467",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844189",
-      "article_type": "",
-      "pubmed_pmid": "41569583",
-      "title": "Leading Cancer Deaths in People Younger Than 50 Years.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "632-634",
-      "authors": [
-        "Siegel RL Author",
-        "Wagle NS Author",
-        "Jemal A Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
-    },
-    {
       "doi": "10.1001/jama.2025.22234",
       "url": "https://doi.org/10.1001/jama.2025.22234",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843622",
@@ -3903,26 +3880,27 @@
       "abstract_md": "This JAMA Guide to Statistics and Methods explains how sibling analysis can be used to account for confounding in observational studies, using the example of a study on acid suppressants during pregnancy and risk of neuropsychiatric disorders in offspring."
     },
     {
-      "doi": "10.1001/jama.2025.23935",
-      "url": "https://doi.org/10.1001/jama.2025.23935",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
+      "doi": "10.1001/jama.2025.25467",
+      "url": "https://doi.org/10.1001/jama.2025.25467",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844189",
       "article_type": "",
-      "pubmed_pmid": "41364680",
-      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
+      "pubmed_pmid": "41569583",
+      "title": "Leading Cancer Deaths in People Younger Than 50 Years.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 17",
       "volume": "335",
       "issue": "7",
-      "pages": "580-582",
+      "pages": "632-634",
       "authors": [
-        "Hundscheid T Author",
-        "de Boode WP Author"
+        "Siegel RL Author",
+        "Wagle NS Author",
+        "Jemal A Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
     },
     {
       "doi": "10.1001/jama.2025.22903",
@@ -3940,6 +3918,28 @@
         "Smit JM Author",
         "Kent DM Author",
         "Krijthe JH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23935",
+      "url": "https://doi.org/10.1001/jama.2025.23935",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
+      "article_type": "",
+      "pubmed_pmid": "41364680",
+      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "580-582",
+      "authors": [
+        "Hundscheid T Author",
+        "de Boode WP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5512,6 +5512,23 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23042",
+      "url": "https://doi.org/10.1001/jama.2025.23042",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.23799",
       "url": "https://doi.org/10.1001/jama.2025.23799",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
@@ -5577,19 +5594,24 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "doi": "10.1001/jama.2025.23985",
+      "url": "https://doi.org/10.1001/jama.2025.23985",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "41533353",
+      "title": "Minor Papillotomy for Pancreas Divisum and Idiopathic Recurrent Pancreatitis-Evidence Over Assumptions.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "671-672",
+      "authors": [
+        "Ramai D Author",
+        "Muthusamy VR Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5614,28 +5636,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
-    },
-    {
-      "doi": "10.1001/jama.2025.23985",
-      "url": "https://doi.org/10.1001/jama.2025.23985",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
-      "article_type": "",
-      "pubmed_pmid": "41533353",
-      "title": "Minor Papillotomy for Pancreas Divisum and Idiopathic Recurrent Pancreatitis-Evidence Over Assumptions.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "671-672",
-      "authors": [
-        "Ramai D Author",
-        "Muthusamy VR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15703",
