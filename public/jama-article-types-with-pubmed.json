@@ -534,27 +534,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23013",
-      "url": "https://doi.org/10.1001/jama.2025.23013",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
-      "article_type": "",
-      "pubmed_pmid": "41511790",
-      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "391",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21097",
       "url": "https://doi.org/10.1001/jama.2025.21097",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843258",
@@ -592,6 +571,27 @@
       "authors": [
         "Chaker L Author",
         "Papaleontiou M Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23013",
+      "url": "https://doi.org/10.1001/jama.2025.23013",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
+      "article_type": "",
+      "pubmed_pmid": "41511790",
+      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "391",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -1742,25 +1742,6 @@
       "abstract_md": "This Viewpoint summarizes 5 key questions about obesity management addressed in the American Association of Clinical Endocrinology consensus statement and discusses the remaining challenges for clinical practice."
     },
     {
-      "doi": "10.1001/jama.2025.23328",
-      "url": "https://doi.org/10.1001/jama.2025.23328",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
-      "article_type": "",
-      "pubmed_pmid": "41369164",
-      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "e2523328",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21990",
       "url": "https://doi.org/10.1001/jama.2025.21990",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843255",
@@ -1801,6 +1782,25 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Low back pain (LBP) is influenced by interrelated physical, psychological, and social factors. However, most treatments focus on symptom reduction without addressing the underlying biopsychosocial needs of patients. To determine the effectiveness of spinal manipulation and clinician-supported biopsychosocial self-management vs medical care for adults with increased risk of chronic disabling LBP. This 2&#x2009;&#xd7;&#x2009;2 factorial randomized clinical trial enrolled participants in 3 research clinics at the Universities of Minnesota and Pittsburgh from November 2018 to May 2023; final follow-up was in June 2024. Adults with acute or subacute LBP at moderate to high risk of chronicity based on the STarT Back tool were randomized to 1 of 4 groups, with interventions lasting up to 8 weeks. Statistical analysis was conducted from November 2024 to June 2025. Spinal manipulation therapy (n&#x2009;=&#x2009;201), supported self-management (n&#x2009;=&#x2009;305), or combined supported self-management with spinal manipulation (n&#x2009;=&#x2009;193) compared with guideline-based medical care (n&#x2009;=&#x2009;301). Physical therapists and chiropractors provided spinal manipulation and supported self-management. The 2 primary outcomes averaged over a follow-up of 1 year were monthly low back disability (Roland-Morris Disability Questionnaire) and weekly pain intensity (numerical rating scale). Secondary analysis examined the proportion of participants achieving a 50% or higher reduction in the primary outcome measures. Among the 1000 participants randomized (mean [SD] age, 47 [16] years; 58% female), 93% completed the trial. The omnibus test for differences across the 4 treatment groups was statistically significant for disability (P&#x2009;=&#x2009;.001; supported self-management, 4.7; spinal manipulation, 5.5; combined supported self-management with spinal manipulation, 4.8; medical care, 5.9) but not pain intensity (P&#x2009;=&#x2009;.16; supported self-management, 2.8; spinal manipulation, 3.0; combined supported self-management with spinal manipulation, 2.8; medical care, 3.0). Averaged over 12 months, LBP disability was significantly lower compared with medical care for supported self-management (mean difference, -1.2 [95% CI, -1.9 to -0.5]) and supported self-management with spinal manipulation (mean difference, -1.1 [95% CI, -1.9 to -0.3]) but not spinal manipulation alone (mean difference, -0.4 [95% CI, -1.2 to 0.4]). Group differences in pain intensity were not statistically significant; point estimates ranged from -0.2 to 0. Both supported self-management groups had higher proportions of patients achieving a 50% or greater reduction in disability (supported self-management, 67%; spinal manipulation, 54%; combined supported self-management with spinal manipulation, 65%; medical care, 54%). For patients with acute or subacute LBP at increased risk of chronic disabling LBP, clinician-supported biopsychosocial self-management showed statistically significant but small reductions in disability, but not pain, vs medical care over 1-year follow-up, and spinal manipulation alone showed no significant difference for either outcome. ClinicalTrials.gov Identifier: NCT03581123."
+    },
+    {
+      "doi": "10.1001/jama.2025.23328",
+      "url": "https://doi.org/10.1001/jama.2025.23328",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
+      "article_type": "",
+      "pubmed_pmid": "41369164",
+      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "e2523328",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23127",
@@ -3196,23 +3196,6 @@
       "abstract_md": "This Perspective outlines the 2025-2030 Dietary Guidelines for Americans that were recently released by the US Department of Health and Human Services and the US Department of Agriculture."
     },
     {
-      "doi": "10.1001/jama.2025.22782",
-      "url": "https://doi.org/10.1001/jama.2025.22782",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844113",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24996",
       "url": "https://doi.org/10.1001/jama.2025.24996",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842435",
@@ -3234,6 +3217,23 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint from infectious disease experts cautions about the consequences of rescinding the ACIP policy to immunize all newborns against hepatitis B."
+    },
+    {
+      "doi": "10.1001/jama.2025.22782",
+      "url": "https://doi.org/10.1001/jama.2025.22782",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844113",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.24516",
@@ -3539,27 +3539,6 @@
       "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
     },
     {
-      "doi": "10.1001/jama.2025.22872",
-      "url": "https://doi.org/10.1001/jama.2025.22872",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
-      "article_type": "",
-      "pubmed_pmid": "41538169",
-      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "634-635",
-      "authors": [
-        "Perera Molligoda Arachchige AS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23028",
       "url": "https://doi.org/10.1001/jama.2025.23028",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
@@ -3573,6 +3552,27 @@
       "pages": "567",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.22872",
+      "url": "https://doi.org/10.1001/jama.2025.22872",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
+      "article_type": "",
+      "pubmed_pmid": "41538169",
+      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "634-635",
+      "authors": [
+        "Perera Molligoda Arachchige AS Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3667,27 +3667,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23029",
-      "url": "https://doi.org/10.1001/jama.2025.23029",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
-      "article_type": "",
-      "pubmed_pmid": "41575757",
-      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "567",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23033",
       "url": "https://doi.org/10.1001/jama.2025.23033",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
@@ -3699,6 +3678,27 @@
       "volume": "335",
       "issue": "7",
       "pages": "568",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23029",
+      "url": "https://doi.org/10.1001/jama.2025.23029",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
+      "article_type": "",
+      "pubmed_pmid": "41575757",
+      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "567",
       "authors": [
         "Anderer S Author"
       ],
