@@ -177,27 +177,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.21752",
-      "url": "https://doi.org/10.1001/jama.2025.21752",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
-      "article_type": "",
-      "pubmed_pmid": "41499101",
-      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "462-463",
-      "authors": [
-        "Meyerowitz EA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24331",
       "url": "https://doi.org/10.1001/jama.2025.24331",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842207",
@@ -244,6 +223,27 @@
       "abstract_md": "This Viewpoint explores the US Food and Drug Administration&#x2019;s plan to approve leucovorin for patients with autism and the potential implications for evidentiary standards."
     },
     {
+      "doi": "10.1001/jama.2025.21752",
+      "url": "https://doi.org/10.1001/jama.2025.21752",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
+      "article_type": "",
+      "pubmed_pmid": "41499101",
+      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "462-463",
+      "authors": [
+        "Meyerowitz EA Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.23235",
       "url": "https://doi.org/10.1001/jama.2025.23235",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843506",
@@ -271,28 +271,6 @@
       "abstract_md": "This study uses data on smartphone usage in schools from the ABCD (Adolescent Brain Cognitive Development) Study to characterize smartphone app usage during school hours in a diverse sample of US adolescents."
     },
     {
-      "doi": "10.1001/jama.2025.23911",
-      "url": "https://doi.org/10.1001/jama.2025.23911",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843502",
-      "article_type": "",
-      "pubmed_pmid": "41489906",
-      "title": "Adversarial Collaboration as a Strategy for Credible Biomedical Science.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "395-396",
-      "authors": [
-        "Kent DM Author",
-        "Ioannidis JPA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint examines adversarial collaboration&#x2014;bringing investigators with opposing views to design, analyze, and publish studies together, often with a neutral arbiter&#x2014;as a strategy for credible biomedical science."
-    },
-    {
       "doi": "10.1001/jama.2025.20034",
       "url": "https://doi.org/10.1001/jama.2025.20034",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843616",
@@ -315,6 +293,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Globally, 968&#x202f;350 new cases and 659&#x202f;853 deaths from gastric cancer were reported in 2022. In the US, 30&#x202f;300 new cases and 10&#x202f;780 deaths were estimated in 2025. Gastric cancer is more common in men, and the median age at diagnosis is 68 years. Most gastric cancers (&gt;90%) are adenocarcinomas. Worldwide, 85% of cases arise from the stomach body or antrum and 15% from the cardia. In the US, more than 90% of patients diagnosed with gastric cancer present with symptoms such as weight loss and abdominal pain. At presentation, approximately 13% have localized disease (limited to the stomach), 15% to 25% have locally advanced disease, defined as a tumor that has spread to regional lymph nodes, and 35% to 65% have metastatic disease. Helicobacter pylori infection is a treatable risk factor associated with 90% of gastric body and antrum cancers globally. Additional modifiable risk factors include smoking, alcohol, obesity, and salt intake. In countries with high incidence such as Japan and Korea, routine endoscopic screening beginning at age 40 years is associated with improved survival. Diagnosis is made by endoscopic biopsy. Patients with localized gastric cancer are treated with surgical resection and have a 5-year relative survival rate of 75% with treatment. Patients with more advanced-stage disease should receive gastrectomy, perioperative chemotherapy with 5-fluorouracil, oxaliplatin, and docetaxel and immunotherapy (durvalumab). Metastatic or unresectable disease may be treated with chemotherapy, immunotherapy, and/or targeted therapy depending on biomarkers, including programmed cell death ligand 1 (PD-L1), human epidermal growth factor receptor 2 (ERBB2; formerly HER2 or HER2/neu), and claudin-18, isoform 2 (CLDN18.2). For PD-L1-expressing gastric cancer, adding immune checkpoint inhibitors, such as nivolumab and pembrolizumab, is associated with an additional 3 months of survival when compared with chemotherapy alone. For gastric cancers overexpressing the ERBB2 or CLDN18.2 proteins, the addition of trastuzumab or zolbetuximab, respectively, is associated with an additional 3 to 4 months' survival. Early supportive care focusing on symptom management and on nutritional and psychosocial support is associated with 3 months of survival benefit. Less than 10% of patients with metastatic gastric cancer survive more than 5 years. Approximately 30&#x202f;300 new cases of gastric cancer are diagnosed annually in the US. Localized gastric cancer is treated with gastrectomy, and locally advanced disease is treated with surgery and chemoimmunotherapy. For patients with unresectable or metastatic gastric cancer, chemotherapy with immune checkpoint inhibitors and targeted therapies such as trastuzumab or zolbetuximab improves survival by several months."
+    },
+    {
+      "doi": "10.1001/jama.2025.23911",
+      "url": "https://doi.org/10.1001/jama.2025.23911",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843502",
+      "article_type": "",
+      "pubmed_pmid": "41489906",
+      "title": "Adversarial Collaboration as a Strategy for Credible Biomedical Science.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "395-396",
+      "authors": [
+        "Kent DM Author",
+        "Ioannidis JPA Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint examines adversarial collaboration&#x2014;bringing investigators with opposing views to design, analyze, and publish studies together, often with a neutral arbiter&#x2014;as a strategy for credible biomedical science."
     },
     {
       "doi": "10.1001/jama.2025.15682",
@@ -534,6 +534,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23013",
+      "url": "https://doi.org/10.1001/jama.2025.23013",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
+      "article_type": "",
+      "pubmed_pmid": "41511790",
+      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "391",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.21097",
       "url": "https://doi.org/10.1001/jama.2025.21097",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843258",
@@ -571,27 +592,6 @@
       "authors": [
         "Chaker L Author",
         "Papaleontiou M Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23013",
-      "url": "https://doi.org/10.1001/jama.2025.23013",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
-      "article_type": "",
-      "pubmed_pmid": "41511790",
-      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "391",
-      "authors": [
-        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -1533,27 +1533,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24892",
-      "url": "https://doi.org/10.1001/jama.2025.24892",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843661",
-      "article_type": "",
-      "pubmed_pmid": "41505113",
-      "title": "Neurodivergence in US Medical Education.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "487-488",
-      "authors": [
-        "Feldman AM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the current state of medical schools&#x2019; acceptance rates and treatment of students who are neurodivergent and demonstrates the value neurodivergent individuals have brought to science and medicine."
-    },
-    {
       "doi": "10.1001/jama.2025.22489",
       "url": "https://doi.org/10.1001/jama.2025.22489",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
@@ -1573,6 +1552,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
+    },
+    {
+      "doi": "10.1001/jama.2025.24892",
+      "url": "https://doi.org/10.1001/jama.2025.24892",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843661",
+      "article_type": "",
+      "pubmed_pmid": "41505113",
+      "title": "Neurodivergence in US Medical Education.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "487-488",
+      "authors": [
+        "Feldman AM Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the current state of medical schools&#x2019; acceptance rates and treatment of students who are neurodivergent and demonstrates the value neurodivergent individuals have brought to science and medicine."
     },
     {
       "doi": "10.1001/jama.2025.20529",
@@ -1615,27 +1615,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23871",
-      "url": "https://doi.org/10.1001/jama.2025.23871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
+      "doi": "10.1001/jama.2025.23023",
+      "url": "https://doi.org/10.1001/jama.2025.23023",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
       "article_type": "",
-      "pubmed_pmid": "41538147",
-      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
+      "pubmed_pmid": "41543840",
+      "title": "Nudging Increases Flu Vaccine Uptake.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "e2523871",
+      "pages": "480-481",
       "authors": [
-        "Chen AW Author",
-        "Guobyte E Author",
-        "O'Connor MB Author"
+        "Rubin R Author"
       ],
       "pubmed_pubtypes": [
-        "Video-Audio Media"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2026.0095",
@@ -1659,25 +1657,27 @@
       "abstract_md": "This Medical News article discusses changes to the US government&#x2019;s childhood and adolescent immunization schedule and what they mean for clinicians and families."
     },
     {
-      "doi": "10.1001/jama.2025.23023",
-      "url": "https://doi.org/10.1001/jama.2025.23023",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
+      "doi": "10.1001/jama.2025.23871",
+      "url": "https://doi.org/10.1001/jama.2025.23871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
       "article_type": "",
-      "pubmed_pmid": "41543840",
-      "title": "Nudging Increases Flu Vaccine Uptake.",
+      "pubmed_pmid": "41538147",
+      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "480-481",
+      "pages": "e2523871",
       "authors": [
-        "Rubin R Author"
+        "Chen AW Author",
+        "Guobyte E Author",
+        "O'Connor MB Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Video-Audio Media"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
     },
     {
       "doi": "10.1001/jama.2025.26462",
@@ -5518,23 +5518,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23799",
       "url": "https://doi.org/10.1001/jama.2025.23799",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
@@ -5596,6 +5579,23 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23042",
+      "url": "https://doi.org/10.1001/jama.2025.23042",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
