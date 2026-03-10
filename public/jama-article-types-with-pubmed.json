@@ -177,27 +177,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.21752",
-      "url": "https://doi.org/10.1001/jama.2025.21752",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
-      "article_type": "",
-      "pubmed_pmid": "41499101",
-      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "462-463",
-      "authors": [
-        "Meyerowitz EA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24331",
       "url": "https://doi.org/10.1001/jama.2025.24331",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842207",
@@ -242,6 +221,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint explores the US Food and Drug Administration&#x2019;s plan to approve leucovorin for patients with autism and the potential implications for evidentiary standards."
+    },
+    {
+      "doi": "10.1001/jama.2025.21752",
+      "url": "https://doi.org/10.1001/jama.2025.21752",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
+      "article_type": "",
+      "pubmed_pmid": "41499101",
+      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "462-463",
+      "authors": [
+        "Meyerowitz EA Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23235",
@@ -842,15 +842,19 @@
       "url": "https://doi.org/10.1001/jama.2025.21376",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843481",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "41468035",
+      "title": "A Review of Geroscience.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "460-461",
+      "authors": [
+        "Hecht FM Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -1438,27 +1442,6 @@
       "abstract_md": "The most effective initial fraction of inspired oxygen (Fio2) for resuscitating preterm newborns is unknown. To compare outcomes of newborns born at 23 to 28 weeks' gestation resuscitated with initial Fio2 of 0.6 vs 0.3. Randomized clinical trial conducted in 31 maternity hospitals in 6 countries. Consent by waiver was obtained in Australia, certain institutions in India, and Malaysia; prospective informed consent was obtained in certain institutions in India and all institutions in Singapore, Spain, and the US. Infants due at 23 to 28 weeks' gestation were randomized shortly before birth. Those with congenital abnormalities affecting oxygenation, neurodevelopment, or survival were excluded. Randomization was conducted from September 2018 to September 2024, with follow-up expected to close in September 2026. Infants were randomized (1:1) to receive an initial Fio2 of 0.6 or 0.3; Fio2 was titrated to meet standard targets for oxygen saturation by pulse oximetry in the first 10 minutes or for clinical needs. Clinicians and those assessing outcomes were not blinded to group assignment. The primary outcome was death and brain injury at 36 weeks' corrected gestational age; secondary outcomes were the individual components of the primary outcome. A total of 1641 newborns were randomized. The primary analysis included 728 newborns randomized to receive an Fio2 of 0.6 and 741 to an Fio2 of 0.3 after excluding 172 newborns, mostly for birth after 28 weeks' gestation and transfer to another hospital before birth (54% female). Rates of escalation to Fio2 of 1.0 were similar between the groups (Fio2 of 0.6: 41%; Fio2 of 0.3: 38%). Primary outcome information was ascertained in 1423 newborns (96.9%). Death or brain injury at 36 weeks' corrected gestational age occurred in 330 of 703 newborns (46.9%) assigned to the Fio2 of 0.6 group vs 344 of 720 (47.8%) assigned to the Fio2 of 0.3 group (relative risk, 0.98 [95% CI, 0.89-1.09]). Initiating resuscitation of preterm infants with Fio2 of 0.6 vs 0.3 did not affect the risk of death or brain injury by 36 weeks' corrected gestational age. These results lay a foundation for future trials evaluating the effectiveness and safety of using higher initial Fio2 levels for preterm infant resuscitation. ANZCTR Identifier: ACTRN12618000879268."
     },
     {
-      "doi": "10.1001/jama.2026.0035",
-      "url": "https://doi.org/10.1001/jama.2026.0035",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844140",
-      "article_type": "",
-      "pubmed_pmid": "41543841",
-      "title": "What to Know About the New Semaglutide Pill for Obesity.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "478-479",
-      "authors": [
-        "Schweitzer K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses the US Food and Drug Administration approval of oral semaglutide for the treatment of obesity in adults."
-    },
-    {
       "doi": "10.1001/jama.2025.23697",
       "url": "https://doi.org/10.1001/jama.2025.23697",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843713",
@@ -1486,6 +1469,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This cohort study examines prescribing patterns of potentially inappropriate central nervous system (CNS)&#x2013;active medications among older adults with and without cognitive impairment."
+    },
+    {
+      "doi": "10.1001/jama.2026.0035",
+      "url": "https://doi.org/10.1001/jama.2026.0035",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844140",
+      "article_type": "",
+      "pubmed_pmid": "41543841",
+      "title": "What to Know About the New Semaglutide Pill for Obesity.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "478-479",
+      "authors": [
+        "Schweitzer K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Medical News article discusses the US Food and Drug Administration approval of oral semaglutide for the treatment of obesity in adults."
     },
     {
       "doi": "10.1001/jama.2025.22277",
@@ -1529,27 +1533,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24892",
-      "url": "https://doi.org/10.1001/jama.2025.24892",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843661",
-      "article_type": "",
-      "pubmed_pmid": "41505113",
-      "title": "Neurodivergence in US Medical Education.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "487-488",
-      "authors": [
-        "Feldman AM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the current state of medical schools&#x2019; acceptance rates and treatment of students who are neurodivergent and demonstrates the value neurodivergent individuals have brought to science and medicine."
-    },
-    {
       "doi": "10.1001/jama.2025.22489",
       "url": "https://doi.org/10.1001/jama.2025.22489",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
@@ -1569,6 +1552,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
+    },
+    {
+      "doi": "10.1001/jama.2025.24892",
+      "url": "https://doi.org/10.1001/jama.2025.24892",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843661",
+      "article_type": "",
+      "pubmed_pmid": "41505113",
+      "title": "Neurodivergence in US Medical Education.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "487-488",
+      "authors": [
+        "Feldman AM Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the current state of medical schools&#x2019; acceptance rates and treatment of students who are neurodivergent and demonstrates the value neurodivergent individuals have brought to science and medicine."
     },
     {
       "doi": "10.1001/jama.2025.20529",
@@ -2101,23 +2105,6 @@
       "abstract_md": "This study examines US county-level trends in nonmedical and medical exemptions to childhood vaccination requirements."
     },
     {
-      "doi": "10.1001/jama.2025.15688",
-      "url": "https://doi.org/10.1001/jama.2025.15688",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22838",
       "url": "https://doi.org/10.1001/jama.2025.22838",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843254",
@@ -2137,6 +2124,23 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a pediatric oncology fellow at first feels awkward when parents of gravely ill children ask her about her pregnancy until she opens up and finds herself sharing in the love parents have for their children."
+    },
+    {
+      "doi": "10.1001/jama.2025.15688",
+      "url": "https://doi.org/10.1001/jama.2025.15688",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22830",
@@ -3663,27 +3667,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23029",
-      "url": "https://doi.org/10.1001/jama.2025.23029",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
-      "article_type": "",
-      "pubmed_pmid": "41575757",
-      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "567",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23033",
       "url": "https://doi.org/10.1001/jama.2025.23033",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
@@ -3695,6 +3678,27 @@
       "volume": "335",
       "issue": "7",
       "pages": "568",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23029",
+      "url": "https://doi.org/10.1001/jama.2025.23029",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
+      "article_type": "",
+      "pubmed_pmid": "41575757",
+      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "567",
       "authors": [
         "Anderer S Author"
       ],
@@ -3905,6 +3909,28 @@
       "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
     },
     {
+      "doi": "10.1001/jama.2025.23935",
+      "url": "https://doi.org/10.1001/jama.2025.23935",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
+      "article_type": "",
+      "pubmed_pmid": "41364680",
+      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "580-582",
+      "authors": [
+        "Hundscheid T Author",
+        "de Boode WP Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.22903",
       "url": "https://doi.org/10.1001/jama.2025.22903",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844118",
@@ -3920,28 +3946,6 @@
         "Smit JM Author",
         "Kent DM Author",
         "Krijthe JH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23935",
-      "url": "https://doi.org/10.1001/jama.2025.23935",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
-      "article_type": "",
-      "pubmed_pmid": "41364680",
-      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "580-582",
-      "authors": [
-        "Hundscheid T Author",
-        "de Boode WP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -5514,23 +5518,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23799",
       "url": "https://doi.org/10.1001/jama.2025.23799",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
@@ -5592,6 +5579,23 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23042",
+      "url": "https://doi.org/10.1001/jama.2025.23042",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
