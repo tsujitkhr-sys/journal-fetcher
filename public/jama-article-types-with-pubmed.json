@@ -3,40 +3,6 @@
   "to": "2026-02-28",
   "items": [
     {
-      "doi": "10.1001/jama.2025.24510",
-      "url": "https://doi.org/10.1001/jama.2025.24510",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844628",
-      "article_type": "",
-      "pubmed_pmid": "41627806",
-      "title": "Opportunistic Salpingectomy for Prevention of Tubo-Ovarian Carcinoma: The European Society of Gynaecological Oncology Consensus Statements.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Piek JM Author",
-        "Schauwaert J Author",
-        "Ellis LB Author",
-        "Zapardiel I Author",
-        "Planchamp F Author",
-        "Koblos K Author",
-        "Kacperczyk-Bartnik J Author",
-        "Bowden SJ Author",
-        "El Hajj H Author",
-        "Grigore M Author",
-        "Steenbeek MP Author",
-        "Bizzarri N Author",
-        "Kyrgiou M Author",
-        "Gültekin M Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "The fallopian tube epithelium has been demonstrated to be an important source of tubo-ovarian carcinoma. Therefore, removal of the fallopian tubes during unrelated pelvic or abdominal surgery (opportunistic salpingectomy) can potentially lower future ovarian cancer risk. To assess current evidence on the efficacy, risks, and long-term outcomes of opportunistic salpingectomy and to develop consensus statements for the European Society of Gynaecological Oncology. An international working group of 14 individuals including a patient representative was formed to develop consensus statements on opportunistic salpingectomy. The MEDLINE database was used to conduct a literature review of English-language studies from January 1, 2000, through March 1, 2025, evaluating opportunistic salpingectomy for reduction of tubo-ovarian carcinoma, complication rates, additional surgical time, and impact on ovarian function. Statements were subsequently drafted collaboratively based on the review of the literature and adapted in an iterative process in conference call meetings with opportunity for anonymous and nonanonymous feedback. The anonymous voting was binary (agree/disagree) for each potential statement. Final statements reached consensus with more than 75% agreement. In the literature review, 230 studies were identified, of which 129 were deemed relevant to consensus statement development. Consensus was achieved on 18 statements, with grades of recommendation ranging from B to D and levels of evidence from II to V. Opportunistic salpingectomy is significantly associated with a lower risk of subsequent tubo-ovarian carcinoma, with no adverse short-term impact on ovarian function. The procedure appears safe across surgical approaches, with little additional operative time. Existing evidence does not indicate harm to ovarian function or premature menopause, although long-term evidence is not available. Salpingectomy is feasible during both gynecological and nongynecological procedures and should be considered in women undergoing gynecological surgery and, where possible, in women undergoing selected nongynecological pelvic or abdominal surgeries. Existing evidence demonstrates that opportunistic salpingectomy is significantly associated with a lower risk of developing tubo-ovarian carcinoma. Clinicians should include this prevention intervention in preoperative counseling of eligible women."
-    },
-    {
       "doi": "10.1001/jama.2025.21660",
       "url": "https://doi.org/10.1001/jama.2025.21660",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843505",
@@ -177,6 +143,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.21752",
+      "url": "https://doi.org/10.1001/jama.2025.21752",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
+      "article_type": "",
+      "pubmed_pmid": "41499101",
+      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "462-463",
+      "authors": [
+        "Meyerowitz EA Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.24331",
       "url": "https://doi.org/10.1001/jama.2025.24331",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842207",
@@ -221,27 +208,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint explores the US Food and Drug Administration&#x2019;s plan to approve leucovorin for patients with autism and the potential implications for evidentiary standards."
-    },
-    {
-      "doi": "10.1001/jama.2025.21752",
-      "url": "https://doi.org/10.1001/jama.2025.21752",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
-      "article_type": "",
-      "pubmed_pmid": "41499101",
-      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "462-463",
-      "authors": [
-        "Meyerowitz EA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23235",
@@ -534,27 +500,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23013",
-      "url": "https://doi.org/10.1001/jama.2025.23013",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
-      "article_type": "",
-      "pubmed_pmid": "41511790",
-      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "391",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21097",
       "url": "https://doi.org/10.1001/jama.2025.21097",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843258",
@@ -592,6 +537,48 @@
       "authors": [
         "Chaker L Author",
         "Papaleontiou M Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23013",
+      "url": "https://doi.org/10.1001/jama.2025.23013",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843817",
+      "article_type": "",
+      "pubmed_pmid": "41511790",
+      "title": "WHO Analysis Finds No Causal Link Between Vaccines and Autism.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "391",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23016",
+      "url": "https://doi.org/10.1001/jama.2025.23016",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
+      "article_type": "",
+      "pubmed_pmid": "41511765",
+      "title": "How Tanning Beds Increase Melanoma Risk.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "392",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -639,27 +626,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This interim analysis of an ongoing retrospective cohort study uses data from 5 US health plans to assess safety of a bivalent prefusion F subunit&#x2013;based respiratory syncytial virus (RSV) vaccine administered during pregnancy during the first full RSV season after US Food and Drug Administration approval (from September 22, 2023, through June 14, 2024)."
-    },
-    {
-      "doi": "10.1001/jama.2025.23016",
-      "url": "https://doi.org/10.1001/jama.2025.23016",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
-      "article_type": "",
-      "pubmed_pmid": "41511765",
-      "title": "How Tanning Beds Increase Melanoma Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "392",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21099",
@@ -928,29 +894,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.25080",
-      "url": "https://doi.org/10.1001/jama.2025.25080",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844759",
-      "article_type": "",
-      "pubmed_pmid": "41642631",
-      "title": "Novel Airflow System for Use in Critical Avalanche Burial.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 5",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "David JS Author",
-        "Mahiou P Author",
-        "Savary D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2026.0009",
       "url": "https://doi.org/10.1001/jama.2026.0009",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844756",
@@ -970,29 +913,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a critical care physician who recovered from a critical illness reflects on the importance of empathy and how patients and families can feel and see things physicians can&#x2019;t."
-    },
-    {
-      "doi": "10.1001/jama.2025.25083",
-      "url": "https://doi.org/10.1001/jama.2025.25083",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844758",
-      "article_type": "",
-      "pubmed_pmid": "41642610",
-      "title": "Novel Airflow System for Use in Critical Avalanche Burial-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 5",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Strapazzon G Author",
-        "Eisendle F Author",
-        "Thomassen Ø Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.25223",
@@ -1206,28 +1126,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26633",
-      "url": "https://doi.org/10.1001/jama.2025.26633",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844768",
-      "article_type": "",
-      "pubmed_pmid": "41661634",
-      "title": "Cesarean Delivery on Maternal Request.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Alperin M Author",
-        "Artsen A Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Insights discusses cesarean delivery on maternal request, including the need for counseling regarding maternal and infant risks, composite outcomes, and patient autonomy."
     },
     {
       "doi": "10.1001/jama.2025.25371",
@@ -1615,27 +1513,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23871",
-      "url": "https://doi.org/10.1001/jama.2025.23871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
+      "doi": "10.1001/jama.2025.23023",
+      "url": "https://doi.org/10.1001/jama.2025.23023",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
       "article_type": "",
-      "pubmed_pmid": "41538147",
-      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
+      "pubmed_pmid": "41543840",
+      "title": "Nudging Increases Flu Vaccine Uptake.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "e2523871",
+      "pages": "480-481",
       "authors": [
-        "Chen AW Author",
-        "Guobyte E Author",
-        "O'Connor MB Author"
+        "Rubin R Author"
       ],
       "pubmed_pubtypes": [
-        "Video-Audio Media"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2026.0095",
@@ -1659,25 +1555,27 @@
       "abstract_md": "This Medical News article discusses changes to the US government&#x2019;s childhood and adolescent immunization schedule and what they mean for clinicians and families."
     },
     {
-      "doi": "10.1001/jama.2025.23023",
-      "url": "https://doi.org/10.1001/jama.2025.23023",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
+      "doi": "10.1001/jama.2025.23871",
+      "url": "https://doi.org/10.1001/jama.2025.23871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
       "article_type": "",
-      "pubmed_pmid": "41543840",
-      "title": "Nudging Increases Flu Vaccine Uptake.",
+      "pubmed_pmid": "41538147",
+      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "480-481",
+      "pages": "e2523871",
       "authors": [
-        "Rubin R Author"
+        "Chen AW Author",
+        "Guobyte E Author",
+        "O'Connor MB Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Video-Audio Media"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
     },
     {
       "doi": "10.1001/jama.2025.26462",
@@ -1742,6 +1640,25 @@
       "abstract_md": "This Viewpoint summarizes 5 key questions about obesity management addressed in the American Association of Clinical Endocrinology consensus statement and discusses the remaining challenges for clinical practice."
     },
     {
+      "doi": "10.1001/jama.2025.23328",
+      "url": "https://doi.org/10.1001/jama.2025.23328",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
+      "article_type": "",
+      "pubmed_pmid": "41369164",
+      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "e2523328",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.21990",
       "url": "https://doi.org/10.1001/jama.2025.21990",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843255",
@@ -1782,25 +1699,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Low back pain (LBP) is influenced by interrelated physical, psychological, and social factors. However, most treatments focus on symptom reduction without addressing the underlying biopsychosocial needs of patients. To determine the effectiveness of spinal manipulation and clinician-supported biopsychosocial self-management vs medical care for adults with increased risk of chronic disabling LBP. This 2&#x2009;&#xd7;&#x2009;2 factorial randomized clinical trial enrolled participants in 3 research clinics at the Universities of Minnesota and Pittsburgh from November 2018 to May 2023; final follow-up was in June 2024. Adults with acute or subacute LBP at moderate to high risk of chronicity based on the STarT Back tool were randomized to 1 of 4 groups, with interventions lasting up to 8 weeks. Statistical analysis was conducted from November 2024 to June 2025. Spinal manipulation therapy (n&#x2009;=&#x2009;201), supported self-management (n&#x2009;=&#x2009;305), or combined supported self-management with spinal manipulation (n&#x2009;=&#x2009;193) compared with guideline-based medical care (n&#x2009;=&#x2009;301). Physical therapists and chiropractors provided spinal manipulation and supported self-management. The 2 primary outcomes averaged over a follow-up of 1 year were monthly low back disability (Roland-Morris Disability Questionnaire) and weekly pain intensity (numerical rating scale). Secondary analysis examined the proportion of participants achieving a 50% or higher reduction in the primary outcome measures. Among the 1000 participants randomized (mean [SD] age, 47 [16] years; 58% female), 93% completed the trial. The omnibus test for differences across the 4 treatment groups was statistically significant for disability (P&#x2009;=&#x2009;.001; supported self-management, 4.7; spinal manipulation, 5.5; combined supported self-management with spinal manipulation, 4.8; medical care, 5.9) but not pain intensity (P&#x2009;=&#x2009;.16; supported self-management, 2.8; spinal manipulation, 3.0; combined supported self-management with spinal manipulation, 2.8; medical care, 3.0). Averaged over 12 months, LBP disability was significantly lower compared with medical care for supported self-management (mean difference, -1.2 [95% CI, -1.9 to -0.5]) and supported self-management with spinal manipulation (mean difference, -1.1 [95% CI, -1.9 to -0.3]) but not spinal manipulation alone (mean difference, -0.4 [95% CI, -1.2 to 0.4]). Group differences in pain intensity were not statistically significant; point estimates ranged from -0.2 to 0. Both supported self-management groups had higher proportions of patients achieving a 50% or greater reduction in disability (supported self-management, 67%; spinal manipulation, 54%; combined supported self-management with spinal manipulation, 65%; medical care, 54%). For patients with acute or subacute LBP at increased risk of chronic disabling LBP, clinician-supported biopsychosocial self-management showed statistically significant but small reductions in disability, but not pain, vs medical care over 1-year follow-up, and spinal manipulation alone showed no significant difference for either outcome. ClinicalTrials.gov Identifier: NCT03581123."
-    },
-    {
-      "doi": "10.1001/jama.2025.23328",
-      "url": "https://doi.org/10.1001/jama.2025.23328",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
-      "article_type": "",
-      "pubmed_pmid": "41369164",
-      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "e2523328",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23127",
@@ -1884,27 +1782,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23024",
-      "url": "https://doi.org/10.1001/jama.2025.23024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
-      "article_type": "",
-      "pubmed_pmid": "41543865",
-      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "481",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24993",
       "url": "https://doi.org/10.1001/jama.2025.24993",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843709",
@@ -1925,6 +1802,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the rising costs related to medical education and how these costs must be addressed for medicine to continue to be a viable career path for future generations."
+    },
+    {
+      "doi": "10.1001/jama.2025.23024",
+      "url": "https://doi.org/10.1001/jama.2025.23024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
+      "article_type": "",
+      "pubmed_pmid": "41543865",
+      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "481",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21733",
@@ -2225,27 +2123,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23022",
-      "url": "https://doi.org/10.1001/jama.2025.23022",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
-      "article_type": "",
-      "pubmed_pmid": "41543867",
-      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "480",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24404",
       "url": "https://doi.org/10.1001/jama.2025.24404",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843615",
@@ -2269,6 +2146,27 @@
       "abstract_md": "This Viewpoint discusses ways in which payer license agreements can facilitate widespread lenacapavir use, a key step in ending the HIV epidemic."
     },
     {
+      "doi": "10.1001/jama.2025.23022",
+      "url": "https://doi.org/10.1001/jama.2025.23022",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
+      "article_type": "",
+      "pubmed_pmid": "41543867",
+      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "480",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.22631",
       "url": "https://doi.org/10.1001/jama.2025.22631",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843869",
@@ -2290,107 +2188,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.24426",
-      "url": "https://doi.org/10.1001/jama.2025.24426",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845039",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.24423",
-      "url": "https://doi.org/10.1001/jama.2025.24423",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845040",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25539",
-      "url": "https://doi.org/10.1001/jama.2025.25539",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845044",
-      "article_type": "",
-      "pubmed_pmid": "41670977",
-      "title": "Individualized Perioperative Blood Pressure Management in Major Abdominal Surgery.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Fu Z Author",
-        "Gu F Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25536",
-      "url": "https://doi.org/10.1001/jama.2025.25536",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845045",
-      "article_type": "",
-      "pubmed_pmid": "41670986",
-      "title": "Individualized Perioperative Blood Pressure Management in Major Abdominal Surgery.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Miyazaki Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0061",
-      "url": "https://doi.org/10.1001/jama.2026.0061",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845036",
-      "article_type": "",
-      "pubmed_pmid": "41670960",
-      "title": "Preemption at the Intersection of Health Care and Artificial Intelligence.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Shachar C Author",
-        "Blumenthal D Author",
-        "Cohen IG Author",
-        "Huberfeld N Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the executive order signed by President Trump regarding a national policy framework for artificial intelligence (AI), including what it means for medical AI regulation, the legal questions it raises, and the merits of state-level experimentation in health care regulation."
     },
     {
       "doi": "10.1001/jama.2025.27103",
@@ -2509,29 +2306,6 @@
       "abstract_md": "This JAMA Patient Page describes medications used to treat opioid use disorder, opioid withdrawal, and opioid overdose."
     },
     {
-      "doi": "10.1001/jama.2025.25542",
-      "url": "https://doi.org/10.1001/jama.2025.25542",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845043",
-      "article_type": "",
-      "pubmed_pmid": "41670961",
-      "title": "Individualized Perioperative Blood Pressure Management in Major Abdominal Surgery-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Saugel B Author",
-        "Meidert AS Author",
-        "Kouz K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.26348",
       "url": "https://doi.org/10.1001/jama.2025.26348",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845037",
@@ -2553,51 +2327,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Opioid use disorder (OUD) involves compulsive opioid use that causes substantial distress or impairment at work, school, or home. OUD, which is the third most prevalent substance use disorder worldwide, affected an estimated 3.7% of US adults (9&#x202f;367&#x202f;000) in 2022 and caused 53&#x202f;774 deaths in the US in 2024. Medications for opioid use disorder (MOUD) reduce morbidity and mortality. Individuals with OUD also benefit from medications to treat opioid withdrawal and reverse acute opioid overdose. Methadone, buprenorphine, and naltrexone are medications approved by the US Food and Drug Administration (FDA) to reduce unregulated opioid use. Methadone and buprenorphine reduce the risks of overdose and all-cause mortality. However, only 25.1% of people in the US with OUD were treated with these medications in 2022. MOUD should be selected based on shared decision-making that considers availability and convenience of treatment options and patient preferences. Buprenorphine and naltrexone are prescribed in office-based settings and can be taken at home. Outpatients with OUD in the US can only obtain methadone in person at federally regulated clinics. After stopping or substantially reducing use of opioids, individuals with OUD develop symptoms of opioid withdrawal, such as anxiety, insomnia, pain, nausea, vomiting, and diarrhea. Medications for opioid withdrawal include opioid agonists (eg, methadone and buprenorphine), &#x3b1;2-receptor agonists (eg, lofexidine and clonidine), and medications to treat pain (ibuprofen) and nausea (ondansetron). Individuals being treated for acute withdrawal should also be prescribed MOUD to decrease the risk of all-cause mortality (adjusted hazard ratio, 0.52; 95% CI, 0.42-0.63 for MOUD vs no MOUD). Individuals who use opioids may develop opioid overdose, which can cause respiratory depression, stupor, and, if severe, coma and death. Opioid overdose can be treated or can be reversed with naloxone, an opioid antagonist that is FDA approved and should be administered at the lowest dose needed to restore a normal respiratory rate (eg, naloxone 0.4 mg intramuscularly or 2-4 mg intranasally). Community-wide distribution of naloxone to people who use opioids and their social networks has been associated with 25% to 46% lower community opioid overdose rates. All individuals with OUD should be offered treatment with MOUD to reduce opioid use. Methadone and buprenorphine decrease opioid-associated and all-cause mortality in patients with OUD. Opioid withdrawal symptoms may be treated with opioid agonists, &#x3b1;2-receptor agonists, and medications for pain and nausea. All individuals with OUD should have access to opioid antagonists, such as naloxone, to treat opioid overdose."
-    },
-    {
-      "doi": "10.1001/jama.2026.0366",
-      "url": "https://doi.org/10.1001/jama.2026.0366",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845035",
-      "article_type": "",
-      "pubmed_pmid": "41670987",
-      "title": "Food Ingredients, State Actions, and Federal Preemption.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Pomeranz JL Author",
-        "Broad Leib EM Author",
-        "Mozaffarian D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the US Food and Drug Administration&#x2019;s authority over food safety, including prior regulations surrounding ingredients, preemption, and federal vs state laws."
-    },
-    {
-      "doi": "10.1001/jama.2025.25505",
-      "url": "https://doi.org/10.1001/jama.2025.25505",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845124",
-      "article_type": "",
-      "pubmed_pmid": "41678330",
-      "title": "Pharmaceutical Pricing-JAMA Talks With Mark Cuban.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "e2525505",
-      "authors": [
-        "Bibbins-Domingo K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "JAMA and JAMA Network Editor in Chief Kirsten Bibbins-Domingo, PhD, MD, MAS, spoke with Mark Cuban, entrepreneur and cofounder of the Mark Cuban Cost Plus Drugs Company, about pharmaceutical pricing."
     },
     {
       "doi": "10.1001/jama.2025.25957",
@@ -2645,52 +2374,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.26962",
-      "url": "https://doi.org/10.1001/jama.2025.26962",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845067",
-      "article_type": "",
-      "pubmed_pmid": "41678200",
-      "title": "Outcomes of Same-Sex Female Couples Pursuing Autologous and Reciprocal In Vitro Fertilization.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Diego D Author",
-        "Gaskins AJ Author",
-        "Hipp HS Author",
-        "Kawwass JF Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study compares embryo transfer and pregnancy outcomes among US same-sex female couples undergoing reciprocal and autologous oocyte in vitro fertilization (IVF) cycles."
-    },
-    {
-      "doi": "10.1001/jama.2025.23768",
-      "url": "https://doi.org/10.1001/jama.2025.23768",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845064",
-      "article_type": "",
-      "pubmed_pmid": "41678171",
-      "title": "Stumbling Toward AI in the Clinic.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "e2523768",
-      "authors": [
-        "Perlis R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, spoke with JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, for JAMA+ AI Conversations."
-    },
-    {
       "doi": "10.1001/jama.2026.0369",
       "url": "https://doi.org/10.1001/jama.2026.0369",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845062",
@@ -2733,211 +2416,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a pediatrician and former medical school dean offers 3 steps for clinicians on how to adapt their cognitive evaluations to the abilities of their patients, in this case his wife who has stage 6 Alzheimer disease."
-    },
-    {
-      "doi": "10.1001/jama.2025.15717",
-      "url": "https://doi.org/10.1001/jama.2025.15717",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845068",
-      "article_type": "",
-      "pubmed_pmid": "41678158",
-      "title": "Fatigue and Disease.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15716",
-      "url": "https://doi.org/10.1001/jama.2025.15716",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845262",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26392",
-      "url": "https://doi.org/10.1001/jama.2025.26392",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845186",
-      "article_type": "",
-      "pubmed_pmid": "41686434",
-      "title": "Maternal Syphilis Continues to Rise.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26393",
-      "url": "https://doi.org/10.1001/jama.2025.26393",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845185",
-      "article_type": "",
-      "pubmed_pmid": "41686462",
-      "title": "AAP Releases Its Own Childhood and Adolescent Immunization Schedule.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26390",
-      "url": "https://doi.org/10.1001/jama.2025.26390",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845188",
-      "article_type": "",
-      "pubmed_pmid": "41686457",
-      "title": "Measles Outbreak Worsens in South Carolina.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26389",
-      "url": "https://doi.org/10.1001/jama.2025.26389",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845189",
-      "article_type": "",
-      "pubmed_pmid": "41686459",
-      "title": "US Life Expectancy Rebounds to Prepandemic High.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0760",
-      "url": "https://doi.org/10.1001/jama.2026.0760",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845183",
-      "article_type": "",
-      "pubmed_pmid": "41686474",
-      "title": "Cardiology Societies Urge Action on Environmental Risk Factors.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses a new joint statement from the American College of Cardiology, the American Heart Association, the European Society of Cardiology, and the World Heart Federation addressing the role of environmental risk factors in cardiovascular disease."
-    },
-    {
-      "doi": "10.1001/jama.2025.26394",
-      "url": "https://doi.org/10.1001/jama.2025.26394",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845184",
-      "article_type": "",
-      "pubmed_pmid": "41686470",
-      "title": "US Completes Withdrawal From the WHO.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26391",
-      "url": "https://doi.org/10.1001/jama.2025.26391",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845187",
-      "article_type": "",
-      "pubmed_pmid": "41686463",
-      "title": "Stroke Guideline Expands Adult Treatment, Provides Pediatric Recommendations.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.1067",
-      "url": "https://doi.org/10.1001/jama.2026.1067",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845182",
-      "article_type": "",
-      "pubmed_pmid": "41686456",
-      "title": "US Patients Getting ICEd-Out of Health Care.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 13",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses how the ongoing crackdown by US Immigration and Customs Enforcement is preventing some patients from obtaining health care."
     },
     {
       "doi": "10.1001/jama.2025.26176",
@@ -3539,27 +3017,6 @@
       "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
     },
     {
-      "doi": "10.1001/jama.2025.23028",
-      "url": "https://doi.org/10.1001/jama.2025.23028",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
-      "article_type": "",
-      "pubmed_pmid": "41575753",
-      "title": "Decline in US Overdose Deaths May Be Tied to Fentanyl Disruption.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "567",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22872",
       "url": "https://doi.org/10.1001/jama.2025.22872",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
@@ -3573,6 +3030,27 @@
       "pages": "634-635",
       "authors": [
         "Perera Molligoda Arachchige AS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23028",
+      "url": "https://doi.org/10.1001/jama.2025.23028",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
+      "article_type": "",
+      "pubmed_pmid": "41575753",
+      "title": "Decline in US Overdose Deaths May Be Tied to Fentanyl Disruption.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "567",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3667,27 +3145,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23033",
-      "url": "https://doi.org/10.1001/jama.2025.23033",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
-      "article_type": "",
-      "pubmed_pmid": "41575754",
-      "title": "Higher Food Preservative Intake Linked With Type 2 Diabetes.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "568",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23029",
       "url": "https://doi.org/10.1001/jama.2025.23029",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
@@ -3699,6 +3156,27 @@
       "volume": "335",
       "issue": "7",
       "pages": "567",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23033",
+      "url": "https://doi.org/10.1001/jama.2025.23033",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
+      "article_type": "",
+      "pubmed_pmid": "41575754",
+      "title": "Higher Food Preservative Intake Linked With Type 2 Diabetes.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "568",
       "authors": [
         "Anderer S Author"
       ],
@@ -4018,31 +3496,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2026.0028",
-      "url": "https://doi.org/10.1001/jama.2026.0028",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845237",
-      "article_type": "",
-      "pubmed_pmid": "41706498",
-      "title": "Forced Disenrollments Among Medicare Advantage Beneficiaries Following 2026 Plan Exits.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Meiselbach MK Author",
-        "Lavallee M Author",
-        "Zahn M Author",
-        "Xu J Author",
-        "Polsky D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study examines the scale and impact of Medicare Advantage plan exits for beneficiaries."
-    },
-    {
       "doi": "10.1001/jama.2025.25758",
       "url": "https://doi.org/10.1001/jama.2025.25758",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845234",
@@ -4080,27 +3533,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Insights discusses the epidemiology, transmission, and risk factors for pertussis, also referred to as whooping cough, in adults."
-    },
-    {
-      "doi": "10.1001/jama.2026.0132",
-      "url": "https://doi.org/10.1001/jama.2026.0132",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845239",
-      "article_type": "",
-      "pubmed_pmid": "41706485",
-      "title": "Disruptions in Medicare Advantage Coverage in 2026.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 18",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "James HO Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.26345",
@@ -5518,6 +4950,23 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23042",
+      "url": "https://doi.org/10.1001/jama.2025.23042",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.23799",
       "url": "https://doi.org/10.1001/jama.2025.23799",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
@@ -5583,21 +5032,26 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "doi": "10.1001/jama.2025.26194",
+      "url": "https://doi.org/10.1001/jama.2025.26194",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844445",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "41587038",
+      "title": "Reimagining Transplant Center Incentives Beyond the CMS IOTA Model.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "665-666",
+      "authors": [
+        "Chan A Author",
+        "Roth AE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
     },
     {
       "doi": "10.1001/jama.2025.23985",
@@ -5620,28 +5074,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26194",
-      "url": "https://doi.org/10.1001/jama.2025.26194",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844445",
-      "article_type": "",
-      "pubmed_pmid": "41587038",
-      "title": "Reimagining Transplant Center Incentives Beyond the CMS IOTA Model.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "665-666",
-      "authors": [
-        "Chan A Author",
-        "Roth AE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
     },
     {
       "doi": "10.1001/jama.2025.15703",
