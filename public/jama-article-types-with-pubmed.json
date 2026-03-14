@@ -566,27 +566,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23016",
-      "url": "https://doi.org/10.1001/jama.2025.23016",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
-      "article_type": "",
-      "pubmed_pmid": "41511765",
-      "title": "How Tanning Beds Increase Melanoma Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "392",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23452",
       "url": "https://doi.org/10.1001/jama.2025.23452",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843668",
@@ -626,6 +605,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This interim analysis of an ongoing retrospective cohort study uses data from 5 US health plans to assess safety of a bivalent prefusion F subunit&#x2013;based respiratory syncytial virus (RSV) vaccine administered during pregnancy during the first full RSV season after US Food and Drug Administration approval (from September 22, 2023, through June 14, 2024)."
+    },
+    {
+      "doi": "10.1001/jama.2025.23016",
+      "url": "https://doi.org/10.1001/jama.2025.23016",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
+      "article_type": "",
+      "pubmed_pmid": "41511765",
+      "title": "How Tanning Beds Increase Melanoma Risk.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "392",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21099",
@@ -1431,27 +1431,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.22489",
-      "url": "https://doi.org/10.1001/jama.2025.22489",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
-      "article_type": "",
-      "pubmed_pmid": "41538216",
-      "title": "Insights From the Eye With AI.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "e2522489",
-      "authors": [
-        "Hswen Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Video-Audio Media"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
-    },
-    {
       "doi": "10.1001/jama.2025.24892",
       "url": "https://doi.org/10.1001/jama.2025.24892",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843661",
@@ -1471,6 +1450,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the current state of medical schools&#x2019; acceptance rates and treatment of students who are neurodivergent and demonstrates the value neurodivergent individuals have brought to science and medicine."
+    },
+    {
+      "doi": "10.1001/jama.2025.22489",
+      "url": "https://doi.org/10.1001/jama.2025.22489",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
+      "article_type": "",
+      "pubmed_pmid": "41538216",
+      "title": "Insights From the Eye With AI.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "e2522489",
+      "authors": [
+        "Hswen Y Author"
+      ],
+      "pubmed_pubtypes": [
+        "Video-Audio Media"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
     },
     {
       "doi": "10.1001/jama.2025.20529",
@@ -1513,25 +1513,27 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23023",
-      "url": "https://doi.org/10.1001/jama.2025.23023",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
+      "doi": "10.1001/jama.2025.23871",
+      "url": "https://doi.org/10.1001/jama.2025.23871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
       "article_type": "",
-      "pubmed_pmid": "41543840",
-      "title": "Nudging Increases Flu Vaccine Uptake.",
+      "pubmed_pmid": "41538147",
+      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "480-481",
+      "pages": "e2523871",
       "authors": [
-        "Rubin R Author"
+        "Chen AW Author",
+        "Guobyte E Author",
+        "O'Connor MB Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Video-Audio Media"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
     },
     {
       "doi": "10.1001/jama.2026.0095",
@@ -1555,27 +1557,25 @@
       "abstract_md": "This Medical News article discusses changes to the US government&#x2019;s childhood and adolescent immunization schedule and what they mean for clinicians and families."
     },
     {
-      "doi": "10.1001/jama.2025.23871",
-      "url": "https://doi.org/10.1001/jama.2025.23871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
+      "doi": "10.1001/jama.2025.23023",
+      "url": "https://doi.org/10.1001/jama.2025.23023",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
       "article_type": "",
-      "pubmed_pmid": "41538147",
-      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
+      "pubmed_pmid": "41543840",
+      "title": "Nudging Increases Flu Vaccine Uptake.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "e2523871",
+      "pages": "480-481",
       "authors": [
-        "Chen AW Author",
-        "Guobyte E Author",
-        "O'Connor MB Author"
+        "Rubin R Author"
       ],
       "pubmed_pubtypes": [
-        "Video-Audio Media"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.26462",
@@ -1782,6 +1782,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23024",
+      "url": "https://doi.org/10.1001/jama.2025.23024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
+      "article_type": "",
+      "pubmed_pmid": "41543865",
+      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "481",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.24993",
       "url": "https://doi.org/10.1001/jama.2025.24993",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843709",
@@ -1802,27 +1823,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the rising costs related to medical education and how these costs must be addressed for medicine to continue to be a viable career path for future generations."
-    },
-    {
-      "doi": "10.1001/jama.2025.23024",
-      "url": "https://doi.org/10.1001/jama.2025.23024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
-      "article_type": "",
-      "pubmed_pmid": "41543865",
-      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "481",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21733",
@@ -2003,6 +2003,23 @@
       "abstract_md": "This study examines US county-level trends in nonmedical and medical exemptions to childhood vaccination requirements."
     },
     {
+      "doi": "10.1001/jama.2025.15688",
+      "url": "https://doi.org/10.1001/jama.2025.15688",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.22838",
       "url": "https://doi.org/10.1001/jama.2025.22838",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843254",
@@ -2022,23 +2039,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a pediatric oncology fellow at first feels awkward when parents of gravely ill children ask her about her pregnancy until she opens up and finds herself sharing in the love parents have for their children."
-    },
-    {
-      "doi": "10.1001/jama.2025.15688",
-      "url": "https://doi.org/10.1001/jama.2025.15688",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22830",
@@ -2123,6 +2123,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23022",
+      "url": "https://doi.org/10.1001/jama.2025.23022",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
+      "article_type": "",
+      "pubmed_pmid": "41543867",
+      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "480",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.24404",
       "url": "https://doi.org/10.1001/jama.2025.24404",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843615",
@@ -2144,27 +2165,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses ways in which payer license agreements can facilitate widespread lenacapavir use, a key step in ending the HIV epidemic."
-    },
-    {
-      "doi": "10.1001/jama.2025.23022",
-      "url": "https://doi.org/10.1001/jama.2025.23022",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
-      "article_type": "",
-      "pubmed_pmid": "41543867",
-      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "480",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22631",
@@ -2281,8 +2281,8 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": true,
-      "abstract_md": "Extended-release injectable buprenorphine may expand the reach of initiating medications for opioid use disorder in high-risk and hard-to-reach individuals who visit the emergency department (ED) and can be administered in low levels of withdrawal. To compare the effect of ED-initiated 7-day extended-release injectable buprenorphine vs sublingual buprenorphine on treatment engagement at 7 days. Multicenter randomized clinical trial enrolling adult patients presenting to the ED with untreated opioid use disorder and a Clinical Opiate Withdrawal Scale (COWS) score of 4 or higher across 29 EDs in the US from July 12, 2020, to August 21, 2024. Final follow-up was completed on October 24, 2024. Patients were randomized to receive a 24-mg injection of extended-release buprenorphine (equivalent to 16 mg/d) or sublingual buprenorphine, which included either self-administration instructions if the COWS score was less than 8 or administration of 8 mg of sublingual buprenorphine in the ED if the COWS score was 8 or higher. All sublingual buprenorphine group patients received a 7-day prescription for 16 mg/d. Both groups were provided referral for ongoing medication with a scheduled appointment within 7 days. Engagement in opioid use disorder treatment on day 7 was the primary outcome. Secondary outcomes included engagement at 30 days, precipitated withdrawal and overdose events, craving scores, days of illicit opioid use, and patient satisfaction with treatment. Among 2000 patients randomized, 6 who were enrolled twice were excluded, resulting in 991 in the extended-release group and 1003 in the sublingual group. The median age was 37 (IQR, 30-47) years, 68% were male, 31% had an initial COWS score of 4 to 7, and 76% tested positive for fentanyl. The adjusted proportion of engagement in opioid use disorder treatment at 7 days was 40.5% with extended-release buprenorphine vs 38.5% with sublingual buprenorphine (adjusted difference, 1.6%; 95% CI, -2.8% to 6.0%). Engagement at 30 days was similar, with adjusted proportions of 43.8% with extended-release buprenorphine vs 44.9% with sublingual buprenorphine (adjusted difference, -1.5%; 95% CI, -6.2% to 3.2%). Precipitated withdrawal was rare: 6 (0.6%) with extended-release buprenorphine and 8 (0.8%) with sublingual buprenorphine. Overdose events within 30 days occurred in 18 participants (2.3%) in each group. Patients receiving extended-release buprenorphine reported lower mean craving scores at 7 days vs those receiving sublingual buprenorphine (scale, 0-100; mean score, 26.5 vs 30.2, respectively; adjusted mean difference, -3.85; 95% CI, -7.08 to -0.63), fewer days of illicit opioid use in the past 7 days (adjusted ratio of means, 0.77; 95% CI, 0.68-0.95), and better treatment satisfaction scores (scale, 1-5; adjusted mean difference, 0.13; 95% CI, 0.01-0.25). No difference was detected in opioid use disorder treatment engagement on day 7 between the 7-day extended-release and sublingual buprenorphine groups. Both buprenorphine formulations were well tolerated; precipitated withdrawal was rare despite a high prevalence of fentanyl. ClinicalTrials.gov Identifier: NCT04225598."
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.27010",
@@ -3017,27 +3017,6 @@
       "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
     },
     {
-      "doi": "10.1001/jama.2025.22872",
-      "url": "https://doi.org/10.1001/jama.2025.22872",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
-      "article_type": "",
-      "pubmed_pmid": "41538169",
-      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "634-635",
-      "authors": [
-        "Perera Molligoda Arachchige AS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23028",
       "url": "https://doi.org/10.1001/jama.2025.23028",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
@@ -3051,6 +3030,27 @@
       "pages": "567",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.22872",
+      "url": "https://doi.org/10.1001/jama.2025.22872",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
+      "article_type": "",
+      "pubmed_pmid": "41538169",
+      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "634-635",
+      "authors": [
+        "Perera Molligoda Arachchige AS Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3145,27 +3145,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23029",
-      "url": "https://doi.org/10.1001/jama.2025.23029",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
-      "article_type": "",
-      "pubmed_pmid": "41575757",
-      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "567",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23033",
       "url": "https://doi.org/10.1001/jama.2025.23033",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
@@ -3177,6 +3156,27 @@
       "volume": "335",
       "issue": "7",
       "pages": "568",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23029",
+      "url": "https://doi.org/10.1001/jama.2025.23029",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
+      "article_type": "",
+      "pubmed_pmid": "41575757",
+      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "567",
       "authors": [
         "Anderer S Author"
       ],
@@ -3387,28 +3387,6 @@
       "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
     },
     {
-      "doi": "10.1001/jama.2025.23935",
-      "url": "https://doi.org/10.1001/jama.2025.23935",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
-      "article_type": "",
-      "pubmed_pmid": "41364680",
-      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "580-582",
-      "authors": [
-        "Hundscheid T Author",
-        "de Boode WP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22903",
       "url": "https://doi.org/10.1001/jama.2025.22903",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844118",
@@ -3424,6 +3402,28 @@
         "Smit JM Author",
         "Kent DM Author",
         "Krijthe JH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23935",
+      "url": "https://doi.org/10.1001/jama.2025.23935",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
+      "article_type": "",
+      "pubmed_pmid": "41364680",
+      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "580-582",
+      "authors": [
+        "Hundscheid T Author",
+        "de Boode WP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -4950,6 +4950,23 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23042",
+      "url": "https://doi.org/10.1001/jama.2025.23042",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.23799",
       "url": "https://doi.org/10.1001/jama.2025.23799",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
@@ -5015,19 +5032,24 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "doi": "10.1001/jama.2025.23985",
+      "url": "https://doi.org/10.1001/jama.2025.23985",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "41533353",
+      "title": "Minor Papillotomy for Pancreas Divisum and Idiopathic Recurrent Pancreatitis-Evidence Over Assumptions.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "671-672",
+      "authors": [
+        "Ramai D Author",
+        "Muthusamy VR Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -5052,28 +5074,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
-    },
-    {
-      "doi": "10.1001/jama.2025.23985",
-      "url": "https://doi.org/10.1001/jama.2025.23985",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
-      "article_type": "",
-      "pubmed_pmid": "41533353",
-      "title": "Minor Papillotomy for Pancreas Divisum and Idiopathic Recurrent Pancreatitis-Evidence Over Assumptions.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "671-672",
-      "authors": [
-        "Ramai D Author",
-        "Muthusamy VR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15703",
