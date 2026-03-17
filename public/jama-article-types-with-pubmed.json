@@ -566,27 +566,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23016",
-      "url": "https://doi.org/10.1001/jama.2025.23016",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
-      "article_type": "",
-      "pubmed_pmid": "41511765",
-      "title": "How Tanning Beds Increase Melanoma Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "392",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23452",
       "url": "https://doi.org/10.1001/jama.2025.23452",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843668",
@@ -626,6 +605,27 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This interim analysis of an ongoing retrospective cohort study uses data from 5 US health plans to assess safety of a bivalent prefusion F subunit&#x2013;based respiratory syncytial virus (RSV) vaccine administered during pregnancy during the first full RSV season after US Food and Drug Administration approval (from September 22, 2023, through June 14, 2024)."
+    },
+    {
+      "doi": "10.1001/jama.2025.23016",
+      "url": "https://doi.org/10.1001/jama.2025.23016",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
+      "article_type": "",
+      "pubmed_pmid": "41511765",
+      "title": "How Tanning Beds Increase Melanoma Risk.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "392",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21099",
@@ -1055,135 +1055,6 @@
       "abstract_md": "This Viewpoint discusses weighing the evidence of benefits and risks of various estrogen products following the US Food and Drug Administration&#x2019;s decision to remove most box warnings from hormone replacement therapy products."
     },
     {
-      "doi": "10.1001/jama.2025.26925",
-      "url": "https://doi.org/10.1001/jama.2025.26925",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844767",
-      "article_type": "",
-      "pubmed_pmid": "41661624",
-      "title": "Impact of a Smartwatch Hypertension Notification Feature for Population Screening.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Cohen JB Author",
-        "Addo DK Author",
-        "Jacobs JA Author",
-        "Greene TH Author",
-        "Xu Y Author",
-        "Picone DS Author",
-        "Shimbo D Author",
-        "Bress AP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "This cross-sectional study assesses the potential impact of a smartwatch hypertension notification feature for US adults who have not been diagnosed with hypertension."
-    },
-    {
-      "doi": "10.1001/jama.2026.0056",
-      "url": "https://doi.org/10.1001/jama.2026.0056",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844763",
-      "article_type": "",
-      "pubmed_pmid": "41661625",
-      "title": "Aluminum Exposure From Vaccines and Diet.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Moser CA Author",
-        "Offit PA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Perspective examines aluminum exposure from vaccines and diet, including how the body processes aluminum, possible health effects, and safety considerations."
-    },
-    {
-      "doi": "10.1001/jama.2025.25368",
-      "url": "https://doi.org/10.1001/jama.2025.25368",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844766",
-      "article_type": "",
-      "pubmed_pmid": "41661622",
-      "title": "Determining Duration of Oral Anticoagulation Treatment for New-Onset AF After Coronary Artery Bypass Grafting.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Xu C Author",
-        "Qu JZ Author",
-        "Wang D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25371",
-      "url": "https://doi.org/10.1001/jama.2025.25371",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844765",
-      "article_type": "",
-      "pubmed_pmid": "41661586",
-      "title": "Determining Duration of Oral Anticoagulation Treatment for New-Onset AF After Coronary Artery Bypass Grafting -Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Herrmann FEM Author",
-        "Jeppsson A Author",
-        "Hagl C Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.27259",
-      "url": "https://doi.org/10.1001/jama.2025.27259",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844764",
-      "article_type": "",
-      "pubmed_pmid": "41661604",
-      "title": "Coffee and Tea Intake, Dementia Risk, and Cognitive Function.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Zhang Y Author",
-        "Liu Y Author",
-        "Li Y Author",
-        "Li Y Author",
-        "Gu X Author",
-        "Kang JH Author",
-        "Eliassen AH Author",
-        "Wang M Author",
-        "Rimm EB Author",
-        "Willett WC Author",
-        "Hu FB Author",
-        "Stampfer MJ Author",
-        "Wang DD Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Evidence linking coffee and tea to cognitive health remains inconclusive, and most studies fail to differentiate caffeinated from decaffeinated coffee. To investigate associations of coffee and tea intake with dementia risk and cognitive function. Prospective cohort study that included female participants from the Nurses' Health Study (NHS; n&#x2009;=&#x2009;86&#x202f;606 with data from 1980-2023) and male participants from the Health Professionals Follow-up Study (HPFS; n&#x2009;=&#x2009;45&#x202f;215 with data from 1986-2023) who did not have cancer, Parkinson disease, or dementia at study entry (baseline) in the US. The primary exposures were intakes of caffeinated coffee, decaffeinated coffee, and tea. Dietary intake was collected every 2 to 4 years using validated food frequency questionnaires. The primary outcome was dementia, which was identified via death records and physician diagnoses. The secondary outcomes included subjective cognitive decline assessed by a questionnaire-based score (range, 0-7; higher scores indicate greater perceived decline; cases defined as those with a score &#x2265;3) and objective cognitive function assessed only in the NHS cohort using telephone-based neuropsychological tests such as the Telephone Interview for Cognitive Status (TICS) score (range, 0-41) and a measure of global cognition (a standardized mean z score for all 6 administered cognitive tests). Among 131&#x202f;821 participants (mean age at baseline, 46.2 [SD, 7.2] years in the NHS cohort and 53.8 [SD, 9.7] years in the HPFS cohort; 65.7% were female) during up to 43 years of follow-up (median, 36.8 years; IQR, 28-42 years), there were 11&#x202f;033 cases of incident dementia. After adjusting for potential confounders and pooling results across cohorts, higher caffeinated coffee intake was significantly associated with lower dementia risk (141 vs 330 cases per 100&#x202f;000 person-years comparing the fourth [highest] quartile of consumption with the first [lowest] quartile; hazard ratio, 0.82 [95% CI, 0.76 to 0.89]) and lower prevalence of subjective cognitive decline (7.8% vs 9.5%, respectively; prevalence ratio, 0.85 [95% CI, 0.78 to 0.93]). In the NHS cohort, higher caffeinated coffee intake was also associated with better objective cognitive performance. Compared with participants in the lowest quartile, those in the highest quartile had a higher mean TICS score (mean difference, 0.11 [95% CI, 0.01 to 0.21]) and a higher mean global cognition score (mean difference, 0.02 [95% CI, -0.01 to 0.04]); however, the association with global cognition was not statistically significant (P&#x2009;=&#x2009;.06). Higher intake of tea showed similar associations with these cognitive outcomes, whereas decaffeinated coffee intake was not associated with lower dementia risk or better cognitive performance. A dose-response analysis showed nonlinear inverse associations of caffeinated coffee and tea intake levels with dementia risk and subjective cognitive decline. The most pronounced associated differences were observed with intake of approximately 2 to 3 cups per day of caffeinated coffee or 1 to 2 cups per day of tea. Greater consumption of caffeinated coffee and tea was associated with lower risk of dementia and modestly better cognitive function, with the most pronounced association at moderate intake levels."
-    },
-    {
       "doi": "10.1001/jama.2026.0805",
       "url": "https://doi.org/10.1001/jama.2026.0805",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844769",
@@ -1513,25 +1384,27 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23023",
-      "url": "https://doi.org/10.1001/jama.2025.23023",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
+      "doi": "10.1001/jama.2025.23871",
+      "url": "https://doi.org/10.1001/jama.2025.23871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
       "article_type": "",
-      "pubmed_pmid": "41543840",
-      "title": "Nudging Increases Flu Vaccine Uptake.",
+      "pubmed_pmid": "41538147",
+      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "480-481",
+      "pages": "e2523871",
       "authors": [
-        "Rubin R Author"
+        "Chen AW Author",
+        "Guobyte E Author",
+        "O'Connor MB Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Video-Audio Media"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
     },
     {
       "doi": "10.1001/jama.2026.0095",
@@ -1555,27 +1428,25 @@
       "abstract_md": "This Medical News article discusses changes to the US government&#x2019;s childhood and adolescent immunization schedule and what they mean for clinicians and families."
     },
     {
-      "doi": "10.1001/jama.2025.23871",
-      "url": "https://doi.org/10.1001/jama.2025.23871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
+      "doi": "10.1001/jama.2025.23023",
+      "url": "https://doi.org/10.1001/jama.2025.23023",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
       "article_type": "",
-      "pubmed_pmid": "41538147",
-      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
+      "pubmed_pmid": "41543840",
+      "title": "Nudging Increases Flu Vaccine Uptake.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "e2523871",
+      "pages": "480-481",
       "authors": [
-        "Chen AW Author",
-        "Guobyte E Author",
-        "O'Connor MB Author"
+        "Rubin R Author"
       ],
       "pubmed_pubtypes": [
-        "Video-Audio Media"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.26462",
@@ -1782,6 +1653,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23024",
+      "url": "https://doi.org/10.1001/jama.2025.23024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
+      "article_type": "",
+      "pubmed_pmid": "41543865",
+      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "481",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.24993",
       "url": "https://doi.org/10.1001/jama.2025.24993",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843709",
@@ -1802,27 +1694,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the rising costs related to medical education and how these costs must be addressed for medicine to continue to be a viable career path for future generations."
-    },
-    {
-      "doi": "10.1001/jama.2025.23024",
-      "url": "https://doi.org/10.1001/jama.2025.23024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
-      "article_type": "",
-      "pubmed_pmid": "41543865",
-      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "481",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21733",
@@ -2003,6 +1874,23 @@
       "abstract_md": "This study examines US county-level trends in nonmedical and medical exemptions to childhood vaccination requirements."
     },
     {
+      "doi": "10.1001/jama.2025.15688",
+      "url": "https://doi.org/10.1001/jama.2025.15688",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.22838",
       "url": "https://doi.org/10.1001/jama.2025.22838",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843254",
@@ -2022,23 +1910,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a pediatric oncology fellow at first feels awkward when parents of gravely ill children ask her about her pregnancy until she opens up and finds herself sharing in the love parents have for their children."
-    },
-    {
-      "doi": "10.1001/jama.2025.15688",
-      "url": "https://doi.org/10.1001/jama.2025.15688",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22830",
@@ -2123,6 +1994,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23022",
+      "url": "https://doi.org/10.1001/jama.2025.23022",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
+      "article_type": "",
+      "pubmed_pmid": "41543867",
+      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "480",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.24404",
       "url": "https://doi.org/10.1001/jama.2025.24404",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843615",
@@ -2146,27 +2038,6 @@
       "abstract_md": "This Viewpoint discusses ways in which payer license agreements can facilitate widespread lenacapavir use, a key step in ending the HIV epidemic."
     },
     {
-      "doi": "10.1001/jama.2025.23022",
-      "url": "https://doi.org/10.1001/jama.2025.23022",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
-      "article_type": "",
-      "pubmed_pmid": "41543867",
-      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "480",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22631",
       "url": "https://doi.org/10.1001/jama.2025.22631",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843869",
@@ -2188,323 +2059,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.27103",
-      "url": "https://doi.org/10.1001/jama.2025.27103",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845046",
-      "article_type": "",
-      "pubmed_pmid": "41671015",
-      "title": "Buprenorphine in the ED-Balancing Access, Safety, and Autonomy.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Moe J Author",
-        "Kestler A Author",
-        "Miles I Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.27064",
-      "url": "https://doi.org/10.1001/jama.2025.27064",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845038",
-      "article_type": "",
-      "pubmed_pmid": "41670990",
-      "title": "Emergency Department-Initiated Buprenorphine for Opioid Use Disorder: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "e2527064",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.27019",
-      "url": "https://doi.org/10.1001/jama.2025.27019",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845042",
-      "article_type": "",
-      "pubmed_pmid": "41670966",
-      "title": "Emergency Department-Initiated Buprenorphine for Opioid Use Disorder: A Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "D'Onofrio G Author",
-        "Herring AA Author",
-        "Hawk KF Author",
-        "Perrone J Author",
-        "Cowan E Author",
-        "McCormack RP Author",
-        "Dziura J Author",
-        "Matthews AG Author",
-        "Pantalon MV Author",
-        "Owens P Author",
-        "Martel S Author",
-        "Coupet E Jr Author",
-        "Lofwall MR Author",
-        "Walsh SL Author",
-        "Edelman EJ Author",
-        "Carpenter JE Author",
-        "Strout TD Author",
-        "Baumann MR Author",
-        "Anderson E Author",
-        "Barrett TW Author",
-        "Dorey A Author",
-        "Taillac P Author",
-        "Cochran G Author",
-        "Crandall CS Author",
-        "Wilson J Author",
-        "Manteuffel J Author",
-        "Cole JB Author",
-        "Whiteside LK Author",
-        "Jones C Author",
-        "Samuels E Author",
-        "Huntley K Author",
-        "Fiellin DA Author",
-        "ED INNOVATION Investigators CollectiveName"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": true,
-      "abstract_md": "Extended-release injectable buprenorphine may expand the reach of initiating medications for opioid use disorder in high-risk and hard-to-reach individuals who visit the emergency department (ED) and can be administered in low levels of withdrawal. To compare the effect of ED-initiated 7-day extended-release injectable buprenorphine vs sublingual buprenorphine on treatment engagement at 7 days. Multicenter randomized clinical trial enrolling adult patients presenting to the ED with untreated opioid use disorder and a Clinical Opiate Withdrawal Scale (COWS) score of 4 or higher across 29 EDs in the US from July 12, 2020, to August 21, 2024. Final follow-up was completed on October 24, 2024. Patients were randomized to receive a 24-mg injection of extended-release buprenorphine (equivalent to 16 mg/d) or sublingual buprenorphine, which included either self-administration instructions if the COWS score was less than 8 or administration of 8 mg of sublingual buprenorphine in the ED if the COWS score was 8 or higher. All sublingual buprenorphine group patients received a 7-day prescription for 16 mg/d. Both groups were provided referral for ongoing medication with a scheduled appointment within 7 days. Engagement in opioid use disorder treatment on day 7 was the primary outcome. Secondary outcomes included engagement at 30 days, precipitated withdrawal and overdose events, craving scores, days of illicit opioid use, and patient satisfaction with treatment. Among 2000 patients randomized, 6 who were enrolled twice were excluded, resulting in 991 in the extended-release group and 1003 in the sublingual group. The median age was 37 (IQR, 30-47) years, 68% were male, 31% had an initial COWS score of 4 to 7, and 76% tested positive for fentanyl. The adjusted proportion of engagement in opioid use disorder treatment at 7 days was 40.5% with extended-release buprenorphine vs 38.5% with sublingual buprenorphine (adjusted difference, 1.6%; 95% CI, -2.8% to 6.0%). Engagement at 30 days was similar, with adjusted proportions of 43.8% with extended-release buprenorphine vs 44.9% with sublingual buprenorphine (adjusted difference, -1.5%; 95% CI, -6.2% to 3.2%). Precipitated withdrawal was rare: 6 (0.6%) with extended-release buprenorphine and 8 (0.8%) with sublingual buprenorphine. Overdose events within 30 days occurred in 18 participants (2.3%) in each group. Patients receiving extended-release buprenorphine reported lower mean craving scores at 7 days vs those receiving sublingual buprenorphine (scale, 0-100; mean score, 26.5 vs 30.2, respectively; adjusted mean difference, -3.85; 95% CI, -7.08 to -0.63), fewer days of illicit opioid use in the past 7 days (adjusted ratio of means, 0.77; 95% CI, 0.68-0.95), and better treatment satisfaction scores (scale, 1-5; adjusted mean difference, 0.13; 95% CI, 0.01-0.25). No difference was detected in opioid use disorder treatment engagement on day 7 between the 7-day extended-release and sublingual buprenorphine groups. Both buprenorphine formulations were well tolerated; precipitated withdrawal was rare despite a high prevalence of fentanyl. ClinicalTrials.gov Identifier: NCT04225598."
-    },
-    {
-      "doi": "10.1001/jama.2025.27010",
-      "url": "https://doi.org/10.1001/jama.2025.27010",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845041",
-      "article_type": "",
-      "pubmed_pmid": "41670979",
-      "title": "Medications to Treat Opioid Use Disorder.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Walter K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Patient Page describes medications used to treat opioid use disorder, opioid withdrawal, and opioid overdose."
-    },
-    {
-      "doi": "10.1001/jama.2025.26348",
-      "url": "https://doi.org/10.1001/jama.2025.26348",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845037",
-      "article_type": "",
-      "pubmed_pmid": "41671014",
-      "title": "Medications for Opioid Use Disorder, Opioid Withdrawal, and Opioid Overdose: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 11",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Harris MTH Author",
-        "Weinstein ZM Author",
-        "Walley AY Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Opioid use disorder (OUD) involves compulsive opioid use that causes substantial distress or impairment at work, school, or home. OUD, which is the third most prevalent substance use disorder worldwide, affected an estimated 3.7% of US adults (9&#x202f;367&#x202f;000) in 2022 and caused 53&#x202f;774 deaths in the US in 2024. Medications for opioid use disorder (MOUD) reduce morbidity and mortality. Individuals with OUD also benefit from medications to treat opioid withdrawal and reverse acute opioid overdose. Methadone, buprenorphine, and naltrexone are medications approved by the US Food and Drug Administration (FDA) to reduce unregulated opioid use. Methadone and buprenorphine reduce the risks of overdose and all-cause mortality. However, only 25.1% of people in the US with OUD were treated with these medications in 2022. MOUD should be selected based on shared decision-making that considers availability and convenience of treatment options and patient preferences. Buprenorphine and naltrexone are prescribed in office-based settings and can be taken at home. Outpatients with OUD in the US can only obtain methadone in person at federally regulated clinics. After stopping or substantially reducing use of opioids, individuals with OUD develop symptoms of opioid withdrawal, such as anxiety, insomnia, pain, nausea, vomiting, and diarrhea. Medications for opioid withdrawal include opioid agonists (eg, methadone and buprenorphine), &#x3b1;2-receptor agonists (eg, lofexidine and clonidine), and medications to treat pain (ibuprofen) and nausea (ondansetron). Individuals being treated for acute withdrawal should also be prescribed MOUD to decrease the risk of all-cause mortality (adjusted hazard ratio, 0.52; 95% CI, 0.42-0.63 for MOUD vs no MOUD). Individuals who use opioids may develop opioid overdose, which can cause respiratory depression, stupor, and, if severe, coma and death. Opioid overdose can be treated or can be reversed with naloxone, an opioid antagonist that is FDA approved and should be administered at the lowest dose needed to restore a normal respiratory rate (eg, naloxone 0.4 mg intramuscularly or 2-4 mg intranasally). Community-wide distribution of naloxone to people who use opioids and their social networks has been associated with 25% to 46% lower community opioid overdose rates. All individuals with OUD should be offered treatment with MOUD to reduce opioid use. Methadone and buprenorphine decrease opioid-associated and all-cause mortality in patients with OUD. Opioid withdrawal symptoms may be treated with opioid agonists, &#x3b1;2-receptor agonists, and medications for pain and nausea. All individuals with OUD should have access to opioid antagonists, such as naloxone, to treat opioid overdose."
-    },
-    {
-      "doi": "10.1001/jama.2025.25957",
-      "url": "https://doi.org/10.1001/jama.2025.25957",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845065",
-      "article_type": "",
-      "pubmed_pmid": "41678160",
-      "title": "Syphilis and Cerebrospinal Fluid Examination-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Chevalier FJ Author",
-        "Johnson KA Author",
-        "Cohen SE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25955",
-      "url": "https://doi.org/10.1001/jama.2025.25955",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845066",
-      "article_type": "",
-      "pubmed_pmid": "41678185",
-      "title": "Syphilis and Cerebrospinal Fluid Examination.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Montes JV Author",
-        "Díez SG Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0369",
-      "url": "https://doi.org/10.1001/jama.2026.0369",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845062",
-      "article_type": "",
-      "pubmed_pmid": "41678179",
-      "title": "Medicare Advantage and Quality Measurement-A System at Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Markovitz AA Author",
-        "Kerr EA Author",
-        "Buck JA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint examines 3 dimensions of Medicare&#x2019;s quality measurement enterprise regarding clinical care assessment, provider network performance, and quality improvement incentivization and outlines reforms to restore accountability."
-    },
-    {
-      "doi": "10.1001/jama.2026.0064",
-      "url": "https://doi.org/10.1001/jama.2026.0064",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845063",
-      "article_type": "",
-      "pubmed_pmid": "41678156",
-      "title": "When Protocol Meets Reality.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 12",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Burks W Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "In this narrative medicine essay, a pediatrician and former medical school dean offers 3 steps for clinicians on how to adapt their cognitive evaluations to the abilities of their patients, in this case his wife who has stage 6 Alzheimer disease."
-    },
-    {
-      "doi": "10.1001/jama.2025.26176",
-      "url": "https://doi.org/10.1001/jama.2025.26176",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845231",
-      "article_type": "",
-      "pubmed_pmid": "41697681",
-      "title": "Personalized Hemodynamic Resuscitation in Early Septic Shock-Reply.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 16",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Kattan E Author",
-        "Ospina-Tascón GA Author",
-        "Bakker J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0472",
-      "url": "https://doi.org/10.1001/jama.2026.0472",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845227",
-      "article_type": "",
-      "pubmed_pmid": "41697684",
-      "title": "Meaning and Comfort in Physician Well-Being: An Integrated Framework.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 16",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Tung MG Author",
-        "Palamara K Author",
-        "Ripp JA Author",
-        "Saddawi-Konefka D Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses a framework for improving physician well-being that involves a synergy of eudaimonia and hedonia that can provide enough comfort to make the work sustainable and preserve enough meaning to make the work worthwhile."
-    },
-    {
-      "doi": "10.1001/jama.2025.26173",
-      "url": "https://doi.org/10.1001/jama.2025.26173",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845232",
-      "article_type": "",
-      "pubmed_pmid": "41697672",
-      "title": "Personalized Hemodynamic Resuscitation in Early Septic Shock.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 16",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Bosch NA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0390",
-      "url": "https://doi.org/10.1001/jama.2026.0390",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845228",
-      "article_type": "",
-      "pubmed_pmid": "41697670",
-      "title": "Physician Care as a Moral Obligation in Health Care Practice.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 16",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Atkinson MP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses care of the physician as a moral obligation in health care practice, noting that such care also supports patients by preventing practitioner burnout and medical errors."
     },
     {
       "doi": "10.1001/jama.2026.0561",
@@ -3017,27 +2571,6 @@
       "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
     },
     {
-      "doi": "10.1001/jama.2025.22872",
-      "url": "https://doi.org/10.1001/jama.2025.22872",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
-      "article_type": "",
-      "pubmed_pmid": "41538169",
-      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "634-635",
-      "authors": [
-        "Perera Molligoda Arachchige AS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23028",
       "url": "https://doi.org/10.1001/jama.2025.23028",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
@@ -3051,6 +2584,27 @@
       "pages": "567",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.22872",
+      "url": "https://doi.org/10.1001/jama.2025.22872",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
+      "article_type": "",
+      "pubmed_pmid": "41538169",
+      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "634-635",
+      "authors": [
+        "Perera Molligoda Arachchige AS Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3145,27 +2699,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23029",
-      "url": "https://doi.org/10.1001/jama.2025.23029",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
-      "article_type": "",
-      "pubmed_pmid": "41575757",
-      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "567",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23033",
       "url": "https://doi.org/10.1001/jama.2025.23033",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
@@ -3177,6 +2710,27 @@
       "volume": "335",
       "issue": "7",
       "pages": "568",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23029",
+      "url": "https://doi.org/10.1001/jama.2025.23029",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
+      "article_type": "",
+      "pubmed_pmid": "41575757",
+      "title": "Limited Evidence Supporting Melatonin Use in Most Children.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "567",
       "authors": [
         "Anderer S Author"
       ],
@@ -3387,28 +2941,6 @@
       "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
     },
     {
-      "doi": "10.1001/jama.2025.23935",
-      "url": "https://doi.org/10.1001/jama.2025.23935",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
-      "article_type": "",
-      "pubmed_pmid": "41364680",
-      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "580-582",
-      "authors": [
-        "Hundscheid T Author",
-        "de Boode WP Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22903",
       "url": "https://doi.org/10.1001/jama.2025.22903",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844118",
@@ -3424,6 +2956,28 @@
         "Smit JM Author",
         "Kent DM Author",
         "Krijthe JH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23935",
+      "url": "https://doi.org/10.1001/jama.2025.23935",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
+      "article_type": "",
+      "pubmed_pmid": "41364680",
+      "title": "Extreme Preterm Infant + PDA + PDA Management = Outcome: Can We Solve the Equations?",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "580-582",
+      "authors": [
+        "Hundscheid T Author",
+        "de Boode WP Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3475,40 +3029,6 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25761",
-      "url": "https://doi.org/10.1001/jama.2025.25761",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845233",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.25758",
-      "url": "https://doi.org/10.1001/jama.2025.25758",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845234",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -3685,25 +3205,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.15724",
-      "url": "https://doi.org/10.1001/jama.2025.15724",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845316",
-      "article_type": "",
-      "pubmed_pmid": "41712228",
-      "title": "Sunshine and Skyshine.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 19",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.26488",
       "url": "https://doi.org/10.1001/jama.2025.26488",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845313",
@@ -3748,31 +3249,6 @@
       "abstract_md": "This JAMA Patient Page describes microplastics and the potential health effects of huamn exposure to microplastics."
     },
     {
-      "doi": "10.1001/jama.2026.0424",
-      "url": "https://doi.org/10.1001/jama.2026.0424",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845315",
-      "article_type": "",
-      "pubmed_pmid": "41712205",
-      "title": "Billing of Medicare's G2211 Longitudinal Care Code Among Traditional Medicare Beneficiaries.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 19",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Ganguli I Author",
-        "Daley NE Author",
-        "Hicks AL Author",
-        "McWilliams JM Author",
-        "Rosenthal MB Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study examines patterns of Medicare&#x2019;s G2211 billing code to understand its uptake and how often these payments went to primary care."
-    },
-    {
       "doi": "10.1001/jama.2026.0108",
       "url": "https://doi.org/10.1001/jama.2026.0108",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845310",
@@ -3792,191 +3268,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a professor of internal medicine and medical humanities writes about her struggle to name and navigate her grief upon losing her newly adopted baby boy after his biological mother changed her mind."
-    },
-    {
-      "doi": "10.1001/jama.2025.26396",
-      "url": "https://doi.org/10.1001/jama.2025.26396",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845504",
-      "article_type": "",
-      "pubmed_pmid": "41719024",
-      "title": "Maternal Diabetes Associated With Increased Risk of Epilepsy in Children.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26400",
-      "url": "https://doi.org/10.1001/jama.2025.26400",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845500",
-      "article_type": "",
-      "pubmed_pmid": "41719049",
-      "title": "Thyroidectomy Safe for Older Adults Despite Higher Risks.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26399",
-      "url": "https://doi.org/10.1001/jama.2025.26399",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845501",
-      "article_type": "",
-      "pubmed_pmid": "41719035",
-      "title": "At-Home Cervical Cancer Screening Favored by Certain Groups.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26397",
-      "url": "https://doi.org/10.1001/jama.2025.26397",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845503",
-      "article_type": "",
-      "pubmed_pmid": "41719028",
-      "title": "Risk of Cardiorespiratory Events Increases After Severe RSV Infection.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26395",
-      "url": "https://doi.org/10.1001/jama.2025.26395",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845505",
-      "article_type": "",
-      "pubmed_pmid": "41719037",
-      "title": "Cardiovascular Disease Risk Climbs Earlier for Men.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.15723",
-      "url": "https://doi.org/10.1001/jama.2025.15723",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845567",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2026.0377",
-      "url": "https://doi.org/10.1001/jama.2026.0377",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845498",
-      "article_type": "",
-      "pubmed_pmid": "41719022",
-      "title": "What Nutrition Experts Say About the New Dietary Guidelines for Americans.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Abbasi J Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses the recently released 2025-2030 Dietary Guidelines for Americans."
-    },
-    {
-      "doi": "10.1001/jama.2026.1426",
-      "url": "https://doi.org/10.1001/jama.2026.1426",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845499",
-      "article_type": "",
-      "pubmed_pmid": "41719025",
-      "title": "Study Points to Biology-Not Just Behavior-in the Mortality Gap Between Males and Females.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Schweitzer K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Medical News article discusses new findings that males have higher mortality than females even after accounting for behavioral, clinical, and sociodemographic factors."
-    },
-    {
-      "doi": "10.1001/jama.2025.26398",
-      "url": "https://doi.org/10.1001/jama.2025.26398",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845502",
-      "article_type": "",
-      "pubmed_pmid": "41719023",
-      "title": "Cataract Surgery Not Linked With Macular Degeneration Progression.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 20",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2026.1198",
@@ -4182,29 +3473,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23247",
-      "url": "https://doi.org/10.1001/jama.2025.23247",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844112",
-      "article_type": "",
-      "pubmed_pmid": "41563785",
-      "title": "Restless Legs Syndrome: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "703-714",
-      "authors": [
-        "Winkelman JW Author",
-        "Wipper B Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults &#x2265;65 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P&#x2009;&lt;&#x2009;.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment."
-    },
-    {
       "doi": "10.1001/jama.2025.24090",
       "url": "https://doi.org/10.1001/jama.2025.24090",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843896",
@@ -4244,6 +3512,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23247",
+      "url": "https://doi.org/10.1001/jama.2025.23247",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844112",
+      "article_type": "",
+      "pubmed_pmid": "41563785",
+      "title": "Restless Legs Syndrome: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "703-714",
+      "authors": [
+        "Winkelman JW Author",
+        "Wipper B Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults &#x2265;65 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P&#x2009;&lt;&#x2009;.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment."
     },
     {
       "doi": "10.1001/jama.2025.23045",
@@ -5032,28 +4323,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.26194",
-      "url": "https://doi.org/10.1001/jama.2025.26194",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844445",
-      "article_type": "",
-      "pubmed_pmid": "41587038",
-      "title": "Reimagining Transplant Center Incentives Beyond the CMS IOTA Model.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "665-666",
-      "authors": [
-        "Chan A Author",
-        "Roth AE Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
-    },
-    {
       "doi": "10.1001/jama.2025.23985",
       "url": "https://doi.org/10.1001/jama.2025.23985",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
@@ -5074,6 +4343,28 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.26194",
+      "url": "https://doi.org/10.1001/jama.2025.26194",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844445",
+      "article_type": "",
+      "pubmed_pmid": "41587038",
+      "title": "Reimagining Transplant Center Incentives Beyond the CMS IOTA Model.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "665-666",
+      "authors": [
+        "Chan A Author",
+        "Roth AE Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
     },
     {
       "doi": "10.1001/jama.2025.15703",
