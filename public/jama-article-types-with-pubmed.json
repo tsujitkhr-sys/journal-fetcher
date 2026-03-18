@@ -384,8 +384,7 @@
         "Evaluation Study",
         "Journal Article",
         "Meta-Analysis",
-        "Multicenter Study",
-        "Comment"
+        "Multicenter Study"
       ],
       "pubmed_is_research": false,
       "abstract_md": "Fever in the first month of life is often the only sign of life-threatening invasive bacterial infection, specifically bacteremia or bacterial meningitis. Most international guidelines recommend routine lumbar punctures for all febrile infants 28 days or younger to rule out bacterial meningitis. Clinical prediction rules may allow for select testing, but limited information exists on their performance to identify infants at low risk for invasive bacterial infections. To evaluate the diagnostic accuracy of the updated Pediatric Emergency Care Applied Research Network (PECARN) prediction rule for identifying febrile infants 28 days or younger with bacteremia or bacterial meningitis. This pooled analysis of 4 published prospective cohort studies from pediatric emergency departments across 6 countries within the global Pediatric Emergency Research Network included previously healthy, non-ill-appearing, full-term (&#x2265;37 weeks' gestation) infants aged 28 days or younger with a temperature greater than or equal to 38.0 &#xb0;C who underwent urine, blood, and serum testing. Infants were classified as low risk if they had a negative urinalysis/dipstick test result, serum procalcitonin less than or equal to 0.5 ng/mL, and blood absolute neutrophil count less than or equal to 4000/mm3. Meta-analytic methods were applied to assess diagnostic accuracy (sensitivity, specificity, and positive and negative predictive values) of the PECARN rule for detection of infants with invasive bacterial infections (bacteremia or bacterial meningitis). Among 1537 infants 28 days or younger (905 male, 1324 hospitalized, 1080 with lumbar punctures), 69 (4.5%) had invasive bacterial infections, including 11 (0.7%) with bacterial meningitis. Overall, 632 (41.1%) met low-risk criteria. The prediction rule had a sensitivity of 94.2% (95% CI, 85.6%-97.8%), specificity of 41.6% (95% CI, 36.7%-46.7%), positive predictive value of 6.9% (95% CI, 4.8%-9.9%), and negative predictive value of 99.4% (95% CI, 98.1%-99.8%) for invasive bacterial infections. In a secondary analysis of 2531 infants from the 2 US-based cohorts from which the rule was originally derived and the 4 validation cohorts, 96 (3.8%) had invasive bacterial infections, 22 (0.9%) had bacterial meningitis, and 1079 (42.6%) were classified as low risk; rule performance was similar. No infants with bacterial meningitis were misclassified in the primary or secondary analyses. The updated PECARN rule had high sensitivity but lower specificity for identifying febrile infants 28 days or younger with invasive bacterial infections in this study, with no missed cases of bacterial meningitis. These results may support shared decision-making regarding select vs routine use of lumbar puncture among infants classified as being at low risk of invasive bacterial infections."
@@ -1204,10 +1203,9 @@
         "Equivalence Trial",
         "Journal Article",
         "Multicenter Study",
-        "Randomized Controlled Trial",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "The most effective initial fraction of inspired oxygen (Fio2) for resuscitating preterm newborns is unknown. To compare outcomes of newborns born at 23 to 28 weeks' gestation resuscitated with initial Fio2 of 0.6 vs 0.3. Randomized clinical trial conducted in 31 maternity hospitals in 6 countries. Consent by waiver was obtained in Australia, certain institutions in India, and Malaysia; prospective informed consent was obtained in certain institutions in India and all institutions in Singapore, Spain, and the US. Infants due at 23 to 28 weeks' gestation were randomized shortly before birth. Those with congenital abnormalities affecting oxygenation, neurodevelopment, or survival were excluded. Randomization was conducted from September 2018 to September 2024, with follow-up expected to close in September 2026. Infants were randomized (1:1) to receive an initial Fio2 of 0.6 or 0.3; Fio2 was titrated to meet standard targets for oxygen saturation by pulse oximetry in the first 10 minutes or for clinical needs. Clinicians and those assessing outcomes were not blinded to group assignment. The primary outcome was death and brain injury at 36 weeks' corrected gestational age; secondary outcomes were the individual components of the primary outcome. A total of 1641 newborns were randomized. The primary analysis included 728 newborns randomized to receive an Fio2 of 0.6 and 741 to an Fio2 of 0.3 after excluding 172 newborns, mostly for birth after 28 weeks' gestation and transfer to another hospital before birth (54% female). Rates of escalation to Fio2 of 1.0 were similar between the groups (Fio2 of 0.6: 41%; Fio2 of 0.3: 38%). Primary outcome information was ascertained in 1423 newborns (96.9%). Death or brain injury at 36 weeks' corrected gestational age occurred in 330 of 703 newborns (46.9%) assigned to the Fio2 of 0.6 group vs 344 of 720 (47.8%) assigned to the Fio2 of 0.3 group (relative risk, 0.98 [95% CI, 0.89-1.09]). Initiating resuscitation of preterm infants with Fio2 of 0.6 vs 0.3 did not affect the risk of death or brain injury by 36 weeks' corrected gestational age. These results lay a foundation for future trials evaluating the effectiveness and safety of using higher initial Fio2 levels for preterm infant resuscitation. ANZCTR Identifier: ACTRN12618000879268."
     },
     {
@@ -1481,7 +1479,8 @@
         "Knopman DS Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1588,7 +1587,8 @@
         "Foglia EE Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -1819,10 +1819,9 @@
         "Clinical Trial, Phase II",
         "Journal Article",
         "Multicenter Study",
-        "Randomized Controlled Trial",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "Neuroscientific, epidemiological, and electronic health record studies implicate herpes simplex virus (HSV) as potentially etiological for Alzheimer disease (AD). To compare the efficacy and adverse effects of valacyclovir vs placebo in participants with early symptomatic AD and HSV seropositivity (HSV-1 or HSV-2). This randomized clinical trial included adults with a clinical diagnosis of probable AD or a clinical diagnosis of mild cognitive impairment with positive biomarkers for AD, a positive serum antibody test (IgG or IgM) for HSV-1 or HSV-2, and a Mini-Mental State Examination score of 18 to 28. The trial was conducted at 3 US outpatient clinics specializing in memory disorders. Recruitment occurred from January 2018 to May 2022; the last follow-up occurred in September 2024. Either 4 g/d of valacyclovir (n&#x2009;=&#x2009;60) or matching placebo (n&#x2009;=&#x2009;60). The primary outcome was least-squares mean (LSM) change at 78 weeks in the 11-item Alzheimer's Disease Assessment Scale Cognitive (ADAS-Cognitive) Subscale score (range, 0-70; higher scores indicate greater impairment). The secondary outcomes were LSM change in the Alzheimer's Disease Cooperative Study-Activities of Daily Living (ADCS-ADL) Scale score; LSM change in the 18F-florbetapir amyloid positron emission tomography (PET) standardized uptake value ratio (SUVR; higher scores indicate higher amyloid levels) for 6 brain regions (medial orbitofrontal, anterior cingulate, parietal lobe, posterior cingulate, temporal lobe, and precuneus); and LSM change in 18F-MK-6240 tau PET medial temporal SUVR (higher scores indicate higher tau levels) for 4 brain regions (amygdala, hippocampus, entorhinal, and parahippocampus). The frequency of adverse events was the safety outcome. Of the 120 participants (mean age, 71.4 [SD, 8.6] years; 55% were female), 93 (77.5%) completed the trial. At 78 weeks, the LSM change in the 11-item ADAS-Cognitive Subscale score was 10.86 (95% CI, 8.80 to 12.91) in the valacyclovir group vs 6.92 (95% CI, 4.88 to 8.97) in the placebo group, indicating greater cognitive worsening with valacyclovir than placebo (between-group difference, 3.93 [95% CI, 1.03 to 6.83]; P&#x2009;=&#x2009;.01). The LSM change in the ADCS-ADL Scale score at 78 weeks was -13.78 (95% CI, -17.00 to -10.56) in the valacyclovir group vs -10.16 (95% CI, -13.37 to -6.96) in the placebo group (between-group difference, -3.62 [95% CI, -8.16 to 0.93]). At 78 weeks, the LSM change in the 18F-florbetapir amyloid PET SUVR was 0.03 (95% CI, -0.04 to 0.10) in the valacyclovir group vs 0.01 (95% CI, -0.06 to 0.08) in the placebo group (between-group difference, 0.02 [95% CI, -0.08 to 0.12]). The LSM change in the 18F-MK-6240 tau PET medial temporal SUVR at 78 weeks was 0.07 (95% CI, -0.06 to 0.19) in the valacyclovir group vs -0.04 (95% CI, -0.15 to 0.07) in the placebo group (between-group difference, 0.11 [95% CI, -0.06 to 0.28]). The most common adverse events were elevated serum creatinine level (5 participants [8.3%] in the valacyclovir group vs 2 participants [3.3%] in the placebo group) and COVID-19 infection (3 [5%] vs 2 [3.3%], respectively). Valacyclovir was not efficacious with cognitive worsening for the primary outcome and it is not recommended to treat individuals with early symptomatic AD and HSV seropositivity. ClinicalTrials.gov Identifier: NCT03282916."
     },
     {
@@ -2362,10 +2361,9 @@
         "Journal Article",
         "Multicenter Study",
         "Pragmatic Clinical Trial",
-        "Randomized Controlled Trial",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial. To determine whether expectant management compared with active treatment of a protocol-defined PDA in preterm infants decreases the incidence of death or bronchopulmonary dysplasia (BPD). A randomized clinical trial including infants born at 22 to 28 weeks' gestation and diagnosed with a protocol-defined PDA between the age of 48 hours and 21 days at screening. The trial was conducted from December 2018 to December 2024 at 33 hospitals within the National Institute of Child Health and Human Development Neonatal Research Network. The final date of follow-up was June 2025. Infants with PDA were randomized to expectant management (n&#x2009;=&#x2009;242) or active treatment (n&#x2009;=&#x2009;240; acetaminophen, ibuprofen, or indomethacin) to close the PDA. The primary outcome was death or BPD at 36 weeks' postmenstrual age. The secondary outcomes included the components of the primary outcome and other morbidities of prematurity. A total of 482 infants were randomized (median gestational age, 25 weeks [IQR, 24 to 27 weeks]; median birth weight, 760 g [IQR, 620 to 935 g]). The trial was stopped for futility and safety after the 50% interim analysis for the primary outcome due to higher survival in the expectant management group. The incidence of death or BPD was 80.9% (195/241) of infants in the expectant management group vs 79.6% (191/240) of infants in the active treatment group (adjusted risk difference, 1.2% [95% CI, -5.7% to 8.1%]; P&#x2009;=&#x2009;.73). The incidence of death before 36 weeks' postmenstrual age was 4.1% (10/241) of infants in the expectant management group vs 9.6% (23/240) of infants in the active treatment group (adjusted risk difference, -5.6% [95% CI, -10.1% to -1.2%]; P&#x2009;=&#x2009;.01). Infections resulting in death occurred in 0.8% (2/241) of infants in the expectant management group vs 3.8% (9/240) of infants in the active treatment group. In extremely preterm infants with a protocol-defined PDA, death or BPD did not differ between the expectant management group and the active treatment group. Survival was substantially higher with expectant management. ClinicalTrials.gov Identifier: NCT03456336."
     },
     {
@@ -2520,7 +2518,8 @@
         "Kornblith LZ Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -2798,10 +2797,9 @@
         "Equivalence Trial",
         "Journal Article",
         "Multicenter Study",
-        "Randomized Controlled Trial",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "Liquid-stored platelets have a shelf-life of 5 to 7 days, limiting availability and resulting in wastage. To assess the effectiveness and safety of dimethyl sulfoxide-cryopreserved platelets, which have a shelf-life of 2 years, as a treatment for cardiac surgery bleeding. The Cryopreserved vs Liquid Platelets II (CLIP-II) trial was a multicenter, randomized, double-blind, parallel-group noninferiority trial, which enrolled patients between August 2021 and April 2024 at 11 Australian tertiary hospitals, with follow-up completed in July 2024. Patients at high risk of platelet transfusion were eligible. Patients were excluded if they had a history of deep vein thrombosis or pulmonary embolism, were coagulopathic, or were females aged 18 to 55 years who were rhesus D (RhD) negative or of unknown RhD status. Of 879 patients meeting inclusion criteria, 182 were excluded and 285 did not consent, leaving 412. Of these, 388 were randomized and 202 received study platelets. Patients received up to 3 units of either group O cryopreserved platelets or conventional liquid-stored platelets, commencing intraoperatively or in the first 24 postoperative hours. The primary outcome was postsurgical chest drain bleeding within the first 24 hours following intensive care unit admission. Noninferiority was defined prospectively as less than 20% greater bleeding in this period. Five secondary and 42 tertiary outcomes were defined a priori. Of the 202 transfused patients (mean [SD] age, 64.4 [13] years; 75.7% male), 61 (30.2%) underwent nonelective surgery. The primary outcome did not differ between groups (605 mL in cryopreserved platelet group vs 535 mL in liquid-stored platelet group; ratio of geometric means [cryopreserved to liquid ratio], 1.13 [95% CI, 0.96-1.34]; P&#x2009;=&#x2009;.07). As the confidence interval includes bleeding exceeding the noninferiority margin, noninferiority was not established. Cryopreserved platelet transfusion was associated with higher intraoperative and total perioperative blood loss (ratio of geometric means [cryopreserved to liquid ratio], 1.42 [95% CI, 1.12-1.80]; 1.31 [95% CI, 1.07-1.60], respectively), and increased red cell, plasma, and cryoprecipitate transfusion. While there were no differences in the incidence of prespecified adverse events, patients receiving cryopreserved platelets experienced longer times to extubation and intensive care unit/hospital discharge (median [IQR] duration of ventilation, 25.5 hours [16.1-77.3] vs 23.6 hours [13.1-52.8]; median [IQR] intensive care unit length of stay, 3.8 days [2.0-6.0] vs 3.0 days [1.9-4.9]; median hospital length of stay, 10.9 days [7.87-17.0] vs 9.1 [6.9-14.9]). Cryopreserved platelets did not meet the predefined threshold for noninferiority in hemostatic effectiveness at 24 hours after ICU admission. Additional predefined end points consistently indicated diminished hemostatic effectiveness, although prespecified adverse events were comparable. ClinicalTrials.gov Identifier: NCT03991481."
     },
     {
@@ -2980,7 +2978,8 @@
         "de Boode WP Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -3726,7 +3725,8 @@
         "Enzinger AC Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -3917,11 +3917,10 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article",
-        "Randomized Controlled Trial",
         "Multicenter Study",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "Pancreas divisum is implicated as an obstructive cause for acute pancreatitis. Observational data suggest endoscopic retrograde cholangiopancreatography (ERCP) with minor papillotomy reduces the risk of pancreatitis episodes. Even though this endoscopic procedure is widely used in practice, clinical trials are lacking. To determine whether ERCP with minor papillotomy reduces the risk of acute pancreatitis among adults with unexplained acute recurrent pancreatitis and pancreas divisum. This multicenter, sham-controlled, double-blind randomized clinical trial enrolled adults with 2 or more episodes of acute pancreatitis and pancreas divisum. Adults with other etiologies for acute pancreatitis or concomitant chronic calcific pancreatitis were excluded. The trial was conducted between September 1, 2018, and August 30, 2024, at 21 referral centers in the US and Canada. Last follow-up occurred on February 15, 2025. Participants were randomized in a 1:1 ratio to ERCP with minor papillotomy or sham ERCP. The primary outcome was development of acute pancreatitis more than 30 days after randomization as a time-to-event outcome. The secondary outcomes included acute pancreatitis episode frequency and development of chronic calcific pancreatitis, diabetes, and exocrine pancreatic dysfunction. A total of 148 participants were randomized (mean age, 54 [SD, 19.5] years; 68.2% female; 95.3% non-Hispanic or Latino and 87.2% White; mean lifetime acute pancreatitis episodes, 3 [SD, 2]; mean duct diameter, 2.2 [SD, 1.3] mm) and followed up for a median of 34 months (IQR, 21.7-45.7 months). Of the 75 participants in the ERCP with minor papillotomy group, 26 (34.7%) developed acute pancreatitis compared with 32 of 73 participants (43.8%) in the sham ERCP group (adjusted hazard ratio, 0.83 [95% CI, 0.49 to 1.41]). The incidence rate ratio for acute recurrent pancreatitis episode frequency was 0.25 (95% CI, 0.18 to 0.34) in the ERCP with minor papillotomy group vs 0.30 (95% CI, 0.23 to 0.41) in the sham ERCP group. There were no between-group differences in frequency and incidence of chronic calcific pancreatitis (4.0% in the ERCP with minor papillotomy group vs 2.7% in the sham ERCP group; risk difference [RD], 0.01 [95% CI, -0.05 to 0.07]), diabetes (15.8% vs 12.8%, respectively; RD, 0.03 [95% CI, -0.13 to 0.19]), and exocrine pancreatic dysfunction (7.7% vs 17.2%; RD, -0.10 [95% CI, -0.27 to 0.08]). The adverse event of acute pancreatitis within 30 days of randomization occurred more frequently in the ERCP with minor papillotomy group (14.7%) vs the sham ERCP group (8.2%) (RD, 0.06 [95% CI, -0.04 to 0.17]). Among patients with unexplained acute recurrent pancreatitis and pancreas divisum, ERCP with minor papillotomy does not reduce the risk of another episode of acute pancreatitis or related sequelae. ClinicalTrials.gov Identifier: NCT03609944."
     },
     {
@@ -4008,11 +4007,10 @@
       ],
       "pubmed_pubtypes": [
         "Journal Article",
-        "Randomized Controlled Trial",
         "Multicenter Study",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
-      "pubmed_is_research": false,
+      "pubmed_is_research": true,
       "abstract_md": "Undertreated cancer symptoms are common among older adults, yet effective early identification and intervention remain limited. To determine whether lay health worker-led symptom assessment reduces acute care use among older adults with cancer. Multisite randomized clinical trial across 43 oncology clinics in California and Arizona conducted from November 2020 through October 2023 with 12 months of follow-up among Medicare Advantage beneficiaries aged 75 years or older with newly diagnosed, recurrent, or progressive cancer. Participants were randomized 1:1 into a symptom assessment group (n&#x2009;=&#x2009;200; usual care with lay health worker-led, telephone-based symptom assessments for 12 months using the Edmonton Symptom Assessment System) or a control group (n&#x2009;=&#x2009;216; usual care alone), with planned enrollment of 200 in both groups. The lay health workers reviewed assessments with advanced practice practitioners who conducted interventions for symptoms rated 4 or greater or that increased by 2 points or more. Outcomes were determined a priori. The primary outcome was emergency department (ED) use and hospitalizations. Secondary outcomes were total costs, hospice, and, among decedents, acute care within 30 days of death and facility deaths. Among 416 patients, the median age was 82 (range, 75-99) years; 219 (52.6%) were male; 171 (41.1%) had stage 4 disease; and 27 (6.4%) had recurrent disease. The mean risk adjustment factor score was 2.70 (SD, 1.77). Symptom assessment participants had 53% lower odds of ED use (61 [30.5%] vs 103 [47.7%] had &#x2265;1 ED visit; adjusted odds ratio [OR], 0.47; 95% CI, 0.32-0.71), 68% lower odds of hospitalization (37 [18.5%] vs 86 [39.8%] had &#x2265;1 hospitalization; OR, 0.32; 95% CI, 0.20-0.51), and lower mean total costs by $12&#x202f;000 per participant (P&#x2009;=&#x2009;.01) than control group participants. Among 142 deceased participants (71 in each group), symptom assessment participants had 68% lower odds of ED use within 30 days of death (OR, 0.32; 95% CI, 0.12-0.88) and 75% lower odds of acute care facility death (OR, 0.25; 95% CI, 0.08-0.77). A lay health worker-led symptom assessment intervention may be a scalable approach to reduce acute care use. ClinicalTrials.gov Identifier: NCT04463992."
     },
     {
@@ -4339,7 +4337,8 @@
         "Muthusamy VR Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
