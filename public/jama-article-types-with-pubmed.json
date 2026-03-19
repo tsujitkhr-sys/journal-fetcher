@@ -2345,7 +2345,7 @@
         "Kicklighter SD Author",
         "Steinbrekera B Author",
         "Anderson K Author",
-        "Reynolds AM Author",
+        "Chandrasekharan PK Author",
         "Wyckoff MH Author",
         "Montoya C Author",
         "Das A Author",
@@ -2563,8 +2563,7 @@
         "Alexander GC Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
@@ -2698,27 +2697,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23033",
-      "url": "https://doi.org/10.1001/jama.2025.23033",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
-      "article_type": "",
-      "pubmed_pmid": "41575754",
-      "title": "Higher Food Preservative Intake Linked With Type 2 Diabetes.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "568",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23029",
       "url": "https://doi.org/10.1001/jama.2025.23029",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844458",
@@ -2730,6 +2708,27 @@
       "volume": "335",
       "issue": "7",
       "pages": "567",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23033",
+      "url": "https://doi.org/10.1001/jama.2025.23033",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844455",
+      "article_type": "",
+      "pubmed_pmid": "41575754",
+      "title": "Higher Food Preservative Intake Linked With Type 2 Diabetes.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "568",
       "authors": [
         "Anderer S Author"
       ],
@@ -2864,7 +2863,8 @@
         "Morten CJ Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comment"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -4059,6 +4059,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.26155",
+      "url": "https://doi.org/10.1001/jama.2025.26155",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844115",
+      "article_type": "",
+      "pubmed_pmid": "41563731",
+      "title": "What Is Restless Legs Syndrome?",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "734",
+      "authors": [
+        "Walter K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This JAMA Patient Page describes restless legs syndrome and its symptoms, risk factors, diagnosis, and management."
+    },
+    {
       "doi": "10.1001/jama.2025.25686",
       "url": "https://doi.org/10.1001/jama.2025.25686",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844500",
@@ -4080,27 +4101,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This Guide to Statistics and Methods provides an overview of the win ratio method for analyzing composite end points in randomized clinical trials, including its benefits and limitations."
-    },
-    {
-      "doi": "10.1001/jama.2025.26155",
-      "url": "https://doi.org/10.1001/jama.2025.26155",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844115",
-      "article_type": "",
-      "pubmed_pmid": "41563731",
-      "title": "What Is Restless Legs Syndrome?",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "734",
-      "authors": [
-        "Walter K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Patient Page describes restless legs syndrome and its symptoms, risk factors, diagnosis, and management."
     },
     {
       "doi": "10.1001/jama.2025.26845",
