@@ -143,27 +143,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.21752",
-      "url": "https://doi.org/10.1001/jama.2025.21752",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
-      "article_type": "",
-      "pubmed_pmid": "41499101",
-      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "462-463",
-      "authors": [
-        "Meyerowitz EA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24331",
       "url": "https://doi.org/10.1001/jama.2025.24331",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842207",
@@ -208,6 +187,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint explores the US Food and Drug Administration&#x2019;s plan to approve leucovorin for patients with autism and the potential implications for evidentiary standards."
+    },
+    {
+      "doi": "10.1001/jama.2025.21752",
+      "url": "https://doi.org/10.1001/jama.2025.21752",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843621",
+      "article_type": "",
+      "pubmed_pmid": "41499101",
+      "title": "FDA Labeling Change for mRNA COVID-19 Vaccines.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "462-463",
+      "authors": [
+        "Meyerowitz EA Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23235",
@@ -565,6 +565,27 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23016",
+      "url": "https://doi.org/10.1001/jama.2025.23016",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
+      "article_type": "",
+      "pubmed_pmid": "41511765",
+      "title": "How Tanning Beds Increase Melanoma Risk.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 3",
+      "volume": "335",
+      "issue": "5",
+      "pages": "392",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.23452",
       "url": "https://doi.org/10.1001/jama.2025.23452",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843668",
@@ -604,27 +625,6 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "This interim analysis of an ongoing retrospective cohort study uses data from 5 US health plans to assess safety of a bivalent prefusion F subunit&#x2013;based respiratory syncytial virus (RSV) vaccine administered during pregnancy during the first full RSV season after US Food and Drug Administration approval (from September 22, 2023, through June 14, 2024)."
-    },
-    {
-      "doi": "10.1001/jama.2025.23016",
-      "url": "https://doi.org/10.1001/jama.2025.23016",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843814",
-      "article_type": "",
-      "pubmed_pmid": "41511765",
-      "title": "How Tanning Beds Increase Melanoma Risk.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 3",
-      "volume": "335",
-      "issue": "5",
-      "pages": "392",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21099",
@@ -1382,27 +1382,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23871",
-      "url": "https://doi.org/10.1001/jama.2025.23871",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
+      "doi": "10.1001/jama.2025.23023",
+      "url": "https://doi.org/10.1001/jama.2025.23023",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
       "article_type": "",
-      "pubmed_pmid": "41538147",
-      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
+      "pubmed_pmid": "41543840",
+      "title": "Nudging Increases Flu Vaccine Uptake.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "e2523871",
+      "pages": "480-481",
       "authors": [
-        "Chen AW Author",
-        "Guobyte E Author",
-        "O'Connor MB Author"
+        "Rubin R Author"
       ],
       "pubmed_pubtypes": [
-        "Video-Audio Media"
+        "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2026.0095",
@@ -1426,25 +1424,27 @@
       "abstract_md": "This Medical News article discusses changes to the US government&#x2019;s childhood and adolescent immunization schedule and what they mean for clinicians and families."
     },
     {
-      "doi": "10.1001/jama.2025.23023",
-      "url": "https://doi.org/10.1001/jama.2025.23023",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844143",
+      "doi": "10.1001/jama.2025.23871",
+      "url": "https://doi.org/10.1001/jama.2025.23871",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843898",
       "article_type": "",
-      "pubmed_pmid": "41543840",
-      "title": "Nudging Increases Flu Vaccine Uptake.",
+      "pubmed_pmid": "41538147",
+      "title": "Going Back to \"Normal\" After ICU Discharge: JAMA Film Documents Post-Intensive Care Syndrome (PICS).",
       "journal": "JAMA",
       "pubdate": "2026 Feb 10",
       "volume": "335",
       "issue": "6",
-      "pages": "480-481",
+      "pages": "e2523871",
       "authors": [
-        "Rubin R Author"
+        "Chen AW Author",
+        "Guobyte E Author",
+        "O'Connor MB Author"
       ],
       "pubmed_pubtypes": [
-        "Journal Article"
+        "Video-Audio Media"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "This JAMA film documents the story of an intensive care unit survivor who developed post&#x2013;intensive care syndrome (PICS), featuring interviews with clinicians and researchers to explore what PICS is, what causes it, and ways to help patients."
     },
     {
       "doi": "10.1001/jama.2025.26462",
@@ -1653,27 +1653,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23024",
-      "url": "https://doi.org/10.1001/jama.2025.23024",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
-      "article_type": "",
-      "pubmed_pmid": "41543865",
-      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "481",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24993",
       "url": "https://doi.org/10.1001/jama.2025.24993",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843709",
@@ -1694,6 +1673,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the rising costs related to medical education and how these costs must be addressed for medicine to continue to be a viable career path for future generations."
+    },
+    {
+      "doi": "10.1001/jama.2025.23024",
+      "url": "https://doi.org/10.1001/jama.2025.23024",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844142",
+      "article_type": "",
+      "pubmed_pmid": "41543865",
+      "title": "Report: Action Needed to Remove Health Care Barriers for People With Disabilities.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "481",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.21733",
@@ -1873,23 +1873,6 @@
       "abstract_md": "This study examines US county-level trends in nonmedical and medical exemptions to childhood vaccination requirements."
     },
     {
-      "doi": "10.1001/jama.2025.15688",
-      "url": "https://doi.org/10.1001/jama.2025.15688",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22838",
       "url": "https://doi.org/10.1001/jama.2025.22838",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843254",
@@ -1909,6 +1892,23 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "In this narrative medicine essay, a pediatric oncology fellow at first feels awkward when parents of gravely ill children ask her about her pregnancy until she opens up and finds herself sharing in the love parents have for their children."
+    },
+    {
+      "doi": "10.1001/jama.2025.15688",
+      "url": "https://doi.org/10.1001/jama.2025.15688",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844206",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22830",
@@ -1993,27 +1993,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23022",
-      "url": "https://doi.org/10.1001/jama.2025.23022",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
-      "article_type": "",
-      "pubmed_pmid": "41543867",
-      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "480",
-      "authors": [
-        "Rubin R Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.24404",
       "url": "https://doi.org/10.1001/jama.2025.24404",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843615",
@@ -2035,6 +2014,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses ways in which payer license agreements can facilitate widespread lenacapavir use, a key step in ending the HIV epidemic."
+    },
+    {
+      "doi": "10.1001/jama.2025.23022",
+      "url": "https://doi.org/10.1001/jama.2025.23022",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844144",
+      "article_type": "",
+      "pubmed_pmid": "41543867",
+      "title": "HHS Issues Fourth Extension of Telemedicine Prescribing.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "480",
+      "authors": [
+        "Rubin R Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.22631",
@@ -2544,29 +2544,25 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23091",
-      "url": "https://doi.org/10.1001/jama.2025.23091",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843710",
+      "doi": "10.1001/jama.2025.22872",
+      "url": "https://doi.org/10.1001/jama.2025.22872",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
       "article_type": "",
-      "pubmed_pmid": "41525083",
-      "title": "The US Food and Drug Administration's Regulation of Mifepristone.",
+      "pubmed_pmid": "41538169",
+      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 17",
       "volume": "335",
       "issue": "7",
-      "pages": "619-625",
+      "pages": "634-635",
       "authors": [
-        "Dilek S Author",
-        "Rosen J Author",
-        "Levashkevich A Author",
-        "Sharfstein JM Author",
-        "Alexander GC Author"
+        "Perera Molligoda Arachchige AS Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23028",
@@ -2590,25 +2586,29 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.22872",
-      "url": "https://doi.org/10.1001/jama.2025.22872",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
+      "doi": "10.1001/jama.2025.23091",
+      "url": "https://doi.org/10.1001/jama.2025.23091",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843710",
       "article_type": "",
-      "pubmed_pmid": "41538169",
-      "title": "Biparametric vs Multiparametric MRI for Diagnosis of Prostate Cancer.",
+      "pubmed_pmid": "41525083",
+      "title": "The US Food and Drug Administration's Regulation of Mifepristone.",
       "journal": "JAMA",
       "pubdate": "2026 Feb 17",
       "volume": "335",
       "issue": "7",
-      "pages": "634-635",
+      "pages": "619-625",
       "authors": [
-        "Perera Molligoda Arachchige AS Author"
+        "Dilek S Author",
+        "Rosen J Author",
+        "Levashkevich A Author",
+        "Sharfstein JM Author",
+        "Alexander GC Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
       ],
       "pubmed_is_research": false,
-      "abstract_md": ""
+      "abstract_md": "Mifepristone, used with misoprostol, is the most common abortion regimen in the US. It is also a focal point of reproductive health policy and politics, with controversy over its legal status and regulation by the US Food and Drug Administration (FDA). To characterize the FDA's decision-making with respect to the regulation of mifepristone, with a particular interest in the agency's rationale for establishing, maintaining, or modifying key components of its regulatory approach over time. Qualitative analysis of 5239 pages of FDA documents obtained through a Freedom of Information Act request, including sponsors' Risk Evaluation and Mitigation Strategy (REMS) assessment reports, FDA review of these reports, internal memos, and regulatory correspondence (2011-2023), supplemented by a review of publicly available information. Review focused on FDA justifications for implementing, maintaining, or modifying postapproval safety measures and the supporting evidence cited. Five key moments in the FDA's regulation of mifepristone that have led to the current state of oversight were identified: (1) conversion to the REMS framework in June 2011; (2) reevaluation of REMS necessity in October 2013; (3) a sponsor-requested label change in May 2015; (4) the response to the COVID-19 pandemic in 2020 and 2021; and (5) a comprehensive reassessment of the REMS in November 2021. Key themes across this period were consistent findings on safety, lack of ideological bias in staff scientists' recommendations, and the limited impact of political interference-to date-on the agency's oversight. Even as litigation, the COVID-19 public health emergency, and evolving practice standards changed the context of mifepristone regulation, the agency generally followed the policy approach favored by scientists at the agency. FDA oversight of mifepristone, developed during key moments from 2011 to 2023, has been shaped by scientific evidence and a cautious regulatory approach led by scientists at the agency."
     },
     {
       "doi": "10.1001/jama.2025.22906",
@@ -2939,29 +2939,6 @@
       "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
     },
     {
-      "doi": "10.1001/jama.2025.22903",
-      "url": "https://doi.org/10.1001/jama.2025.22903",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844118",
-      "article_type": "",
-      "pubmed_pmid": "41563744",
-      "title": "Prediction of Platelet Transfusion Outcomes in Preterm Newborns With Severe Thrombocytopenia.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "637-638",
-      "authors": [
-        "Smit JM Author",
-        "Kent DM Author",
-        "Krijthe JH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23935",
       "url": "https://doi.org/10.1001/jama.2025.23935",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842697",
@@ -2980,6 +2957,29 @@
       "pubmed_pubtypes": [
         "Journal Article",
         "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.22903",
+      "url": "https://doi.org/10.1001/jama.2025.22903",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844118",
+      "article_type": "",
+      "pubmed_pmid": "41563744",
+      "title": "Prediction of Platelet Transfusion Outcomes in Preterm Newborns With Severe Thrombocytopenia.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "637-638",
+      "authors": [
+        "Smit JM Author",
+        "Kent DM Author",
+        "Krijthe JH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
@@ -4239,23 +4239,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23799",
       "url": "https://doi.org/10.1001/jama.2025.23799",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
@@ -4321,25 +4304,19 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23985",
-      "url": "https://doi.org/10.1001/jama.2025.23985",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
+      "doi": "10.1001/jama.2025.23042",
+      "url": "https://doi.org/10.1001/jama.2025.23042",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
       "article_type": "",
-      "pubmed_pmid": "41533353",
-      "title": "Minor Papillotomy for Pancreas Divisum and Idiopathic Recurrent Pancreatitis-Evidence Over Assumptions.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "671-672",
-      "authors": [
-        "Ramai D Author",
-        "Muthusamy VR Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Comment"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -4364,6 +4341,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the Centers for Medicare &amp; Medicaid Services&#x2019; (CMS) Increasing Organ Transplant Access (IOTA) model and how its focus should be less on volume than patient-centered quality-of-life outcomes."
+    },
+    {
+      "doi": "10.1001/jama.2025.23985",
+      "url": "https://doi.org/10.1001/jama.2025.23985",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843871",
+      "article_type": "",
+      "pubmed_pmid": "41533353",
+      "title": "Minor Papillotomy for Pancreas Divisum and Idiopathic Recurrent Pancreatitis-Evidence Over Assumptions.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "671-672",
+      "authors": [
+        "Ramai D Author",
+        "Muthusamy VR Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Comment"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.15703",
