@@ -1258,27 +1258,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.22489",
-      "url": "https://doi.org/10.1001/jama.2025.22489",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
-      "article_type": "",
-      "pubmed_pmid": "41538216",
-      "title": "Insights From the Eye With AI.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "e2522489",
-      "authors": [
-        "Hswen Y Author"
-      ],
-      "pubmed_pubtypes": [
-        "Video-Audio Media"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
-    },
-    {
       "doi": "10.1001/jama.2025.24892",
       "url": "https://doi.org/10.1001/jama.2025.24892",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843661",
@@ -1298,6 +1277,27 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This Viewpoint discusses the current state of medical schools&#x2019; acceptance rates and treatment of students who are neurodivergent and demonstrates the value neurodivergent individuals have brought to science and medicine."
+    },
+    {
+      "doi": "10.1001/jama.2025.22489",
+      "url": "https://doi.org/10.1001/jama.2025.22489",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843899",
+      "article_type": "",
+      "pubmed_pmid": "41538216",
+      "title": "Insights From the Eye With AI.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "e2522489",
+      "authors": [
+        "Hswen Y Author"
+      ],
+      "pubmed_pubtypes": [
+        "Video-Audio Media"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with Cecilia Lee, MD, MS, a professor of ophthalmology at Washington University in St Louis, for JAMA+ AI Conversations."
     },
     {
       "doi": "10.1001/jama.2025.20529",
@@ -3976,23 +3976,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23042",
-      "url": "https://doi.org/10.1001/jama.2025.23042",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
-      "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.23799",
       "url": "https://doi.org/10.1001/jama.2025.23799",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844547",
@@ -4054,6 +4037,23 @@
       "pubmed_pubtypes": [
         "Journal Article"
       ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23042",
+      "url": "https://doi.org/10.1001/jama.2025.23042",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844494",
+      "article_type": "",
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
