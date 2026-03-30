@@ -2459,27 +2459,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.23028",
-      "url": "https://doi.org/10.1001/jama.2025.23028",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
-      "article_type": "",
-      "pubmed_pmid": "41575753",
-      "title": "Decline in US Overdose Deaths May Be Tied to Fentanyl Disruption.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "567",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.22872",
       "url": "https://doi.org/10.1001/jama.2025.22872",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843901",
@@ -2493,6 +2472,27 @@
       "pages": "634-635",
       "authors": [
         "Perera Molligoda Arachchige AS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23028",
+      "url": "https://doi.org/10.1001/jama.2025.23028",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844459",
+      "article_type": "",
+      "pubmed_pmid": "41575753",
+      "title": "Decline in US Overdose Deaths May Be Tied to Fentanyl Disruption.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "567",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -2808,29 +2808,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.25467",
-      "url": "https://doi.org/10.1001/jama.2025.25467",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844189",
-      "article_type": "",
-      "pubmed_pmid": "41569583",
-      "title": "Leading Cancer Deaths in People Younger Than 50 Years.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "632-634",
-      "authors": [
-        "Siegel RL Author",
-        "Wagle NS Author",
-        "Jemal A Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
-    },
-    {
       "doi": "10.1001/jama.2025.22234",
       "url": "https://doi.org/10.1001/jama.2025.22234",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843622",
@@ -2852,6 +2829,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This JAMA Guide to Statistics and Methods explains how sibling analysis can be used to account for confounding in observational studies, using the example of a study on acid suppressants during pregnancy and risk of neuropsychiatric disorders in offspring."
+    },
+    {
+      "doi": "10.1001/jama.2025.25467",
+      "url": "https://doi.org/10.1001/jama.2025.25467",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844189",
+      "article_type": "",
+      "pubmed_pmid": "41569583",
+      "title": "Leading Cancer Deaths in People Younger Than 50 Years.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "632-634",
+      "authors": [
+        "Siegel RL Author",
+        "Wagle NS Author",
+        "Jemal A Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
     },
     {
       "doi": "10.1001/jama.2025.22903",
@@ -3209,6 +3209,29 @@
       "abstract_md": ""
     },
     {
+      "doi": "10.1001/jama.2025.23247",
+      "url": "https://doi.org/10.1001/jama.2025.23247",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844112",
+      "article_type": "",
+      "pubmed_pmid": "41563785",
+      "title": "Restless Legs Syndrome: A Review.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 24",
+      "volume": "335",
+      "issue": "8",
+      "pages": "703-714",
+      "authors": [
+        "Winkelman JW Author",
+        "Wipper B Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults &#x2265;65 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P&#x2009;&lt;&#x2009;.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment."
+    },
+    {
       "doi": "10.1001/jama.2025.24090",
       "url": "https://doi.org/10.1001/jama.2025.24090",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843896",
@@ -3248,29 +3271,6 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.23247",
-      "url": "https://doi.org/10.1001/jama.2025.23247",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844112",
-      "article_type": "",
-      "pubmed_pmid": "41563785",
-      "title": "Restless Legs Syndrome: A Review.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 24",
-      "volume": "335",
-      "issue": "8",
-      "pages": "703-714",
-      "authors": [
-        "Winkelman JW Author",
-        "Wipper B Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults &#x2265;65 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P&#x2009;&lt;&#x2009;.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment."
     },
     {
       "doi": "10.1001/jama.2025.23045",
