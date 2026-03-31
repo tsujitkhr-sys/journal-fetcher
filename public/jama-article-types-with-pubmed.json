@@ -1468,25 +1468,6 @@
       "abstract_md": "This Viewpoint summarizes 5 key questions about obesity management addressed in the American Association of Clinical Endocrinology consensus statement and discusses the remaining challenges for clinical practice."
     },
     {
-      "doi": "10.1001/jama.2025.23328",
-      "url": "https://doi.org/10.1001/jama.2025.23328",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
-      "article_type": "",
-      "pubmed_pmid": "41369164",
-      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 10",
-      "volume": "335",
-      "issue": "6",
-      "pages": "e2523328",
-      "authors": [],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.21990",
       "url": "https://doi.org/10.1001/jama.2025.21990",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843255",
@@ -1527,6 +1508,25 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "Low back pain (LBP) is influenced by interrelated physical, psychological, and social factors. However, most treatments focus on symptom reduction without addressing the underlying biopsychosocial needs of patients. To determine the effectiveness of spinal manipulation and clinician-supported biopsychosocial self-management vs medical care for adults with increased risk of chronic disabling LBP. This 2&#x2009;&#xd7;&#x2009;2 factorial randomized clinical trial enrolled participants in 3 research clinics at the Universities of Minnesota and Pittsburgh from November 2018 to May 2023; final follow-up was in June 2024. Adults with acute or subacute LBP at moderate to high risk of chronicity based on the STarT Back tool were randomized to 1 of 4 groups, with interventions lasting up to 8 weeks. Statistical analysis was conducted from November 2024 to June 2025. Spinal manipulation therapy (n&#x2009;=&#x2009;201), supported self-management (n&#x2009;=&#x2009;305), or combined supported self-management with spinal manipulation (n&#x2009;=&#x2009;193) compared with guideline-based medical care (n&#x2009;=&#x2009;301). Physical therapists and chiropractors provided spinal manipulation and supported self-management. The 2 primary outcomes averaged over a follow-up of 1 year were monthly low back disability (Roland-Morris Disability Questionnaire) and weekly pain intensity (numerical rating scale). Secondary analysis examined the proportion of participants achieving a 50% or higher reduction in the primary outcome measures. Among the 1000 participants randomized (mean [SD] age, 47 [16] years; 58% female), 93% completed the trial. The omnibus test for differences across the 4 treatment groups was statistically significant for disability (P&#x2009;=&#x2009;.001; supported self-management, 4.7; spinal manipulation, 5.5; combined supported self-management with spinal manipulation, 4.8; medical care, 5.9) but not pain intensity (P&#x2009;=&#x2009;.16; supported self-management, 2.8; spinal manipulation, 3.0; combined supported self-management with spinal manipulation, 2.8; medical care, 3.0). Averaged over 12 months, LBP disability was significantly lower compared with medical care for supported self-management (mean difference, -1.2 [95% CI, -1.9 to -0.5]) and supported self-management with spinal manipulation (mean difference, -1.1 [95% CI, -1.9 to -0.3]) but not spinal manipulation alone (mean difference, -0.4 [95% CI, -1.2 to 0.4]). Group differences in pain intensity were not statistically significant; point estimates ranged from -0.2 to 0. Both supported self-management groups had higher proportions of patients achieving a 50% or greater reduction in disability (supported self-management, 67%; spinal manipulation, 54%; combined supported self-management with spinal manipulation, 65%; medical care, 54%). For patients with acute or subacute LBP at increased risk of chronic disabling LBP, clinician-supported biopsychosocial self-management showed statistically significant but small reductions in disability, but not pain, vs medical care over 1-year follow-up, and spinal manipulation alone showed no significant difference for either outcome. ClinicalTrials.gov Identifier: NCT03581123."
+    },
+    {
+      "doi": "10.1001/jama.2025.23328",
+      "url": "https://doi.org/10.1001/jama.2025.23328",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842698",
+      "article_type": "",
+      "pubmed_pmid": "41369164",
+      "title": "Targeted Oxygen for Initial Resuscitation of Preterm Infants: Research Summary.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 10",
+      "volume": "335",
+      "issue": "6",
+      "pages": "e2523328",
+      "authors": [],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
     },
     {
       "doi": "10.1001/jama.2025.23127",
@@ -2182,31 +2182,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.24516",
-      "url": "https://doi.org/10.1001/jama.2025.24516",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843295",
-      "article_type": "",
-      "pubmed_pmid": "41468254",
-      "title": "Trends in Private Equity Affiliations With Fertility Clinics in the US.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "630-632",
-      "authors": [
-        "Ke J Author",
-        "Chen J Author",
-        "Chun E Author",
-        "Shahinian V Author",
-        "Dupree JM Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This study assesses trends in private equity affiliations with US fertility clinics in 2013-2023."
-    },
-    {
       "doi": "10.1001/jama.2025.23330",
       "url": "https://doi.org/10.1001/jama.2025.23330",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2842696",
@@ -2280,6 +2255,31 @@
       ],
       "pubmed_is_research": true,
       "abstract_md": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial. To determine whether expectant management compared with active treatment of a protocol-defined PDA in preterm infants decreases the incidence of death or bronchopulmonary dysplasia (BPD). A randomized clinical trial including infants born at 22 to 28 weeks' gestation and diagnosed with a protocol-defined PDA between the age of 48 hours and 21 days at screening. The trial was conducted from December 2018 to December 2024 at 33 hospitals within the National Institute of Child Health and Human Development Neonatal Research Network. The final date of follow-up was June 2025. Infants with PDA were randomized to expectant management (n&#x2009;=&#x2009;242) or active treatment (n&#x2009;=&#x2009;240; acetaminophen, ibuprofen, or indomethacin) to close the PDA. The primary outcome was death or BPD at 36 weeks' postmenstrual age. The secondary outcomes included the components of the primary outcome and other morbidities of prematurity. A total of 482 infants were randomized (median gestational age, 25 weeks [IQR, 24 to 27 weeks]; median birth weight, 760 g [IQR, 620 to 935 g]). The trial was stopped for futility and safety after the 50% interim analysis for the primary outcome due to higher survival in the expectant management group. The incidence of death or BPD was 80.9% (195/241) of infants in the expectant management group vs 79.6% (191/240) of infants in the active treatment group (adjusted risk difference, 1.2% [95% CI, -5.7% to 8.1%]; P&#x2009;=&#x2009;.73). The incidence of death before 36 weeks' postmenstrual age was 4.1% (10/241) of infants in the expectant management group vs 9.6% (23/240) of infants in the active treatment group (adjusted risk difference, -5.6% [95% CI, -10.1% to -1.2%]; P&#x2009;=&#x2009;.01). Infections resulting in death occurred in 0.8% (2/241) of infants in the expectant management group vs 3.8% (9/240) of infants in the active treatment group. In extremely preterm infants with a protocol-defined PDA, death or BPD did not differ between the expectant management group and the active treatment group. Survival was substantially higher with expectant management. ClinicalTrials.gov Identifier: NCT03456336."
+    },
+    {
+      "doi": "10.1001/jama.2025.24516",
+      "url": "https://doi.org/10.1001/jama.2025.24516",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843295",
+      "article_type": "",
+      "pubmed_pmid": "41468254",
+      "title": "Trends in Private Equity Affiliations With Fertility Clinics in the US.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "630-632",
+      "authors": [
+        "Ke J Author",
+        "Chen J Author",
+        "Chun E Author",
+        "Shahinian V Author",
+        "Dupree JM Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This study assesses trends in private equity affiliations with US fertility clinics in 2013-2023."
     },
     {
       "doi": "10.1001/jama.2025.22968",
@@ -2808,29 +2808,6 @@
       "abstract_md": ""
     },
     {
-      "doi": "10.1001/jama.2025.22234",
-      "url": "https://doi.org/10.1001/jama.2025.22234",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843622",
-      "article_type": "",
-      "pubmed_pmid": "41499111",
-      "title": "Sibling Comparisons to Account for Confounding in Observational Studies.",
-      "journal": "JAMA",
-      "pubdate": "2026 Feb 17",
-      "volume": "335",
-      "issue": "7",
-      "pages": "626-627",
-      "authors": [
-        "Ahlqvist VH Author",
-        "Lee BK Author",
-        "Chiu YH Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This JAMA Guide to Statistics and Methods explains how sibling analysis can be used to account for confounding in observational studies, using the example of a study on acid suppressants during pregnancy and risk of neuropsychiatric disorders in offspring."
-    },
-    {
       "doi": "10.1001/jama.2025.25467",
       "url": "https://doi.org/10.1001/jama.2025.25467",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2844189",
@@ -2852,6 +2829,29 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "This study examines changes in cancer mortality in the US for the 5 leading cancer-related deaths among people younger than 50 years over the past 3 decades."
+    },
+    {
+      "doi": "10.1001/jama.2025.22234",
+      "url": "https://doi.org/10.1001/jama.2025.22234",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2843622",
+      "article_type": "",
+      "pubmed_pmid": "41499111",
+      "title": "Sibling Comparisons to Account for Confounding in Observational Studies.",
+      "journal": "JAMA",
+      "pubdate": "2026 Feb 17",
+      "volume": "335",
+      "issue": "7",
+      "pages": "626-627",
+      "authors": [
+        "Ahlqvist VH Author",
+        "Lee BK Author",
+        "Chiu YH Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This JAMA Guide to Statistics and Methods explains how sibling analysis can be used to account for confounding in observational studies, using the example of a study on acid suppressants during pregnancy and risk of neuropsychiatric disorders in offspring."
     },
     {
       "doi": "10.1001/jama.2025.22903",
