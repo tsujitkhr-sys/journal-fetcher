@@ -2278,27 +2278,6 @@
       "abstract_md": "This Medical News article discusses a new joint statement from the American College of Cardiology, the American Heart Association, the European Society of Cardiology, and the World Heart Federation addressing the role of environmental risk factors in cardiovascular disease."
     },
     {
-      "doi": "10.1001/jama.2025.26394",
-      "url": "https://doi.org/10.1001/jama.2025.26394",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845184",
-      "article_type": "",
-      "pubmed_pmid": "41686470",
-      "title": "US Completes Withdrawal From the WHO.",
-      "journal": "JAMA",
-      "pubdate": "2026 Mar 10",
-      "volume": "335",
-      "issue": "10",
-      "pages": "841",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.25542",
       "url": "https://doi.org/10.1001/jama.2025.25542",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845043",
@@ -2314,6 +2293,27 @@
         "Saugel B Author",
         "Meidert AS Author",
         "Kouz K Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.26394",
+      "url": "https://doi.org/10.1001/jama.2025.26394",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845184",
+      "article_type": "",
+      "pubmed_pmid": "41686470",
+      "title": "US Completes Withdrawal From the WHO.",
+      "journal": "JAMA",
+      "pubdate": "2026 Mar 10",
+      "volume": "335",
+      "issue": "10",
+      "pages": "841",
+      "authors": [
+        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
