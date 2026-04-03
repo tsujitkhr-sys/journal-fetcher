@@ -1476,30 +1476,6 @@
       "abstract_md": "This cohort study examines antibody responses to influenza A(H3N2) subclade K and other strains before and after vaccination against influenza."
     },
     {
-      "doi": "10.1001/jama.2026.3088",
-      "url": "https://doi.org/10.1001/jama.2026.3088",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2846432",
-      "article_type": "",
-      "pubmed_pmid": "41801734",
-      "title": "FDA's Regulatory Reforms to Unlock Competition and Lower Drug Costs: Breaking the Biosimilar Bottleneck.",
-      "journal": "JAMA",
-      "pubdate": "2026 Mar 9",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [
-        "Makary MA Author",
-        "Yim S Author",
-        "Ünlü M Author",
-        "Ricci MS Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": "This Viewpoint from the FDA explains efforts to remove burdensome criteria for biosimilar approvals and encourage use of biosimilars over branded biologics, which could lead to greater access to biosimilars for patients and reduce treatment costs."
-    },
-    {
       "doi": "10.1001/jama.2026.1114",
       "url": "https://doi.org/10.1001/jama.2026.1114",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2846256",
@@ -1522,6 +1498,30 @@
       ],
       "pubmed_is_research": false,
       "abstract_md": "Obesity is associated with increased risk of cancer, including endometrial, esophageal, gastric, kidney, colorectal, liver, gallbladder, pancreas, prostate, postmenopausal breast, ovarian, and thyroid cancers. Overweight and obesity account for approximately 10% of new cancer diagnoses annually in the US and up to 50% of certain cancers such as endometrial and hepatobiliary cancer. Overweight is defined as body mass index (BMI) of 25 to 29.9 and obesity as BMI of 30 or greater. Obesity and overweight are characterized by excess accumulation of adipose tissue, which disrupts its primary function of energy storage. Excess energy, in the form of free fatty acids, is transferred to developing cancer cells and stimulates cancer development through genomic instability caused by oxidative stress and DNA damage. Other defining features of adipose tissue dysfunction include inflammation and altered hormone production such as increased estrogens and leptin and decreased adiponectin. Inflamed adipose tissue is associated with systemic elevations in inflammatory mediators, such as prostaglandin E2, the cytokines interleukin 1&#x3b2; and interleukin 6, and tumor necrosis factor &#x3b1;. These mediators promote tumor growth directly or indirectly by stimulating estrogen biosynthesis, which can promote proliferation of hormone-sensitive cancers such as breast, ovarian, and endometrial cancer, or by suppressing immune-mediated elimination of developing cancer cells through accumulation of myeloid-derived suppressor cells and reductions in the amount and function of cytotoxic T cells and natural killer cells. Inflammation and oxidative stress are also stimulated by obesity-associated depletion of gut commensal bacteria species (eg, Akkermansia muciniphila) and overgrowth of bacterial populations associated with cancer development in preclinical models (eg, Bilophila). In observational studies, patients who lost more than 10% of body weight through bariatric procedures (n&#x2009;=&#x2009;30&#x202f;318) or with glucagon-like peptide 1 receptor agonists (n&#x2009;=&#x2009;1&#x202f;651&#x202f;452) had modest reductions in obesity-associated cancer incidence (absolute change, -0.02% to -0.5%). Overweight and obesity are associated with higher rates of cancer and account for 10% of new cancer diagnoses annually in the US. Weight loss may reduce cancer risk by attenuating adverse effects of obesity, but greater than 10% weight loss may be necessary to reduce cancer risk."
+    },
+    {
+      "doi": "10.1001/jama.2026.3088",
+      "url": "https://doi.org/10.1001/jama.2026.3088",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2846432",
+      "article_type": "",
+      "pubmed_pmid": "41801734",
+      "title": "FDA's Regulatory Reforms to Unlock Competition and Lower Drug Costs: Breaking the Biosimilar Bottleneck.",
+      "journal": "JAMA",
+      "pubdate": "2026 Mar 9",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [
+        "Makary MA Author",
+        "Yim S Author",
+        "Ünlü M Author",
+        "Ricci MS Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": "This Viewpoint from the FDA explains efforts to remove burdensome criteria for biosimilar approvals and encourage use of biosimilars over branded biologics, which could lead to greater access to biosimilars for patients and reduce treatment costs."
     },
     {
       "doi": "10.1001/jama.2026.1183",
@@ -2278,6 +2278,27 @@
       "abstract_md": "This Medical News article discusses a new joint statement from the American College of Cardiology, the American Heart Association, the European Society of Cardiology, and the World Heart Federation addressing the role of environmental risk factors in cardiovascular disease."
     },
     {
+      "doi": "10.1001/jama.2025.26394",
+      "url": "https://doi.org/10.1001/jama.2025.26394",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845184",
+      "article_type": "",
+      "pubmed_pmid": "41686470",
+      "title": "US Completes Withdrawal From the WHO.",
+      "journal": "JAMA",
+      "pubdate": "2026 Mar 10",
+      "volume": "335",
+      "issue": "10",
+      "pages": "841",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
       "doi": "10.1001/jama.2025.25542",
       "url": "https://doi.org/10.1001/jama.2025.25542",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845043",
@@ -2293,27 +2314,6 @@
         "Saugel B Author",
         "Meidert AS Author",
         "Kouz K Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
-      "doi": "10.1001/jama.2025.26394",
-      "url": "https://doi.org/10.1001/jama.2025.26394",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845184",
-      "article_type": "",
-      "pubmed_pmid": "41686470",
-      "title": "US Completes Withdrawal From the WHO.",
-      "journal": "JAMA",
-      "pubdate": "2026 Mar 10",
-      "volume": "335",
-      "issue": "10",
-      "pages": "841",
-      "authors": [
-        "Anderer S Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
@@ -3189,19 +3189,15 @@
       "url": "https://doi.org/10.1001/jama.2025.26400",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845500",
       "article_type": "",
-      "pubmed_pmid": "41719049",
-      "title": "Thyroidectomy Safe for Older Adults Despite Higher Risks.",
-      "journal": "JAMA",
-      "pubdate": "2026 Mar 17",
-      "volume": "335",
-      "issue": "11",
-      "pages": "931",
-      "authors": [
-        "Anderer S Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
+      "pubmed_pmid": "",
+      "title": "",
+      "journal": "",
+      "pubdate": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "authors": [],
+      "pubmed_pubtypes": [],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
@@ -3788,27 +3784,6 @@
       "abstract_md": "The effect of wrist-strap physical restraints on outcomes in patients receiving mechanical ventilation in the intensive care unit (ICU) remains uncertain. To investigate the effect of a low-use wrist-strap physical restraint strategy in critically ill patients receiving invasive mechanical ventilation. Open-label randomized clinical trial conducted across 10 ICUs in France. Between January 5, 2021, and January 2, 2024, 405 adult patients who had initiated invasive mechanical ventilation within the previous 6 hours and were expected to require ventilation for at least 48 hours were enrolled. Follow-up was completed on May 17, 2024. Statistical analysis was conducted from June 1, 2025, to December 15, 2025. Patients were randomized to undergo either a restrictive, low-use physical restraint strategy (wrist straps avoided unless necessary because of severe agitation, defined as a Richmond Agitation-Sedation Scale score of &#x2265;3 [on a scale from -5 (unresponsive) to 4 (combative)]; n&#x2009;=&#x2009;201) or a liberal, high-use strategy (wrist straps applied systematically and reassessed daily; n&#x2009;=&#x2009;204). Discontinuation of restraints was allowed in patients who were awake or extubated without delirium (measured via the Confusion Assessment Method for the ICU). The primary outcome was the number of days alive without coma or delirium during the first 14 days after randomization. Secondary outcomes included incidence of self-extubation and day-90 mortality. Among 396 patients with available primary outcome data, the median (IQR) age was 65 (56-73) years, 245 (62%) were male, and the median (IQR) Sequential Organ Failure Assessment score was 7 (4-10). The mean days alive without coma or delirium were 6.67 days (95% CI, 5.69-7.65) in the low-use strategy group and 6.30 days (95% CI, 5.35-7.24) in the high-use strategy group (adjusted mean difference, 0.37 days [95% CI, -0.71 to 1.46]; P&#x2009;=&#x2009;.51). Self-extubation occurred in 18 patients (9.2%) in the low-use strategy group and 17 (8.5%) in the high-use strategy group, and day-90 mortality was 37.2% and 41.0%, respectively. In this randomized clinical trial, among adult patients receiving mechanical ventilation in the ICU, a low-use wrist-strap physical restraint strategy compared with a high-use strategy did not reduce days free of delirium or coma at 14 days. ClinicalTrials.gov Identifier: NCT04273360."
     },
     {
-      "doi": "10.1001/jama.2025.26173",
-      "url": "https://doi.org/10.1001/jama.2025.26173",
-      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845232",
-      "article_type": "",
-      "pubmed_pmid": "41697672",
-      "title": "Personalized Hemodynamic Resuscitation in Early Septic Shock.",
-      "journal": "JAMA",
-      "pubdate": "2026 Mar 17",
-      "volume": "335",
-      "issue": "11",
-      "pages": "1008-1009",
-      "authors": [
-        "Bosch NA Author"
-      ],
-      "pubmed_pubtypes": [
-        "Journal Article"
-      ],
-      "pubmed_is_research": false,
-      "abstract_md": ""
-    },
-    {
       "doi": "10.1001/jama.2025.26398",
       "url": "https://doi.org/10.1001/jama.2025.26398",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845502",
@@ -3822,6 +3797,27 @@
       "pages": "930",
       "authors": [
         "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
+      "pubmed_is_research": false,
+      "abstract_md": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.26173",
+      "url": "https://doi.org/10.1001/jama.2025.26173",
+      "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845232",
+      "article_type": "",
+      "pubmed_pmid": "41697672",
+      "title": "Personalized Hemodynamic Resuscitation in Early Septic Shock.",
+      "journal": "JAMA",
+      "pubdate": "2026 Mar 17",
+      "volume": "335",
+      "issue": "11",
+      "pages": "1008-1009",
+      "authors": [
+        "Bosch NA Author"
       ],
       "pubmed_pubtypes": [
         "Journal Article"
