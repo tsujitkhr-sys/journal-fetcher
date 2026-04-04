@@ -3189,15 +3189,19 @@
       "url": "https://doi.org/10.1001/jama.2025.26400",
       "final_url": "https://jamanetwork.com/journals/jama/fullarticle/2845500",
       "article_type": "",
-      "pubmed_pmid": "",
-      "title": "",
-      "journal": "",
-      "pubdate": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "authors": [],
-      "pubmed_pubtypes": [],
+      "pubmed_pmid": "41719049",
+      "title": "Thyroidectomy Safe for Older Adults Despite Higher Risks.",
+      "journal": "JAMA",
+      "pubdate": "2026 Mar 17",
+      "volume": "335",
+      "issue": "11",
+      "pages": "931",
+      "authors": [
+        "Anderer S Author"
+      ],
+      "pubmed_pubtypes": [
+        "Journal Article"
+      ],
       "pubmed_is_research": false,
       "abstract_md": ""
     },
